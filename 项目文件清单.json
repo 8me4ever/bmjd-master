@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-29",
+  "baseline_version": "BMJD-ALL-20261029",
+  "purpose": "Only files required to continue the current master and JD project; historical archive excluded.",
+  "tracked_file_count": 61,
+  "total_bytes_excluding_manifest": 164383782,
+  "exclusions": [
+    "历史归档/",
+    ".claude/",
+    ".impeccable/",
+    "缓存、node_modules、重复ZIP",
+    "重复只读提取、可再生成的分册、旧HTML及补充参考"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 22,
+      "sha256": "dfd06a84c8fdb88ded12b9202dd5c5e64eabc2d09f0774676931efe1a3cf07b1",
+      "git_blob_sha1": "b6e768ca595c2a315d9d8b15a07cf393d8d37858"
+    },
+    ".gitignore": {
+      "bytes": 3693,
+      "sha256": "e46672c5165140dfa620013795c172125541e29d89f180ce16a4e22ec3bd57a8",
+      "git_blob_sha1": "59fca326e54ad9edcc5ad10c3e08f5f999451636"
+    },
+    "JD编写_20261029/build_jd.py": {
+      "bytes": 31082,
+      "sha256": "4842981b8b08dfe371ef64903e79ae857cdad285ab06a99f0efea6992475f135",
+      "git_blob_sha1": "3977234ae2138899a630b01ffbc9a1936bb7aec9"
+    },
+    "JD编写_20261029/make_markdown.py": {
+      "bytes": 2679,
+      "sha256": "cb5c76a178b5aecff77b1dd4488419a397e2d40a646d90e7bf35a96de826242f",
+      "git_blob_sha1": "6c84a6a556219d7a30420523b145c36359c0a9cb"
+    },
+    "JD编写_20261029/name_check.py": {
+      "bytes": 12810,
+      "sha256": "5410a29fc61e7abba52623ba132557a448f303563903ee0ed21556fc07003aac",
+      "git_blob_sha1": "07518709aa63babf3239e1d066b1468e3b4bbb34"
+    },
+    "JD编写_20261029/out/JD回传_常规岗.json": {
+      "bytes": 16735508,
+      "sha256": "0ca0cfaf866a76a8cbbfd33cbf8663b642ccedefc6b974de8fd15dc7fc62d1c7",
+      "git_blob_sha1": "c203d7b3e8e0a68c8afbc2967fa4853a374c9da1"
+    },
+    "JD编写_20261029/out/JD阅读版_常规岗.md": {
+      "bytes": 3816484,
+      "sha256": "de9937dbb7bf424c91dcd7b9ecd33997946fbbe1c9c54f7974cb9a3f2b7870b9",
+      "git_blob_sha1": "d6524fc69d5d7a96a84f7245f6a086bca369d89d"
+    },
+    "JD编写_20261029/out/validation_errors.json": {
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "git_blob_sha1": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    "JD编写_20261029/schema_check.py": {
+      "bytes": 1826,
+      "sha256": "462f4fedb6e95dbf50b839a9155a665a22c1cbaa17410d8cde358071d3a974eb",
+      "git_blob_sha1": "901dbb1127772bb7246c9e3d0abf58c07c17b4d7"
+    },
+    "JD编写_20261029/交付说明_常规岗.md": {
+      "bytes": 3509,
+      "sha256": "0b3b3686a873e97e884b6da2fb1031204308f7d5dfca0acc4dcdf417a9bd16ac",
+      "git_blob_sha1": "876071edfe3b56261b291e852572d7319db96d5f"
+    },
+    "README.md": {
+      "bytes": 3411,
+      "sha256": "c38a58ebe5157d646d5e58d35eaadb07a00aafae0bfe4e7ec1e8762fc6307aac",
+      "git_blob_sha1": "ed8ac810b310d2184847845326ce70187df6b8ff"
+    },
+    "tools/project_files.py": {
+      "bytes": 8248,
+      "sha256": "922e205e19fff0126996d835499f0b0305904c1e9617f78556fe0d760116f401",
+      "git_blob_sha1": "483f808aadab312a1fb8e6b09834a6c7ed1348ed"
+    },
+    "全库统一完成_20261029/C3工作码至统一码映射.csv": {
+      "bytes": 737048,
+      "sha256": "4bfea996b65fc922e8ed014e0cb66625b4f411e234cfd7c6c5329d3d5c886c72",
+      "git_blob_sha1": "849085fb273667b811fa18672fe4de03f3805838"
+    },
+    "全库统一完成_20261029/全来源新旧码映射.csv": {
+      "bytes": 3324808,
+      "sha256": "52757995bfa5856a391ca5277f4a01627a1a2ebba49fcb1a8685c6d293304484",
+      "git_blob_sha1": "3b0634ac2d291b0e68634ae85977ec0feec4c475"
+    },
+    "全库统一完成_20261029/岗位JD及条款依据.json": {
+      "bytes": 15426957,
+      "sha256": "585ae502a9537d82da4c816e99b0b33e0085c490054734f29a6cd2c4cea4d011",
+      "git_blob_sha1": "1ea29735e4a4520ee3d70c609ee051793388b21e"
+    },
+    "全库统一完成_20261029/岗位归并记录.json": {
+      "bytes": 34286,
+      "sha256": "aab69166fae188105019b95bdb2d0f59941746a1639d7825b228fde85b47051c",
+      "git_blob_sha1": "ba43764608923f9d73e2459ef479f476703b45f1"
+    },
+    "全库统一完成_20261029/推定与层级修正记录.json": {
+      "bytes": 1221234,
+      "sha256": "00d58c51a64b4abb3072e81d56e70bdc1350aebbcf651640e29a015aef243534",
+      "git_blob_sha1": "23e6d3c316ff0a48376efc87bb7d3ae43b83322e"
+    },
+    "全库统一完成_20261029/源级分流记录.json": {
+      "bytes": 16492,
+      "sha256": "9cd99c4f851c675a06f63346e12e3c09a45c1ea3646607bcf8429b7b7d28f826",
+      "git_blob_sha1": "07503e676b2af4c17c1f0cdea8eea7f207403363"
+    },
+    "全库统一完成_20261029/统一主库.json": {
+      "bytes": 51961637,
+      "sha256": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+      "git_blob_sha1": "86a52f57f5801d0226e90fcf3a041a047805a461"
+    },
+    "全库统一完成_20261029/统计.json": {
+      "bytes": 794,
+      "sha256": "ac93527f26dc0a2b7fd215244bbc873a93abaa2e3d964415c00785f166234b0e",
+      "git_blob_sha1": "2dfd2cebe2c1e7a2a97e2da1e704ea063622fb3a"
+    },
+    "全库统一完成_20261029/规范职能字典.json": {
+      "bytes": 3940129,
+      "sha256": "b9b7747cb7fbdae3823aa826f6dae095aaa527c0f3163c106c7875631ffd548e",
+      "git_blob_sha1": "24316daed10b5641ab3cff15283ce90c097cea5d"
+    },
+    "全库统一完成_20261029/输入指纹.json": {
+      "bytes": 717,
+      "sha256": "7a345d854f85e93045865fb3ea18506e54ed7c6fd4fc69a30cb235c6ab8cebb6",
+      "git_blob_sha1": "4d8b910e7583ac45ffe0d60607195edd3acada52"
+    },
+    "全库统一完成_20261029/验收报告.json": {
+      "bytes": 6465,
+      "sha256": "9e463575b7c380186c05fc790f9f3c671d24733d372feb3458f5bf45fc47ae1e",
+      "git_blob_sha1": "6777c5db11e115409fc6bcc71a7e04c3e2118f2b"
+    },
+    "原始资料/README.md": {
+      "bytes": 759,
+      "sha256": "5cf67137d65ff6c14d6a73d2f27d5461ad3762fcc7d1e5a8c9b61ce873f93862",
+      "git_blob_sha1": "7dddff81f2fd97514f7468d1872f9c7b57db2feb"
+    },
+    "原始资料/原版BMJD/2025BMJD-传媒.xlsx": {
+      "bytes": 340204,
+      "sha256": "c1d52343667b774e5dafb4b0cfc0b543bd4cdbea1888c9d91fc410b623a33df0",
+      "git_blob_sha1": "d29956af1c32dfe8236f474108c1228357be945b"
+    },
+    "原始资料/原版BMJD/2025BMJD-制造.xlsx": {
+      "bytes": 415909,
+      "sha256": "75005dc0caae40d0a28f09a673510160b28b42084a918697cd02e4b8cd652e4e",
+      "git_blob_sha1": "77b53518d7d451dafbede7c52886d20f39ce6bb5"
+    },
+    "原始资料/原版BMJD/2025BMJD-医药.xlsx": {
+      "bytes": 679123,
+      "sha256": "3f77b3d6c01539b99d244819ff4a1db3bbe24c15ea518dd6c20b10e1bc566e9b",
+      "git_blob_sha1": "843307b5ebeac3c294dbc3f3e3d792ee8cebb17a"
+    },
+    "原始资料/原版BMJD/2025BMJD-地产.xlsx": {
+      "bytes": 576302,
+      "sha256": "9bde01e82239792acc0322b5ff5654e457f500370c15b94a2702f26807af7549",
+      "git_blob_sha1": "ae8ba1d6a3aa33c420a8a52eb3ed0fc2090d37b0"
+    },
+    "原始资料/原版BMJD/2025BMJD-教育.xlsx": {
+      "bytes": 313964,
+      "sha256": "2ea3bcb9b683d4f5c110513f7c217fa5b20eed7abfba320473155ad1fb1f3285",
+      "git_blob_sha1": "807ab9e15879249639970f3b9cf21f4db1704ea4"
+    },
+    "原始资料/原版BMJD/2025BMJD-消费品.xlsx": {
+      "bytes": 497133,
+      "sha256": "5af9439a496dc21e784d6cc6f02332ea23bd634d51e7ba94025a42210539ff04",
+      "git_blob_sha1": "049a4af622c918783d51c6bce96158e9cce2beb4"
+    },
+    "原始资料/原版BMJD/2025BMJD-物流.xlsx": {
+      "bytes": 334258,
+      "sha256": "56a25f81cc9a092af7a1b40e950988ce630d5befef1cdb251214714d04a97e1c",
+      "git_blob_sha1": "02dc9b957f3e3e63f39f35595875f67cda52658f"
+    },
+    "原始资料/原版BMJD/2025BMJD-综合服务.xlsx": {
+      "bytes": 272933,
+      "sha256": "dbb449b47e791e5a193f77732969cdfe9e08d4749388ecc8697b2edb95b3e514",
+      "git_blob_sha1": "f25c2b5b9b3bde5ecc01b7ddfa60b1015215f75b"
+    },
+    "原始资料/原版BMJD/2025BMJD-能源化工.xlsx": {
+      "bytes": 789382,
+      "sha256": "e65d65119ad8c8965d70d0a45878fc50c7f402910cb073b3e2217c1be088ee7a",
+      "git_blob_sha1": "4155a5f039e450fee4ca1dd8fb8aafafb4f609c2"
+    },
+    "原始资料/原版BMJD/2025BMJD-金融.xlsx": {
+      "bytes": 375848,
+      "sha256": "203323fa07c05a1a2f862ec5d4c657aa8f57d66f44d57ab0176981c8f458faa6",
+      "git_blob_sha1": "bf8165201a364015833098a5c5fb9fed85503048"
+    },
+    "原始资料/原版BMJD/2025BMJD-高科技.xlsx": {
+      "bytes": 595466,
+      "sha256": "3c0582b5743e9a3026330126b44fd82ba6d5edc13a02bdb067cedc30bb84f279",
+      "git_blob_sha1": "b05d5ff480b1dd698c9f9973ef8e4f4aff1c2216"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-传媒.xlsx": {
+      "bytes": 361554,
+      "sha256": "18d871ab97bc6199bd6bb695a8c1828a73b876787f952e0068de13cbc8c5ddbb",
+      "git_blob_sha1": "ea38fbc5e355456189dc47c0502772ec5a4e82ac"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx": {
+      "bytes": 435434,
+      "sha256": "3f2ebe1d3dfc5e40c8a52bba2d4d849c1333f216921893c0c5a039fbc7d3d0f5",
+      "git_blob_sha1": "ebb395c8d3d5f932235651b930ab6223a6a1e416"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-医药.xlsx": {
+      "bytes": 701516,
+      "sha256": "7cd68f10114f21a5f0caa482421470ca124760735c065ecd7a1dc9444bddc426",
+      "git_blob_sha1": "232cc78bb20a2c5a07e98cd01ae21dc048a7066a"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx": {
+      "bytes": 645869,
+      "sha256": "581ac14df41df14c0b9c9bfc4be4e7875db7e15e07171d8e37dead0e7cd86e3f",
+      "git_blob_sha1": "6bbb4a06d40fb58b33dedf27e1fea5a119668577"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx": {
+      "bytes": 331413,
+      "sha256": "b61b0342452fd10252f6df6b30000b1c3f3ce7477fa7a9e7f8b33ff85673e41b",
+      "git_blob_sha1": "27dd85a85405b7ed032ddbb9ebd3ef5144bdb2c2"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx": {
+      "bytes": 531608,
+      "sha256": "cbebf07038bd13ab58f1515a3c657d405c427826760329cf6ebea85eef982ec8",
+      "git_blob_sha1": "81aa9e4cd349abf115f6d598bbc7b88c3b0995be"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-物流.xlsx": {
+      "bytes": 363804,
+      "sha256": "1ba14cc176bda8413e9488d9fdc61cecaf4b6662788f6765a7bdeefe0a80ee02",
+      "git_blob_sha1": "f2bc7b1871f7375a723b9564b8f804e8dd7ebfa4"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-综合服务.xlsx": {
+      "bytes": 284093,
+      "sha256": "b1c3b30631071f2882a0f45f34e20b666f43c8f6f09bf92185ba73f4d68d388a",
+      "git_blob_sha1": "e481296bcf14266c238ba5e87b5f06a780f5b0b1"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx": {
+      "bytes": 1024948,
+      "sha256": "84fa40c03fb7f25234e5b73599be656615c90e6f0e41acca9b368a1c132741ab",
+      "git_blob_sha1": "f0c94375880500148ce5cb3a43d37847ac550ee3"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-金融.xlsx": {
+      "bytes": 483722,
+      "sha256": "e44edaacfa208e2ebfd865a1d25f2896592c5fb3518798fc0adaa815fafaadb8",
+      "git_blob_sha1": "f4669e0d21b530bc391c0d47fe71f74744c0bc0b"
+    },
+    "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx": {
+      "bytes": 665453,
+      "sha256": "0999e59efbbda9a0bf936999055626310794bd969804277131339438ddb15be9",
+      "git_blob_sha1": "ca3684a8e937aeda31d544e8a0db215d4285b535"
+    },
+    "原始资料/结构化依据/原BMJD职能基线.json": {
+      "bytes": 4311479,
+      "sha256": "109e4d402bfc87d5248ae00817164dd164ba6a360f76d4eeeb33be6db09577bd",
+      "git_blob_sha1": "40a63663acd7052e00c4fd2c89758684fba073fe"
+    },
+    "双线协作交接_20261029/00_当前进度与分工交接.md": {
+      "bytes": 7639,
+      "sha256": "639e1b2f53e445ee436b9d274959198f2baa95cd07e3767add37248f7f5cc7a0",
+      "git_blob_sha1": "57755c3d1e98955ee85e7b7d19156e3aec86482a"
+    },
+    "双线协作交接_20261029/01_朋友_JD编写说明.md": {
+      "bytes": 5611,
+      "sha256": "5b1e5be48f131ad042f86d45756145956eefa000650a8245cd322f22e1863fe5",
+      "git_blob_sha1": "50737fbcf2c477d27234b93a3fc6aaccf13177d2"
+    },
+    "双线协作交接_20261029/02_Codex_主库与推定整理说明.md": {
+      "bytes": 5634,
+      "sha256": "6b69f431b3931ba47ba915d7651e2ada1f57fc023b4cece5041a23bb97e348b2",
+      "git_blob_sha1": "ba545dae3a8e84be0c3c03d2253d353eedb42e85"
+    },
+    "双线协作交接_20261029/JD原文证据.json": {
+      "bytes": 14002637,
+      "sha256": "5541f68e1e97f2145dedb78354c348a20f6ada18e4b88f2d438c7d81afdb3279",
+      "git_blob_sha1": "588a6179deb25e200cca85545ddc835f3cbfd552"
+    },
+    "双线协作交接_20261029/JD回传格式.schema.json": {
+      "bytes": 4929,
+      "sha256": "821b3662d94bd74fa32777dd88aba4a756565c197d6e622084aefe60d12601b7",
+      "git_blob_sha1": "10304cb60204ed1caffdad6bc362806f9ea996d5"
+    },
+    "双线协作交接_20261029/JD回传模板.json": {
+      "bytes": 939,
+      "sha256": "202d9f0bccfce23ea899697c1c29f4cbed04fd7773798e85fbcebe9df68d0488",
+      "git_blob_sha1": "1513e1de09cad3914e7e8b7550da2f21bd0fed18"
+    },
+    "双线协作交接_20261029/JD编写输入.json": {
+      "bytes": 27263006,
+      "sha256": "048a70dca2176dfb567a4b750554f068d45b6c6f0667419d8ce832999b88a4ef",
+      "git_blob_sha1": "7858bfbe3b5ef3dd39e7e8522a372869160a9333"
+    },
+    "双线协作交接_20261029/主库变更回传模板.json": {
+      "bytes": 960,
+      "sha256": "280a97999a6b8c1f7020036fcf1731393086c1f07661479c9c3d153c1f0ca8ba",
+      "git_blob_sha1": "00c9f27d32132178d4e0944b18348b7053231dcf"
+    },
+    "双线协作交接_20261029/主库推定整理输入.json": {
+      "bytes": 3592446,
+      "sha256": "6f74fbab40ee4ab6e715315249e2de46750a3a23313a02d30e800fbb3b28c400",
+      "git_blob_sha1": "62d712d49354c93791aa628ccdfe6c650b589072"
+    },
+    "双线协作交接_20261029/交接包清单与核验.json": {
+      "bytes": 3294,
+      "sha256": "ce7ced1f7d905118fbc8a29f1f6340d2a245f5c177ecfad9745aa2df3837b122",
+      "git_blob_sha1": "b26e9798bde24312d9e3a7ba7db6636f8aaeb504"
+    },
+    "统一收口_20261029/岗位职责原文.json": {
+      "bytes": 6870198,
+      "sha256": "48c94f27d707ff33a6dba6f0cd3bbe6be1ebb953ebdfb648e9c9f6c3cc506764",
+      "git_blob_sha1": "61cd1ea77435e67d44c167546b3d5857cf8ea4fc"
+    },
+    "项目交接文档_20261029.md": {
+      "bytes": 2779,
+      "sha256": "d88b2343ab51e89e86ab528bf17fff3ef90bc763e103e79d4027772438b1cdbb",
+      "git_blob_sha1": "132b0b41d6e1cb9cde31e6bc4b0980f3282c83de"
+    },
+    "项目目标与验收标准.md": {
+      "bytes": 1695,
+      "sha256": "9a03a626734a16595ebf1877c6ad134c1d516f01bf70c7222a917864d4e79f5e",
+      "git_blob_sha1": "c6cc9edf14edd05571e89e997ac24fdddb20c13e"
+    }
+  }
+}

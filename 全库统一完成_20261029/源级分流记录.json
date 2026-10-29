@@ -1,0 +1,603 @@
+[
+  {
+    "from_job": "UJ-E2C79823B41B03",
+    "to_job": "UJ-E2C79823B41B03",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "source_ids": [
+      "SRC-制造-1566",
+      "SRC-能源化工-1301",
+      "SRC-高科技-1779"
+    ],
+    "basis": "生产/工程机械设备维护"
+  },
+  {
+    "from_job": "UJ-E2C79823B41B03",
+    "to_job": "UJ-ALL-12813D514361F7",
+    "function": "行政",
+    "series": "电气维修作业(电)",
+    "source_ids": [
+      "SRC-消费品-1182"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-73CF677C198F1B",
+    "to_job": "UJ-73CF677C198F1B",
+    "function": "设备工程",
+    "series": "设备资产管理",
+    "source_ids": [
+      "SRC-传媒-0290",
+      "SRC-制造-0349",
+      "SRC-制造-1804",
+      "SRC-医药-0284",
+      "SRC-地产-0391",
+      "SRC-消费品-0311",
+      "SRC-消费品-1071",
+      "SRC-消费品-1350",
+      "SRC-物流-0940",
+      "SRC-综合服务-0292",
+      "SRC-能源化工-0289",
+      "SRC-金融-0367",
+      "SRC-高科技-0314",
+      "SRC-高科技-1767",
+      "SRC-高科技-1840"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-73CF677C198F1B",
+    "to_job": "UJ-ALL-A09C923B144942",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "source_ids": [
+      "SRC-能源化工-1475"
+    ],
+    "basis": "生产/工程机械设备维护"
+  },
+  {
+    "from_job": "UJ-634B8E14DD2889",
+    "to_job": "UJ-634B8E14DD2889",
+    "function": "行政",
+    "series": "物业工程维修",
+    "source_ids": [
+      "SRC-传媒-0321",
+      "SRC-制造-0382",
+      "SRC-地产-1865",
+      "SRC-消费品-0259",
+      "SRC-物流-0105",
+      "SRC-综合服务-0330",
+      "SRC-能源化工-0299",
+      "SRC-金融-0401",
+      "SRC-高科技-0348"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-634B8E14DD2889",
+    "to_job": "UJ-ALL-A878996D55C101",
+    "function": "物业工程",
+    "series": "电梯运行维护",
+    "source_ids": [
+      "SRC-地产-1953"
+    ],
+    "basis": "楼宇物业设施维护"
+  },
+  {
+    "from_job": "UJ-A942C3B94131E6",
+    "to_job": "UJ-A942C3B94131E6",
+    "function": "行政",
+    "series": "物业工程维修",
+    "source_ids": [
+      "SRC-传媒-0322",
+      "SRC-制造-0383",
+      "SRC-地产-1866",
+      "SRC-消费品-0260",
+      "SRC-物流-0106",
+      "SRC-综合服务-0331",
+      "SRC-能源化工-0300",
+      "SRC-金融-0402",
+      "SRC-高科技-0349"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-A942C3B94131E6",
+    "to_job": "UJ-ALL-FD2AD8AC835C1A",
+    "function": "物业工程",
+    "series": "电梯运行维护",
+    "source_ids": [
+      "SRC-地产-1954",
+      "SRC-综合服务-0998"
+    ],
+    "basis": "楼宇物业设施维护"
+  },
+  {
+    "from_job": "UJ-649ED110BD81DC",
+    "to_job": "UJ-649ED110BD81DC",
+    "function": "仓储",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-能源化工-0882"
+    ],
+    "basis": "实物收发盘点与仓储对象"
+  },
+  {
+    "from_job": "UJ-649ED110BD81DC",
+    "to_job": "UJ-ALL-59011DB300DC33",
+    "function": "物流管理",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-物流-0596"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-E2E794110BAD36",
+    "to_job": "UJ-E2E794110BAD36",
+    "function": "物流管理",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-传媒-0859",
+      "SRC-制造-1022",
+      "SRC-地产-1028",
+      "SRC-消费品-0808",
+      "SRC-物流-0597",
+      "SRC-综合服务-0783",
+      "SRC-能源化工-0883",
+      "SRC-高科技-0878"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-E2E794110BAD36",
+    "to_job": "UJ-ALL-E88B4AF6D5B773",
+    "function": "仓储",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-医药-1295",
+      "SRC-教育-0502"
+    ],
+    "basis": "实物收发盘点与仓储对象"
+  },
+  {
+    "from_job": "UJ-EB8E1AB05FDF7F",
+    "to_job": "UJ-EB8E1AB05FDF7F",
+    "function": "物流管理",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-传媒-0860",
+      "SRC-制造-1023",
+      "SRC-地产-1029",
+      "SRC-消费品-0809",
+      "SRC-物流-0598",
+      "SRC-综合服务-0784",
+      "SRC-能源化工-0884",
+      "SRC-高科技-0879"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-EB8E1AB05FDF7F",
+    "to_job": "UJ-ALL-9247CDFE56F263",
+    "function": "仓储",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-医药-1296",
+      "SRC-教育-0505"
+    ],
+    "basis": "实物收发盘点与仓储对象"
+  },
+  {
+    "from_job": "UJ-113EE1845AFBC8",
+    "to_job": "UJ-113EE1845AFBC8",
+    "function": "物流管理",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-传媒-0862",
+      "SRC-制造-1025",
+      "SRC-地产-1031",
+      "SRC-消费品-0811",
+      "SRC-物流-0600",
+      "SRC-综合服务-0786",
+      "SRC-能源化工-0886",
+      "SRC-高科技-0881"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-113EE1845AFBC8",
+    "to_job": "UJ-ALL-48EA7180CB7741",
+    "function": "仓储",
+    "series": "仓储管理",
+    "source_ids": [
+      "SRC-医药-1298",
+      "SRC-教育-0511"
+    ],
+    "basis": "实物收发盘点与仓储对象"
+  },
+  {
+    "from_job": "UJ-3DF55145F468A9",
+    "to_job": "UJ-3DF55145F468A9",
+    "function": "营销策划",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-传媒-1283",
+      "SRC-制造-2017",
+      "SRC-物流-0839",
+      "SRC-高科技-2476"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-3DF55145F468A9",
+    "to_job": "UJ-ALL-CDF4660FA16785",
+    "function": "市场",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-金融-1363"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-C3E67073391319",
+    "to_job": "UJ-C3E67073391319",
+    "function": "营销策划",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-传媒-1284",
+      "SRC-制造-2018",
+      "SRC-物流-0840",
+      "SRC-高科技-2477"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-C3E67073391319",
+    "to_job": "UJ-ALL-20BA4F8FFC0A3A",
+    "function": "市场",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-金融-1364"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-B6DD1530D71385",
+    "to_job": "UJ-B6DD1530D71385",
+    "function": "营销策划",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-传媒-1285",
+      "SRC-制造-2019",
+      "SRC-物流-0841",
+      "SRC-高科技-2478"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-B6DD1530D71385",
+    "to_job": "UJ-ALL-75B5DFAEE46791",
+    "function": "市场",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-金融-1365"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-3513F972699E21",
+    "to_job": "UJ-3513F972699E21",
+    "function": "营销策划",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-传媒-1286",
+      "SRC-传媒-1302",
+      "SRC-制造-2020",
+      "SRC-物流-0842",
+      "SRC-高科技-2479"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-3513F972699E21",
+    "to_job": "UJ-ALL-C01FD6C1EEAC19",
+    "function": "市场",
+    "series": "KOL运营",
+    "source_ids": [
+      "SRC-金融-1366"
+    ],
+    "basis": "原类型为空，采用原职能域及岗位细分"
+  },
+  {
+    "from_job": "UJ-CA587556D664DE",
+    "to_job": "UJ-CA587556D664DE",
+    "function": "软件开发",
+    "series": "通用软件开发",
+    "source_ids": [
+      "SRC-医药-0829",
+      "SRC-教育-0534",
+      "SRC-消费品-0876",
+      "SRC-综合服务-0919",
+      "SRC-高科技-0929"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-CA587556D664DE",
+    "to_job": "UJ-ALL-9BA3A73731E9F5",
+    "function": "研发",
+    "series": "通用研发",
+    "source_ids": [
+      "SRC-传媒-1163",
+      "SRC-制造-1105",
+      "SRC-地产-2164",
+      "SRC-能源化工-1118"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-4369EE34B596B7",
+    "to_job": "UJ-4369EE34B596B7",
+    "function": "研发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-医药-0489",
+      "SRC-消费品-0898",
+      "SRC-高科技-0954"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-4369EE34B596B7",
+    "to_job": "UJ-ALL-FF671ED4B38D17",
+    "function": "软件开发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-制造-1328",
+      "SRC-教育-0570"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-1E7EEEAA91D6B3",
+    "to_job": "UJ-1E7EEEAA91D6B3",
+    "function": "软件开发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-医药-0490",
+      "SRC-消费品-0899",
+      "SRC-高科技-0955"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-1E7EEEAA91D6B3",
+    "to_job": "UJ-ALL-03A1A8B8E5059B",
+    "function": "研发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-制造-1329",
+      "SRC-教育-0572"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-0FE7BC2BFD7606",
+    "to_job": "UJ-0FE7BC2BFD7606",
+    "function": "研发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-制造-1330",
+      "SRC-医药-0491",
+      "SRC-消费品-0900",
+      "SRC-高科技-0956"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-0FE7BC2BFD7606",
+    "to_job": "UJ-ALL-731C6A1C8AD743",
+    "function": "软件开发",
+    "series": "算法",
+    "source_ids": [
+      "SRC-教育-0574"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-A00C12CC7BE6DF",
+    "to_job": "UJ-A00C12CC7BE6DF",
+    "function": "软件开发",
+    "series": "嵌入式开发",
+    "source_ids": [
+      "SRC-制造-1380",
+      "SRC-高科技-1427"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-A00C12CC7BE6DF",
+    "to_job": "UJ-ALL-E4B7FD3B1DC04E",
+    "function": "研发",
+    "series": "嵌入式开发",
+    "source_ids": [
+      "SRC-能源化工-1042"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-6DE57C2AA57129",
+    "to_job": "UJ-6DE57C2AA57129",
+    "function": "研发",
+    "series": "GPS",
+    "source_ids": [
+      "SRC-教育-0754"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-6DE57C2AA57129",
+    "to_job": "UJ-ALL-4A30A0FD3BF351",
+    "function": "软件开发",
+    "series": "GPS",
+    "source_ids": [
+      "SRC-高科技-1143"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-828166ACCCFC2F",
+    "to_job": "UJ-828166ACCCFC2F",
+    "function": "研发",
+    "series": "应用网络",
+    "source_ids": [
+      "SRC-高科技-1174"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-828166ACCCFC2F",
+    "to_job": "UJ-ALL-04833689CFB3F2",
+    "function": "软件开发",
+    "series": "应用网络",
+    "source_ids": [
+      "SRC-教育-0796"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-36680E1E40774D",
+    "to_job": "UJ-36680E1E40774D",
+    "function": "研发",
+    "series": "软件及系统集成",
+    "source_ids": [
+      "SRC-高科技-2457"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-36680E1E40774D",
+    "to_job": "UJ-ALL-C177C94CB8AAD0",
+    "function": "软件开发",
+    "series": "软件及系统集成",
+    "source_ids": [
+      "SRC-高科技-2456"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-38090F65D7737E",
+    "to_job": "UJ-38090F65D7737E",
+    "function": "研发",
+    "series": "构架设计",
+    "source_ids": [
+      "SRC-医药-0461",
+      "SRC-地产-2166",
+      "SRC-教育-0546",
+      "SRC-消费品-0886",
+      "SRC-综合服务-0921",
+      "SRC-高科技-0941"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-38090F65D7737E",
+    "to_job": "UJ-ALL-E6AC15B816AC1D",
+    "function": "软件开发",
+    "series": "构架设计",
+    "source_ids": [
+      "SRC-制造-1362"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-7F68FA24A26523",
+    "to_job": "UJ-7F68FA24A26523",
+    "function": "研发",
+    "series": "图像处理",
+    "source_ids": [
+      "SRC-制造-1375",
+      "SRC-教育-0576"
+    ],
+    "basis": "原文为通用管理/辅助条款，采用原类型、既有细分及职责族"
+  },
+  {
+    "from_job": "UJ-7F68FA24A26523",
+    "to_job": "UJ-ALL-29AFC6EA5B7510",
+    "function": "软件开发",
+    "series": "图像处理",
+    "source_ids": [
+      "SRC-高科技-0965"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-6C51B0CAB1F78F",
+    "to_job": "UJ-6C51B0CAB1F78F",
+    "function": "研发",
+    "series": "图像处理",
+    "source_ids": [
+      "SRC-制造-1376",
+      "SRC-教育-0578"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-6C51B0CAB1F78F",
+    "to_job": "UJ-ALL-72B2402DBCA290",
+    "function": "软件开发",
+    "series": "图像处理",
+    "source_ids": [
+      "SRC-高科技-0966"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-68DCF1457F6BA7",
+    "to_job": "UJ-68DCF1457F6BA7",
+    "function": "软件开发",
+    "series": "软件测试",
+    "source_ids": [
+      "SRC-传媒-1194",
+      "SRC-地产-0546",
+      "SRC-能源化工-1748"
+    ],
+    "basis": "明确软件/代码技术交付"
+  },
+  {
+    "from_job": "UJ-68DCF1457F6BA7",
+    "to_job": "UJ-ALL-146C7182548561",
+    "function": "测试",
+    "series": "软件测试",
+    "source_ids": [
+      "SRC-消费品-1018"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-A55C90E4F80BAE",
+    "to_job": "UJ-A55C90E4F80BAE",
+    "function": "信息技术",
+    "series": "产品技术测试",
+    "source_ids": [
+      "SRC-制造-1432",
+      "SRC-医药-0899",
+      "SRC-消费品-1021",
+      "SRC-能源化工-1751"
+    ],
+    "basis": "原BMJD跨行业职责族统一，旧部门标签不拆岗"
+  },
+  {
+    "from_job": "UJ-A55C90E4F80BAE",
+    "to_job": "UJ-ALL-8867C10E38AE18",
+    "function": "软件开发",
+    "series": "产品技术测试",
+    "source_ids": [
+      "SRC-传媒-1197",
+      "SRC-地产-0549",
+      "SRC-高科技-1581"
+    ],
+    "basis": "明确软件/代码技术交付"
+  }
+]

@@ -1,0 +1,277 @@
+{
+  "version": "BMJD-ALL-20261029",
+  "passed": 48,
+  "total": 48,
+  "all_passed": true,
+  "counts": {
+    "final_jobs": 8932,
+    "functions": 263,
+    "series": 2894,
+    "source_records": 19249,
+    "included_unique_sources": 19226,
+    "user_paused_sources": 23,
+    "unclassified_jobs": 0,
+    "jobs_without_code": 0,
+    "jobs_without_standard_jd": 0,
+    "identity_inference_jobs": 3092,
+    "jd_inference_jobs": 3288,
+    "inferred_jobs": 3561,
+    "code_changes": 5426
+  },
+  "checks": [
+    {
+      "name": "版本与整库状态",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "岗位ID唯一",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "代码唯一",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "全部为合法五位码且末位等于实际层级",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "同职能同系列同层级只有一个身份",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "所有岗位有职能和名称",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "所有岗位有唯一标准JD",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "JD采用编号条款格式",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "没有活动待分类或待编码岗位",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "职能字典ID和名称唯一",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "职能均有范围边界及原版对照",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "系列四位码唯一",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "每个系列的岗位、层级及归属一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "每个两字母段只有一个职能",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "全部研发系列使用R开头段",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "原非研发R段未被新分配覆盖",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "来源总账与原始提取完全同集",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "来源原码原名文件行号及JD指纹未改",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "原JD池每条内容指纹一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "所有来源的原JD仍可查到",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "23条用户暂缓来源原集合完整隔离",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "其余19226条来源全部收录且无缺失",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "普通来源唯一归岗并且总账一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "授权拆分集合、角色及条款保持",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "岗位来源和行业计数一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "所有JD均有逐条依据记录",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "非推定条款均有有效来源",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "推定条款依据明确且无假来源",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "JD和身份推定标记准确",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "原文整理条款去序号后可在引用原JD中找到",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "已编14份JD原样承接",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "全部指定代码名称保持",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "集团总经理保持11行业",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "会务经理为3级会展且错误总监不作别名",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "灯光两岗按授权职责条款分开",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "配货组长4级助理6级",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "VE068异常按授权推定6级并留原码",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "错误历史名未进入正常别名",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "旧身份全部可追溯",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "完成统计独立重算一致",
+      "passed": true,
+      "details": {
+        "final_jobs": 8932,
+        "functions": 263,
+        "series": 2894,
+        "source_records": 19249,
+        "included_unique_sources": 19226,
+        "user_paused_sources": 23,
+        "unclassified_jobs": 0,
+        "jobs_without_code": 0,
+        "jobs_without_standard_jd": 0,
+        "identity_inference_jobs": 3092,
+        "jd_inference_jobs": 3288,
+        "inferred_jobs": 3561,
+        "code_changes": 5426
+      }
+    },
+    {
+      "name": "C1/C2/C3/U4与JD池HTML指纹不变",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "265份原始归档完整且未修改",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "完整岗位CSV与主库内容逐岗一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "全来源CSV无缺失或额外目标",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "所有职能分册已交付",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "分册包含全部岗位且无重复",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "全部分册JD与当前主库一致",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "当前文档本地链接有效",
+      "passed": true,
+      "details": []
+    }
+  ]
+}

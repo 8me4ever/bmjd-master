@@ -1,0 +1,1426 @@
+[
+  {
+    "target_job": "UJ-DE5AD79AEF7088",
+    "function": "仓储",
+    "series": "仓储管理",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-DE5AD79AEF7088",
+      "UJ-ALL-9247CDFE56F263"
+    ],
+    "source_ids": [
+      "SRC-医药-1296",
+      "SRC-教育-0505",
+      "SRC-能源化工-1917"
+    ]
+  },
+  {
+    "target_job": "UJ-22820084E0612E",
+    "function": "仓储",
+    "series": "仓储管理",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-22820084E0612E",
+      "UJ-ALL-48EA7180CB7741",
+      "UJ-DD66535F341BBB"
+    ],
+    "source_ids": [
+      "SRC-医药-1298",
+      "SRC-地产-1977",
+      "SRC-教育-0511",
+      "SRC-物流-0724"
+    ]
+  },
+  {
+    "target_job": "UJ-952A746EFA7CAD",
+    "function": "仓储",
+    "series": "仓储管理",
+    "level": 7,
+    "merged_prior_ids": [
+      "UJ-952A746EFA7CAD",
+      "UJ-1004637F08DC82"
+    ],
+    "source_ids": [
+      "SRC-医药-1299",
+      "SRC-能源化工-1918"
+    ]
+  },
+  {
+    "target_job": "UJ-69B94F3E53EFEA",
+    "function": "保险理赔",
+    "series": "保险理赔",
+    "level": 2,
+    "merged_prior_ids": [
+      "UJ-69B94F3E53EFEA",
+      "UJ-E132E11A99EE13"
+    ],
+    "source_ids": [
+      "SRC-金融-0915",
+      "SRC-金融-0920"
+    ]
+  },
+  {
+    "target_job": "UJ-1E6EB21327E135",
+    "function": "保险理赔",
+    "series": "保险理赔",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-1E6EB21327E135",
+      "UJ-A6E0CD0F2667A2"
+    ],
+    "source_ids": [
+      "SRC-金融-0916",
+      "SRC-金融-0921"
+    ]
+  },
+  {
+    "target_job": "UJ-7AD944BF17C7C2",
+    "function": "信息技术",
+    "series": "产品技术测试",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-7AD944BF17C7C2",
+      "UJ-DA7CA7445079AA"
+    ],
+    "source_ids": [
+      "SRC-传媒-0419",
+      "SRC-制造-0453",
+      "SRC-医药-0441",
+      "SRC-医药-0897",
+      "SRC-地产-0499",
+      "SRC-教育-1224",
+      "SRC-消费品-0414",
+      "SRC-物流-0510",
+      "SRC-综合服务-0427",
+      "SRC-能源化工-0501",
+      "SRC-能源化工-1749",
+      "SRC-金融-0476"
+    ]
+  },
+  {
+    "target_job": "UJ-E9604C15E0326B",
+    "function": "信息技术",
+    "series": "产品技术测试",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-E9604C15E0326B",
+      "UJ-9E328CF5D14ECD"
+    ],
+    "source_ids": [
+      "SRC-传媒-0420",
+      "SRC-制造-0454",
+      "SRC-制造-1431",
+      "SRC-医药-0442",
+      "SRC-医药-0898",
+      "SRC-地产-0500",
+      "SRC-教育-1225",
+      "SRC-消费品-0415",
+      "SRC-消费品-1020",
+      "SRC-物流-0511",
+      "SRC-综合服务-0428",
+      "SRC-能源化工-0502",
+      "SRC-能源化工-1750",
+      "SRC-金融-0477"
+    ]
+  },
+  {
+    "target_job": "UJ-C5E63A1C33841E",
+    "function": "信息技术",
+    "series": "产品技术测试",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-C5E63A1C33841E",
+      "UJ-A55C90E4F80BAE"
+    ],
+    "source_ids": [
+      "SRC-传媒-0421",
+      "SRC-制造-0455",
+      "SRC-制造-1432",
+      "SRC-医药-0443",
+      "SRC-医药-0899",
+      "SRC-地产-0501",
+      "SRC-教育-1226",
+      "SRC-消费品-0416",
+      "SRC-消费品-1021",
+      "SRC-物流-0512",
+      "SRC-综合服务-0429",
+      "SRC-能源化工-0503",
+      "SRC-能源化工-1751",
+      "SRC-金融-0478"
+    ]
+  },
+  {
+    "target_job": "UJ-4DDF1B751C6B75",
+    "function": "客户服务",
+    "series": "售后服务管理",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-4DDF1B751C6B75",
+      "UJ-E098EA114EBC37"
+    ],
+    "source_ids": [
+      "SRC-制造-0672",
+      "SRC-制造-0718",
+      "SRC-教育-0141",
+      "SRC-能源化工-0931"
+    ]
+  },
+  {
+    "target_job": "UJ-A8D1D78869A0A4",
+    "function": "工程管理",
+    "series": "动力工程",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-A8D1D78869A0A4",
+      "UJ-DB0E7128B72621"
+    ],
+    "source_ids": [
+      "SRC-消费品-1420",
+      "SRC-能源化工-1808"
+    ]
+  },
+  {
+    "target_job": "UJ-50AF72EAE2AD38",
+    "function": "工程管理",
+    "series": "工程建设项目管理",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-50AF72EAE2AD38",
+      "UJ-DB50EF2AE1918B"
+    ],
+    "source_ids": [
+      "SRC-医药-0764",
+      "SRC-地产-2170",
+      "SRC-教育-1210",
+      "SRC-能源化工-1859",
+      "SRC-高科技-1544"
+    ]
+  },
+  {
+    "target_job": "UJ-DBF44018F5F406",
+    "function": "工程管理",
+    "series": "工程建设项目管理",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-DBF44018F5F406",
+      "UJ-B34787CA17AC38"
+    ],
+    "source_ids": [
+      "SRC-地产-2171",
+      "SRC-教育-1211",
+      "SRC-能源化工-1860",
+      "SRC-高科技-1545"
+    ]
+  },
+  {
+    "target_job": "UJ-D28BB9FB82258C",
+    "function": "工程管理",
+    "series": "工程项目",
+    "level": 2,
+    "merged_prior_ids": [
+      "UJ-D28BB9FB82258C",
+      "UJ-240F6AEFC932E2"
+    ],
+    "source_ids": [
+      "SRC-地产-1826",
+      "SRC-能源化工-1670"
+    ]
+  },
+  {
+    "target_job": "UJ-023A5BEC9D1263",
+    "function": "工程管理",
+    "series": "工程项目",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-023A5BEC9D1263",
+      "UJ-87B125D57D2D95"
+    ],
+    "source_ids": [
+      "SRC-地产-1827",
+      "SRC-能源化工-1671",
+      "SRC-高科技-1740"
+    ]
+  },
+  {
+    "target_job": "UJ-90D5C5C8430B16",
+    "function": "工程管理",
+    "series": "设备工程",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-90D5C5C8430B16",
+      "UJ-E9D25808362412"
+    ],
+    "source_ids": [
+      "SRC-消费品-1416",
+      "SRC-能源化工-1816"
+    ]
+  },
+  {
+    "target_job": "UJ-D9C82BD57E84C8",
+    "function": "市场",
+    "series": "网站内容",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-D9C82BD57E84C8",
+      "UJ-8A190FDF15A1E7"
+    ],
+    "source_ids": [
+      "SRC-传媒-0883",
+      "SRC-传媒-0887",
+      "SRC-制造-0608",
+      "SRC-地产-0689",
+      "SRC-消费品-0453",
+      "SRC-物流-0441",
+      "SRC-综合服务-0599",
+      "SRC-能源化工-0625",
+      "SRC-金融-0616",
+      "SRC-高科技-0604"
+    ]
+  },
+  {
+    "target_job": "UJ-AF04AC44A77B12",
+    "function": "开发筹建",
+    "series": "开发筹建",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-AF04AC44A77B12",
+      "UJ-53863328FD4E53"
+    ],
+    "source_ids": [
+      "SRC-制造-0116",
+      "SRC-医药-1398",
+      "SRC-地产-1271",
+      "SRC-教育-0011",
+      "SRC-消费品-1662",
+      "SRC-能源化工-0128",
+      "SRC-高科技-0125"
+    ]
+  },
+  {
+    "target_job": "UJ-A72CACDD941191",
+    "function": "开发筹建",
+    "series": "开发筹建",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-A72CACDD941191",
+      "UJ-8F11D6355EC199"
+    ],
+    "source_ids": [
+      "SRC-制造-0117",
+      "SRC-医药-1399",
+      "SRC-地产-1272",
+      "SRC-教育-0013",
+      "SRC-消费品-1663",
+      "SRC-能源化工-0129",
+      "SRC-高科技-0126"
+    ]
+  },
+  {
+    "target_job": "UJ-EA4A3924E16D0E",
+    "function": "开发筹建",
+    "series": "开发筹建",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-EA4A3924E16D0E",
+      "UJ-13C0B1082B9AC4"
+    ],
+    "source_ids": [
+      "SRC-制造-0118",
+      "SRC-医药-1400",
+      "SRC-地产-1273",
+      "SRC-教育-0015",
+      "SRC-消费品-1664",
+      "SRC-能源化工-0130",
+      "SRC-高科技-0127"
+    ]
+  },
+  {
+    "target_job": "UJ-6DF41F76692064",
+    "function": "数据分析",
+    "series": "临床健康数据统计分析",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-6DF41F76692064",
+      "UJ-481A87EB1667AA"
+    ],
+    "source_ids": [
+      "SRC-医药-0755",
+      "SRC-医药-0865",
+      "SRC-教育-0157",
+      "SRC-高科技-1635"
+    ]
+  },
+  {
+    "target_job": "UJ-62D5638BC25E88",
+    "function": "测试",
+    "series": "软件测试",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-62D5638BC25E88",
+      "UJ-47A6C620A416B6"
+    ],
+    "source_ids": [
+      "SRC-传媒-1195",
+      "SRC-制造-1430",
+      "SRC-制造-1438",
+      "SRC-医药-0905",
+      "SRC-地产-0547",
+      "SRC-消费品-1019",
+      "SRC-高科技-1579",
+      "SRC-高科技-1587"
+    ]
+  },
+  {
+    "target_job": "UJ-B1B9C616AB4944",
+    "function": "物业工程",
+    "series": "电梯运行维护",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-B1B9C616AB4944",
+      "UJ-ALL-FD2AD8AC835C1A",
+      "UJ-A483526033F916"
+    ],
+    "source_ids": [
+      "SRC-制造-0670",
+      "SRC-地产-1954",
+      "SRC-消费品-1181",
+      "SRC-综合服务-0998"
+    ]
+  },
+  {
+    "target_job": "UJ-6041073EBB298A",
+    "function": "生产",
+    "series": "装配",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-6041073EBB298A",
+      "UJ-A31481F893C5A8"
+    ],
+    "source_ids": [
+      "SRC-制造-1585",
+      "SRC-医药-1225",
+      "SRC-医药-1226",
+      "SRC-消费品-1198",
+      "SRC-能源化工-1310",
+      "SRC-高科技-1791"
+    ]
+  },
+  {
+    "target_job": "UJ-4DCAE365B9FA19",
+    "function": "生产",
+    "series": "装配",
+    "level": 7,
+    "merged_prior_ids": [
+      "UJ-4DCAE365B9FA19",
+      "UJ-7038DEE021EA26"
+    ],
+    "source_ids": [
+      "SRC-制造-1586",
+      "SRC-医药-1227",
+      "SRC-消费品-1199",
+      "SRC-能源化工-1311",
+      "SRC-高科技-1792"
+    ]
+  },
+  {
+    "target_job": "UJ-0B0DDA21A6683D",
+    "function": "生产工艺",
+    "series": "电气生产工艺",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-0B0DDA21A6683D",
+      "UJ-BD384EDAA0089C"
+    ],
+    "source_ids": [
+      "SRC-制造-1862",
+      "SRC-地产-1159",
+      "SRC-消费品-1493",
+      "SRC-能源化工-1644",
+      "SRC-高科技-1863"
+    ]
+  },
+  {
+    "target_job": "UJ-92EBF4764789DC",
+    "function": "生产技术",
+    "series": "板库技术",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-92EBF4764789DC",
+      "UJ-92BF715B104F90"
+    ],
+    "source_ids": [
+      "SRC-制造-1749",
+      "SRC-消费品-1214"
+    ]
+  },
+  {
+    "target_job": "UJ-07ADEB2CFA0394",
+    "function": "生产技术",
+    "series": "板库技术",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-07ADEB2CFA0394",
+      "UJ-20AB8D635FB0A9"
+    ],
+    "source_ids": [
+      "SRC-制造-1750",
+      "SRC-消费品-1215"
+    ]
+  },
+  {
+    "target_job": "UJ-99F176C5B784E5",
+    "function": "生产技术",
+    "series": "配墨技术",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-99F176C5B784E5",
+      "UJ-40FAB4F5DAA337"
+    ],
+    "source_ids": [
+      "SRC-制造-1747",
+      "SRC-消费品-1212"
+    ]
+  },
+  {
+    "target_job": "UJ-15B102098588ED",
+    "function": "生产技术",
+    "series": "配墨技术",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-15B102098588ED",
+      "UJ-F8022688D91C22"
+    ],
+    "source_ids": [
+      "SRC-制造-1748",
+      "SRC-消费品-1213"
+    ]
+  },
+  {
+    "target_job": "UJ-F48B5A05A17C6C",
+    "function": "用户体验",
+    "series": "数字产品交互设计",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-F48B5A05A17C6C",
+      "UJ-545C486CB506B4"
+    ],
+    "source_ids": [
+      "SRC-地产-2158",
+      "SRC-教育-0766",
+      "SRC-综合服务-0614",
+      "SRC-高科技-2197"
+    ]
+  },
+  {
+    "target_job": "UJ-C3103FBA274055",
+    "function": "研发",
+    "series": "电子类产品研发",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-C3103FBA274055",
+      "UJ-A6CCBCFFB640CE"
+    ],
+    "source_ids": [
+      "SRC-能源化工-1187",
+      "SRC-能源化工-2207"
+    ]
+  },
+  {
+    "target_job": "UJ-AB0839C966A7A2",
+    "function": "美工",
+    "series": "美工",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-AB0839C966A7A2",
+      "UJ-66018D478B0EF4"
+    ],
+    "source_ids": [
+      "SRC-地产-0919",
+      "SRC-教育-0384"
+    ]
+  },
+  {
+    "target_job": "UJ-7659399E2EC61C",
+    "function": "艺术展馆",
+    "series": "讲解",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-7659399E2EC61C",
+      "UJ-9842DC3D543CFB"
+    ],
+    "source_ids": [
+      "SRC-地产-1544",
+      "SRC-综合服务-1023"
+    ]
+  },
+  {
+    "target_job": "UJ-0B07BFDD210CA7",
+    "function": "药品研发",
+    "series": "医学研究",
+    "level": 2,
+    "merged_prior_ids": [
+      "UJ-0B07BFDD210CA7",
+      "UJ-E87302D89E3787"
+    ],
+    "source_ids": [
+      "SRC-医药-0997",
+      "SRC-医药-1079"
+    ]
+  },
+  {
+    "target_job": "UJ-4805FEE6960705",
+    "function": "药品研发",
+    "series": "医学研究",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-4805FEE6960705",
+      "UJ-6C0A345773DB80"
+    ],
+    "source_ids": [
+      "SRC-医药-0998",
+      "SRC-医药-1080"
+    ]
+  },
+  {
+    "target_job": "UJ-FAB8906136010F",
+    "function": "规划设计",
+    "series": "建筑结构设计",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-FAB8906136010F",
+      "UJ-C2-882F85355AC8"
+    ],
+    "source_ids": [
+      "SRC-制造-1661",
+      "SRC-地产-1121",
+      "SRC-地产-1802",
+      "SRC-能源化工-1871"
+    ]
+  },
+  {
+    "target_job": "UJ-89AC12EC3188DD",
+    "function": "计量",
+    "series": "计量检定校准",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-89AC12EC3188DD",
+      "UJ-D9C0B4A3605B2F"
+    ],
+    "source_ids": [
+      "SRC-制造-1909",
+      "SRC-医药-1282",
+      "SRC-地产-1776",
+      "SRC-能源化工-1759"
+    ]
+  },
+  {
+    "target_job": "UJ-93498AC4488C72",
+    "function": "计量",
+    "series": "计量检定校准",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-93498AC4488C72",
+      "UJ-518DC3E98C2085",
+      "UJ-B0BFB968E28BA0"
+    ],
+    "source_ids": [
+      "SRC-制造-1898",
+      "SRC-制造-1911",
+      "SRC-医药-1284",
+      "SRC-地产-1896",
+      "SRC-消费品-1520",
+      "SRC-能源化工-0898",
+      "SRC-能源化工-1617",
+      "SRC-能源化工-1761",
+      "SRC-能源化工-1984",
+      "SRC-高科技-1897"
+    ]
+  },
+  {
+    "target_job": "UJ-C2B1231AC3E0BE",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-C2B1231AC3E0BE",
+      "UJ-ALL-A09C923B144942",
+      "UJ-EB617A10F9CAE5"
+    ],
+    "source_ids": [
+      "SRC-制造-1778",
+      "SRC-制造-1781",
+      "SRC-制造-1785",
+      "SRC-医药-1180",
+      "SRC-消费品-1354",
+      "SRC-能源化工-1264",
+      "SRC-能源化工-1268",
+      "SRC-能源化工-1475",
+      "SRC-能源化工-1532",
+      "SRC-能源化工-1921",
+      "SRC-高科技-1760",
+      "SRC-高科技-1939",
+      "SRC-高科技-2168"
+    ]
+  },
+  {
+    "target_job": "UJ-04102648F7FAC4",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-04102648F7FAC4",
+      "UJ-FF7DC4AC06B321",
+      "UJ-86F094E4EAE35A",
+      "UJ-5EB67DC7F6A7AE"
+    ],
+    "source_ids": [
+      "SRC-制造-1779",
+      "SRC-制造-1782",
+      "SRC-医药-1181",
+      "SRC-消费品-1355",
+      "SRC-能源化工-1265",
+      "SRC-能源化工-1269",
+      "SRC-能源化工-1476",
+      "SRC-能源化工-1533",
+      "SRC-能源化工-1922",
+      "SRC-能源化工-1986",
+      "SRC-能源化工-1989",
+      "SRC-能源化工-2148",
+      "SRC-高科技-1761",
+      "SRC-高科技-1940",
+      "SRC-高科技-2169",
+      "SRC-高科技-2425"
+    ]
+  },
+  {
+    "target_job": "UJ-DBBA34EA262696",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-DBBA34EA262696",
+      "UJ-E2C79823B41B03",
+      "UJ-9174307D413D11",
+      "UJ-E61F59B21C7015",
+      "UJ-75F95E8A5F7F46",
+      "UJ-9DE6E0C37B2E2A",
+      "UJ-57B1C30DB0CA24"
+    ],
+    "source_ids": [
+      "SRC-制造-1566",
+      "SRC-制造-1578",
+      "SRC-制造-1780",
+      "SRC-制造-1783",
+      "SRC-医药-1182",
+      "SRC-地产-1976",
+      "SRC-消费品-1356",
+      "SRC-能源化工-1266",
+      "SRC-能源化工-1270",
+      "SRC-能源化工-1301",
+      "SRC-能源化工-1477",
+      "SRC-能源化工-1534",
+      "SRC-能源化工-1923",
+      "SRC-能源化工-1987",
+      "SRC-能源化工-1990",
+      "SRC-能源化工-2085",
+      "SRC-能源化工-2149",
+      "SRC-高科技-1762",
+      "SRC-高科技-1779",
+      "SRC-高科技-1812",
+      "SRC-高科技-1941",
+      "SRC-高科技-2170",
+      "SRC-高科技-2426"
+    ]
+  },
+  {
+    "target_job": "UJ-0CCC352338B4F0",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-0CCC352338B4F0",
+      "UJ-B5682253A04D3C",
+      "UJ-37B137A9506F0A"
+    ],
+    "source_ids": [
+      "SRC-制造-1784",
+      "SRC-医药-1183",
+      "SRC-地产-1956",
+      "SRC-消费品-1357",
+      "SRC-综合服务-1000",
+      "SRC-能源化工-1267",
+      "SRC-能源化工-1271",
+      "SRC-能源化工-1478",
+      "SRC-能源化工-1535",
+      "SRC-能源化工-1924",
+      "SRC-能源化工-1988",
+      "SRC-能源化工-2150",
+      "SRC-高科技-1763",
+      "SRC-高科技-1942",
+      "SRC-高科技-2171",
+      "SRC-高科技-2427"
+    ]
+  },
+  {
+    "target_job": "UJ-3A447964B27993",
+    "function": "设备保全",
+    "series": "机械设备维护保全",
+    "level": 7,
+    "merged_prior_ids": [
+      "UJ-3A447964B27993",
+      "UJ-8306A19C4FD7D1"
+    ],
+    "source_ids": [
+      "SRC-医药-0791",
+      "SRC-医药-1184",
+      "SRC-高科技-1837"
+    ]
+  },
+  {
+    "target_job": "UJ-56BB40041BE346",
+    "function": "软件开发",
+    "series": "C++开发",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-56BB40041BE346",
+      "UJ-81E3A389494151"
+    ],
+    "source_ids": [
+      "SRC-传媒-1187",
+      "SRC-医药-0473",
+      "SRC-高科技-0974"
+    ]
+  },
+  {
+    "target_job": "UJ-3E80D1D8550928",
+    "function": "软件开发",
+    "series": "C++开发",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-3E80D1D8550928",
+      "UJ-0CB43D51BA685B"
+    ],
+    "source_ids": [
+      "SRC-传媒-1188",
+      "SRC-制造-1334",
+      "SRC-医药-0474",
+      "SRC-地产-2177",
+      "SRC-教育-0590",
+      "SRC-综合服务-0932",
+      "SRC-高科技-0975"
+    ]
+  },
+  {
+    "target_job": "UJ-9EB72837C345B5",
+    "function": "软件开发",
+    "series": "C++开发",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-9EB72837C345B5",
+      "UJ-8A74F5DE58EA87"
+    ],
+    "source_ids": [
+      "SRC-传媒-1189",
+      "SRC-制造-1335",
+      "SRC-医药-0475",
+      "SRC-地产-2178",
+      "SRC-教育-0592",
+      "SRC-综合服务-0933",
+      "SRC-高科技-0976"
+    ]
+  },
+  {
+    "target_job": "UJ-9354D1CB386B56",
+    "function": "软件开发",
+    "series": "Java开发",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-9354D1CB386B56",
+      "UJ-C8C0915088C47C"
+    ],
+    "source_ids": [
+      "SRC-传媒-1190",
+      "SRC-医药-0481",
+      "SRC-高科技-0982"
+    ]
+  },
+  {
+    "target_job": "UJ-FD083EA3A6A25B",
+    "function": "软件开发",
+    "series": "Java开发",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-FD083EA3A6A25B",
+      "UJ-325BBDABB974DD"
+    ],
+    "source_ids": [
+      "SRC-传媒-1191",
+      "SRC-制造-1340",
+      "SRC-医药-0482",
+      "SRC-地产-2183",
+      "SRC-教育-0602",
+      "SRC-综合服务-0938",
+      "SRC-高科技-0983"
+    ]
+  },
+  {
+    "target_job": "UJ-B90EAD03E4A6C5",
+    "function": "软件开发",
+    "series": "Java开发",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-B90EAD03E4A6C5",
+      "UJ-3CA71E4A3209CF"
+    ],
+    "source_ids": [
+      "SRC-传媒-1192",
+      "SRC-制造-1341",
+      "SRC-医药-0483",
+      "SRC-地产-2184",
+      "SRC-教育-0604",
+      "SRC-综合服务-0939",
+      "SRC-高科技-0984"
+    ]
+  },
+  {
+    "target_job": "UJ-E4177B7C2B02CD",
+    "function": "软件开发",
+    "series": "Java开发",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-E4177B7C2B02CD",
+      "UJ-6B5D80983F0BD0"
+    ],
+    "source_ids": [
+      "SRC-传媒-1193",
+      "SRC-制造-1342",
+      "SRC-医药-0484",
+      "SRC-地产-2185",
+      "SRC-教育-0606",
+      "SRC-综合服务-0940",
+      "SRC-高科技-0985"
+    ]
+  },
+  {
+    "target_job": "UJ-5499ACF70FD0A1",
+    "function": "软件开发",
+    "series": "虚幻引擎软件开发",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-5499ACF70FD0A1",
+      "UJ-ECD9D02FFF7CAD"
+    ],
+    "source_ids": [
+      "SRC-传媒-1203",
+      "SRC-高科技-2417"
+    ]
+  },
+  {
+    "target_job": "UJ-2A4907D2B8A354",
+    "function": "软件开发",
+    "series": "软件测试",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-2A4907D2B8A354",
+      "UJ-68DCF1457F6BA7"
+    ],
+    "source_ids": [
+      "SRC-传媒-1194",
+      "SRC-制造-1437",
+      "SRC-医药-0904",
+      "SRC-地产-0546",
+      "SRC-能源化工-1748",
+      "SRC-高科技-1586"
+    ]
+  },
+  {
+    "target_job": "UJ-97B28BCB6DB9FA",
+    "function": "软件开发",
+    "series": "通用软件开发",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-97B28BCB6DB9FA",
+      "UJ-CA587556D664DE"
+    ],
+    "source_ids": [
+      "SRC-传媒-0397",
+      "SRC-制造-1322",
+      "SRC-医药-0829",
+      "SRC-医药-0837",
+      "SRC-地产-0477",
+      "SRC-教育-0534",
+      "SRC-教育-0542",
+      "SRC-消费品-0876",
+      "SRC-消费品-0884",
+      "SRC-消费品-0923",
+      "SRC-物流-0477",
+      "SRC-综合服务-0405",
+      "SRC-综合服务-0919",
+      "SRC-能源化工-0492",
+      "SRC-能源化工-1155",
+      "SRC-金融-0454",
+      "SRC-高科技-0449",
+      "SRC-高科技-0929",
+      "SRC-高科技-0938",
+      "SRC-高科技-1065",
+      "SRC-高科技-1216"
+    ]
+  },
+  {
+    "target_job": "UJ-B015731F612311",
+    "function": "运维",
+    "series": "IT基础设施与系统运维",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-B015731F612311",
+      "UJ-A8F263A223E2A1",
+      "UJ-1A3198571E4B5B",
+      "UJ-1F9B32C0525C64",
+      "UJ-FA8B0B7C3B2CB3"
+    ],
+    "source_ids": [
+      "SRC-传媒-0378",
+      "SRC-传媒-0414",
+      "SRC-传媒-0432",
+      "SRC-传媒-1199",
+      "SRC-传媒-1309",
+      "SRC-制造-0416",
+      "SRC-制造-0448",
+      "SRC-制造-0466",
+      "SRC-制造-1239",
+      "SRC-制造-2057",
+      "SRC-医药-0394",
+      "SRC-医药-0422",
+      "SRC-医药-0436",
+      "SRC-医药-0456",
+      "SRC-医药-0740",
+      "SRC-医药-0746",
+      "SRC-地产-0458",
+      "SRC-地产-0494",
+      "SRC-地产-0512",
+      "SRC-地产-0533",
+      "SRC-教育-0152",
+      "SRC-教育-0666",
+      "SRC-教育-0905",
+      "SRC-教育-0928",
+      "SRC-教育-0944",
+      "SRC-消费品-0377",
+      "SRC-消费品-0409",
+      "SRC-消费品-0427",
+      "SRC-物流-0458",
+      "SRC-物流-0505",
+      "SRC-物流-0523",
+      "SRC-物流-0527",
+      "SRC-物流-0530",
+      "SRC-物流-0533",
+      "SRC-综合服务-0386",
+      "SRC-综合服务-0422",
+      "SRC-综合服务-0440",
+      "SRC-能源化工-0458",
+      "SRC-能源化工-0466",
+      "SRC-能源化工-0504",
+      "SRC-能源化工-2246",
+      "SRC-金融-0435",
+      "SRC-金融-0471",
+      "SRC-金融-0489",
+      "SRC-高科技-0429",
+      "SRC-高科技-0468",
+      "SRC-高科技-0482",
+      "SRC-高科技-1044",
+      "SRC-高科技-1624",
+      "SRC-高科技-1723",
+      "SRC-高科技-2055",
+      "SRC-高科技-2101",
+      "SRC-高科技-2488"
+    ]
+  },
+  {
+    "target_job": "UJ-C2CF8695B2B36A",
+    "function": "运维",
+    "series": "IT基础设施与系统运维",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-C2CF8695B2B36A",
+      "UJ-0E2E3A38D09377"
+    ],
+    "source_ids": [
+      "SRC-传媒-0379",
+      "SRC-传媒-0402",
+      "SRC-传媒-0415",
+      "SRC-传媒-0433",
+      "SRC-传媒-1200",
+      "SRC-传媒-1310",
+      "SRC-制造-0417",
+      "SRC-制造-0436",
+      "SRC-制造-0449",
+      "SRC-制造-0467",
+      "SRC-制造-1240",
+      "SRC-制造-2058",
+      "SRC-医药-0395",
+      "SRC-医药-0423",
+      "SRC-医药-0437",
+      "SRC-医药-0457",
+      "SRC-医药-0741",
+      "SRC-医药-0747",
+      "SRC-地产-0459",
+      "SRC-地产-0482",
+      "SRC-地产-0495",
+      "SRC-地产-0513",
+      "SRC-地产-0534",
+      "SRC-地产-0541",
+      "SRC-教育-0153",
+      "SRC-教育-0668",
+      "SRC-教育-0907",
+      "SRC-教育-0929",
+      "SRC-教育-0945",
+      "SRC-消费品-0378",
+      "SRC-消费品-0397",
+      "SRC-消费品-0410",
+      "SRC-消费品-0428",
+      "SRC-物流-0459",
+      "SRC-物流-0482",
+      "SRC-物流-0506",
+      "SRC-物流-0524",
+      "SRC-综合服务-0387",
+      "SRC-综合服务-0410",
+      "SRC-综合服务-0423",
+      "SRC-综合服务-0441",
+      "SRC-能源化工-0448",
+      "SRC-能源化工-0459",
+      "SRC-能源化工-0462",
+      "SRC-能源化工-0467",
+      "SRC-能源化工-0505",
+      "SRC-能源化工-2247",
+      "SRC-金融-0436",
+      "SRC-金融-0459",
+      "SRC-金融-0472",
+      "SRC-金融-0490",
+      "SRC-金融-0501",
+      "SRC-高科技-0430",
+      "SRC-高科技-0469",
+      "SRC-高科技-0483",
+      "SRC-高科技-1045",
+      "SRC-高科技-1071",
+      "SRC-高科技-1625",
+      "SRC-高科技-1724",
+      "SRC-高科技-2056",
+      "SRC-高科技-2102",
+      "SRC-高科技-2138",
+      "SRC-高科技-2489"
+    ]
+  },
+  {
+    "target_job": "UJ-11F0818382286E",
+    "function": "运维",
+    "series": "IT基础设施与系统运维",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-11F0818382286E",
+      "UJ-92541224748F85",
+      "UJ-AA2258043131A9",
+      "UJ-9796EC7F102E68",
+      "UJ-ADEA3DCC790B8C",
+      "UJ-D9AD9EA166647E"
+    ],
+    "source_ids": [
+      "SRC-传媒-0380",
+      "SRC-传媒-0403",
+      "SRC-传媒-0416",
+      "SRC-传媒-0434",
+      "SRC-传媒-1201",
+      "SRC-传媒-1311",
+      "SRC-制造-0418",
+      "SRC-制造-0437",
+      "SRC-制造-0450",
+      "SRC-制造-0468",
+      "SRC-制造-1241",
+      "SRC-制造-2059",
+      "SRC-医药-0396",
+      "SRC-医药-0424",
+      "SRC-医药-0438",
+      "SRC-医药-0748",
+      "SRC-地产-0460",
+      "SRC-地产-0483",
+      "SRC-地产-0496",
+      "SRC-地产-0514",
+      "SRC-地产-0535",
+      "SRC-地产-0542",
+      "SRC-教育-0670",
+      "SRC-教育-0909",
+      "SRC-教育-0930",
+      "SRC-消费品-0379",
+      "SRC-消费品-0398",
+      "SRC-消费品-0411",
+      "SRC-消费品-0429",
+      "SRC-物流-0460",
+      "SRC-物流-0483",
+      "SRC-物流-0507",
+      "SRC-物流-0525",
+      "SRC-物流-0529",
+      "SRC-物流-0532",
+      "SRC-物流-0535",
+      "SRC-综合服务-0388",
+      "SRC-综合服务-0411",
+      "SRC-综合服务-0424",
+      "SRC-综合服务-0442",
+      "SRC-能源化工-0449",
+      "SRC-能源化工-0460",
+      "SRC-能源化工-0463",
+      "SRC-能源化工-0468",
+      "SRC-能源化工-0506",
+      "SRC-能源化工-2248",
+      "SRC-金融-0437",
+      "SRC-金融-0460",
+      "SRC-金融-0473",
+      "SRC-金融-0491",
+      "SRC-金融-0502",
+      "SRC-高科技-0431",
+      "SRC-高科技-0470",
+      "SRC-高科技-0484",
+      "SRC-高科技-1046",
+      "SRC-高科技-1725",
+      "SRC-高科技-2057",
+      "SRC-高科技-2103",
+      "SRC-高科技-2139",
+      "SRC-高科技-2490"
+    ]
+  },
+  {
+    "target_job": "UJ-F03AB4197C4A53",
+    "function": "运维",
+    "series": "IT基础设施与系统运维",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-F03AB4197C4A53",
+      "UJ-DCFE429A16A6E3"
+    ],
+    "source_ids": [
+      "SRC-传媒-0381",
+      "SRC-传媒-0404",
+      "SRC-传媒-0417",
+      "SRC-传媒-1202",
+      "SRC-制造-0419",
+      "SRC-制造-0438",
+      "SRC-制造-0451",
+      "SRC-医药-0397",
+      "SRC-医药-0425",
+      "SRC-医药-0439",
+      "SRC-地产-0461",
+      "SRC-地产-0484",
+      "SRC-地产-0497",
+      "SRC-地产-0536",
+      "SRC-地产-0543",
+      "SRC-教育-0911",
+      "SRC-教育-0931",
+      "SRC-消费品-0380",
+      "SRC-消费品-0399",
+      "SRC-消费品-0412",
+      "SRC-物流-0461",
+      "SRC-物流-0484",
+      "SRC-物流-0508",
+      "SRC-综合服务-0389",
+      "SRC-综合服务-0412",
+      "SRC-综合服务-0425",
+      "SRC-能源化工-0450",
+      "SRC-能源化工-0461",
+      "SRC-能源化工-0464",
+      "SRC-能源化工-0469",
+      "SRC-金融-0438",
+      "SRC-金融-0461",
+      "SRC-金融-0474",
+      "SRC-金融-0503",
+      "SRC-高科技-0432",
+      "SRC-高科技-0471",
+      "SRC-高科技-1726",
+      "SRC-高科技-2058",
+      "SRC-高科技-2104"
+    ]
+  },
+  {
+    "target_job": "UJ-9A9DEF0EB41EE9",
+    "function": "运维",
+    "series": "数据库运行维护",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-9A9DEF0EB41EE9",
+      "UJ-B1F979B6D0D7DC"
+    ],
+    "source_ids": [
+      "SRC-传媒-0387",
+      "SRC-制造-0425",
+      "SRC-医药-0403",
+      "SRC-医药-0751",
+      "SRC-地产-0467",
+      "SRC-地产-2201",
+      "SRC-教育-0917",
+      "SRC-消费品-0386",
+      "SRC-物流-0467",
+      "SRC-综合服务-0395",
+      "SRC-综合服务-0956",
+      "SRC-能源化工-0482",
+      "SRC-金融-0444",
+      "SRC-高科技-0438",
+      "SRC-高科技-1160",
+      "SRC-高科技-1628",
+      "SRC-高科技-1631"
+    ]
+  },
+  {
+    "target_job": "UJ-10A5A6D5A04406",
+    "function": "运维",
+    "series": "数据库运行维护",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-10A5A6D5A04406",
+      "UJ-97A714C53C0460"
+    ],
+    "source_ids": [
+      "SRC-传媒-0389",
+      "SRC-制造-0427",
+      "SRC-医药-0405",
+      "SRC-地产-0469",
+      "SRC-地产-2203",
+      "SRC-教育-0919",
+      "SRC-消费品-0388",
+      "SRC-物流-0469",
+      "SRC-综合服务-0397",
+      "SRC-综合服务-0958",
+      "SRC-能源化工-0484",
+      "SRC-金融-0446",
+      "SRC-高科技-0440",
+      "SRC-高科技-1162"
+    ]
+  },
+  {
+    "target_job": "UJ-07C8445C420B16",
+    "function": "销售支持",
+    "series": "售前技术支持",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-07C8445C420B16",
+      "UJ-E1839D12A71EC4"
+    ],
+    "source_ids": [
+      "SRC-传媒-0741",
+      "SRC-制造-0651",
+      "SRC-地产-0951",
+      "SRC-消费品-0764",
+      "SRC-物流-0115",
+      "SRC-综合服务-0835",
+      "SRC-能源化工-0935",
+      "SRC-金融-0664",
+      "SRC-高科技-0731"
+    ]
+  },
+  {
+    "target_job": "UJ-568E421D277569",
+    "function": "销售支持",
+    "series": "售前技术支持",
+    "level": 4,
+    "merged_prior_ids": [
+      "UJ-568E421D277569",
+      "UJ-AE1E907608F458"
+    ],
+    "source_ids": [
+      "SRC-传媒-0742",
+      "SRC-制造-0652",
+      "SRC-地产-0952",
+      "SRC-消费品-0765",
+      "SRC-物流-0116",
+      "SRC-综合服务-0836",
+      "SRC-能源化工-0936",
+      "SRC-金融-0665",
+      "SRC-高科技-0732"
+    ]
+  },
+  {
+    "target_job": "UJ-1964C703A6FC0D",
+    "function": "销售支持",
+    "series": "售前技术支持",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-1964C703A6FC0D",
+      "UJ-5256717FBCB681"
+    ],
+    "source_ids": [
+      "SRC-传媒-0743",
+      "SRC-制造-0653",
+      "SRC-地产-0953",
+      "SRC-消费品-0766",
+      "SRC-物流-0117",
+      "SRC-综合服务-0837",
+      "SRC-能源化工-0937",
+      "SRC-金融-0666",
+      "SRC-高科技-0733",
+      "SRC-高科技-1072",
+      "SRC-高科技-2065"
+    ]
+  },
+  {
+    "target_job": "UJ-38337DA9C3B350",
+    "function": "销售支持",
+    "series": "售前技术支持",
+    "level": 6,
+    "merged_prior_ids": [
+      "UJ-38337DA9C3B350",
+      "UJ-7609AB3BC430E9"
+    ],
+    "source_ids": [
+      "SRC-传媒-0744",
+      "SRC-制造-0654",
+      "SRC-地产-0954",
+      "SRC-消费品-0767",
+      "SRC-物流-0118",
+      "SRC-综合服务-0838",
+      "SRC-能源化工-0938",
+      "SRC-金融-0667",
+      "SRC-高科技-0734",
+      "SRC-高科技-1073"
+    ]
+  },
+  {
+    "target_job": "UJ-B0210F78ACF3E8",
+    "function": "门店",
+    "series": "导购",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-B0210F78ACF3E8",
+      "UJ-A0AE5380D62413"
+    ],
+    "source_ids": [
+      "SRC-制造-0856",
+      "SRC-医药-1394",
+      "SRC-高科技-0742"
+    ]
+  },
+  {
+    "target_job": "UJ-CE39AE1B0F2F33",
+    "function": "门店",
+    "series": "门店",
+    "level": 3,
+    "merged_prior_ids": [
+      "UJ-CE39AE1B0F2F33",
+      "UJ-2F1BA0867F4EB0"
+    ],
+    "source_ids": [
+      "SRC-制造-0850",
+      "SRC-医药-1388",
+      "SRC-地产-2015",
+      "SRC-消费品-1586"
+    ]
+  },
+  {
+    "target_job": "UJ-009BBDA12CD91D",
+    "function": "项目事务（项目前期）",
+    "series": "项目资源评估",
+    "level": 5,
+    "merged_prior_ids": [
+      "UJ-009BBDA12CD91D",
+      "UJ-E5BFDC0EF3000A"
+    ],
+    "source_ids": [
+      "SRC-能源化工-2191",
+      "SRC-能源化工-2197"
+    ]
+  }
+]

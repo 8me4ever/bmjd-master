@@ -1,0 +1,72 @@
+{
+  "package_id": "BMJD-HANDOFF-20261029-ab972f6c2d6f",
+  "baseline_version": "BMJD-ALL-20261029",
+  "baseline_master_sha256": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+  "baseline_job_count": 8932,
+  "baseline_date": "2026-10-29",
+  "all_passed": true,
+  "checks": {
+    "8932岗位唯一且覆盖当前基线": true,
+    "全部活动原始来源覆盖": true,
+    "所有岗位来源可查": true,
+    "全部原文指纹一致": true,
+    "JD指纹与现稿一致": true,
+    "每个JD任务保留逐条证据": true,
+    "推定集合和责任数量一致": true,
+    "四种推定组合数量一致": true,
+    "授权岗位条款范围完整承接": true,
+    "23条暂缓来源没有发出编写任务": true,
+    "冻结输入及HTML未改变": true,
+    "回传模板锚点真实": true,
+    "链接有效：00_当前进度与分工交接.md": true,
+    "链接有效：01_朋友_JD编写说明.md": true,
+    "链接有效：02_Codex_主库与推定整理说明.md": true
+  },
+  "frozen_workspace_files": {
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+    "全库统一完成_20261029/规范职能字典.json": "b9b7747cb7fbdae3823aa826f6dae095aaa527c0f3163c106c7875631ffd548e",
+    "全库统一完成_20261029/岗位JD及条款依据.json": "585ae502a9537d82da4c816e99b0b33e0085c490054734f29a6cd2c4cea4d011",
+    "统一收口_20261029/岗位职责原文.json": "48c94f27d707ff33a6dba6f0cd3bbe6be1ebb953ebdfb648e9c9f6c3cc506764",
+    "全库统一完成_20261029/验收报告.json": "9e463575b7c380186c05fc790f9f3c671d24733d372feb3458f5bf45fc47ae1e",
+    "BMJD主库浏览器/index.html": "e285a588ee1412b2f3f651c5300f0a400e1c13261b1dea4d9d6170fbdbeadc41"
+  },
+  "files": {
+    "00_当前进度与分工交接.md": {
+      "bytes": 7639,
+      "sha256": "639e1b2f53e445ee436b9d274959198f2baa95cd07e3767add37248f7f5cc7a0"
+    },
+    "01_朋友_JD编写说明.md": {
+      "bytes": 5611,
+      "sha256": "5b1e5be48f131ad042f86d45756145956eefa000650a8245cd322f22e1863fe5"
+    },
+    "02_Codex_主库与推定整理说明.md": {
+      "bytes": 5634,
+      "sha256": "6b69f431b3931ba47ba915d7651e2ada1f57fc023b4cece5041a23bb97e348b2"
+    },
+    "JD原文证据.json": {
+      "bytes": 14002637,
+      "sha256": "5541f68e1e97f2145dedb78354c348a20f6ada18e4b88f2d438c7d81afdb3279"
+    },
+    "JD回传格式.schema.json": {
+      "bytes": 4929,
+      "sha256": "821b3662d94bd74fa32777dd88aba4a756565c197d6e622084aefe60d12601b7"
+    },
+    "JD回传模板.json": {
+      "bytes": 939,
+      "sha256": "202d9f0bccfce23ea899697c1c29f4cbed04fd7773798e85fbcebe9df68d0488"
+    },
+    "JD编写输入.json": {
+      "bytes": 27263006,
+      "sha256": "048a70dca2176dfb567a4b750554f068d45b6c6f0667419d8ce832999b88a4ef"
+    },
+    "主库变更回传模板.json": {
+      "bytes": 960,
+      "sha256": "280a97999a6b8c1f7020036fcf1731393086c1f07661479c9c3d153c1f0ca8ba"
+    },
+    "主库推定整理输入.json": {
+      "bytes": 3592446,
+      "sha256": "6f74fbab40ee4ab6e715315249e2de46750a3a23313a02d30e800fbb3b28c400"
+    }
+  },
+  "notice": "交接准备完成；尚未执行新一轮主库整理或朋友JD编写。"
+}

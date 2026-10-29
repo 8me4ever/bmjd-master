@@ -1,0 +1,39 @@
+{
+  "package_id": "BMJD-HANDOFF-20261029-ab972f6c2d6f",
+  "baseline_version": "BMJD-ALL-20261029",
+  "baseline_master_sha256": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+  "baseline_job_count": 8932,
+  "baseline_date": "2026-10-29",
+  "target_master_version": null,
+  "changes": [],
+  "change_fields": [
+    "change_id",
+    "baseline_job_ids",
+    "target_job_ids",
+    "old_codes",
+    "new_codes",
+    "change_type",
+    "before_identity",
+    "after_identity",
+    "evidence_source_ids",
+    "reason",
+    "identity_inference_after",
+    "jd_impact",
+    "jd_reuse_status"
+  ],
+  "change_type_values": [
+    "保留并补证",
+    "改名",
+    "改职能",
+    "改系列",
+    "改层级",
+    "归并",
+    "拆分",
+    "继续推定"
+  ],
+  "jd_reuse_status_values": [
+    "代码变化可定位复用",
+    "身份变化需重新核对JD",
+    "原岗位退役不可直接覆盖"
+  ]
+}

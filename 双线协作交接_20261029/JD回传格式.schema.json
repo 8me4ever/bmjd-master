@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BMJD JD回传格式",
+  "type": "object",
+  "required": [
+    "package_id",
+    "baseline_version",
+    "baseline_master_sha256",
+    "author",
+    "submission_version",
+    "jobs"
+  ],
+  "properties": {
+    "package_id": {
+      "const": "BMJD-HANDOFF-20261029-ab972f6c2d6f"
+    },
+    "baseline_version": {
+      "const": "BMJD-ALL-20261029"
+    },
+    "baseline_master_sha256": {
+      "const": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3"
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1
+    },
+    "submission_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "submitted_at": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "jobs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "job_id",
+          "baseline_code",
+          "baseline_identity_sha256",
+          "baseline_jd_sha256",
+          "writing_status",
+          "clauses",
+          "industry_notes",
+          "identity_issue"
+        ],
+        "properties": {
+          "job_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "baseline_code": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}[0-9]{2}[1-7]$"
+          },
+          "baseline_identity_sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "baseline_jd_sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "writing_status": {
+            "enum": [
+              "未开始",
+              "编写中",
+              "已提交",
+              "无需修改-已复核",
+              "需澄清"
+            ]
+          },
+          "clauses": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "number",
+                "text",
+                "basis_type",
+                "source_refs",
+                "basis_note"
+              ],
+              "properties": {
+                "number": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "text": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "basis_type": {
+                  "enum": [
+                    "原文提炼",
+                    "专业补写",
+                    "规则推定"
+                  ]
+                },
+                "source_refs": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "source_id",
+                      "quote"
+                    ],
+                    "properties": {
+                      "source_id": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "quote": {
+                        "type": "string",
+                        "minLength": 1
+                      }
+                    }
+                  }
+                },
+                "basis_note": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "industry_notes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "industry",
+                "text"
+              ],
+              "properties": {
+                "industry": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "identity_issue": {
+            "type": [
+              "object",
+              "null"
+            ],
+            "properties": {
+              "description": {
+                "type": "string"
+              },
+              "source_ids": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "suggested_name": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "suggested_function": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "suggested_level": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              }
+            }
+          },
+          "author_note": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

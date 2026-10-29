@@ -1,0 +1,23 @@
+{
+  "package_id": "BMJD-HANDOFF-20261029-ab972f6c2d6f",
+  "baseline_version": "BMJD-ALL-20261029",
+  "baseline_master_sha256": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+  "baseline_job_count": 8932,
+  "baseline_date": "2026-10-29",
+  "author": "填写编写人",
+  "submission_version": "JD-WRITE-001",
+  "submitted_at": null,
+  "jobs": [
+    {
+      "job_id": "UJ-67011F35BD9662",
+      "baseline_code": "CT205",
+      "baseline_identity_sha256": "22cd31925fdac3fda048c6595fc0050758f57ed3ef823d3621e794aec93bf0b7",
+      "baseline_jd_sha256": "42cb995486db27d4d173c3ba67863f7516c14d5248f42ca76677af76efa1f5f8",
+      "writing_status": "未开始",
+      "clauses": [],
+      "industry_notes": [],
+      "identity_issue": null,
+      "author_note": "模板保留真实CT205锚点；未开始和空条款不能算作交付，填写后改为已提交或无需修改-已复核。"
+    }
+  ]
+}
