@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "FD-5FBB798C023779",
+    "name": "EHS",
+    "group_id": "FG-C301CAE5782F8F",
+    "group_name": "EHS",
+    "source_function_id": "BF-C301CAE5782F8F",
+    "source_function_name": "EHS",
+    "jobs": 46,
+    "series": 15
+  },
+  {
+    "id": "FD-6ACD3A4F26E9F6",
+    "name": "三维模型开发",
+    "group_id": "FG-30146370B024F4",
+    "group_name": "三维模型开发",
+    "source_function_id": "BF-30146370B024F4",
+    "source_function_name": "三维模型开发",
+    "jobs": 7,
+    "series": 2
+  },
+  {
+    "id": "FD-1BF9E9CA8676D3",
+    "name": "专业技术",
+    "group_id": "FG-18118A21783D54",
+    "group_name": "专业技术",
+    "source_function_id": "BF-18118A21783D54",
+    "source_function_name": "专业技术",
+    "jobs": 85,
+    "series": 27
+  },
+  {
+    "id": "FD-DF16A1FC608DC3",
+    "name": "业务流程",
+    "group_id": "FG-422E224971AB3A",
+    "group_name": "业务流程",
+    "source_function_id": "BF-422E224971AB3A",
+    "source_function_name": "业务流程",
+    "jobs": 15,
+    "series": 3
+  },
+  {
+    "id": "FD-7DB26CE17CC4EC",
+    "name": "招募",
+    "group_id": "FG-BEB8C64FE33A62",
+    "group_name": "临床研究",
+    "source_function_id": "BF-42B31397492909",
+    "source_function_name": "招募",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-948780EA5484E0",
+    "name": "监查",
+    "group_id": "FG-BEB8C64FE33A62",
+    "group_name": "临床研究",
+    "source_function_id": "BF-415901124EF38B",
+    "source_function_name": "监查",
+    "jobs": 12,
+    "series": 3
+  },
+  {
+    "id": "FD-1A2558C0341B79",
+    "name": "互联网医疗产品",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-3DEC978B8A5052",
+    "source_function_name": "互联网医院",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-16F7C1FA1C0BAC",
+    "name": "互联网金融产品",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-C73245BF14D2EB",
+    "source_function_name": "互联网金融产品",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-3C6863790542A3",
+    "name": "产品",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-AEA82737CC0186",
+    "source_function_name": "产品",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-72322178A7E217",
+    "name": "产品研发",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-AAFE456F16FFAE",
+    "source_function_name": "产品研发",
+    "jobs": 10,
+    "series": 3
+  },
+  {
+    "id": "FD-82F176FCF8E4A7",
+    "name": "产品营销",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-50BAD69A46DBDE",
+    "source_function_name": "产品营销",
+    "jobs": 10,
+    "series": 2
+  },
+  {
+    "id": "FD-73ECD198D301DA",
+    "name": "产品规划",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-301F1C942DC978",
+    "source_function_name": "产品规划",
+    "jobs": 10,
+    "series": 2
+  },
+  {
+    "id": "FD-B934FAB3503CA2",
+    "name": "产品运营",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-9E566AA5F118D4",
+    "source_function_name": "产品运营",
+    "jobs": 38,
+    "series": 13
+  },
+  {
+    "id": "FD-14DE5DF6AF7ECE",
+    "name": "产品项目",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-F5199C8FD944C5",
+    "source_function_name": "产品项目部",
+    "jobs": 7,
+    "series": 3
+  },
+  {
+    "id": "FD-4FF2AD8CF3AB7A",
+    "name": "商品设计",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-38F5CE6FE32D19",
+    "source_function_name": "场务项目",
+    "jobs": 2,
+    "series": 1
+  },
+  {
+    "id": "FD-9B784BC6B22E0F",
+    "name": "用户体验",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-9F43735F02D60F",
+    "source_function_name": "用户体验",
+    "jobs": 16,
+    "series": 6
+  },
+  {
+    "id": "FD-291FBE7DA8E6F9",
+    "name": "需求分析",
+    "group_id": "FG-AEA82737CC0186",
+    "group_name": "产品",
+    "source_function_id": "BF-D5EDFED2CE8EBF",
+    "source_function_name": "需求分析",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-E77B5B9522DAC6",
+    "name": "人力资源",
+    "group_id": "FG-682A27DF75F206",
+    "group_name": "人力资源与人才服务",
+    "source_function_id": "BF-B578219F9BB300",
+    "source_function_name": "人力资源",
+    "jobs": 60,
+    "series": 15
+  },
+  {
+    "id": "FD-79EEFE2422FB99",
+    "name": "猎聘",
+    "group_id": "FG-682A27DF75F206",
+    "group_name": "人力资源与人才服务",
+    "source_function_id": "BF-4F0190E10F9CE2",
+    "source_function_name": "猎聘",
+    "jobs": 5,
+    "series": 2
+  },
+  {
+    "id": "FD-EEDF150549959D",
+    "name": "会展",
+    "group_id": "FG-44D3745B38FDF7",
+    "group_name": "会展",
+    "source_function_id": "BF-44D3745B38FDF7",
+    "source_function_name": "会展",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-D0A212071ADC9F",
+    "name": "会所",
+    "group_id": "FG-A0D728D09FD328",
+    "group_name": "会所",
+    "source_function_id": "BF-A0D728D09FD328",
+    "source_function_name": "会所",
+    "jobs": 18,
+    "series": 9
+  },
+  {
+    "id": "FD-B131394EAF6FA8",
+    "name": "保险",
+    "group_id": "FG-F0CA6E47A6AF96",
+    "group_name": "保险",
+    "source_function_id": "BF-F0CA6E47A6AF96",
+    "source_function_name": "保险",
+    "jobs": 11,
+    "series": 3
+  },
+  {
+    "id": "FD-D566E41F868FC3",
+    "name": "保险理赔",
+    "group_id": "FG-F0CA6E47A6AF96",
+    "group_name": "保险",
+    "source_function_id": "BF-CE02947B136D77",
+    "source_function_name": "保险理赔",
+    "jobs": 15,
+    "series": 8
+  },
+  {
+    "id": "FD-F5E222EC5012AF",
+    "name": "再保险业务",
+    "group_id": "FG-F0CA6E47A6AF96",
+    "group_name": "保险",
+    "source_function_id": "BF-6521CB4C92D2E0",
+    "source_function_name": "再保险业务",
+    "jobs": 10,
+    "series": 2
+  },
+  {
+    "id": "FD-531BA88BF6F846",
+    "name": "核保",
+    "group_id": "FG-F0CA6E47A6AF96",
+    "group_name": "保险",
+    "source_function_id": "BF-DB2AB29E12822F",
+    "source_function_name": "核保",
+    "jobs": 14,
+    "series": 3
+  },
+  {
+    "id": "FD-8130BA87109334",
+    "name": "信息安全",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-C47CEB351ED02E",
+    "source_function_name": "信息安全",
+    "jobs": 42,
+    "series": 14
+  },
+  {
+    "id": "FD-EA39CB534C63EA",
+    "name": "信息技术",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-BEA5DF18EF44C9",
+    "source_function_name": "信息技术",
+    "jobs": 29,
+    "series": 13
+  },
+  {
+    "id": "FD-9AC801AFA05269",
+    "name": "管理信息系统",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-01E00B223AADCA",
+    "source_function_name": "管理信息系统",
+    "jobs": 15,
+    "series": 4
+  },
+  {
+    "id": "FD-A1668F83235021",
+    "name": "系统工程",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-FDC839F6E1DD34",
+    "source_function_name": "系统工程",
+    "jobs": 5,
+    "series": 2
+  },
+  {
+    "id": "FD-4877F47F7DF710",
+    "name": "网络工程",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-5C198FB6E90819",
+    "source_function_name": "网络工程",
+    "jobs": 7,
+    "series": 2
+  },
+  {
+    "id": "FD-CFB253BAB0C3A2",
+    "name": "运维",
+    "group_id": "FG-C4CE4273D63E81",
+    "group_name": "信息与数字化",
+    "source_function_id": "BF-2805EDF2FBC2A3",
+    "source_function_name": "运维",
+    "jobs": 85,
+    "series": 34
+  },
+  {
+    "id": "FD-8B4BB2C5784681",
+    "name": "信托业务",
+    "group_id": "FG-AB8B31C801016A",
+    "group_name": "信托业务",
+    "source_function_id": "BF-AB8B31C801016A",
+    "source_function_name": "信托业务",
+    "jobs": 9,
+    "series": 2
+  },
+  {
+    "id": "FD-867BB4B95B81AE",
+    "name": "催收",
+    "group_id": "FG-EB7EB8F2A9C80B",
+    "group_name": "催收",
+    "source_function_id": "BF-EB7EB8F2A9C80B",
+    "source_function_name": "催收",
+    "jobs": 12,
+    "series": 5
+  },
+  {
+    "id": "FD-ADADF377CDA91C",
+    "name": "党群工会",
+    "group_id": "FG-55EE9B0498B60B",
+    "group_name": "党群工作",
+    "source_function_id": "BF-76FBAA6B94008C",
+    "source_function_name": "党群工会",
+    "jobs": 24,
+    "series": 9
+  },
+  {
+    "id": "FD-9C538AE1A6DF19",
+    "name": "纪检",
+    "group_id": "FG-55EE9B0498B60B",
+    "group_name": "党群工作",
+    "source_function_id": "BF-34D86FA9C3F1F8",
+    "source_function_name": "纪检",
+    "jobs": 1,
+    "series": 1
+  },
+  {
+    "id": "FD-219CE786085C78",
+    "name": "新媒体记者",
+    "group_id": "FG-35AAB08F2FFC09",
+    "group_name": "内容编辑",
+    "source_function_id": "BF-49A44657183BC7",
+    "source_function_name": "新媒体记者",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-8516400F2C9A5C",
+    "name": "编辑",
+    "group_id": "FG-35AAB08F2FFC09",
+    "group_name": "内容编辑",
+    "source_function_id": "BF-051836569928A9",
+    "source_function_name": "编辑",
+    "jobs": 33,
+    "series": 13
+  },
+  {
+    "id": "FD-05FA240D0362AC",
+    "name": "网站内容",
+    "group_id": "FG-35AAB08F2FFC09",
+    "group_name": "内容编辑",
+    "source_function_id": "BF-132ED78D70730F",
+    "source_function_name": "网站内容",
+    "jobs": 32,
+    "series": 12
+  },
+  {
+    "id": "FD-D83A83F108AE23",
+    "name": "牧场运营",
+    "group_id": "FG-C38F1D05075171",
+    "group_name": "农牧生产",
+    "source_function_id": "BF-D80211BBD12811",
+    "source_function_name": "牧场体系",
+    "jobs": 45,
+    "series": 12
+  },
+  {
+    "id": "FD-7519A1133D1FCD",
+    "name": "畜牧技术",
+    "group_id": "FG-C38F1D05075171",
+    "group_name": "农牧生产",
+    "source_function_id": "BF-71B0C22F3D3FE0",
+    "source_function_name": "畜牧技术",
+    "jobs": 47,
+    "series": 12
+  },
+  {
+    "id": "FD-630B9223833690",
+    "name": "种植技术",
+    "group_id": "FG-C38F1D05075171",
+    "group_name": "农牧生产",
+    "source_function_id": "BF-B6326A5F6EB142",
+    "source_function_name": "种植体系",
+    "jobs": 16,
+    "series": 4
+  },
+  {
+    "id": "FD-DFFDFF3843BEC8",
+    "name": "创意",
+    "group_id": "FG-80F3D96F157D5F",
+    "group_name": "创意与视觉设计",
+    "source_function_id": "BF-71685EFACEE1E6",
+    "source_function_name": "创意",
+    "jobs": 76,
+    "series": 27
+  },
+  {
+    "id": "FD-BB597E9292CDDF",
+    "name": "美工",
+    "group_id": "FG-80F3D96F157D5F",
+    "group_name": "创意与视觉设计",
+    "source_function_id": "BF-A06B27F3F3C870",
+    "source_function_name": "美工",
+    "jobs": 53,
+    "series": 26
+  },
+  {
+    "id": "FD-91D166240F2EF5",
+    "name": "勘探",
+    "group_id": "FG-79B9250E2984F1",
+    "group_name": "勘探",
+    "source_function_id": "BF-79B9250E2984F1",
+    "source_function_name": "勘探",
+    "jobs": 19,
+    "series": 4
+  },
+  {
+    "id": "FD-CD3D200544B6EC",
+    "name": "临床科室",
+    "group_id": "FG-7A0DFEE6C788F7",
+    "group_name": "医疗与医学服务",
+    "source_function_id": "BF-1F203317411DC2",
+    "source_function_name": "临床科室",
+    "jobs": 467,
+    "series": 131
+  },
+  {
+    "id": "FD-B1FD0CFC6F14A5",
+    "name": "互联网医院",
+    "group_id": "FG-7A0DFEE6C788F7",
+    "group_name": "医疗与医学服务",
+    "source_function_id": "BF-3DEC978B8A5052",
+    "source_function_name": "互联网医院",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-51978ECB8A1DF3",
+    "name": "医学事务",
+    "group_id": "FG-7A0DFEE6C788F7",
+    "group_name": "医疗与医学服务",
+    "source_function_id": "BF-BB414EFB4B72E3",
+    "source_function_name": "医学部",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-E0F2A7E827598F",
+    "name": "医技科室",
+    "group_id": "FG-7A0DFEE6C788F7",
+    "group_name": "医疗与医学服务",
+    "source_function_id": "BF-2ECAAE6C2D037E",
+    "source_function_name": "医技科室",
+    "jobs": 74,
+    "series": 22
+  },
+  {
+    "id": "FD-A7A4682FCA41FB",
+    "name": "医疗养护中心",
+    "group_id": "FG-7A0DFEE6C788F7",
+    "group_name": "医疗与医学服务",
+    "source_function_id": "BF-EA947F0A60C2EA",
+    "source_function_name": "医疗养护中心",
+    "jobs": 27,
+    "series": 15
+  },
+  {
+    "id": "FD-0B52EC1ADDD7D4",
+    "name": "发行",
+    "group_id": "FG-A2A41A1D7535BA",
+    "group_name": "发行",
+    "source_function_id": "BF-A2A41A1D7535BA",
+    "source_function_name": "发行",
+    "jobs": 17,
+    "series": 3
+  },
+  {
+    "id": "FD-1877E6910F46E5",
+    "name": "变电设计",
+    "group_id": "FG-4C403431191A58",
+    "group_name": "变电设计",
+    "source_function_id": "BF-4C403431191A58",
+    "source_function_name": "变电设计",
+    "jobs": 13,
+    "series": 4
+  },
+  {
+    "id": "FD-B72F1046DD8008",
+    "name": "咨询",
+    "group_id": "FG-E1202AD4634B61",
+    "group_name": "咨询",
+    "source_function_id": "BF-E1202AD4634B61",
+    "source_function_name": "咨询",
+    "jobs": 39,
+    "series": 12
+  },
+  {
+    "id": "FD-067E572ADAF280",
+    "name": "工程咨询",
+    "group_id": "FG-E1202AD4634B61",
+    "group_name": "咨询",
+    "source_function_id": "BF-22C41391CE8AFB",
+    "source_function_name": "工程咨询",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-F9585768466C46",
+    "name": "管理咨询",
+    "group_id": "FG-E1202AD4634B61",
+    "group_name": "咨询",
+    "source_function_id": "BF-B462FDA741E30B",
+    "source_function_name": "管理咨询",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-496690F0DF6446",
+    "name": "商业项目",
+    "group_id": "FG-AE3BE96C5F02C4",
+    "group_name": "商业项目",
+    "source_function_id": "BF-AE3BE96C5F02C4",
+    "source_function_name": "商业项目",
+    "jobs": 13,
+    "series": 4
+  },
+  {
+    "id": "FD-6863DE72E18F7C",
+    "name": "MCN",
+    "group_id": "FG-9DC4E73EA671C2",
+    "group_name": "商务",
+    "source_function_id": "BF-A7D7C808EFF0DB",
+    "source_function_name": "MCN",
+    "jobs": 3,
+    "series": 2
+  },
+  {
+    "id": "FD-3ADFFC774AC6E6",
+    "name": "加盟事务",
+    "group_id": "FG-9DC4E73EA671C2",
+    "group_name": "商务",
+    "source_function_id": "BF-CA521EFF4ACF94",
+    "source_function_name": "加盟事务",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-F53772F576B63B",
+    "name": "商务",
+    "group_id": "FG-9DC4E73EA671C2",
+    "group_name": "商务",
+    "source_function_id": "BF-9DC4E73EA671C2",
+    "source_function_name": "商务",
+    "jobs": 76,
+    "series": 18
+  },
+  {
+    "id": "FD-673C10AD5A3C9D",
+    "name": "移动业务",
+    "group_id": "FG-9DC4E73EA671C2",
+    "group_name": "商务",
+    "source_function_id": "BF-8389B003E200CA",
+    "source_function_name": "移动业务",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-B099824F63DDFD",
+    "name": "场地服务",
+    "group_id": "FG-3ADCAD5AC035BF",
+    "group_name": "场地运营",
+    "source_function_id": "BF-E5F31ABC471ECD",
+    "source_function_name": "场地服务",
+    "jobs": 2,
+    "series": 1
+  },
+  {
+    "id": "FD-0F9EA0740359E5",
+    "name": "场地运营",
+    "group_id": "FG-3ADCAD5AC035BF",
+    "group_name": "场地运营",
+    "source_function_id": "BF-3ADCAD5AC035BF",
+    "source_function_name": "场地运营",
+    "jobs": 68,
+    "series": 23
+  },
+  {
+    "id": "FD-26F77874F0BABC",
+    "name": "实验室",
+    "group_id": "FG-BA8681D272260A",
+    "group_name": "实验室",
+    "source_function_id": "BF-BA8681D272260A",
+    "source_function_name": "实验室",
+    "jobs": 12,
+    "series": 5
+  },
+  {
+    "id": "FD-A196C3DE0E8047",
+    "name": "质谱",
+    "group_id": "FG-BA8681D272260A",
+    "group_name": "实验室",
+    "source_function_id": "BF-FD4EB6C4FF63FA",
+    "source_function_name": "质谱",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-3A06EACE4624E9",
+    "name": "审计",
+    "group_id": "FG-E73D84773A078B",
+    "group_name": "审计",
+    "source_function_id": "BF-E73D84773A078B",
+    "source_function_name": "审计",
+    "jobs": 13,
+    "series": 3
+  },
+  {
+    "id": "FD-06C5DD54E9D34E",
+    "name": "公寓",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-E73BB0BB82E2CC",
+    "source_function_name": "公寓",
+    "jobs": 2,
+    "series": 1
+  },
+  {
+    "id": "FD-E4039DB8C34934",
+    "name": "别墅管家",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-6F6E62BF112940",
+    "source_function_name": "别墅管家部",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-7DA9A594F766BF",
+    "name": "客务接待",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-B78C0C6A3C6538",
+    "source_function_name": "客务部",
+    "jobs": 27,
+    "series": 6
+  },
+  {
+    "id": "FD-B80185C46A481D",
+    "name": "机场接待",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-C2837BCE4414A2",
+    "source_function_name": "机场接待",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-010178C587D325",
+    "name": "楼层管理",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-EEED2DBE9688C9",
+    "source_function_name": "楼层管理",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-10C2977735E9E2",
+    "name": "预订服务",
+    "group_id": "FG-28049C7F3EF50D",
+    "group_name": "客务服务",
+    "source_function_id": "BF-13C5F3ADDC8C4B",
+    "source_function_name": "预定中心",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-C67488D7C80A9B",
+    "name": "客户关系",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-F5AAC8389787BE",
+    "source_function_name": "客户关系",
+    "jobs": 22,
+    "series": 8
+  },
+  {
+    "id": "FD-47BC3E898D1727",
+    "name": "客户工程",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-9DE10AB6C35706",
+    "source_function_name": "客户工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-F0644D4FE03F6F",
+    "name": "客户服务",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-54D9984D285A17",
+    "source_function_name": "客户服务",
+    "jobs": 96,
+    "series": 30
+  },
+  {
+    "id": "FD-9A6E92AE567409",
+    "name": "客服转接",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-5515013BC5F203",
+    "source_function_name": "现场管理",
+    "jobs": 2,
+    "series": 1
+  },
+  {
+    "id": "FD-8CFC4270BBB6D4",
+    "name": "挂号",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-BDE0C6CB5FE6E4",
+    "source_function_name": "挂号",
+    "jobs": 6,
+    "series": 2
+  },
+  {
+    "id": "FD-741C6D2549BE5C",
+    "name": "项目客户关系",
+    "group_id": "FG-54D9984D285A17",
+    "group_name": "客户服务",
+    "source_function_id": "BF-65739985B5A32B",
+    "source_function_name": "项目客户关系",
+    "jobs": 24,
+    "series": 6
+  },
+  {
+    "id": "FD-9DD54DC889C0B9",
+    "name": "对外贸易",
+    "group_id": "FG-099888DDA29A47",
+    "group_name": "对外贸易",
+    "source_function_id": "BF-099888DDA29A47",
+    "source_function_name": "对外贸易",
+    "jobs": 6,
+    "series": 1
+  },
+  {
+    "id": "FD-B2B085CA3D4239",
+    "name": "业务技术",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-EE9E09F3E551C0",
+    "source_function_name": "业务技术",
+    "jobs": 13,
+    "series": 5
+  },
+  {
+    "id": "FD-26184F5245F950",
+    "name": "化学工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-673DDFDC3AED25",
+    "source_function_name": "化学工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-F1228BA7E7589E",
+    "name": "合成工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-4E78D0AC2F41CA",
+    "source_function_name": "合成工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-DB7AB9FB3976CB",
+    "name": "基建筹建",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-BB1BED3E095F14",
+    "source_function_name": "筹建中心",
+    "jobs": 5,
+    "series": 2
+  },
+  {
+    "id": "FD-20DA29D4A930BD",
+    "name": "工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-85D56BF4D4229A",
+    "source_function_name": "工程",
+    "jobs": 19,
+    "series": 6
+  },
+  {
+    "id": "FD-7D3902DF84F827",
+    "name": "工程技术",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-88B2C1272227EA",
+    "source_function_name": "工程技术",
+    "jobs": 22,
+    "series": 8
+  },
+  {
+    "id": "FD-ADAF1FD24E4744",
+    "name": "工程支持",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-A63E13B1AE5911",
+    "source_function_name": "工程支持",
+    "jobs": 17,
+    "series": 7
+  },
+  {
+    "id": "FD-5F357FEDE800F4",
+    "name": "工程监理",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-840B3245A7FD47",
+    "source_function_name": "工程监理",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-496632576A152A",
+    "name": "工程管理",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-0150BA44A392C9",
+    "source_function_name": "工程管理",
+    "jobs": 81,
+    "series": 35
+  },
+  {
+    "id": "FD-3AEECD5444F688",
+    "name": "工程综合",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-FB19230C7732E1",
+    "source_function_name": "工程部",
+    "jobs": 27,
+    "series": 12
+  },
+  {
+    "id": "FD-973C93E984A6D4",
+    "name": "工程项目",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-432715237D1CBA",
+    "source_function_name": "工程项目",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-81E4AF394C38DA",
+    "name": "店面工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-FD2039AF4338F5",
+    "source_function_name": "店面工程",
+    "jobs": 6,
+    "series": 2
+  },
+  {
+    "id": "FD-002FEB7954C1F8",
+    "name": "建筑工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-A34AB9100F1CA8",
+    "source_function_name": "建筑工程",
+    "jobs": 9,
+    "series": 3
+  },
+  {
+    "id": "FD-5BD6BF9FA825E9",
+    "name": "开发筹建",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-B90F48BBC65E6A",
+    "source_function_name": "开发筹建",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-5506C58DCEDABB",
+    "name": "技术",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-4AA1A3C6743F7D",
+    "source_function_name": "技术",
+    "jobs": 15,
+    "series": 4
+  },
+  {
+    "id": "FD-B6951BB071AF60",
+    "name": "无机工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-E9054730573FB2",
+    "source_function_name": "无机工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-E7A180E7893123",
+    "name": "有机工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-792C24EAD9CDD0",
+    "source_function_name": "有机工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-AF2CCC0D1492BC",
+    "name": "机械工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-8793E25372A32C",
+    "source_function_name": "机械工程",
+    "jobs": 8,
+    "series": 3
+  },
+  {
+    "id": "FD-62448EDE427EAA",
+    "name": "现场工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-E58C2485016EF0",
+    "source_function_name": "现场工程",
+    "jobs": 14,
+    "series": 4
+  },
+  {
+    "id": "FD-CF1B9BBFD9DFB8",
+    "name": "现场管理",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-5515013BC5F203",
+    "source_function_name": "现场管理",
+    "jobs": 12,
+    "series": 5
+  },
+  {
+    "id": "FD-E019EFA2B2DB2C",
+    "name": "电气工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-E43F04F324CBDB",
+    "source_function_name": "电气工程",
+    "jobs": 7,
+    "series": 3
+  },
+  {
+    "id": "FD-6CFE1FA4DE312C",
+    "name": "电解工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-33E290AF81FC31",
+    "source_function_name": "电解工程",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-DBAE1CDC387D5C",
+    "name": "设计",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-56C255E1985892",
+    "source_function_name": "设计",
+    "jobs": 46,
+    "series": 16
+  },
+  {
+    "id": "FD-D9CD3C5E1082FC",
+    "name": "项目工程",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-1689B611E164BE",
+    "source_function_name": "项目工程",
+    "jobs": 89,
+    "series": 27
+  },
+  {
+    "id": "FD-7089D140E25B97",
+    "name": "风电项目",
+    "group_id": "FG-85D56BF4D4229A",
+    "group_name": "工程",
+    "source_function_id": "BF-189E323A72AFF1",
+    "source_function_name": "风电项目",
+    "jobs": 6,
+    "series": 3
+  },
+  {
+    "id": "FD-547E345BA30DF1",
+    "name": "工程作业",
+    "group_id": "FG-CF17BDAE0F791C",
+    "group_name": "工程作业",
+    "source_function_id": "BF-CF17BDAE0F791C",
+    "source_function_name": "工程作业",
+    "jobs": 65,
+    "series": 22
+  },
+  {
+    "id": "FD-E4A9A8F6191AA3",
+    "name": "企划",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-E41907B2819818",
+    "source_function_name": "企划",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-98F177073F1AD6",
+    "name": "品牌运营",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-8958D67AD41531",
+    "source_function_name": "品牌运营",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-00E05FC3DFCB04",
+    "name": "媒介",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-AE5105499637CF",
+    "source_function_name": "媒介",
+    "jobs": 35,
+    "series": 8
+  },
+  {
+    "id": "FD-04A62A0888F365",
+    "name": "市场",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-9C1E8BD22488DE",
+    "source_function_name": "市场",
+    "jobs": 184,
+    "series": 49
+  },
+  {
+    "id": "FD-B5A735E9885A8F",
+    "name": "市场调研",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-5466AD947F5C27",
+    "source_function_name": "市场调研",
+    "jobs": 6,
+    "series": 2
+  },
+  {
+    "id": "FD-0EBAD89DFBC603",
+    "name": "搜索引擎",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-82CBE72AB9D93E",
+    "source_function_name": "搜索引擎",
+    "jobs": 13,
+    "series": 5
+  },
+  {
+    "id": "FD-BFDF6CF4FCEA45",
+    "name": "营销策划",
+    "group_id": "FG-31125091202370",
+    "group_name": "市场与营销",
+    "source_function_id": "BF-43DC3F884743D7",
+    "source_function_name": "营销策划",
+    "jobs": 103,
+    "series": 30
+  },
+  {
+    "id": "FD-B60FB0087A9142",
+    "name": "应用技术",
+    "group_id": "FG-EA5F81887EBA6F",
+    "group_name": "应用技术",
+    "source_function_id": "BF-EA5F81887EBA6F",
+    "source_function_name": "应用技术",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-A84736894076BA",
+    "name": "开发",
+    "group_id": "FG-9EC428625FEE9E",
+    "group_name": "开发",
+    "source_function_id": "BF-9EC428625FEE9E",
+    "source_function_name": "开发",
+    "jobs": 21,
+    "series": 7
+  },
+  {
+    "id": "FD-C8AB050050BC1F",
+    "name": "动画",
+    "group_id": "FG-8279863F1FED96",
+    "group_name": "影视制作",
+    "source_function_id": "BF-B15435CED2C912",
+    "source_function_name": "动画",
+    "jobs": 26,
+    "series": 9
+  },
+  {
+    "id": "FD-35AAEF9FE6BB74",
+    "name": "动画特效",
+    "group_id": "FG-8279863F1FED96",
+    "group_name": "影视制作",
+    "source_function_id": "BF-131C2B93266BF6",
+    "source_function_name": "动画特效",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-8A7835260223E4",
+    "name": "后期制作",
+    "group_id": "FG-8279863F1FED96",
+    "group_name": "影视制作",
+    "source_function_id": "BF-8AC8A9B6E6622C",
+    "source_function_name": "后期制作",
+    "jobs": 12,
+    "series": 4
+  },
+  {
+    "id": "FD-FF4C59E60DEBE3",
+    "name": "影视",
+    "group_id": "FG-8279863F1FED96",
+    "group_name": "影视制作",
+    "source_function_id": "BF-625B97D43BCEC5",
+    "source_function_name": "影视",
+    "jobs": 19,
+    "series": 5
+  },
+  {
+    "id": "FD-9D3924C9F17133",
+    "name": "节目",
+    "group_id": "FG-8279863F1FED96",
+    "group_name": "影视制作",
+    "source_function_id": "BF-817E8D3ABD68BA",
+    "source_function_name": "节目",
+    "jobs": 12,
+    "series": 6
+  },
+  {
+    "id": "FD-48523C56D35B72",
+    "name": "影院",
+    "group_id": "FG-6A88149D67EC9C",
+    "group_name": "影院",
+    "source_function_id": "BF-6A88149D67EC9C",
+    "source_function_name": "影院",
+    "jobs": 15,
+    "series": 5
+  },
+  {
+    "id": "FD-09A0E7E98FFD52",
+    "name": "成本控制",
+    "group_id": "FG-34B37D1B6C9351",
+    "group_name": "成本与造价",
+    "source_function_id": "BF-6936AD230A9C21",
+    "source_function_name": "成本控制",
+    "jobs": 6,
+    "series": 2
+  },
+  {
+    "id": "FD-CD86032DFED68A",
+    "name": "造价",
+    "group_id": "FG-34B37D1B6C9351",
+    "group_name": "成本与造价",
+    "source_function_id": "BF-A5EF89084C310E",
+    "source_function_name": "造价",
+    "jobs": 48,
+    "series": 13
+  },
+  {
+    "id": "FD-9214F243E93796",
+    "name": "战略发展/业务发展",
+    "group_id": "FG-41693DAD59EFCD",
+    "group_name": "战略发展/业务发展",
+    "source_function_id": "BF-41693DAD59EFCD",
+    "source_function_name": "战略发展/业务发展",
+    "jobs": 79,
+    "series": 19
+  },
+  {
+    "id": "FD-5EC8691E7EE93F",
+    "name": "经纪",
+    "group_id": "FG-FA3617F0CF0744",
+    "group_name": "房地产经纪",
+    "source_function_id": "BF-EBD85C620173AC",
+    "source_function_name": "经纪",
+    "jobs": 14,
+    "series": 3
+  },
+  {
+    "id": "FD-8066C050B3B1C0",
+    "name": "技术检测",
+    "group_id": "FG-9D832F50F10C33",
+    "group_name": "技术检测",
+    "source_function_id": "BF-9D832F50F10C33",
+    "source_function_name": "技术检测",
+    "jobs": 24,
+    "series": 9
+  },
+  {
+    "id": "FD-4B4E6690AB9D29",
+    "name": "固定收益",
+    "group_id": "FG-68EE71BCF6B4C9",
+    "group_name": "投资业务",
+    "source_function_id": "BF-042377432BBAC0",
+    "source_function_name": "固定收益",
+    "jobs": 9,
+    "series": 2
+  },
+  {
+    "id": "FD-52CAD9C075C8B4",
+    "name": "基金管理",
+    "group_id": "FG-68EE71BCF6B4C9",
+    "group_name": "投资业务",
+    "source_function_id": "BF-1D69886114B364",
+    "source_function_name": "基金管理",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-84EE8372EAAFD6",
+    "name": "投资业务",
+    "group_id": "FG-68EE71BCF6B4C9",
+    "group_name": "投资业务",
+    "source_function_id": "BF-68EE71BCF6B4C9",
+    "source_function_name": "投资业务",
+    "jobs": 62,
+    "series": 14
+  },
+  {
+    "id": "FD-85A4EAA785CBD6",
+    "name": "投资发展",
+    "group_id": "FG-68EE71BCF6B4C9",
+    "group_name": "投资业务",
+    "source_function_id": "BF-37CC856C624C40",
+    "source_function_name": "投资发展",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-0BF6A49976CBB9",
+    "name": "证券投资",
+    "group_id": "FG-68EE71BCF6B4C9",
+    "group_name": "投资业务",
+    "source_function_id": "BF-47B5C4581E33A2",
+    "source_function_name": "证券投资",
+    "jobs": 12,
+    "series": 3
+  },
+  {
+    "id": "FD-86A3A11FDB4F4D",
+    "name": "投资研究",
+    "group_id": "FG-44F8A3A112EA69",
+    "group_name": "投资研究",
+    "source_function_id": "BF-44F8A3A112EA69",
+    "source_function_name": "投资研究",
+    "jobs": 32,
+    "series": 10
+  },
+  {
+    "id": "FD-17505F97202018",
+    "name": "量化金融",
+    "group_id": "FG-44F8A3A112EA69",
+    "group_name": "投资研究",
+    "source_function_id": "BF-6DD1612D5027A2",
+    "source_function_name": "量化金融",
+    "jobs": 11,
+    "series": 4
+  },
+  {
+    "id": "FD-6354BCE37F187E",
+    "name": "投融资",
+    "group_id": "FG-9BCE078A034BA5",
+    "group_name": "投资银行业务",
+    "source_function_id": "BF-E4A1C85A370D10",
+    "source_function_name": "投融资",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-3A82F95C826861",
+    "name": "投资银行业务",
+    "group_id": "FG-9BCE078A034BA5",
+    "group_name": "投资银行业务",
+    "source_function_id": "BF-9BCE078A034BA5",
+    "source_function_name": "投资银行业务",
+    "jobs": 24,
+    "series": 6
+  },
+  {
+    "id": "FD-F2974C2B98FB94",
+    "name": "担保业务",
+    "group_id": "FG-76482C87CE01B9",
+    "group_name": "担保业务",
+    "source_function_id": "BF-76482C87CE01B9",
+    "source_function_name": "担保业务",
+    "jobs": 33,
+    "series": 7
+  },
+  {
+    "id": "FD-58042EAD0A9E7D",
+    "name": "招投标",
+    "group_id": "FG-B33188006E309D",
+    "group_name": "招投标",
+    "source_function_id": "BF-B33188006E309D",
+    "source_function_name": "招投标",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-5F0D5A39B755E7",
+    "name": "政府事务",
+    "group_id": "FG-2EECE533B2AFDF",
+    "group_name": "政府事务",
+    "source_function_id": "BF-2EECE533B2AFDF",
+    "source_function_name": "政府事务",
+    "jobs": 9,
+    "series": 2
+  },
+  {
+    "id": "FD-B60A43CD76945E",
+    "name": "初中教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-7EEAABD66C943A",
+    "source_function_name": "初中教育",
+    "jobs": 47,
+    "series": 17
+  },
+  {
+    "id": "FD-A3A110E8447B6E",
+    "name": "国际教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-8698D00BFB86A6",
+    "source_function_name": "国际教育",
+    "jobs": 153,
+    "series": 61
+  },
+  {
+    "id": "FD-84F76E656D7C6E",
+    "name": "培训",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-1A01EE7AEE5B45",
+    "source_function_name": "培训",
+    "jobs": 41,
+    "series": 12
+  },
+  {
+    "id": "FD-3BD9F6D66BC7E3",
+    "name": "外教",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-5AF4350D3DBBE0",
+    "source_function_name": "外教",
+    "jobs": 9,
+    "series": 3
+  },
+  {
+    "id": "FD-E6AF37BC815FD2",
+    "name": "学前教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-E7D52F36FC008D",
+    "source_function_name": "学前教育",
+    "jobs": 30,
+    "series": 12
+  },
+  {
+    "id": "FD-33B22992D64EC9",
+    "name": "小学教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-695E6ED120316F",
+    "source_function_name": "小学教育",
+    "jobs": 40,
+    "series": 14
+  },
+  {
+    "id": "FD-0A3410FF08782E",
+    "name": "教务",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-CFBF3324488585",
+    "source_function_name": "教务",
+    "jobs": 37,
+    "series": 12
+  },
+  {
+    "id": "FD-EC0A5E9FF8EE46",
+    "name": "教学管理",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-F4D1A3BFD0CC87",
+    "source_function_name": "教学管理",
+    "jobs": 8,
+    "series": 3
+  },
+  {
+    "id": "FD-C5480FE1192D62",
+    "name": "教师发展",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-BB14A09E77273B",
+    "source_function_name": "教师发展",
+    "jobs": 8,
+    "series": 3
+  },
+  {
+    "id": "FD-201469584FAE34",
+    "name": "教材教辅",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-A7E758E8BEDAE5",
+    "source_function_name": "教材教辅",
+    "jobs": 27,
+    "series": 9
+  },
+  {
+    "id": "FD-00ADDFAF38B55A",
+    "name": "教研",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-4FAD5B7CC0F783",
+    "source_function_name": "教研",
+    "jobs": 14,
+    "series": 4
+  },
+  {
+    "id": "FD-9B1B0087FAF918",
+    "name": "教练",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-4FC1343AA793EE",
+    "source_function_name": "教练",
+    "jobs": 30,
+    "series": 13
+  },
+  {
+    "id": "FD-81A67D6B43636A",
+    "name": "职业教育/培训辅导",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-6B23F414DC7DC4",
+    "source_function_name": "职业教育/培训辅导",
+    "jobs": 69,
+    "series": 26
+  },
+  {
+    "id": "FD-01CC22BA9086EB",
+    "name": "高中教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-E6E5B374865151",
+    "source_function_name": "高中教育",
+    "jobs": 50,
+    "series": 17
+  },
+  {
+    "id": "FD-8C2453AF776F0C",
+    "name": "高校教育",
+    "group_id": "FG-C71A20FA53C779",
+    "group_name": "教育与培训",
+    "source_function_id": "BF-2BE1B5B8D420F7",
+    "source_function_name": "高校教育",
+    "jobs": 7,
+    "series": 3
+  },
+  {
+    "id": "FD-92B5CD760E274C",
+    "name": "数据分析",
+    "group_id": "FG-5440F7424F2865",
+    "group_name": "数据",
+    "source_function_id": "BF-5D8EC6F62009EE",
+    "source_function_name": "数据分析",
+    "jobs": 27,
+    "series": 11
+  },
+  {
+    "id": "FD-96C0DFDE4390EE",
+    "name": "数据管理",
+    "group_id": "FG-5440F7424F2865",
+    "group_name": "数据",
+    "source_function_id": "BF-9BB882C6229AC1",
+    "source_function_name": "数据管理",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-61764A827EBF3E",
+    "name": "数据采集",
+    "group_id": "FG-5440F7424F2865",
+    "group_name": "数据",
+    "source_function_id": "BF-64BF41B075C9FD",
+    "source_function_name": "数据采集",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-592BC2B30A01EF",
+    "name": "文艺活动",
+    "group_id": "FG-CD25DFF7EA9F19",
+    "group_name": "文艺活动",
+    "source_function_id": "BF-CD25DFF7EA9F19",
+    "source_function_name": "文艺活动",
+    "jobs": 81,
+    "series": 40
+  },
+  {
+    "id": "FD-5B6217234824FC",
+    "name": "签证",
+    "group_id": "FG-28A13F447012BA",
+    "group_name": "旅游服务",
+    "source_function_id": "BF-A049A6815ED888",
+    "source_function_name": "签证",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-DBF4C1FCC2DB07",
+    "name": "计调",
+    "group_id": "FG-28A13F447012BA",
+    "group_name": "旅游服务",
+    "source_function_id": "BF-F092E2567AC168",
+    "source_function_name": "计调",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-F9FA51A3183695",
+    "name": "法律合规",
+    "group_id": "FG-687F9CF309A6BA",
+    "group_name": "法律合规",
+    "source_function_id": "BF-687F9CF309A6BA",
+    "source_function_name": "法律合规",
+    "jobs": 50,
+    "series": 12
+  },
+  {
+    "id": "FD-9824841362A887",
+    "name": "诉讼",
+    "group_id": "FG-687F9CF309A6BA",
+    "group_name": "法律合规",
+    "source_function_id": "BF-AB146FEE147E43",
+    "source_function_name": "诉讼",
+    "jobs": 21,
+    "series": 5
+  },
+  {
+    "id": "FD-0DB21A52F1DD82",
+    "name": "数模测试",
+    "group_id": "FG-6AA8F49CC992DF",
+    "group_name": "测试",
+    "source_function_id": "BF-60B461ACA21C43",
+    "source_function_name": "数模测试",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-57BB5C3B5C322D",
+    "name": "测试",
+    "group_id": "FG-6AA8F49CC992DF",
+    "group_name": "测试",
+    "source_function_id": "BF-6AA8F49CC992DF",
+    "source_function_name": "测试",
+    "jobs": 76,
+    "series": 22
+  },
+  {
+    "id": "FD-F58E7C384DD24B",
+    "name": "设备测试",
+    "group_id": "FG-6AA8F49CC992DF",
+    "group_name": "测试",
+    "source_function_id": "BF-31CB6155924748",
+    "source_function_name": "设备测试",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-75D3AD6AF77344",
+    "name": "静模测试",
+    "group_id": "FG-6AA8F49CC992DF",
+    "group_name": "测试",
+    "source_function_id": "BF-19739246829C0C",
+    "source_function_name": "静模测试",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-9619FA553CEEAE",
+    "name": "游客部",
+    "group_id": "FG-8A071A3ECD08FC",
+    "group_name": "游客部",
+    "source_function_id": "BF-8A071A3ECD08FC",
+    "source_function_name": "游客部",
+    "jobs": 17,
+    "series": 7
+  },
+  {
+    "id": "FD-C509110141C5BF",
+    "name": "游戏",
+    "group_id": "FG-847C5F681CE955",
+    "group_name": "游戏",
+    "source_function_id": "BF-847C5F681CE955",
+    "source_function_name": "游戏",
+    "jobs": 36,
+    "series": 12
+  },
+  {
+    "id": "FD-1BB609A91D4700",
+    "name": "版权",
+    "group_id": "FG-8A5C7A0C197E6F",
+    "group_name": "版权",
+    "source_function_id": "BF-8A5C7A0C197E6F",
+    "source_function_name": "版权",
+    "jobs": 14,
+    "series": 3
+  },
+  {
+    "id": "FD-69677CA830DFFD",
+    "name": "物业工程",
+    "group_id": "FG-929FD8AD7333EF",
+    "group_name": "物业工程",
+    "source_function_id": "BF-929FD8AD7333EF",
+    "source_function_name": "物业工程",
+    "jobs": 48,
+    "series": 20
+  },
+  {
+    "id": "FD-845F33F09B2083",
+    "name": "商业服务",
+    "group_id": "FG-F1E91827182C1E",
+    "group_name": "物业管理",
+    "source_function_id": "BF-05DD6C47765AF4",
+    "source_function_name": "商业服务",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-524DC1F29582DB",
+    "name": "物业管理",
+    "group_id": "FG-F1E91827182C1E",
+    "group_name": "物业管理",
+    "source_function_id": "BF-F1E91827182C1E",
+    "source_function_name": "物业管理",
+    "jobs": 30,
+    "series": 8
+  },
+  {
+    "id": "FD-86BF60E677169B",
+    "name": "塑料生产",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-B416300428A11D",
+    "source_function_name": "塑料生产",
+    "jobs": 5,
+    "series": 4
+  },
+  {
+    "id": "FD-7AD1BE02DFEEA5",
+    "name": "模具制造",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-94F04913B026C2",
+    "source_function_name": "模具制造",
+    "jobs": 4,
+    "series": 3
+  },
+  {
+    "id": "FD-15947C8BB1EEAC",
+    "name": "生产",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-76AB7D3B41F232",
+    "source_function_name": "生产",
+    "jobs": 470,
+    "series": 189
+  },
+  {
+    "id": "FD-301E1376FDC6D1",
+    "name": "生产准备",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-68B64A1B201B3A",
+    "source_function_name": "生产准备",
+    "jobs": 16,
+    "series": 6
+  },
+  {
+    "id": "FD-8386998B87481C",
+    "name": "生产工艺",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-FD4FC53C9179B7",
+    "source_function_name": "生产工艺",
+    "jobs": 161,
+    "series": 62
+  },
+  {
+    "id": "FD-592DA3C7991E34",
+    "name": "生产技术",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-E11EECA361A525",
+    "source_function_name": "生产技术",
+    "jobs": 212,
+    "series": 92
+  },
+  {
+    "id": "FD-67356800FA39EC",
+    "name": "生产管理",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-2BE91784C2978C",
+    "source_function_name": "生产管理",
+    "jobs": 28,
+    "series": 11
+  },
+  {
+    "id": "FD-1ED9A4ECE814EF",
+    "name": "生产运行",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-AE3668C6AB1AAE",
+    "source_function_name": "生产运行",
+    "jobs": 26,
+    "series": 11
+  },
+  {
+    "id": "FD-A2125B2BCFCB1E",
+    "name": "矿产生产",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-98C091546B7162",
+    "source_function_name": "矿产生产",
+    "jobs": 22,
+    "series": 8
+  },
+  {
+    "id": "FD-AE6957852B60A8",
+    "name": "船务制造",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-C1917231D205BF",
+    "source_function_name": "船务制造",
+    "jobs": 29,
+    "series": 8
+  },
+  {
+    "id": "FD-634D613D0E8ED0",
+    "name": "船舶分段",
+    "group_id": "FG-F30EC024911CD1",
+    "group_name": "生产制造",
+    "source_function_id": "BF-2306CA57E9A819",
+    "source_function_name": "船舶分段",
+    "jobs": 18,
+    "series": 4
+  },
+  {
+    "id": "FD-097B145C1C5D59",
+    "name": "电子商务",
+    "group_id": "FG-DDA2F979076534",
+    "group_name": "电子商务",
+    "source_function_id": "BF-DDA2F979076534",
+    "source_function_name": "电子商务",
+    "jobs": 85,
+    "series": 28
+  },
+  {
+    "id": "FD-FC21BE5057514C",
+    "name": "农作物研究",
+    "group_id": "FG-CB086D66CD715F",
+    "group_name": "研发",
+    "source_function_id": "BF-11926E042C2ADF",
+    "source_function_name": "农作物研究",
+    "jobs": 15,
+    "series": 5
+  },
+  {
+    "id": "FD-947CB7BEDAE57E",
+    "name": "畜牧饲料",
+    "group_id": "FG-CB086D66CD715F",
+    "group_name": "研发",
+    "source_function_id": "BF-788923C0695FA1",
+    "source_function_name": "畜牧饲料",
+    "jobs": 12,
+    "series": 4
+  },
+  {
+    "id": "FD-88BCE89B79558A",
+    "name": "研发",
+    "group_id": "FG-CB086D66CD715F",
+    "group_name": "研发",
+    "source_function_id": "BF-CB086D66CD715F",
+    "source_function_name": "研发",
+    "jobs": 576,
+    "series": 196
+  },
+  {
+    "id": "FD-EF2066F25A2414",
+    "name": "租赁业务",
+    "group_id": "FG-33C124D35B45D7",
+    "group_name": "租赁业务",
+    "source_function_id": "BF-33C124D35B45D7",
+    "source_function_name": "租赁业务",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-C429800588BD1E",
+    "name": "秩序保护",
+    "group_id": "FG-62861CDF5940F7",
+    "group_name": "秩序保护",
+    "source_function_id": "BF-62861CDF5940F7",
+    "source_function_name": "秩序保护",
+    "jobs": 23,
+    "series": 8
+  },
+  {
+    "id": "FD-FCB5BA8E05B504",
+    "name": "综合管理",
+    "group_id": "FG-C3C9B98591D9E2",
+    "group_name": "综合管理",
+    "source_function_id": "BF-C3C9B98591D9E2",
+    "source_function_name": "综合管理",
+    "jobs": 60,
+    "series": 41
+  },
+  {
+    "id": "FD-6FB883BE0AABEC",
+    "name": "能源管理",
+    "group_id": "FG-12098DAEA4858D",
+    "group_name": "能源管理",
+    "source_function_id": "BF-12098DAEA4858D",
+    "source_function_name": "能源管理",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-15BE1201A5BDDE",
+    "name": "艺术展馆",
+    "group_id": "FG-5B602A4800C934",
+    "group_name": "艺术展馆",
+    "source_function_id": "BF-5B602A4800C934",
+    "source_function_name": "艺术展馆",
+    "jobs": 23,
+    "series": 9
+  },
+  {
+    "id": "FD-7F9ECA318CF7B5",
+    "name": "疫苗研发",
+    "group_id": "FG-FDBF54C0F1D1BB",
+    "group_name": "药品研发",
+    "source_function_id": "BF-2F8753D9D8DD2A",
+    "source_function_name": "疫苗研发",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-A2B8E40B88B3B6",
+    "name": "药品研发",
+    "group_id": "FG-FDBF54C0F1D1BB",
+    "group_name": "药品研发",
+    "source_function_id": "BF-FDBF54C0F1D1BB",
+    "source_function_name": "药品研发",
+    "jobs": 155,
+    "series": 41
+  },
+  {
+    "id": "FD-EBFC7B53D2F0C4",
+    "name": "保密管理",
+    "group_id": "FG-1D7B9CF1025834",
+    "group_name": "行政与综合服务",
+    "source_function_id": "BF-1524F8DB969E8C",
+    "source_function_name": "保密管理",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-9462423F84671B",
+    "name": "综合支持",
+    "group_id": "FG-1D7B9CF1025834",
+    "group_name": "行政与综合服务",
+    "source_function_id": "BF-4825FEF82551E8",
+    "source_function_name": "综合支持",
+    "jobs": 23,
+    "series": 7
+  },
+  {
+    "id": "FD-70E188557CD818",
+    "name": "综合服务管理",
+    "group_id": "FG-1D7B9CF1025834",
+    "group_name": "行政与综合服务",
+    "source_function_id": "BF-EDC82B634F9AE2",
+    "source_function_name": "综合服务管理",
+    "jobs": 16,
+    "series": 4
+  },
+  {
+    "id": "FD-CEDA36FFF1C032",
+    "name": "行政",
+    "group_id": "FG-1D7B9CF1025834",
+    "group_name": "行政与综合服务",
+    "source_function_id": "BF-E79890C96EE6F0",
+    "source_function_name": "行政",
+    "jobs": 128,
+    "series": 52
+  },
+  {
+    "id": "FD-E96E7A9BF68757",
+    "name": "衍生品",
+    "group_id": "FG-633CE99A46ADDA",
+    "group_name": "衍生品",
+    "source_function_id": "BF-633CE99A46ADDA",
+    "source_function_name": "衍生品",
+    "jobs": 14,
+    "series": 4
+  },
+  {
+    "id": "FD-381C09281574F4",
+    "name": "家装设计",
+    "group_id": "FG-24622B6909A5A1",
+    "group_name": "规划设计",
+    "source_function_id": "BF-F8D680791FCEF5",
+    "source_function_name": "经营管理",
+    "jobs": 1,
+    "series": 1
+  },
+  {
+    "id": "FD-5EBA9ADBB2C1F6",
+    "name": "空间设计",
+    "group_id": "FG-24622B6909A5A1",
+    "group_name": "规划设计",
+    "source_function_id": "BF-3762E2B267CC0C",
+    "source_function_name": "空间设计",
+    "jobs": 4,
+    "series": 2
+  },
+  {
+    "id": "FD-8B10766D3B51FA",
+    "name": "规划设计",
+    "group_id": "FG-24622B6909A5A1",
+    "group_name": "规划设计",
+    "source_function_id": "BF-24622B6909A5A1",
+    "source_function_name": "规划设计",
+    "jobs": 123,
+    "series": 37
+  },
+  {
+    "id": "FD-E7215940876630",
+    "name": "测控",
+    "group_id": "FG-95E2D3F0AA066D",
+    "group_name": "计量测控",
+    "source_function_id": "BF-F009109F084302",
+    "source_function_name": "测控",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-3166956A62F11A",
+    "name": "计量",
+    "group_id": "FG-95E2D3F0AA066D",
+    "group_name": "计量测控",
+    "source_function_id": "BF-31CA5A76EC8389",
+    "source_function_name": "计量",
+    "jobs": 21,
+    "series": 18
+  },
+  {
+    "id": "FD-B70158E2EAB649",
+    "name": "工程设备",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-7EBBA464F392F6",
+    "source_function_name": "工程设备",
+    "jobs": 15,
+    "series": 6
+  },
+  {
+    "id": "FD-295A627D978E69",
+    "name": "核磁",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-B2AA30203FF368",
+    "source_function_name": "核磁",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-31947271CC3756",
+    "name": "检修",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-C2ED9C86D1AEF0",
+    "source_function_name": "检修",
+    "jobs": 36,
+    "series": 15
+  },
+  {
+    "id": "FD-183348459C1C88",
+    "name": "设备",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-E1506406A5BD8F",
+    "source_function_name": "设备",
+    "jobs": 15,
+    "series": 5
+  },
+  {
+    "id": "FD-1A2EEA3BA635CD",
+    "name": "设备保全",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-A29C8C5BBB6502",
+    "source_function_name": "设备保全",
+    "jobs": 52,
+    "series": 28
+  },
+  {
+    "id": "FD-4C487A344F735C",
+    "name": "设备工程",
+    "group_id": "FG-47198331067A55",
+    "group_name": "设备工程",
+    "source_function_id": "BF-47198331067A55",
+    "source_function_name": "设备工程",
+    "jobs": 55,
+    "series": 22
+  },
+  {
+    "id": "FD-4E53CA629521BE",
+    "name": "设计研发",
+    "group_id": "FG-D4371BF7DB7D5E",
+    "group_name": "设计研发",
+    "source_function_id": "BF-D4371BF7DB7D5E",
+    "source_function_name": "设计研发",
+    "jobs": 261,
+    "series": 83
+  },
+  {
+    "id": "FD-FDC52FDF08037F",
+    "name": "IB业务",
+    "group_id": "FG-1CAD5D40B32788",
+    "group_name": "证券期货经纪",
+    "source_function_id": "BF-4E4A86E792F676",
+    "source_function_name": "IB业务",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-784B5BFB6B26A5",
+    "name": "经纪业务管理",
+    "group_id": "FG-1CAD5D40B32788",
+    "group_name": "证券期货经纪",
+    "source_function_id": "BF-4048BBE90431F8",
+    "source_function_name": "经纪业务管理",
+    "jobs": 16,
+    "series": 3
+  },
+  {
+    "id": "FD-0C6DD85946C39C",
+    "name": "证券经纪服务",
+    "group_id": "FG-1CAD5D40B32788",
+    "group_name": "证券期货经纪",
+    "source_function_id": "BF-7704CCE505F62D",
+    "source_function_name": "营业部",
+    "jobs": 4,
+    "series": 2
+  },
+  {
+    "id": "FD-42E56E5D31C204",
+    "name": "营业部财务",
+    "group_id": "FG-569A4472A067AD",
+    "group_name": "财务与资金",
+    "source_function_id": "BF-7704CCE505F62D",
+    "source_function_name": "营业部",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-C2D38DC530E850",
+    "name": "财务",
+    "group_id": "FG-569A4472A067AD",
+    "group_name": "财务与资金",
+    "source_function_id": "BF-506C068A2A1EB9",
+    "source_function_name": "财务",
+    "jobs": 109,
+    "series": 28
+  },
+  {
+    "id": "FD-476515A9CEF518",
+    "name": "资金管理",
+    "group_id": "FG-569A4472A067AD",
+    "group_name": "财务与资金",
+    "source_function_id": "BF-4908CB62013E6F",
+    "source_function_name": "资金管理",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-B8CB8778E8B7C0",
+    "name": "财富管理",
+    "group_id": "FG-EB4AA6E2BAAE95",
+    "group_name": "财富管理",
+    "source_function_id": "BF-EB4AA6E2BAAE95",
+    "source_function_name": "财富管理",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-47CC4A0E0348E4",
+    "name": "体系建设",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-667D5BE0D44141",
+    "source_function_name": "体系建设",
+    "jobs": 5,
+    "series": 2
+  },
+  {
+    "id": "FD-4078C50E56D9A8",
+    "name": "医疗控制",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-7F18A3AFC2EFBE",
+    "source_function_name": "医疗控制",
+    "jobs": 12,
+    "series": 3
+  },
+  {
+    "id": "FD-14BC89F757FE3D",
+    "name": "标准化",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-EAE893CCE34725",
+    "source_function_name": "标准化",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-EA05F35D0BE4E4",
+    "name": "检验",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-9F65600D93C114",
+    "source_function_name": "检验",
+    "jobs": 24,
+    "series": 6
+  },
+  {
+    "id": "FD-CF815831047ED6",
+    "name": "质量检验",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-A29315ADCFBD06",
+    "source_function_name": "质量检验",
+    "jobs": 11,
+    "series": 4
+  },
+  {
+    "id": "FD-DECF3002499E7C",
+    "name": "质量管理",
+    "group_id": "FG-BE0CBD94EDF67A",
+    "group_name": "质量管理",
+    "source_function_id": "BF-BE0CBD94EDF67A",
+    "source_function_name": "质量管理",
+    "jobs": 167,
+    "series": 49
+  },
+  {
+    "id": "FD-15033C7BC06B3F",
+    "name": "贵金属/珠宝交易",
+    "group_id": "FG-89C96FCFDB5BF1",
+    "group_name": "贵金属/珠宝交易",
+    "source_function_id": "BF-89C96FCFDB5BF1",
+    "source_function_name": "贵金属/珠宝交易",
+    "jobs": 10,
+    "series": 2
+  },
+  {
+    "id": "FD-B5479A70406CDB",
+    "name": "资产保全",
+    "group_id": "FG-4694A7206B029B",
+    "group_name": "资产保全",
+    "source_function_id": "BF-4694A7206B029B",
+    "source_function_name": "资产保全",
+    "jobs": 14,
+    "series": 3
+  },
+  {
+    "id": "FD-440862BF1A92C2",
+    "name": "赛事管理",
+    "group_id": "FG-1E17AF1AEE833B",
+    "group_name": "赛事管理",
+    "source_function_id": "BF-1E17AF1AEE833B",
+    "source_function_name": "赛事管理",
+    "jobs": 17,
+    "series": 5
+  },
+  {
+    "id": "FD-4184B723273CDA",
+    "name": "云服务",
+    "group_id": "FG-2DC6072242906B",
+    "group_name": "软件与应用研发",
+    "source_function_id": "BF-FC405798DCB7E7",
+    "source_function_name": "云服务",
+    "jobs": 2,
+    "series": 1
+  },
+  {
+    "id": "FD-31B9F71DBFC68E",
+    "name": "软件开发",
+    "group_id": "FG-2DC6072242906B",
+    "group_name": "软件与应用研发",
+    "source_function_id": "BF-4226C90BCC6F97",
+    "source_function_name": "软件开发",
+    "jobs": 298,
+    "series": 133
+  },
+  {
+    "id": "FD-AF9B54D1DE5182",
+    "name": "收益",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-2C79F934233FCE",
+    "source_function_name": "收益",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-9EC44A69E82554",
+    "name": "直播运营",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-96705952F9DC86",
+    "source_function_name": "直播运营",
+    "jobs": 12,
+    "series": 4
+  },
+  {
+    "id": "FD-34C0F20BB38757",
+    "name": "社群运营",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-B02C5C4520A556",
+    "source_function_name": "社群运营",
+    "jobs": 6,
+    "series": 2
+  },
+  {
+    "id": "FD-665B3E5F2DD200",
+    "name": "终端经营管理",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-F8D680791FCEF5",
+    "source_function_name": "经营管理",
+    "jobs": 1,
+    "series": 1
+  },
+  {
+    "id": "FD-9ED451C43E731C",
+    "name": "运营事业",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-0BE47578F9EFE5",
+    "source_function_name": "运营事业",
+    "jobs": 12,
+    "series": 4
+  },
+  {
+    "id": "FD-08D5FB2D40B9FE",
+    "name": "运营管理",
+    "group_id": "FG-B93B3DA92A233C",
+    "group_name": "运营管理",
+    "source_function_id": "BF-B93B3DA92A233C",
+    "source_function_name": "运营管理",
+    "jobs": 32,
+    "series": 9
+  },
+  {
+    "id": "FD-E8842C24FE5A36",
+    "name": "运行监察",
+    "group_id": "FG-BBC96CC6B4AF64",
+    "group_name": "运行监察",
+    "source_function_id": "BF-BBC96CC6B4AF64",
+    "source_function_name": "运行监察",
+    "jobs": 15,
+    "series": 5
+  },
+  {
+    "id": "FD-2E3F6F65970564",
+    "name": "采掘",
+    "group_id": "FG-7C7975FB5AD622",
+    "group_name": "采掘",
+    "source_function_id": "BF-7C7975FB5AD622",
+    "source_function_name": "采掘",
+    "jobs": 36,
+    "series": 7
+  },
+  {
+    "id": "FD-19AEE9926D8057",
+    "name": "仓储",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-E2C57C5C935DF8",
+    "source_function_name": "仓储",
+    "jobs": 25,
+    "series": 13
+  },
+  {
+    "id": "FD-C941DC5D4417F9",
+    "name": "物流",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-40416ED591371A",
+    "source_function_name": "物流",
+    "jobs": 12,
+    "series": 5
+  },
+  {
+    "id": "FD-2107A76D62A407",
+    "name": "物流业务",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-470988AAD792FF",
+    "source_function_name": "物流业务",
+    "jobs": 29,
+    "series": 7
+  },
+  {
+    "id": "FD-719287A90F29DC",
+    "name": "物流管理",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-596B8CD11D2AC8",
+    "source_function_name": "物流管理",
+    "jobs": 134,
+    "series": 39
+  },
+  {
+    "id": "FD-C8A5CCCAC8D0D1",
+    "name": "物流运作",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-9B25DC2783B636",
+    "source_function_name": "物流运作",
+    "jobs": 28,
+    "series": 14
+  },
+  {
+    "id": "FD-374413D3F02C16",
+    "name": "生产物流",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-4B303ACD38E6BD",
+    "source_function_name": "生产物流",
+    "jobs": 17,
+    "series": 5
+  },
+  {
+    "id": "FD-3D9314976779B5",
+    "name": "运输",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-71FAAA139F3AFF",
+    "source_function_name": "运输",
+    "jobs": 47,
+    "series": 22
+  },
+  {
+    "id": "FD-0D58572272DA80",
+    "name": "进出口事务",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-91C3110667CE3C",
+    "source_function_name": "进出口事务",
+    "jobs": 18,
+    "series": 5
+  },
+  {
+    "id": "FD-EEA29B8E07F9B3",
+    "name": "采购",
+    "group_id": "FG-C66FDE488E6A63",
+    "group_name": "采购与物流",
+    "source_function_id": "BF-6E098153A5860B",
+    "source_function_name": "采购",
+    "jobs": 48,
+    "series": 12
+  },
+  {
+    "id": "FD-94D06E4F606227",
+    "name": "营业部",
+    "group_id": "FG-1AF54191EEA423",
+    "group_name": "金融营业管理",
+    "source_function_id": "BF-7704CCE505F62D",
+    "source_function_name": "营业部",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-80734FA193809A",
+    "name": "分期业务",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-5A980849C089B9",
+    "source_function_name": "分期业务",
+    "jobs": 4,
+    "series": 1
+  },
+  {
+    "id": "FD-B176CF53849773",
+    "name": "同业金融",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-E0F58715B7BCA2",
+    "source_function_name": "同业金融",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-4AC788E8A5AF28",
+    "name": "国际业务",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-B0B3E52E013D27",
+    "source_function_name": "国际业务",
+    "jobs": 20,
+    "series": 5
+  },
+  {
+    "id": "FD-95B2DF1ACC33C3",
+    "name": "消费金融",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-384465292EE3C1",
+    "source_function_name": "消费金融",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-6B3E0C97AD986D",
+    "name": "网银管理",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-1730109D6715BA",
+    "source_function_name": "网银管理",
+    "jobs": 5,
+    "series": 1
+  },
+  {
+    "id": "FD-21D892E905A8DB",
+    "name": "银行业务",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-9535C68BBEC048",
+    "source_function_name": "银行业务",
+    "jobs": 47,
+    "series": 11
+  },
+  {
+    "id": "FD-CACF435743E2BA",
+    "name": "银行网点服务",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-7704CCE505F62D",
+    "source_function_name": "营业部",
+    "jobs": 15,
+    "series": 7
+  },
+  {
+    "id": "FD-0CD88715412DB5",
+    "name": "零售业务",
+    "group_id": "FG-9535C68BBEC048",
+    "group_name": "银行业务",
+    "source_function_id": "BF-135D100CF2FDE7",
+    "source_function_name": "零售业务",
+    "jobs": 29,
+    "series": 7
+  },
+  {
+    "id": "FD-5D8450FD8B750C",
+    "name": "销售",
+    "group_id": "FG-F04B061471B1FD",
+    "group_name": "销售",
+    "source_function_id": "BF-F04B061471B1FD",
+    "source_function_name": "销售",
+    "jobs": 205,
+    "series": 52
+  },
+  {
+    "id": "FD-33253F5A9312B6",
+    "name": "销售支持",
+    "group_id": "FG-E0978CD6E0500E",
+    "group_name": "销售支持",
+    "source_function_id": "BF-E0978CD6E0500E",
+    "source_function_name": "销售支持",
+    "jobs": 25,
+    "series": 11
+  },
+  {
+    "id": "FD-8CC456FF5527E8",
+    "name": "销售管理",
+    "group_id": "FG-8FBD21259EE1FA",
+    "group_name": "销售管理",
+    "source_function_id": "BF-8FBD21259EE1FA",
+    "source_function_name": "销售管理",
+    "jobs": 62,
+    "series": 16
+  },
+  {
+    "id": "FD-EE988995CBEBAA",
+    "name": "商品管理",
+    "group_id": "FG-F63FC79DDE1585",
+    "group_name": "零售与商品经营",
+    "source_function_id": "BF-B9DAEC73CBA3BE",
+    "source_function_name": "商品管理",
+    "jobs": 7,
+    "series": 2
+  },
+  {
+    "id": "FD-6A6797E34EB9A2",
+    "name": "场务项目",
+    "group_id": "FG-F63FC79DDE1585",
+    "group_name": "零售与商品经营",
+    "source_function_id": "BF-38F5CE6FE32D19",
+    "source_function_name": "场务项目",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-6982B16C185BB3",
+    "name": "门店",
+    "group_id": "FG-F63FC79DDE1585",
+    "group_name": "零售与商品经营",
+    "source_function_id": "BF-68F34AA50BA7C5",
+    "source_function_name": "门店",
+    "jobs": 68,
+    "series": 31
+  },
+  {
+    "id": "FD-C0BB5FD08DA292",
+    "name": "陈列",
+    "group_id": "FG-F63FC79DDE1585",
+    "group_name": "零售与商品经营",
+    "source_function_id": "BF-39F6FA978A4EAD",
+    "source_function_name": "陈列",
+    "jobs": 8,
+    "series": 2
+  },
+  {
+    "id": "FD-EB90B29119004B",
+    "name": "项目案场",
+    "group_id": "FG-6EF50BDA56EA9A",
+    "group_name": "项目案场",
+    "source_function_id": "BF-6EF50BDA56EA9A",
+    "source_function_name": "项目案场",
+    "jobs": 11,
+    "series": 3
+  },
+  {
+    "id": "FD-13C846FE787108",
+    "name": "客户交付",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-57DD4901566180",
+    "source_function_name": "客户交付",
+    "jobs": 3,
+    "series": 1
+  },
+  {
+    "id": "FD-7FF7511445F530",
+    "name": "综合项目",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-FA2C4CE3359795",
+    "source_function_name": "综合项目",
+    "jobs": 1,
+    "series": 1
+  },
+  {
+    "id": "FD-694FFC527F8CE4",
+    "name": "项目",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-79F326BE4409D5",
+    "source_function_name": "项目",
+    "jobs": 21,
+    "series": 6
+  },
+  {
+    "id": "FD-E92A29206B596D",
+    "name": "项目事务",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-C0547458718DE5",
+    "source_function_name": "项目事务",
+    "jobs": 26,
+    "series": 10
+  },
+  {
+    "id": "FD-C1435ACB8E6CC4",
+    "name": "项目事务（项目前期）",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-F86CD8BF6CD23E",
+    "source_function_name": "项目事务（项目前期）",
+    "jobs": 39,
+    "series": 10
+  },
+  {
+    "id": "FD-F67F6363A3CE29",
+    "name": "项目实施",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-4C3BDCB35FF3C6",
+    "source_function_name": "项目实施",
+    "jobs": 11,
+    "series": 5
+  },
+  {
+    "id": "FD-115F7A54CE5CB2",
+    "name": "项目管理",
+    "group_id": "FG-A049DCA9D8F1E0",
+    "group_name": "项目管理",
+    "source_function_id": "BF-A049DCA9D8F1E0",
+    "source_function_name": "项目管理",
+    "jobs": 27,
+    "series": 11
+  },
+  {
+    "id": "FD-9635CE22B0416E",
+    "name": "风险管理",
+    "group_id": "FG-E191231EF91B4F",
+    "group_name": "风险管理",
+    "source_function_id": "BF-E191231EF91B4F",
+    "source_function_name": "风险管理",
+    "jobs": 78,
+    "series": 21
+  },
+  {
+    "id": "FD-7FB0E6E15A6088",
+    "name": "厨房",
+    "group_id": "FG-7D908910288985",
+    "group_name": "餐饮服务",
+    "source_function_id": "BF-4AE988A29C1F70",
+    "source_function_name": "厨房",
+    "jobs": 21,
+    "series": 12
+  },
+  {
+    "id": "FD-24A58A6E086DD0",
+    "name": "宴会厅",
+    "group_id": "FG-7D908910288985",
+    "group_name": "餐饮服务",
+    "source_function_id": "BF-493724D9D2E514",
+    "source_function_name": "宴会厅",
+    "jobs": 3,
+    "series": 2
+  },
+  {
+    "id": "FD-06D3E36838C0E2",
+    "name": "餐饮部",
+    "group_id": "FG-7D908910288985",
+    "group_name": "餐饮服务",
+    "source_function_id": "BF-E0C4475D483EFE",
+    "source_function_name": "餐饮部",
+    "jobs": 68,
+    "series": 20
+  }
+]

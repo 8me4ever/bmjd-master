@@ -1,0 +1,3334 @@
+[
+  {
+    "function_name": "EHS",
+    "jobs": 46,
+    "previous_blocks": {
+      "SE": 46
+    },
+    "current_blocks": {
+      "SE": 46
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "SE"
+  },
+  {
+    "function_name": "IB业务",
+    "jobs": 5,
+    "previous_blocks": {
+      "BT": 5
+    },
+    "current_blocks": {
+      "BT": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "MCN",
+    "jobs": 3,
+    "previous_blocks": {
+      "DM": 3
+    },
+    "current_blocks": {
+      "MK": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "三维模型开发",
+    "jobs": 7,
+    "previous_blocks": {
+      "CY": 7
+    },
+    "current_blocks": {
+      "CY": 7
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "专业技术",
+    "jobs": 85,
+    "previous_blocks": {
+      "PE": 85
+    },
+    "current_blocks": {
+      "CS": 3,
+      "FS": 4,
+      "PE": 69,
+      "QE": 3,
+      "RE": 2,
+      "ZX": 4
+    },
+    "changed_jobs": 16,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "业务技术",
+    "jobs": 13,
+    "previous_blocks": {
+      "BV": 13
+    },
+    "current_blocks": {
+      "PE": 13
+    },
+    "changed_jobs": 13,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "业务流程",
+    "jobs": 15,
+    "previous_blocks": {
+      "KP": 15
+    },
+    "current_blocks": {
+      "FC": 5,
+      "KP": 5,
+      "OS": 5
+    },
+    "changed_jobs": 10,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "临床科室",
+    "jobs": 467,
+    "previous_blocks": {
+      "DR": 361,
+      "EN": 106
+    },
+    "current_blocks": {
+      "DR": 361,
+      "EN": 106
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "云服务",
+    "jobs": 2,
+    "previous_blocks": {
+      "EL": 2
+    },
+    "current_blocks": {
+      "CC": 2
+    },
+    "changed_jobs": 2,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "互联网医院",
+    "jobs": 6,
+    "previous_blocks": {
+      "HL": 6
+    },
+    "current_blocks": {
+      "HL": 6
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "互联网金融产品",
+    "jobs": 4,
+    "previous_blocks": {
+      "IF": 4
+    },
+    "current_blocks": {
+      "IF": 4
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品",
+    "jobs": 3,
+    "previous_blocks": {
+      "DN": 3
+    },
+    "current_blocks": {
+      "PP": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品研发",
+    "jobs": 10,
+    "previous_blocks": {
+      "RJ": 10
+    },
+    "current_blocks": {
+      "RJ": 10
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品营销",
+    "jobs": 10,
+    "previous_blocks": {
+      "DO": 10
+    },
+    "current_blocks": {
+      "PM": 10
+    },
+    "changed_jobs": 10,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品规划",
+    "jobs": 10,
+    "previous_blocks": {
+      "PP": 10
+    },
+    "current_blocks": {
+      "PP": 10
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品运营",
+    "jobs": 38,
+    "previous_blocks": {
+      "PO": 38
+    },
+    "current_blocks": {
+      "PO": 38
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "产品项目部",
+    "jobs": 7,
+    "previous_blocks": {
+      "CX": 7
+    },
+    "current_blocks": {
+      "PP": 6,
+      "RD": 1
+    },
+    "changed_jobs": 7,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "人力资源",
+    "jobs": 60,
+    "previous_blocks": {
+      "AI": 60
+    },
+    "current_blocks": {
+      "HR": 60
+    },
+    "changed_jobs": 60,
+    "core_expected_block": "HR"
+  },
+  {
+    "function_name": "仓储",
+    "jobs": 25,
+    "previous_blocks": {
+      "AX": 25
+    },
+    "current_blocks": {
+      "LO": 25
+    },
+    "changed_jobs": 25,
+    "core_expected_block": "LO"
+  },
+  {
+    "function_name": "企划",
+    "jobs": 5,
+    "previous_blocks": {
+      "DQ": 5
+    },
+    "current_blocks": {
+      "OS": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "会展",
+    "jobs": 8,
+    "previous_blocks": {
+      "HR": 8
+    },
+    "current_blocks": {
+      "HR": 3,
+      "ME": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "会所",
+    "jobs": 18,
+    "previous_blocks": {
+      "BF": 18
+    },
+    "current_blocks": {
+      "BF": 18
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "体系建设",
+    "jobs": 5,
+    "previous_blocks": {
+      "SP": 5
+    },
+    "current_blocks": {
+      "RE": 3,
+      "SP": 2
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "保密管理",
+    "jobs": 3,
+    "previous_blocks": {
+      "EQ": 3
+    },
+    "current_blocks": {
+      "OA": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "保险",
+    "jobs": 11,
+    "previous_blocks": {
+      "CZ": 11
+    },
+    "current_blocks": {
+      "IS": 3,
+      "RA": 8
+    },
+    "changed_jobs": 11,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "保险理赔",
+    "jobs": 15,
+    "previous_blocks": {
+      "IA": 15
+    },
+    "current_blocks": {
+      "IA": 15
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "信息安全",
+    "jobs": 42,
+    "previous_blocks": {
+      "RL": 17,
+      "WS": 25
+    },
+    "current_blocks": {
+      "CC": 2,
+      "DS": 4,
+      "RD": 4,
+      "RE": 1,
+      "RL": 17,
+      "WS": 14
+    },
+    "changed_jobs": 11,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "信息技术",
+    "jobs": 29,
+    "previous_blocks": {
+      "AK": 29
+    },
+    "current_blocks": {
+      "IT": 29
+    },
+    "changed_jobs": 29,
+    "core_expected_block": "IT"
+  },
+  {
+    "function_name": "信托业务",
+    "jobs": 9,
+    "previous_blocks": {
+      "FC": 9
+    },
+    "current_blocks": {
+      "FC": 9
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "催收",
+    "jobs": 12,
+    "previous_blocks": {
+      "BW": 12
+    },
+    "current_blocks": {
+      "CM": 8,
+      "PC": 4
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "党群工会",
+    "jobs": 24,
+    "previous_blocks": {
+      "PU": 24
+    },
+    "current_blocks": {
+      "PU": 24
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "公寓",
+    "jobs": 2,
+    "previous_blocks": {
+      "ER": 2
+    },
+    "current_blocks": {
+      "CN": 2
+    },
+    "changed_jobs": 2,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "再保险业务",
+    "jobs": 10,
+    "previous_blocks": {
+      "DS": 10
+    },
+    "current_blocks": {
+      "RI": 10
+    },
+    "changed_jobs": 10,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "农作物研究",
+    "jobs": 15,
+    "previous_blocks": {
+      "RH": 15
+    },
+    "current_blocks": {
+      "RH": 15
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "分期业务",
+    "jobs": 4,
+    "previous_blocks": {
+      "EU": 4
+    },
+    "current_blocks": {
+      "ST": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "创意",
+    "jobs": 76,
+    "previous_blocks": {
+      "CR": 76
+    },
+    "current_blocks": {
+      "CR": 76
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "初中教育",
+    "jobs": 47,
+    "previous_blocks": {
+      "JS": 47
+    },
+    "current_blocks": {
+      "JS": 47
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "别墅管家部",
+    "jobs": 4,
+    "previous_blocks": {
+      "VC": 4
+    },
+    "current_blocks": {
+      "VC": 4
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "加盟事务",
+    "jobs": 5,
+    "previous_blocks": {
+      "JA": 5
+    },
+    "current_blocks": {
+      "JA": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "动画",
+    "jobs": 26,
+    "previous_blocks": {
+      "AR": 26
+    },
+    "current_blocks": {
+      "CT": 26
+    },
+    "changed_jobs": 26,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "动画特效",
+    "jobs": 3,
+    "previous_blocks": {
+      "EV": 3
+    },
+    "current_blocks": {
+      "GD": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "勘探",
+    "jobs": 19,
+    "previous_blocks": {
+      "CJ": 19
+    },
+    "current_blocks": {
+      "DP": 3,
+      "PE": 16
+    },
+    "changed_jobs": 19,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "化学工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "RN": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "医学部",
+    "jobs": 8,
+    "previous_blocks": {
+      "AB": 8
+    },
+    "current_blocks": {
+      "CR": 8
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "医技科室",
+    "jobs": 74,
+    "previous_blocks": {
+      "YX": 74
+    },
+    "current_blocks": {
+      "YX": 74
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "医疗养护中心",
+    "jobs": 27,
+    "previous_blocks": {
+      "DT": 27
+    },
+    "current_blocks": {
+      "DT": 27
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "医疗控制",
+    "jobs": 12,
+    "previous_blocks": {
+      "DB": 12
+    },
+    "current_blocks": {
+      "QA": 12
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "厨房",
+    "jobs": 21,
+    "previous_blocks": {
+      "FB": 21
+    },
+    "current_blocks": {
+      "FB": 21
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "发行",
+    "jobs": 17,
+    "previous_blocks": {
+      "JO": 17
+    },
+    "current_blocks": {
+      "JO": 17
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "变电设计",
+    "jobs": 13,
+    "previous_blocks": {
+      "SD": 13
+    },
+    "current_blocks": {
+      "SD": 13
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "合成工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "RO": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "同业金融",
+    "jobs": 5,
+    "previous_blocks": {
+      "EW": 5
+    },
+    "current_blocks": {
+      "TY": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "后期制作",
+    "jobs": 12,
+    "previous_blocks": {
+      "CT": 12
+    },
+    "current_blocks": {
+      "AD": 6,
+      "CT": 2,
+      "DP": 4
+    },
+    "changed_jobs": 10,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "咨询",
+    "jobs": 39,
+    "previous_blocks": {
+      "MC": 39
+    },
+    "current_blocks": {
+      "MC": 39
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "品牌运营",
+    "jobs": 5,
+    "previous_blocks": {
+      "EX": 5
+    },
+    "current_blocks": {
+      "SO": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "商业服务",
+    "jobs": 4,
+    "previous_blocks": {
+      "EY": 4
+    },
+    "current_blocks": {
+      "BS": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "商业项目",
+    "jobs": 13,
+    "previous_blocks": {
+      "BP": 13
+    },
+    "current_blocks": {
+      "BP": 13
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "商务",
+    "jobs": 76,
+    "previous_blocks": {
+      "BU": 76
+    },
+    "current_blocks": {
+      "BU": 76
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "商品管理",
+    "jobs": 7,
+    "previous_blocks": {
+      "DU": 7
+    },
+    "current_blocks": {
+      "CM": 7
+    },
+    "changed_jobs": 7,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "固定收益",
+    "jobs": 9,
+    "previous_blocks": {
+      "AP": 9
+    },
+    "current_blocks": {
+      "FB": 9
+    },
+    "changed_jobs": 9,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "国际业务",
+    "jobs": 20,
+    "previous_blocks": {
+      "IB": 20
+    },
+    "current_blocks": {
+      "IB": 20
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "国际教育",
+    "jobs": 153,
+    "previous_blocks": {
+      "IS": 153
+    },
+    "current_blocks": {
+      "IS": 153
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "场务项目",
+    "jobs": 5,
+    "previous_blocks": {
+      "DV": 5
+    },
+    "current_blocks": {
+      "BR": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "场地服务",
+    "jobs": 2,
+    "previous_blocks": {
+      "EZ": 2
+    },
+    "current_blocks": {
+      "SS": 2
+    },
+    "changed_jobs": 2,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "场地运营",
+    "jobs": 68,
+    "previous_blocks": {
+      "EP": 68
+    },
+    "current_blocks": {
+      "CA": 4,
+      "FE": 4,
+      "LM": 28,
+      "OM": 5,
+      "SS": 20,
+      "ST": 7
+    },
+    "changed_jobs": 68,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "培训",
+    "jobs": 41,
+    "previous_blocks": {
+      "TN": 41
+    },
+    "current_blocks": {
+      "AC": 2,
+      "CA": 3,
+      "CS": 4,
+      "HR": 14,
+      "SC": 3,
+      "ST": 4,
+      "TE": 4,
+      "TN": 4,
+      "WS": 3
+    },
+    "changed_jobs": 37,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "基金管理",
+    "jobs": 4,
+    "previous_blocks": {
+      "FD": 4
+    },
+    "current_blocks": {
+      "AM": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "塑料生产",
+    "jobs": 5,
+    "previous_blocks": {
+      "JZ": 5
+    },
+    "current_blocks": {
+      "PZ": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "外教",
+    "jobs": 9,
+    "previous_blocks": {
+      "FT": 9
+    },
+    "current_blocks": {
+      "FT": 9
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "媒介",
+    "jobs": 35,
+    "previous_blocks": {
+      "ME": 35
+    },
+    "current_blocks": {
+      "ME": 35
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "学前教育",
+    "jobs": 30,
+    "previous_blocks": {
+      "AL": 30
+    },
+    "current_blocks": {
+      "ED": 30
+    },
+    "changed_jobs": 30,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "实验室",
+    "jobs": 12,
+    "previous_blocks": {
+      "BX": 12
+    },
+    "current_blocks": {
+      "DD": 1,
+      "PR": 11
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "审计",
+    "jobs": 13,
+    "previous_blocks": {
+      "SU": 13
+    },
+    "current_blocks": {
+      "AT": 4,
+      "FA": 5,
+      "SU": 4
+    },
+    "changed_jobs": 9,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "客务部",
+    "jobs": 27,
+    "previous_blocks": {
+      "CM": 27
+    },
+    "current_blocks": {
+      "CM": 27
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "客户交付",
+    "jobs": 3,
+    "previous_blocks": {
+      "FF": 3
+    },
+    "current_blocks": {
+      "OS": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "客户关系",
+    "jobs": 22,
+    "previous_blocks": {
+      "BY": 22
+    },
+    "current_blocks": {
+      "CS": 17,
+      "MS": 5
+    },
+    "changed_jobs": 22,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "客户工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "CE": 3
+    },
+    "current_blocks": {
+      "CE": 3
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "客户服务",
+    "jobs": 96,
+    "previous_blocks": {
+      "CS": 96
+    },
+    "current_blocks": {
+      "CS": 96
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "宴会厅",
+    "jobs": 3,
+    "previous_blocks": {
+      "BH": 3
+    },
+    "current_blocks": {
+      "BH": 3
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "对外贸易",
+    "jobs": 6,
+    "previous_blocks": {
+      "FG": 6
+    },
+    "current_blocks": {
+      "IB": 6
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "小学教育",
+    "jobs": 40,
+    "previous_blocks": {
+      "ED": 40
+    },
+    "current_blocks": {
+      "PS": 40
+    },
+    "changed_jobs": 40,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程",
+    "jobs": 19,
+    "previous_blocks": {
+      "EE": 19
+    },
+    "current_blocks": {
+      "EE": 19
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程作业",
+    "jobs": 65,
+    "previous_blocks": {
+      "ZX": 65
+    },
+    "current_blocks": {
+      "ZX": 65
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程咨询",
+    "jobs": 5,
+    "previous_blocks": {
+      "FH": 5
+    },
+    "current_blocks": {
+      "PC": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程技术",
+    "jobs": 22,
+    "previous_blocks": {
+      "DC": 22
+    },
+    "current_blocks": {
+      "BY": 1,
+      "DP": 10,
+      "PA": 2,
+      "PE": 1,
+      "SE": 8
+    },
+    "changed_jobs": 22,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程支持",
+    "jobs": 17,
+    "previous_blocks": {
+      "AY": 17
+    },
+    "current_blocks": {
+      "PS": 17
+    },
+    "changed_jobs": 17,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程监理",
+    "jobs": 5,
+    "previous_blocks": {
+      "FI": 5
+    },
+    "current_blocks": {
+      "EP": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程管理",
+    "jobs": 81,
+    "previous_blocks": {
+      "PM": 81
+    },
+    "current_blocks": {
+      "PM": 81
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程设备",
+    "jobs": 15,
+    "previous_blocks": {
+      "BL": 15
+    },
+    "current_blocks": {
+      "TE": 15
+    },
+    "changed_jobs": 15,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程部",
+    "jobs": 27,
+    "previous_blocks": {
+      "AN": 27
+    },
+    "current_blocks": {
+      "PD": 1,
+      "PE": 26
+    },
+    "changed_jobs": 27,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "工程项目",
+    "jobs": 3,
+    "previous_blocks": {
+      "FJ": 3
+    },
+    "current_blocks": {
+      "FE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "市场",
+    "jobs": 184,
+    "previous_blocks": {
+      "MK": 184
+    },
+    "current_blocks": {
+      "MK": 184
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "MK"
+  },
+  {
+    "function_name": "市场调研",
+    "jobs": 6,
+    "previous_blocks": {
+      "DW": 6
+    },
+    "current_blocks": {
+      "DA": 1,
+      "ME": 5
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "应用技术",
+    "jobs": 8,
+    "previous_blocks": {
+      "DX": 8
+    },
+    "current_blocks": {
+      "RD": 8
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "店面工程",
+    "jobs": 6,
+    "previous_blocks": {
+      "FK": 6
+    },
+    "current_blocks": {
+      "DP": 1,
+      "PE": 5
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "建筑工程",
+    "jobs": 9,
+    "previous_blocks": {
+      "PQ": 9
+    },
+    "current_blocks": {
+      "PQ": 9
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "开发",
+    "jobs": 21,
+    "previous_blocks": {
+      "IP": 21
+    },
+    "current_blocks": {
+      "IP": 21
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "开发筹建",
+    "jobs": 5,
+    "previous_blocks": {
+      "FN": 5
+    },
+    "current_blocks": {
+      "BC": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "影视",
+    "jobs": 19,
+    "previous_blocks": {
+      "BZ": 19
+    },
+    "current_blocks": {
+      "DP": 4,
+      "PC": 15
+    },
+    "changed_jobs": 19,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "影院",
+    "jobs": 15,
+    "previous_blocks": {
+      "CA": 15
+    },
+    "current_blocks": {
+      "BR": 3,
+      "CD": 4,
+      "CM": 8
+    },
+    "changed_jobs": 15,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "成本控制",
+    "jobs": 6,
+    "previous_blocks": {
+      "DY": 6
+    },
+    "current_blocks": {
+      "CB": 6
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "战略发展/业务发展",
+    "jobs": 79,
+    "previous_blocks": {
+      "BD": 79
+    },
+    "current_blocks": {
+      "BD": 79
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "技术",
+    "jobs": 15,
+    "previous_blocks": {
+      "CK": 15
+    },
+    "current_blocks": {
+      "FE": 4,
+      "TE": 11
+    },
+    "changed_jobs": 15,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "技术检测",
+    "jobs": 24,
+    "previous_blocks": {
+      "TT": 24
+    },
+    "current_blocks": {
+      "TT": 24
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "投融资",
+    "jobs": 4,
+    "previous_blocks": {
+      "FO": 4
+    },
+    "current_blocks": {
+      "IM": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "投资业务",
+    "jobs": 62,
+    "previous_blocks": {
+      "IO": 62
+    },
+    "current_blocks": {
+      "IO": 62
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "投资发展",
+    "jobs": 5,
+    "previous_blocks": {
+      "FP": 5
+    },
+    "current_blocks": {
+      "ID": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "投资研究",
+    "jobs": 32,
+    "previous_blocks": {
+      "AO": 32
+    },
+    "current_blocks": {
+      "RA": 32
+    },
+    "changed_jobs": 32,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "投资银行业务",
+    "jobs": 24,
+    "previous_blocks": {
+      "IM": 24
+    },
+    "current_blocks": {
+      "IM": 24
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "担保业务",
+    "jobs": 33,
+    "previous_blocks": {
+      "GB": 33
+    },
+    "current_blocks": {
+      "GB": 33
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "招募",
+    "jobs": 3,
+    "previous_blocks": {
+      "FQ": 3
+    },
+    "current_blocks": {
+      "RE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "招投标",
+    "jobs": 8,
+    "previous_blocks": {
+      "BI": 8
+    },
+    "current_blocks": {
+      "BI": 8
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "挂号",
+    "jobs": 6,
+    "previous_blocks": {
+      "DZ": 6
+    },
+    "current_blocks": {
+      "CS": 6
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "搜索引擎",
+    "jobs": 13,
+    "previous_blocks": {
+      "DF": 13
+    },
+    "current_blocks": {
+      "ST": 13
+    },
+    "changed_jobs": 13,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "收益",
+    "jobs": 4,
+    "previous_blocks": {
+      "FR": 4
+    },
+    "current_blocks": {
+      "CM": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "政府事务",
+    "jobs": 9,
+    "previous_blocks": {
+      "GA": 9
+    },
+    "current_blocks": {
+      "GA": 9
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教务",
+    "jobs": 37,
+    "previous_blocks": {
+      "EO": 37
+    },
+    "current_blocks": {
+      "EO": 37
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教学管理",
+    "jobs": 8,
+    "previous_blocks": {
+      "TM": 8
+    },
+    "current_blocks": {
+      "TM": 8
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教师发展",
+    "jobs": 8,
+    "previous_blocks": {
+      "DG": 8
+    },
+    "current_blocks": {
+      "TE": 8
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教材教辅",
+    "jobs": 27,
+    "previous_blocks": {
+      "TS": 27
+    },
+    "current_blocks": {
+      "ES": 27
+    },
+    "changed_jobs": 27,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教研",
+    "jobs": 14,
+    "previous_blocks": {
+      "CL": 14
+    },
+    "current_blocks": {
+      "TS": 14
+    },
+    "changed_jobs": 14,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "教练",
+    "jobs": 30,
+    "previous_blocks": {
+      "SC": 30
+    },
+    "current_blocks": {
+      "SC": 30
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "数据分析",
+    "jobs": 27,
+    "previous_blocks": {
+      "DA": 27
+    },
+    "current_blocks": {
+      "DA": 27
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "数据管理",
+    "jobs": 4,
+    "previous_blocks": {
+      "FU": 4
+    },
+    "current_blocks": {
+      "DT": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "数据采集",
+    "jobs": 4,
+    "previous_blocks": {
+      "DD": 4
+    },
+    "current_blocks": {
+      "DD": 4
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "数模测试",
+    "jobs": 4,
+    "previous_blocks": {
+      "FV": 4
+    },
+    "current_blocks": {
+      "TE": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "文艺活动",
+    "jobs": 81,
+    "previous_blocks": {
+      "AC": 81
+    },
+    "current_blocks": {
+      "AC": 81
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "新媒体记者",
+    "jobs": 3,
+    "previous_blocks": {
+      "FW": 3
+    },
+    "current_blocks": {
+      "ID": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "无机工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "RQ": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "有机工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "RR": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "机场接待",
+    "jobs": 4,
+    "previous_blocks": {
+      "ES": 4
+    },
+    "current_blocks": {
+      "CM": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "机械工程",
+    "jobs": 8,
+    "previous_blocks": {
+      "DH": 8
+    },
+    "current_blocks": {
+      "PE": 3,
+      "TE": 5
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "标准化",
+    "jobs": 4,
+    "previous_blocks": {
+      "EA": 4
+    },
+    "current_blocks": {
+      "SP": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "核保",
+    "jobs": 14,
+    "previous_blocks": {
+      "AA": 14
+    },
+    "current_blocks": {
+      "AA": 14
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "核磁",
+    "jobs": 3,
+    "previous_blocks": {
+      "NM": 3
+    },
+    "current_blocks": {
+      "NM": 3
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "检修",
+    "jobs": 36,
+    "previous_blocks": {
+      "LM": 36
+    },
+    "current_blocks": {
+      "CS": 10,
+      "EE": 2,
+      "LM": 2,
+      "LO": 3,
+      "PD": 3,
+      "ZC": 16
+    },
+    "changed_jobs": 34,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "检验",
+    "jobs": 24,
+    "previous_blocks": {
+      "CQ": 24
+    },
+    "current_blocks": {
+      "IC": 24
+    },
+    "changed_jobs": 24,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "楼层管理",
+    "jobs": 4,
+    "previous_blocks": {
+      "FX": 4
+    },
+    "current_blocks": {
+      "SC": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "模具制造",
+    "jobs": 4,
+    "previous_blocks": {
+      "DI": 4
+    },
+    "current_blocks": {
+      "MD": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "法律合规",
+    "jobs": 50,
+    "previous_blocks": {
+      "LE": 50
+    },
+    "current_blocks": {
+      "LE": 50
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "LE"
+  },
+  {
+    "function_name": "测控",
+    "jobs": 5,
+    "previous_blocks": {
+      "FY": 5
+    },
+    "current_blocks": {
+      "TE": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "测试",
+    "jobs": 76,
+    "previous_blocks": {
+      "RT": 9,
+      "TE": 67
+    },
+    "current_blocks": {
+      "RT": 9,
+      "TE": 67
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "消费金融",
+    "jobs": 5,
+    "previous_blocks": {
+      "XF": 5
+    },
+    "current_blocks": {
+      "XF": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "游客部",
+    "jobs": 17,
+    "previous_blocks": {
+      "TB": 17
+    },
+    "current_blocks": {
+      "TB": 17
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "游戏",
+    "jobs": 36,
+    "previous_blocks": {
+      "RG": 36
+    },
+    "current_blocks": {
+      "RG": 36
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "版权",
+    "jobs": 14,
+    "previous_blocks": {
+      "DJ": 14
+    },
+    "current_blocks": {
+      "AU": 14
+    },
+    "changed_jobs": 14,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "牧场体系",
+    "jobs": 45,
+    "previous_blocks": {
+      "MN": 45
+    },
+    "current_blocks": {
+      "MN": 45
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "物业工程",
+    "jobs": 48,
+    "previous_blocks": {
+      "CP": 48
+    },
+    "current_blocks": {
+      "CP": 48
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "物业管理",
+    "jobs": 30,
+    "previous_blocks": {
+      "HA": 30
+    },
+    "current_blocks": {
+      "CG": 4,
+      "CN": 5,
+      "HA": 16,
+      "RM": 5
+    },
+    "changed_jobs": 14,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "物流",
+    "jobs": 12,
+    "previous_blocks": {
+      "AZ": 12
+    },
+    "current_blocks": {
+      "LO": 12
+    },
+    "changed_jobs": 12,
+    "core_expected_block": "LO"
+  },
+  {
+    "function_name": "物流业务",
+    "jobs": 29,
+    "previous_blocks": {
+      "BB": 29
+    },
+    "current_blocks": {
+      "EB": 25,
+      "IT": 4
+    },
+    "changed_jobs": 29,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "物流管理",
+    "jobs": 134,
+    "previous_blocks": {
+      "LO": 134
+    },
+    "current_blocks": {
+      "LO": 134
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "LO"
+  },
+  {
+    "function_name": "物流运作",
+    "jobs": 28,
+    "previous_blocks": {
+      "AJ": 28
+    },
+    "current_blocks": {
+      "BY": 2,
+      "EB": 26
+    },
+    "changed_jobs": 28,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "猎聘",
+    "jobs": 5,
+    "previous_blocks": {
+      "HH": 5
+    },
+    "current_blocks": {
+      "HH": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "现场工程",
+    "jobs": 14,
+    "previous_blocks": {
+      "FE": 14
+    },
+    "current_blocks": {
+      "FE": 14
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "现场管理",
+    "jobs": 14,
+    "previous_blocks": {
+      "BJ": 14
+    },
+    "current_blocks": {
+      "CS": 2,
+      "FM": 6,
+      "PC": 6
+    },
+    "changed_jobs": 14,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产",
+    "jobs": 470,
+    "previous_blocks": {
+      "FM": 216,
+      "PD": 254
+    },
+    "current_blocks": {
+      "CM": 2,
+      "CP": 3,
+      "FM": 216,
+      "PA": 1,
+      "PD": 221,
+      "PR": 12,
+      "PZ": 15
+    },
+    "changed_jobs": 33,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产准备",
+    "jobs": 16,
+    "previous_blocks": {
+      "VT": 16
+    },
+    "current_blocks": {
+      "VT": 16
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产工艺",
+    "jobs": 161,
+    "previous_blocks": {
+      "MT": 161
+    },
+    "current_blocks": {
+      "MT": 161
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产技术",
+    "jobs": 212,
+    "previous_blocks": {
+      "BE": 212
+    },
+    "current_blocks": {
+      "BE": 212
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产物流",
+    "jobs": 17,
+    "previous_blocks": {
+      "ML": 17
+    },
+    "current_blocks": {
+      "ML": 17
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产管理",
+    "jobs": 28,
+    "previous_blocks": {
+      "AU": 28
+    },
+    "current_blocks": {
+      "CM": 4,
+      "CS": 1,
+      "IS": 4,
+      "PD": 13,
+      "PJ": 1,
+      "PP": 4,
+      "RE": 1
+    },
+    "changed_jobs": 28,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "生产运行",
+    "jobs": 26,
+    "previous_blocks": {
+      "ZC": 26
+    },
+    "current_blocks": {
+      "ZC": 26
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "用户体验",
+    "jobs": 16,
+    "previous_blocks": {
+      "GO": 16
+    },
+    "current_blocks": {
+      "GO": 3,
+      "ID": 4,
+      "RD": 1,
+      "RE": 5,
+      "UE": 3
+    },
+    "changed_jobs": 13,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "电子商务",
+    "jobs": 85,
+    "previous_blocks": {
+      "EC": 85
+    },
+    "current_blocks": {
+      "EC": 85
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "电气工程",
+    "jobs": 7,
+    "previous_blocks": {
+      "DK": 7
+    },
+    "current_blocks": {
+      "EE": 2,
+      "RD": 2,
+      "TE": 3
+    },
+    "changed_jobs": 7,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "电解工程",
+    "jobs": 3,
+    "previous_blocks": {
+      "RV": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "畜牧技术",
+    "jobs": 47,
+    "previous_blocks": {
+      "MM": 47
+    },
+    "current_blocks": {
+      "MM": 47
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "畜牧饲料",
+    "jobs": 12,
+    "previous_blocks": {
+      "RK": 12
+    },
+    "current_blocks": {
+      "RK": 12
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "疫苗研发",
+    "jobs": 4,
+    "previous_blocks": {
+      "RW": 4
+    },
+    "current_blocks": {
+      "RW": 4
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "监查",
+    "jobs": 12,
+    "previous_blocks": {
+      "AT": 12
+    },
+    "current_blocks": {
+      "CR": 12
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "直播运营",
+    "jobs": 12,
+    "previous_blocks": {
+      "LT": 12
+    },
+    "current_blocks": {
+      "LT": 12
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "矿产生产",
+    "jobs": 22,
+    "previous_blocks": {
+      "AV": 22
+    },
+    "current_blocks": {
+      "PD": 22
+    },
+    "changed_jobs": 22,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "研发",
+    "jobs": 576,
+    "previous_blocks": {
+      "RD": 186,
+      "RE": 111,
+      "RS": 279
+    },
+    "current_blocks": {
+      "RD": 186,
+      "RE": 111,
+      "RS": 279
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "社群运营",
+    "jobs": 6,
+    "previous_blocks": {
+      "EB": 6
+    },
+    "current_blocks": {
+      "CO": 4,
+      "CS": 2
+    },
+    "changed_jobs": 6,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "种植体系",
+    "jobs": 16,
+    "previous_blocks": {
+      "CU": 16
+    },
+    "current_blocks": {
+      "MN": 16
+    },
+    "changed_jobs": 16,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "租赁业务",
+    "jobs": 5,
+    "previous_blocks": {
+      "LA": 5
+    },
+    "current_blocks": {
+      "LA": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "秩序保护",
+    "jobs": 23,
+    "previous_blocks": {
+      "DL": 23
+    },
+    "current_blocks": {
+      "ES": 13,
+      "OA": 7,
+      "PF": 3
+    },
+    "changed_jobs": 23,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "移动业务",
+    "jobs": 4,
+    "previous_blocks": {
+      "FZ": 4
+    },
+    "current_blocks": {
+      "BU": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "空间设计",
+    "jobs": 4,
+    "previous_blocks": {
+      "GC": 4
+    },
+    "current_blocks": {
+      "DP": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "筹建中心",
+    "jobs": 5,
+    "previous_blocks": {
+      "EF": 5
+    },
+    "current_blocks": {
+      "BC": 2,
+      "PS": 3
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "签证",
+    "jobs": 5,
+    "previous_blocks": {
+      "VI": 5
+    },
+    "current_blocks": {
+      "VI": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "管理信息系统",
+    "jobs": 15,
+    "previous_blocks": {
+      "OS": 15
+    },
+    "current_blocks": {
+      "OS": 15
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "管理咨询",
+    "jobs": 5,
+    "previous_blocks": {
+      "GD": 5
+    },
+    "current_blocks": {
+      "PC": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "系统工程",
+    "jobs": 5,
+    "previous_blocks": {
+      "CC": 5
+    },
+    "current_blocks": {
+      "IT": 4,
+      "RD": 1
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "纪检",
+    "jobs": 1,
+    "previous_blocks": {
+      "GE": 1
+    },
+    "current_blocks": {
+      "PU": 1
+    },
+    "changed_jobs": 1,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "经纪",
+    "jobs": 14,
+    "previous_blocks": {
+      "HT": 14
+    },
+    "current_blocks": {
+      "HT": 14
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "经纪业务管理",
+    "jobs": 16,
+    "previous_blocks": {
+      "BA": 16
+    },
+    "current_blocks": {
+      "BA": 16
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "经营管理",
+    "jobs": 2,
+    "previous_blocks": {
+      "EG": 2
+    },
+    "current_blocks": {
+      "BY": 1,
+      "DP": 1
+    },
+    "changed_jobs": 2,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "综合支持",
+    "jobs": 23,
+    "previous_blocks": {
+      "AM": 23
+    },
+    "current_blocks": {
+      "AM": 23
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "综合服务管理",
+    "jobs": 16,
+    "previous_blocks": {
+      "CV": 16
+    },
+    "current_blocks": {
+      "SM": 16
+    },
+    "changed_jobs": 16,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "综合管理",
+    "jobs": 60,
+    "previous_blocks": {
+      "GM": 60
+    },
+    "current_blocks": {
+      "GM": 60
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "GM"
+  },
+  {
+    "function_name": "综合项目",
+    "jobs": 1,
+    "previous_blocks": {
+      "GF": 1
+    },
+    "current_blocks": {
+      "PM": 1
+    },
+    "changed_jobs": 1,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "编辑",
+    "jobs": 33,
+    "previous_blocks": {
+      "IE": 33
+    },
+    "current_blocks": {
+      "IE": 33
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "网站内容",
+    "jobs": 32,
+    "previous_blocks": {
+      "ID": 32
+    },
+    "current_blocks": {
+      "ID": 32
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "网络工程",
+    "jobs": 7,
+    "previous_blocks": {
+      "EH": 7
+    },
+    "current_blocks": {
+      "IT": 5,
+      "RS": 2
+    },
+    "changed_jobs": 7,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "网银管理",
+    "jobs": 5,
+    "previous_blocks": {
+      "NB": 5
+    },
+    "current_blocks": {
+      "NB": 5
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "美工",
+    "jobs": 53,
+    "previous_blocks": {
+      "AD": 53
+    },
+    "current_blocks": {
+      "AD": 53
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "职业教育/培训辅导",
+    "jobs": 69,
+    "previous_blocks": {
+      "VE": 69
+    },
+    "current_blocks": {
+      "VE": 69
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "能源管理",
+    "jobs": 3,
+    "previous_blocks": {
+      "CG": 3
+    },
+    "current_blocks": {
+      "PE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "船务制造",
+    "jobs": 29,
+    "previous_blocks": {
+      "AW": 29
+    },
+    "current_blocks": {
+      "SD": 29
+    },
+    "changed_jobs": 29,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "船舶分段",
+    "jobs": 18,
+    "previous_blocks": {
+      "SF": 18
+    },
+    "current_blocks": {
+      "SF": 18
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "艺术展馆",
+    "jobs": 23,
+    "previous_blocks": {
+      "FL": 23
+    },
+    "current_blocks": {
+      "EP": 22,
+      "FL": 1
+    },
+    "changed_jobs": 22,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "节目",
+    "jobs": 12,
+    "previous_blocks": {
+      "BM": 12
+    },
+    "current_blocks": {
+      "CR": 2,
+      "PA": 5,
+      "PD": 3,
+      "PO": 2
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "药品研发",
+    "jobs": 155,
+    "previous_blocks": {
+      "RF": 155
+    },
+    "current_blocks": {
+      "RF": 155
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "营业部",
+    "jobs": 26,
+    "previous_blocks": {
+      "BG": 26
+    },
+    "current_blocks": {
+      "BG": 26
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "营销策划",
+    "jobs": 103,
+    "previous_blocks": {
+      "AE": 103
+    },
+    "current_blocks": {
+      "CD": 17,
+      "CO": 5,
+      "CT": 4,
+      "GD": 15,
+      "MK": 35,
+      "MS": 8,
+      "OP": 4,
+      "PO": 9,
+      "RP": 4,
+      "SM": 2
+    },
+    "changed_jobs": 103,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "行政",
+    "jobs": 128,
+    "previous_blocks": {
+      "OA": 128
+    },
+    "current_blocks": {
+      "OA": 128
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "OA"
+  },
+  {
+    "function_name": "衍生品",
+    "jobs": 14,
+    "previous_blocks": {
+      "DE": 14
+    },
+    "current_blocks": {
+      "DE": 14
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "规划设计",
+    "jobs": 123,
+    "previous_blocks": {
+      "DP": 123
+    },
+    "current_blocks": {
+      "DP": 123
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "计调",
+    "jobs": 5,
+    "previous_blocks": {
+      "GG": 5
+    },
+    "current_blocks": {
+      "OP": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "计量",
+    "jobs": 21,
+    "previous_blocks": {
+      "EI": 21
+    },
+    "current_blocks": {
+      "CP": 2,
+      "ET": 1,
+      "LO": 1,
+      "ML": 1,
+      "MT": 9,
+      "PE": 7
+    },
+    "changed_jobs": 21,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设备",
+    "jobs": 15,
+    "previous_blocks": {
+      "EM": 15
+    },
+    "current_blocks": {
+      "EM": 15
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设备保全",
+    "jobs": 52,
+    "previous_blocks": {
+      "ET": 52
+    },
+    "current_blocks": {
+      "CS": 1,
+      "ES": 19,
+      "ET": 8,
+      "KP": 3,
+      "OP": 4,
+      "PD": 9,
+      "PE": 3,
+      "SO": 4,
+      "ZX": 1
+    },
+    "changed_jobs": 44,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设备工程",
+    "jobs": 55,
+    "previous_blocks": {
+      "AF": 55
+    },
+    "current_blocks": {
+      "CS": 2,
+      "EE": 1,
+      "EP": 3,
+      "ES": 4,
+      "IS": 2,
+      "KP": 4,
+      "LM": 4,
+      "MT": 3,
+      "OA": 3,
+      "PD": 1,
+      "PE": 3,
+      "PM": 21,
+      "RD": 1,
+      "SG": 3
+    },
+    "changed_jobs": 55,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设备测试",
+    "jobs": 3,
+    "previous_blocks": {
+      "GH": 3
+    },
+    "current_blocks": {
+      "TE": 3
+    },
+    "changed_jobs": 3,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设计",
+    "jobs": 46,
+    "previous_blocks": {
+      "AG": 46
+    },
+    "current_blocks": {
+      "DP": 3,
+      "PA": 3,
+      "PE": 37,
+      "RE": 3
+    },
+    "changed_jobs": 46,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "设计研发",
+    "jobs": 261,
+    "previous_blocks": {
+      "RU": 261
+    },
+    "current_blocks": {
+      "RU": 261
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "证券投资",
+    "jobs": 12,
+    "previous_blocks": {
+      "SI": 12
+    },
+    "current_blocks": {
+      "SI": 12
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "诉讼",
+    "jobs": 21,
+    "previous_blocks": {
+      "CD": 21
+    },
+    "current_blocks": {
+      "LE": 21
+    },
+    "changed_jobs": 21,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "财务",
+    "jobs": 109,
+    "previous_blocks": {
+      "FA": 109
+    },
+    "current_blocks": {
+      "FA": 109
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "FA"
+  },
+  {
+    "function_name": "财富管理",
+    "jobs": 4,
+    "previous_blocks": {
+      "GI": 4
+    },
+    "current_blocks": {
+      "FM": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "质谱",
+    "jobs": 3,
+    "previous_blocks": {
+      "MP": 3
+    },
+    "current_blocks": {
+      "MP": 3
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "质量检验",
+    "jobs": 11,
+    "previous_blocks": {
+      "WT": 11
+    },
+    "current_blocks": {
+      "DD": 1,
+      "FS": 1,
+      "RD": 5,
+      "WT": 4
+    },
+    "changed_jobs": 7,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "质量管理",
+    "jobs": 167,
+    "previous_blocks": {
+      "QA": 167
+    },
+    "current_blocks": {
+      "QA": 167
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "QA"
+  },
+  {
+    "function_name": "贵金属/珠宝交易",
+    "jobs": 10,
+    "previous_blocks": {
+      "TR": 10
+    },
+    "current_blocks": {
+      "TR": 10
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "资产保全",
+    "jobs": 14,
+    "previous_blocks": {
+      "BQ": 14
+    },
+    "current_blocks": {
+      "BQ": 14
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "资金管理",
+    "jobs": 8,
+    "previous_blocks": {
+      "EJ": 8
+    },
+    "current_blocks": {
+      "VM": 8
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "赛事管理",
+    "jobs": 17,
+    "previous_blocks": {
+      "MO": 17
+    },
+    "current_blocks": {
+      "MO": 17
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "软件开发",
+    "jobs": 298,
+    "previous_blocks": {
+      "RB": 86,
+      "RI": 212
+    },
+    "current_blocks": {
+      "RB": 86,
+      "RI": 212
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "运维",
+    "jobs": 85,
+    "previous_blocks": {
+      "IT": 85
+    },
+    "current_blocks": {
+      "CC": 4,
+      "CS": 3,
+      "DA": 12,
+      "GO": 5,
+      "IT": 33,
+      "OS": 5,
+      "RD": 10,
+      "SE": 2,
+      "SO": 11
+    },
+    "changed_jobs": 52,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "运营事业",
+    "jobs": 12,
+    "previous_blocks": {
+      "CW": 12
+    },
+    "current_blocks": {
+      "OP": 12
+    },
+    "changed_jobs": 12,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "运营管理",
+    "jobs": 32,
+    "previous_blocks": {
+      "CO": 32
+    },
+    "current_blocks": {
+      "CO": 32
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "运行监察",
+    "jobs": 15,
+    "previous_blocks": {
+      "CF": 15
+    },
+    "current_blocks": {
+      "AS": 15
+    },
+    "changed_jobs": 15,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "运输",
+    "jobs": 47,
+    "previous_blocks": {
+      "AH": 47
+    },
+    "current_blocks": {
+      "LO": 47
+    },
+    "changed_jobs": 47,
+    "core_expected_block": "LO"
+  },
+  {
+    "function_name": "进出口事务",
+    "jobs": 18,
+    "previous_blocks": {
+      "CH": 18
+    },
+    "current_blocks": {
+      "LO": 18
+    },
+    "changed_jobs": 18,
+    "core_expected_block": "LO"
+  },
+  {
+    "function_name": "造价",
+    "jobs": 48,
+    "previous_blocks": {
+      "CB": 48
+    },
+    "current_blocks": {
+      "CB": 48
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "采掘",
+    "jobs": 36,
+    "previous_blocks": {
+      "BK": 36
+    },
+    "current_blocks": {
+      "PE": 36
+    },
+    "changed_jobs": 36,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "采购",
+    "jobs": 48,
+    "previous_blocks": {
+      "AS": 48
+    },
+    "current_blocks": {
+      "BI": 12,
+      "FS": 3,
+      "LO": 8,
+      "MA": 4,
+      "PC": 8,
+      "ST": 13
+    },
+    "changed_jobs": 48,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "量化金融",
+    "jobs": 11,
+    "previous_blocks": {
+      "QF": 11
+    },
+    "current_blocks": {
+      "QF": 11
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "银行业务",
+    "jobs": 47,
+    "previous_blocks": {
+      "GS": 47
+    },
+    "current_blocks": {
+      "AM": 5,
+      "CA": 13,
+      "GS": 24,
+      "IS": 5
+    },
+    "changed_jobs": 23,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "销售",
+    "jobs": 205,
+    "previous_blocks": {
+      "MS": 205
+    },
+    "current_blocks": {
+      "MS": 205
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "MS"
+  },
+  {
+    "function_name": "销售支持",
+    "jobs": 25,
+    "previous_blocks": {
+      "FS": 25
+    },
+    "current_blocks": {
+      "CS": 4,
+      "DA": 1,
+      "DP": 1,
+      "FS": 6,
+      "MD": 4,
+      "PS": 4,
+      "RD": 2,
+      "SA": 2,
+      "SS": 1
+    },
+    "changed_jobs": 19,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "销售管理",
+    "jobs": 62,
+    "previous_blocks": {
+      "SA": 62
+    },
+    "current_blocks": {
+      "SA": 62
+    },
+    "changed_jobs": 0,
+    "core_expected_block": "SA"
+  },
+  {
+    "function_name": "门店",
+    "jobs": 68,
+    "previous_blocks": {
+      "BS": 68
+    },
+    "current_blocks": {
+      "BS": 68
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "陈列",
+    "jobs": 8,
+    "previous_blocks": {
+      "EK": 8
+    },
+    "current_blocks": {
+      "BS": 8
+    },
+    "changed_jobs": 8,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "零售业务",
+    "jobs": 29,
+    "previous_blocks": {
+      "LS": 29
+    },
+    "current_blocks": {
+      "LS": 29
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "需求分析",
+    "jobs": 5,
+    "previous_blocks": {
+      "GJ": 5
+    },
+    "current_blocks": {
+      "SD": 5
+    },
+    "changed_jobs": 5,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "静模测试",
+    "jobs": 4,
+    "previous_blocks": {
+      "GK": 4
+    },
+    "current_blocks": {
+      "TE": 4
+    },
+    "changed_jobs": 4,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目",
+    "jobs": 21,
+    "previous_blocks": {
+      "BN": 21
+    },
+    "current_blocks": {
+      "OS": 6,
+      "PM": 10,
+      "TX": 5
+    },
+    "changed_jobs": 21,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目事务",
+    "jobs": 26,
+    "previous_blocks": {
+      "AQ": 26
+    },
+    "current_blocks": {
+      "PA": 26
+    },
+    "changed_jobs": 26,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目事务（项目前期）",
+    "jobs": 39,
+    "previous_blocks": {
+      "PA": 39
+    },
+    "current_blocks": {
+      "PA": 39
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目实施",
+    "jobs": 11,
+    "previous_blocks": {
+      "CI": 11
+    },
+    "current_blocks": {
+      "EC": 5,
+      "OS": 4,
+      "RD": 2
+    },
+    "changed_jobs": 11,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目客户关系",
+    "jobs": 24,
+    "previous_blocks": {
+      "CN": 24
+    },
+    "current_blocks": {
+      "CS": 21,
+      "ND": 3
+    },
+    "changed_jobs": 24,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目工程",
+    "jobs": 89,
+    "previous_blocks": {
+      "BC": 89
+    },
+    "current_blocks": {
+      "PA": 11,
+      "PE": 78
+    },
+    "changed_jobs": 89,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目案场",
+    "jobs": 11,
+    "previous_blocks": {
+      "PF": 11
+    },
+    "current_blocks": {
+      "PF": 11
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "项目管理",
+    "jobs": 27,
+    "previous_blocks": {
+      "PC": 27
+    },
+    "current_blocks": {
+      "PC": 27
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "预定中心",
+    "jobs": 4,
+    "previous_blocks": {
+      "BO": 4
+    },
+    "current_blocks": {
+      "BO": 4
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "风电项目",
+    "jobs": 6,
+    "previous_blocks": {
+      "PS": 6
+    },
+    "current_blocks": {
+      "PS": 6
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "风险管理",
+    "jobs": 78,
+    "previous_blocks": {
+      "VM": 78
+    },
+    "current_blocks": {
+      "VM": 78
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "餐饮部",
+    "jobs": 68,
+    "previous_blocks": {
+      "BR": 68
+    },
+    "current_blocks": {
+      "BR": 43,
+      "FB": 18,
+      "FD": 3,
+      "MT": 4
+    },
+    "changed_jobs": 25,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "高中教育",
+    "jobs": 50,
+    "previous_blocks": {
+      "HS": 50
+    },
+    "current_blocks": {
+      "HS": 50
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  },
+  {
+    "function_name": "高校教育",
+    "jobs": 7,
+    "previous_blocks": {
+      "UE": 7
+    },
+    "current_blocks": {
+      "UE": 7
+    },
+    "changed_jobs": 0,
+    "core_expected_block": null
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "version": "BMJD-AUDIENCE-RELEASE-20261030-01",
+  "date": "2026-10-30",
+  "master_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+  "industry_version": "BMJD-INDUSTRY-SYNC-20261030-01",
+  "profiles": {
+    "internal": {
+      "path": "BMJD内外双版_20261030/BMJD内部使用版.html",
+      "version": "BMJD-INTERNAL-20261030-01",
+      "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
+      "audience": "internal",
+      "pagination": false,
+      "industry_codes_migrated": true
+    },
+    "client": {
+      "path": "BMJD内外双版_20261030/BMJD客户查询版.html",
+      "version": "BMJD-CLIENT-20261030-01",
+      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
+      "audience": "client",
+      "pagination": false,
+      "industry_codes_migrated": true
+    }
+  },
+  "jobs": 9111,
+  "pagination": false,
+  "files": {
+    "BMJD内部使用版.html": {
+      "bytes": 1946624,
+      "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b"
+    },
+    "BMJD客户查询版.html": {
+      "bytes": 1603823,
+      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18"
+    },
+    "使用说明.md": {
+      "bytes": 3164,
+      "sha256": "55152c033f3ff4bb668a966d7e658e111a3862e7ba668604aa8fae94dc6c6906"
+    },
+    "核验/构建核验.json": {
+      "bytes": 5780,
+      "sha256": "dd6b579cc6ca5346e846eb434b0d77249c3ff6668d01d8156f1b74355514979e"
+    },
+    "核验/浏览器核验.json": {
+      "bytes": 6427,
+      "sha256": "a5a7e7756c584e2577b73a7e0f2ee1032a9dc0b9ceddbed531fb059c1411ab0b"
+    },
+    "当前发布版本.json": {
+      "bytes": 1852,
+      "sha256": "5b7618d8ba7214fac0edb5c377fe7a77c93856d2f16ee70b5fb0261ad0d3fb1c"
+    }
+  },
+  "distribution": "客户转发使用客户版单文件；双版汇总包用于公司内部保存。"
+}

@@ -1,0 +1,1750 @@
+[
+  {
+    "id": "FG-C301CAE5782F8F",
+    "name": "EHS",
+    "jobs": 46,
+    "professional_directions": 1,
+    "series": 15,
+    "source_functions": [
+      "EHS"
+    ],
+    "code_blocks": {
+      "SE": 46
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-30146370B024F4",
+    "name": "三维模型开发",
+    "jobs": 7,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "三维模型开发"
+    ],
+    "code_blocks": {
+      "CY": 7
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-18118A21783D54",
+    "name": "专业技术",
+    "jobs": 85,
+    "professional_directions": 1,
+    "series": 27,
+    "source_functions": [
+      "专业技术"
+    ],
+    "code_blocks": {
+      "CS": 3,
+      "FS": 4,
+      "PE": 69,
+      "QE": 3,
+      "RE": 2,
+      "ZX": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-422E224971AB3A",
+    "name": "业务流程",
+    "jobs": 15,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "业务流程"
+    ],
+    "code_blocks": {
+      "FC": 5,
+      "KP": 5,
+      "OS": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-BEB8C64FE33A62",
+    "name": "临床研究",
+    "jobs": 15,
+    "professional_directions": 2,
+    "series": 4,
+    "source_functions": [
+      "招募",
+      "监查"
+    ],
+    "code_blocks": {
+      "CR": 12,
+      "RE": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-AEA82737CC0186",
+    "name": "产品",
+    "jobs": 108,
+    "professional_directions": 11,
+    "series": 34,
+    "source_functions": [
+      "互联网医院",
+      "互联网金融产品",
+      "产品",
+      "产品研发",
+      "产品营销",
+      "产品规划",
+      "产品运营",
+      "产品项目部",
+      "场务项目",
+      "用户体验",
+      "需求分析"
+    ],
+    "code_blocks": {
+      "PP": 108
+    },
+    "code_policy": "统一PP"
+  },
+  {
+    "id": "FG-682A27DF75F206",
+    "name": "人力资源与人才服务",
+    "jobs": 65,
+    "professional_directions": 2,
+    "series": 17,
+    "source_functions": [
+      "人力资源",
+      "猎聘"
+    ],
+    "code_blocks": {
+      "HH": 5,
+      "HR": 60
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-44D3745B38FDF7",
+    "name": "会展",
+    "jobs": 8,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "会展"
+    ],
+    "code_blocks": {
+      "HR": 3,
+      "ME": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-A0D728D09FD328",
+    "name": "会所",
+    "jobs": 18,
+    "professional_directions": 1,
+    "series": 9,
+    "source_functions": [
+      "会所"
+    ],
+    "code_blocks": {
+      "BF": 18
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-F0CA6E47A6AF96",
+    "name": "保险",
+    "jobs": 50,
+    "professional_directions": 4,
+    "series": 16,
+    "source_functions": [
+      "保险",
+      "保险理赔",
+      "再保险业务",
+      "核保"
+    ],
+    "code_blocks": {
+      "AA": 14,
+      "IA": 15,
+      "IS": 3,
+      "RA": 8,
+      "RI": 10
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-C4CE4273D63E81",
+    "name": "信息与数字化",
+    "jobs": 183,
+    "professional_directions": 6,
+    "series": 69,
+    "source_functions": [
+      "信息安全",
+      "信息技术",
+      "管理信息系统",
+      "系统工程",
+      "网络工程",
+      "运维"
+    ],
+    "code_blocks": {
+      "CC": 6,
+      "CS": 3,
+      "DA": 12,
+      "DS": 4,
+      "GO": 5,
+      "IT": 71,
+      "OS": 20,
+      "RD": 15,
+      "RE": 1,
+      "RL": 17,
+      "RS": 2,
+      "SE": 2,
+      "SO": 11,
+      "WS": 14
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-AB8B31C801016A",
+    "name": "信托业务",
+    "jobs": 9,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "信托业务"
+    ],
+    "code_blocks": {
+      "FC": 9
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-EB7EB8F2A9C80B",
+    "name": "催收",
+    "jobs": 12,
+    "professional_directions": 1,
+    "series": 5,
+    "source_functions": [
+      "催收"
+    ],
+    "code_blocks": {
+      "CM": 8,
+      "PC": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-55EE9B0498B60B",
+    "name": "党群工作",
+    "jobs": 25,
+    "professional_directions": 2,
+    "series": 10,
+    "source_functions": [
+      "党群工会",
+      "纪检"
+    ],
+    "code_blocks": {
+      "PU": 25
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-35AAB08F2FFC09",
+    "name": "内容编辑",
+    "jobs": 68,
+    "professional_directions": 3,
+    "series": 26,
+    "source_functions": [
+      "新媒体记者",
+      "编辑",
+      "网站内容"
+    ],
+    "code_blocks": {
+      "ID": 35,
+      "IE": 33
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-C38F1D05075171",
+    "name": "农牧生产",
+    "jobs": 108,
+    "professional_directions": 3,
+    "series": 28,
+    "source_functions": [
+      "牧场体系",
+      "畜牧技术",
+      "种植体系"
+    ],
+    "code_blocks": {
+      "MM": 47,
+      "MN": 61
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-80F3D96F157D5F",
+    "name": "创意与视觉设计",
+    "jobs": 129,
+    "professional_directions": 2,
+    "series": 53,
+    "source_functions": [
+      "创意",
+      "美工"
+    ],
+    "code_blocks": {
+      "AD": 53,
+      "CR": 76
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-79B9250E2984F1",
+    "name": "勘探",
+    "jobs": 19,
+    "professional_directions": 1,
+    "series": 4,
+    "source_functions": [
+      "勘探"
+    ],
+    "code_blocks": {
+      "DP": 3,
+      "PE": 16
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-7A0DFEE6C788F7",
+    "name": "医疗与医学服务",
+    "jobs": 579,
+    "professional_directions": 5,
+    "series": 171,
+    "source_functions": [
+      "临床科室",
+      "互联网医院",
+      "医学部",
+      "医技科室",
+      "医疗养护中心"
+    ],
+    "code_blocks": {
+      "CR": 8,
+      "DR": 361,
+      "DT": 27,
+      "EN": 106,
+      "HL": 3,
+      "YX": 74
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-A2A41A1D7535BA",
+    "name": "发行",
+    "jobs": 17,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "发行"
+    ],
+    "code_blocks": {
+      "JO": 17
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-4C403431191A58",
+    "name": "变电设计",
+    "jobs": 13,
+    "professional_directions": 1,
+    "series": 4,
+    "source_functions": [
+      "变电设计"
+    ],
+    "code_blocks": {
+      "SD": 13
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-E1202AD4634B61",
+    "name": "咨询",
+    "jobs": 49,
+    "professional_directions": 3,
+    "series": 14,
+    "source_functions": [
+      "咨询",
+      "工程咨询",
+      "管理咨询"
+    ],
+    "code_blocks": {
+      "MC": 39,
+      "PC": 10
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-AE3BE96C5F02C4",
+    "name": "商业项目",
+    "jobs": 13,
+    "professional_directions": 1,
+    "series": 4,
+    "source_functions": [
+      "商业项目"
+    ],
+    "code_blocks": {
+      "BP": 13
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-9DC4E73EA671C2",
+    "name": "商务",
+    "jobs": 88,
+    "professional_directions": 4,
+    "series": 22,
+    "source_functions": [
+      "MCN",
+      "加盟事务",
+      "商务",
+      "移动业务"
+    ],
+    "code_blocks": {
+      "BU": 80,
+      "JA": 5,
+      "MK": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-3ADCAD5AC035BF",
+    "name": "场地运营",
+    "jobs": 70,
+    "professional_directions": 2,
+    "series": 24,
+    "source_functions": [
+      "场地服务",
+      "场地运营"
+    ],
+    "code_blocks": {
+      "CA": 4,
+      "FE": 4,
+      "LM": 28,
+      "OM": 5,
+      "SS": 22,
+      "ST": 7
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-BA8681D272260A",
+    "name": "实验室",
+    "jobs": 15,
+    "professional_directions": 2,
+    "series": 6,
+    "source_functions": [
+      "实验室",
+      "质谱"
+    ],
+    "code_blocks": {
+      "DD": 1,
+      "MP": 3,
+      "PR": 11
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-E73D84773A078B",
+    "name": "审计",
+    "jobs": 13,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "审计"
+    ],
+    "code_blocks": {
+      "AT": 4,
+      "FA": 5,
+      "SU": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-28049C7F3EF50D",
+    "name": "客务服务",
+    "jobs": 45,
+    "professional_directions": 6,
+    "series": 11,
+    "source_functions": [
+      "公寓",
+      "别墅管家部",
+      "客务部",
+      "机场接待",
+      "楼层管理",
+      "预定中心"
+    ],
+    "code_blocks": {
+      "BO": 4,
+      "CM": 31,
+      "CN": 2,
+      "SC": 4,
+      "VC": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-54D9984D285A17",
+    "name": "客户服务",
+    "jobs": 153,
+    "professional_directions": 6,
+    "series": 48,
+    "source_functions": [
+      "客户关系",
+      "客户工程",
+      "客户服务",
+      "挂号",
+      "现场管理",
+      "项目客户关系"
+    ],
+    "code_blocks": {
+      "CE": 3,
+      "CS": 142,
+      "MS": 5,
+      "ND": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-099888DDA29A47",
+    "name": "对外贸易",
+    "jobs": 6,
+    "professional_directions": 1,
+    "series": 1,
+    "source_functions": [
+      "对外贸易"
+    ],
+    "code_blocks": {
+      "IB": 6
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-85D56BF4D4229A",
+    "name": "工程",
+    "jobs": 424,
+    "professional_directions": 25,
+    "series": 153,
+    "source_functions": [
+      "业务技术",
+      "化学工程",
+      "合成工程",
+      "工程",
+      "工程技术",
+      "工程支持",
+      "工程监理",
+      "工程管理",
+      "工程部",
+      "工程项目",
+      "店面工程",
+      "建筑工程",
+      "开发筹建",
+      "技术",
+      "无机工程",
+      "有机工程",
+      "机械工程",
+      "现场工程",
+      "现场管理",
+      "电气工程",
+      "电解工程",
+      "筹建中心",
+      "设计",
+      "项目工程",
+      "风电项目"
+    ],
+    "code_blocks": {
+      "BC": 7,
+      "BY": 1,
+      "DP": 14,
+      "EE": 21,
+      "EP": 5,
+      "FE": 21,
+      "FM": 6,
+      "PA": 16,
+      "PC": 6,
+      "PD": 1,
+      "PE": 178,
+      "PM": 81,
+      "PQ": 9,
+      "PS": 26,
+      "RD": 2,
+      "RE": 3,
+      "SE": 8,
+      "TE": 19
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-CF17BDAE0F791C",
+    "name": "工程作业",
+    "jobs": 65,
+    "professional_directions": 1,
+    "series": 22,
+    "source_functions": [
+      "工程作业"
+    ],
+    "code_blocks": {
+      "ZX": 65
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-31125091202370",
+    "name": "市场与营销",
+    "jobs": 351,
+    "professional_directions": 7,
+    "series": 96,
+    "source_functions": [
+      "企划",
+      "品牌运营",
+      "媒介",
+      "市场",
+      "市场调研",
+      "搜索引擎",
+      "营销策划"
+    ],
+    "code_blocks": {
+      "CD": 17,
+      "CO": 5,
+      "CT": 4,
+      "DA": 1,
+      "GD": 15,
+      "ME": 40,
+      "MK": 219,
+      "MS": 8,
+      "OP": 4,
+      "OS": 5,
+      "PO": 9,
+      "RP": 4,
+      "SM": 2,
+      "SO": 5,
+      "ST": 13
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-EA5F81887EBA6F",
+    "name": "应用技术",
+    "jobs": 8,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "应用技术"
+    ],
+    "code_blocks": {
+      "RD": 8
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-9EC428625FEE9E",
+    "name": "开发",
+    "jobs": 21,
+    "professional_directions": 1,
+    "series": 7,
+    "source_functions": [
+      "开发"
+    ],
+    "code_blocks": {
+      "IP": 21
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-8279863F1FED96",
+    "name": "影视制作",
+    "jobs": 72,
+    "professional_directions": 5,
+    "series": 25,
+    "source_functions": [
+      "动画",
+      "动画特效",
+      "后期制作",
+      "影视",
+      "节目"
+    ],
+    "code_blocks": {
+      "AD": 6,
+      "CR": 2,
+      "CT": 28,
+      "DP": 8,
+      "GD": 3,
+      "PA": 5,
+      "PC": 15,
+      "PD": 3,
+      "PO": 2
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-6A88149D67EC9C",
+    "name": "影院",
+    "jobs": 15,
+    "professional_directions": 1,
+    "series": 5,
+    "source_functions": [
+      "影院"
+    ],
+    "code_blocks": {
+      "BR": 3,
+      "CD": 4,
+      "CM": 8
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-34B37D1B6C9351",
+    "name": "成本与造价",
+    "jobs": 54,
+    "professional_directions": 2,
+    "series": 15,
+    "source_functions": [
+      "成本控制",
+      "造价"
+    ],
+    "code_blocks": {
+      "CB": 54
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-41693DAD59EFCD",
+    "name": "战略发展/业务发展",
+    "jobs": 79,
+    "professional_directions": 1,
+    "series": 19,
+    "source_functions": [
+      "战略发展/业务发展"
+    ],
+    "code_blocks": {
+      "BD": 79
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-FA3617F0CF0744",
+    "name": "房地产经纪",
+    "jobs": 14,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "经纪"
+    ],
+    "code_blocks": {
+      "HT": 14
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-9D832F50F10C33",
+    "name": "技术检测",
+    "jobs": 24,
+    "professional_directions": 1,
+    "series": 9,
+    "source_functions": [
+      "技术检测"
+    ],
+    "code_blocks": {
+      "TT": 24
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-68EE71BCF6B4C9",
+    "name": "投资业务",
+    "jobs": 92,
+    "professional_directions": 5,
+    "series": 21,
+    "source_functions": [
+      "固定收益",
+      "基金管理",
+      "投资业务",
+      "投资发展",
+      "证券投资"
+    ],
+    "code_blocks": {
+      "AM": 4,
+      "FB": 9,
+      "ID": 5,
+      "IO": 62,
+      "SI": 12
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-44F8A3A112EA69",
+    "name": "投资研究",
+    "jobs": 43,
+    "professional_directions": 2,
+    "series": 14,
+    "source_functions": [
+      "投资研究",
+      "量化金融"
+    ],
+    "code_blocks": {
+      "QF": 11,
+      "RA": 32
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-9BCE078A034BA5",
+    "name": "投资银行业务",
+    "jobs": 28,
+    "professional_directions": 2,
+    "series": 7,
+    "source_functions": [
+      "投融资",
+      "投资银行业务"
+    ],
+    "code_blocks": {
+      "IM": 28
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-76482C87CE01B9",
+    "name": "担保业务",
+    "jobs": 33,
+    "professional_directions": 1,
+    "series": 7,
+    "source_functions": [
+      "担保业务"
+    ],
+    "code_blocks": {
+      "GB": 33
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-B33188006E309D",
+    "name": "招投标",
+    "jobs": 8,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "招投标"
+    ],
+    "code_blocks": {
+      "BI": 8
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-2EECE533B2AFDF",
+    "name": "政府事务",
+    "jobs": 9,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "政府事务"
+    ],
+    "code_blocks": {
+      "GA": 9
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-C71A20FA53C779",
+    "name": "教育与培训",
+    "jobs": 570,
+    "professional_directions": 15,
+    "series": 209,
+    "source_functions": [
+      "初中教育",
+      "国际教育",
+      "培训",
+      "外教",
+      "学前教育",
+      "小学教育",
+      "教务",
+      "教学管理",
+      "教师发展",
+      "教材教辅",
+      "教研",
+      "教练",
+      "职业教育/培训辅导",
+      "高中教育",
+      "高校教育"
+    ],
+    "code_blocks": {
+      "AC": 2,
+      "CA": 3,
+      "CS": 4,
+      "ED": 30,
+      "EO": 37,
+      "ES": 27,
+      "FT": 9,
+      "HR": 14,
+      "HS": 50,
+      "IS": 153,
+      "JS": 47,
+      "PS": 40,
+      "SC": 33,
+      "ST": 4,
+      "TE": 12,
+      "TM": 8,
+      "TN": 4,
+      "TS": 14,
+      "UE": 7,
+      "VE": 69,
+      "WS": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-5440F7424F2865",
+    "name": "数据",
+    "jobs": 35,
+    "professional_directions": 3,
+    "series": 13,
+    "source_functions": [
+      "数据分析",
+      "数据管理",
+      "数据采集"
+    ],
+    "code_blocks": {
+      "DA": 27,
+      "DD": 4,
+      "DT": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-CD25DFF7EA9F19",
+    "name": "文艺活动",
+    "jobs": 81,
+    "professional_directions": 1,
+    "series": 40,
+    "source_functions": [
+      "文艺活动"
+    ],
+    "code_blocks": {
+      "AC": 81
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-28A13F447012BA",
+    "name": "旅游服务",
+    "jobs": 10,
+    "professional_directions": 2,
+    "series": 2,
+    "source_functions": [
+      "签证",
+      "计调"
+    ],
+    "code_blocks": {
+      "OP": 5,
+      "VI": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-687F9CF309A6BA",
+    "name": "法律合规",
+    "jobs": 71,
+    "professional_directions": 2,
+    "series": 17,
+    "source_functions": [
+      "法律合规",
+      "诉讼"
+    ],
+    "code_blocks": {
+      "LE": 71
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-6AA8F49CC992DF",
+    "name": "测试",
+    "jobs": 87,
+    "professional_directions": 4,
+    "series": 25,
+    "source_functions": [
+      "数模测试",
+      "测试",
+      "设备测试",
+      "静模测试"
+    ],
+    "code_blocks": {
+      "RT": 9,
+      "TE": 78
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-8A071A3ECD08FC",
+    "name": "游客部",
+    "jobs": 17,
+    "professional_directions": 1,
+    "series": 7,
+    "source_functions": [
+      "游客部"
+    ],
+    "code_blocks": {
+      "TB": 17
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-847C5F681CE955",
+    "name": "游戏",
+    "jobs": 36,
+    "professional_directions": 1,
+    "series": 12,
+    "source_functions": [
+      "游戏"
+    ],
+    "code_blocks": {
+      "RG": 36
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-8A5C7A0C197E6F",
+    "name": "版权",
+    "jobs": 14,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "版权"
+    ],
+    "code_blocks": {
+      "AU": 14
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-929FD8AD7333EF",
+    "name": "物业工程",
+    "jobs": 48,
+    "professional_directions": 1,
+    "series": 20,
+    "source_functions": [
+      "物业工程"
+    ],
+    "code_blocks": {
+      "CP": 48
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-F1E91827182C1E",
+    "name": "物业管理",
+    "jobs": 34,
+    "professional_directions": 2,
+    "series": 9,
+    "source_functions": [
+      "商业服务",
+      "物业管理"
+    ],
+    "code_blocks": {
+      "BS": 4,
+      "CG": 4,
+      "CN": 5,
+      "HA": 16,
+      "RM": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-F30EC024911CD1",
+    "name": "生产制造",
+    "jobs": 991,
+    "professional_directions": 11,
+    "series": 398,
+    "source_functions": [
+      "塑料生产",
+      "模具制造",
+      "生产",
+      "生产准备",
+      "生产工艺",
+      "生产技术",
+      "生产管理",
+      "生产运行",
+      "矿产生产",
+      "船务制造",
+      "船舶分段"
+    ],
+    "code_blocks": {
+      "BE": 212,
+      "CM": 6,
+      "CP": 3,
+      "CS": 1,
+      "FM": 216,
+      "IS": 4,
+      "MD": 4,
+      "MT": 161,
+      "PA": 1,
+      "PD": 256,
+      "PJ": 1,
+      "PP": 4,
+      "PR": 12,
+      "PZ": 20,
+      "RE": 1,
+      "SD": 29,
+      "SF": 18,
+      "VT": 16,
+      "ZC": 26
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-DDA2F979076534",
+    "name": "电子商务",
+    "jobs": 85,
+    "professional_directions": 1,
+    "series": 28,
+    "source_functions": [
+      "电子商务"
+    ],
+    "code_blocks": {
+      "EC": 85
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-CB086D66CD715F",
+    "name": "研发",
+    "jobs": 603,
+    "professional_directions": 3,
+    "series": 205,
+    "source_functions": [
+      "农作物研究",
+      "畜牧饲料",
+      "研发"
+    ],
+    "code_blocks": {
+      "RD": 186,
+      "RE": 111,
+      "RH": 15,
+      "RK": 12,
+      "RS": 279
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-33C124D35B45D7",
+    "name": "租赁业务",
+    "jobs": 5,
+    "professional_directions": 1,
+    "series": 1,
+    "source_functions": [
+      "租赁业务"
+    ],
+    "code_blocks": {
+      "LA": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-62861CDF5940F7",
+    "name": "秩序保护",
+    "jobs": 23,
+    "professional_directions": 1,
+    "series": 8,
+    "source_functions": [
+      "秩序保护"
+    ],
+    "code_blocks": {
+      "ES": 13,
+      "OA": 7,
+      "PF": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-C3C9B98591D9E2",
+    "name": "综合管理",
+    "jobs": 60,
+    "professional_directions": 1,
+    "series": 41,
+    "source_functions": [
+      "综合管理"
+    ],
+    "code_blocks": {
+      "GM": 60
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-12098DAEA4858D",
+    "name": "能源管理",
+    "jobs": 3,
+    "professional_directions": 1,
+    "series": 1,
+    "source_functions": [
+      "能源管理"
+    ],
+    "code_blocks": {
+      "PE": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-5B602A4800C934",
+    "name": "艺术展馆",
+    "jobs": 23,
+    "professional_directions": 1,
+    "series": 9,
+    "source_functions": [
+      "艺术展馆"
+    ],
+    "code_blocks": {
+      "EP": 22,
+      "FL": 1
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-FDBF54C0F1D1BB",
+    "name": "药品研发",
+    "jobs": 159,
+    "professional_directions": 2,
+    "series": 42,
+    "source_functions": [
+      "疫苗研发",
+      "药品研发"
+    ],
+    "code_blocks": {
+      "RF": 155,
+      "RW": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-1D7B9CF1025834",
+    "name": "行政与综合服务",
+    "jobs": 170,
+    "professional_directions": 4,
+    "series": 64,
+    "source_functions": [
+      "保密管理",
+      "综合支持",
+      "综合服务管理",
+      "行政"
+    ],
+    "code_blocks": {
+      "AM": 23,
+      "OA": 131,
+      "SM": 16
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-633CE99A46ADDA",
+    "name": "衍生品",
+    "jobs": 14,
+    "professional_directions": 1,
+    "series": 4,
+    "source_functions": [
+      "衍生品"
+    ],
+    "code_blocks": {
+      "DE": 14
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-24622B6909A5A1",
+    "name": "规划设计",
+    "jobs": 128,
+    "professional_directions": 3,
+    "series": 40,
+    "source_functions": [
+      "空间设计",
+      "经营管理",
+      "规划设计"
+    ],
+    "code_blocks": {
+      "DP": 128
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-95E2D3F0AA066D",
+    "name": "计量测控",
+    "jobs": 26,
+    "professional_directions": 2,
+    "series": 19,
+    "source_functions": [
+      "测控",
+      "计量"
+    ],
+    "code_blocks": {
+      "CP": 2,
+      "ET": 1,
+      "LO": 1,
+      "ML": 1,
+      "MT": 9,
+      "PE": 7,
+      "TE": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-47198331067A55",
+    "name": "设备工程",
+    "jobs": 176,
+    "professional_directions": 6,
+    "series": 77,
+    "source_functions": [
+      "工程设备",
+      "核磁",
+      "检修",
+      "设备",
+      "设备保全",
+      "设备工程"
+    ],
+    "code_blocks": {
+      "CS": 13,
+      "EE": 3,
+      "EM": 15,
+      "EP": 3,
+      "ES": 23,
+      "ET": 8,
+      "IS": 2,
+      "KP": 7,
+      "LM": 6,
+      "LO": 3,
+      "MT": 3,
+      "NM": 3,
+      "OA": 3,
+      "OP": 4,
+      "PD": 13,
+      "PE": 6,
+      "PM": 21,
+      "RD": 1,
+      "SG": 3,
+      "SO": 4,
+      "TE": 15,
+      "ZC": 16,
+      "ZX": 1
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-D4371BF7DB7D5E",
+    "name": "设计研发",
+    "jobs": 261,
+    "professional_directions": 1,
+    "series": 83,
+    "source_functions": [
+      "设计研发"
+    ],
+    "code_blocks": {
+      "RU": 261
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-1CAD5D40B32788",
+    "name": "证券期货经纪",
+    "jobs": 25,
+    "professional_directions": 3,
+    "series": 6,
+    "source_functions": [
+      "IB业务",
+      "经纪业务管理",
+      "营业部"
+    ],
+    "code_blocks": {
+      "BA": 16,
+      "BG": 4,
+      "BT": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-569A4472A067AD",
+    "name": "财务与资金",
+    "jobs": 121,
+    "professional_directions": 3,
+    "series": 31,
+    "source_functions": [
+      "营业部",
+      "财务",
+      "资金管理"
+    ],
+    "code_blocks": {
+      "BG": 4,
+      "FA": 109,
+      "VM": 8
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-EB4AA6E2BAAE95",
+    "name": "财富管理",
+    "jobs": 4,
+    "professional_directions": 1,
+    "series": 1,
+    "source_functions": [
+      "财富管理"
+    ],
+    "code_blocks": {
+      "FM": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-BE0CBD94EDF67A",
+    "name": "质量管理",
+    "jobs": 223,
+    "professional_directions": 6,
+    "series": 65,
+    "source_functions": [
+      "体系建设",
+      "医疗控制",
+      "标准化",
+      "检验",
+      "质量检验",
+      "质量管理"
+    ],
+    "code_blocks": {
+      "DD": 1,
+      "FS": 1,
+      "IC": 24,
+      "QA": 179,
+      "RD": 5,
+      "RE": 3,
+      "SP": 6,
+      "WT": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-89C96FCFDB5BF1",
+    "name": "贵金属/珠宝交易",
+    "jobs": 10,
+    "professional_directions": 1,
+    "series": 2,
+    "source_functions": [
+      "贵金属/珠宝交易"
+    ],
+    "code_blocks": {
+      "TR": 10
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-4694A7206B029B",
+    "name": "资产保全",
+    "jobs": 14,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "资产保全"
+    ],
+    "code_blocks": {
+      "BQ": 14
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-1E17AF1AEE833B",
+    "name": "赛事管理",
+    "jobs": 17,
+    "professional_directions": 1,
+    "series": 5,
+    "source_functions": [
+      "赛事管理"
+    ],
+    "code_blocks": {
+      "MO": 17
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-2DC6072242906B",
+    "name": "软件与应用研发",
+    "jobs": 300,
+    "professional_directions": 2,
+    "series": 134,
+    "source_functions": [
+      "云服务",
+      "软件开发"
+    ],
+    "code_blocks": {
+      "CC": 2,
+      "RB": 86,
+      "RI": 212
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-B93B3DA92A233C",
+    "name": "运营管理",
+    "jobs": 67,
+    "professional_directions": 6,
+    "series": 21,
+    "source_functions": [
+      "收益",
+      "直播运营",
+      "社群运营",
+      "经营管理",
+      "运营事业",
+      "运营管理"
+    ],
+    "code_blocks": {
+      "BY": 1,
+      "CM": 4,
+      "CO": 36,
+      "CS": 2,
+      "LT": 12,
+      "OP": 12
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-BBC96CC6B4AF64",
+    "name": "运行监察",
+    "jobs": 15,
+    "professional_directions": 1,
+    "series": 5,
+    "source_functions": [
+      "运行监察"
+    ],
+    "code_blocks": {
+      "AS": 15
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-7C7975FB5AD622",
+    "name": "采掘",
+    "jobs": 36,
+    "professional_directions": 1,
+    "series": 7,
+    "source_functions": [
+      "采掘"
+    ],
+    "code_blocks": {
+      "PE": 36
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-C66FDE488E6A63",
+    "name": "采购与物流",
+    "jobs": 358,
+    "professional_directions": 9,
+    "series": 122,
+    "source_functions": [
+      "仓储",
+      "物流",
+      "物流业务",
+      "物流管理",
+      "物流运作",
+      "生产物流",
+      "运输",
+      "进出口事务",
+      "采购"
+    ],
+    "code_blocks": {
+      "BI": 12,
+      "BY": 2,
+      "EB": 51,
+      "FS": 3,
+      "IT": 4,
+      "LO": 244,
+      "MA": 4,
+      "ML": 17,
+      "PC": 8,
+      "ST": 13
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-1AF54191EEA423",
+    "name": "金融营业管理",
+    "jobs": 3,
+    "professional_directions": 1,
+    "series": 1,
+    "source_functions": [
+      "营业部"
+    ],
+    "code_blocks": {
+      "BG": 3
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-9535C68BBEC048",
+    "name": "银行业务",
+    "jobs": 130,
+    "professional_directions": 8,
+    "series": 34,
+    "source_functions": [
+      "分期业务",
+      "同业金融",
+      "国际业务",
+      "消费金融",
+      "网银管理",
+      "营业部",
+      "银行业务",
+      "零售业务"
+    ],
+    "code_blocks": {
+      "AM": 5,
+      "BG": 15,
+      "CA": 13,
+      "GS": 24,
+      "IB": 20,
+      "IS": 5,
+      "LS": 29,
+      "NB": 5,
+      "ST": 4,
+      "TY": 5,
+      "XF": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-F04B061471B1FD",
+    "name": "销售",
+    "jobs": 205,
+    "professional_directions": 1,
+    "series": 52,
+    "source_functions": [
+      "销售"
+    ],
+    "code_blocks": {
+      "MS": 205
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-E0978CD6E0500E",
+    "name": "销售支持",
+    "jobs": 25,
+    "professional_directions": 1,
+    "series": 11,
+    "source_functions": [
+      "销售支持"
+    ],
+    "code_blocks": {
+      "CS": 4,
+      "DA": 1,
+      "DP": 1,
+      "FS": 6,
+      "MD": 4,
+      "PS": 4,
+      "RD": 2,
+      "SA": 2,
+      "SS": 1
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-8FBD21259EE1FA",
+    "name": "销售管理",
+    "jobs": 62,
+    "professional_directions": 1,
+    "series": 16,
+    "source_functions": [
+      "销售管理"
+    ],
+    "code_blocks": {
+      "SA": 62
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-F63FC79DDE1585",
+    "name": "零售与商品经营",
+    "jobs": 86,
+    "professional_directions": 4,
+    "series": 36,
+    "source_functions": [
+      "商品管理",
+      "场务项目",
+      "门店",
+      "陈列"
+    ],
+    "code_blocks": {
+      "BR": 3,
+      "BS": 76,
+      "CM": 7
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-6EF50BDA56EA9A",
+    "name": "项目案场",
+    "jobs": 11,
+    "professional_directions": 1,
+    "series": 3,
+    "source_functions": [
+      "项目案场"
+    ],
+    "code_blocks": {
+      "PF": 11
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-A049DCA9D8F1E0",
+    "name": "项目管理",
+    "jobs": 128,
+    "professional_directions": 7,
+    "series": 44,
+    "source_functions": [
+      "客户交付",
+      "综合项目",
+      "项目",
+      "项目事务",
+      "项目事务（项目前期）",
+      "项目实施",
+      "项目管理"
+    ],
+    "code_blocks": {
+      "EC": 5,
+      "OS": 13,
+      "PA": 65,
+      "PC": 27,
+      "PM": 11,
+      "RD": 2,
+      "TX": 5
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-E191231EF91B4F",
+    "name": "风险管理",
+    "jobs": 78,
+    "professional_directions": 1,
+    "series": 21,
+    "source_functions": [
+      "风险管理"
+    ],
+    "code_blocks": {
+      "VM": 78
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  },
+  {
+    "id": "FG-7D908910288985",
+    "name": "餐饮服务",
+    "jobs": 92,
+    "professional_directions": 3,
+    "series": 34,
+    "source_functions": [
+      "厨房",
+      "宴会厅",
+      "餐饮部"
+    ],
+    "code_blocks": {
+      "BH": 3,
+      "BR": 43,
+      "FB": 39,
+      "FD": 3,
+      "MT": 4
+    },
+    "code_policy": "保留各原专业方向合理代码，不将两个字母强行视为一个职能独占"
+  }
+]

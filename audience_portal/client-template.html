@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb"><title>BMJD · 岗位查询</title>
+  <meta name="description" content="查找标准岗位，查看通用或行业岗位职责。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%233555d6'/%3E%3Ctext x='10' y='29' font-family='Arial' font-size='28' font-weight='700' fill='white'%3EB%3C/text%3E%3C/svg%3E">
+  <style>/*__STYLES__*/</style>
+</head>
+<body>
+<a class="skip" href="#query">跳到岗位搜索</a>
+<header class="topbar"><a class="brand" href="#" id="brand-home"><span class="brand-mark">B</span><strong>BMJD</strong><span class="brand-caption">岗位查询</span></a><span class="coverage" id="coverage">正在载入岗位…</span></header>
+<main>
+  <section class="page-heading"><h1>查找标准岗位，查看完整职责。</h1><p>输入岗位名称或代码，也可按行业和职能筛选。</p></section>
+  <div id="loading" class="load-state" role="status">正在打开岗位字典，请稍候。</div>
+  <div id="load-error" class="error-state" role="alert" hidden><h2>岗位数据未能载入</h2><p id="error-message"></p><button class="button" id="retry-load">重新载入</button></div>
+  <div id="workspace" hidden>
+    <div class="search-toolbar"><label class="sr-only" for="query">搜索岗位名称、代码或常用叫法</label><div class="search-box"><span aria-hidden="true">⌕</span><input id="query" type="search" placeholder="输入岗位名称、代码或常用叫法" autocomplete="off"></div><label class="sr-only" for="search-scope">搜索范围</label><select id="search-scope"><option value="name">名称 / 代码</option><option value="all">同时搜索职责</option></select><button class="button filter-toggle" id="toggle-filters" aria-expanded="false" aria-controls="filter-controls">筛选条件</button></div>
+    <div class="catalog-layout">
+      <aside class="filters" id="filter-controls" aria-label="岗位筛选">
+        <div class="filter-heading"><h2>筛选岗位</h2><button class="text-button" id="reset-filters">重置</button></div>
+        <label for="industry-filter">适用行业</label><select id="industry-filter"><option value="">全部行业 · 通用职责</option></select>
+        <label for="level-filter">岗位层级</label><select id="level-filter"><option value="">全部层级</option><option value="1">1级 · 决策层</option><option value="2">2级 · 高级管理层</option><option value="3">3级 · 经营管理层</option><option value="4">4级 · 执行 / 高级专业</option><option value="5">5级 · 专业人员</option><option value="6">6级 · 初级专业</option><option value="7">7级 · 操作人员</option></select>
+        <label for="direction-filter">专业方向</label><select id="direction-filter" disabled><option value="">先选择职能分类</option></select>
+        <div class="dictionary-heading"><h2>职能分类</h2><span id="function-total"></span></div><label class="sr-only" for="function-query">查找职能分类</label><input id="function-query" type="search" placeholder="查找职能或专业" autocomplete="off"><div id="function-list" class="function-list"></div>
+      </aside>
+      <section class="results" aria-labelledby="results-title"><div class="results-heading"><h2 id="results-title">岗位列表</h2><p id="result-count" role="status" aria-live="polite"></p></div><div id="job-list" class="job-list"></div><div id="empty-results" class="empty-state" hidden><h3>没有找到匹配岗位</h3><p>试试其他关键词，或减少筛选条件。</p><button id="clear-empty" class="button">清除筛选条件</button></div><p class="result-end">全部结果在本页显示，可滚动查看。</p></section>
+    </div>
+  </div>
+  <footer>BMJD · 岗位查询</footer>
+</main>
+<dialog id="detail-panel" class="detail" aria-labelledby="detail-name"><div class="drawer-heading"><button id="detail-back" class="text-button">‹ 返回岗位列表</button><button id="close-detail" class="close-detail" aria-label="关闭岗位详情">×</button></div><span class="code" id="detail-code"></span><h2 id="detail-name" tabindex="-1"></h2><p class="detail-meta" id="detail-meta"></p><div class="detail-facts"><div><span>职责方向</span><strong id="detail-series"></strong></div><div><span>岗位层级</span><strong id="detail-level"></strong></div></div><div id="detail-industries" class="industry-tags"></div><div class="jd-heading"><h3>岗位职责</h3><label class="sr-only" for="jd-scope">选择职责版本</label><select id="jd-scope"></select></div><p id="scope-note" class="scope-note"></p><p id="jd-notice" class="jd-notice" hidden></p><ol id="jd-clauses" class="jd-clauses"></ol></dialog>
+<noscript><p>请启用JavaScript后打开岗位字典。</p></noscript>
+<script id="portal-payload" type="application/octet-stream">__PAYLOAD__</script>
+<script>/*__CORE__*/</script><script>/*__APP__*/</script>
+</body>
+</html>

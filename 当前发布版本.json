@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "release_version": "BMJD-AUDIENCE-RELEASE-20261030-01",
+  "date": "2026-10-30",
+  "status": "MASTER_APPROVED_DUAL_PORTALS_RELEASED",
+  "master": {
+    "path": "原版分类编码收口_20261030/主库.json",
+    "version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+    "sha256": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+    "approved": true,
+    "confirmation_path": "行业子库同步_20261030/主库确认记录.json"
+  },
+  "industries": {
+    "path": "行业子库同步_20261030",
+    "overview_path": "行业子库同步_20261030/子库总览.json",
+    "version": "BMJD-INDUSTRY-SYNC-20261030-01",
+    "count": 11,
+    "job_memberships": 19018,
+    "retained_specialized_jds": 843,
+    "audit_path": "行业子库同步_20261030/独立核验报告.json"
+  },
+  "portal": {
+    "path": "BMJD内外双版_20261030/BMJD内部使用版.html",
+    "version": "BMJD-INTERNAL-20261030-01",
+    "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
+    "audience": "internal",
+    "pagination": false,
+    "industry_codes_migrated": true
+  },
+  "maintenance_tool": {
+    "migrated": false,
+    "enabled_in_portal": false
+  },
+  "portals": {
+    "internal": {
+      "path": "BMJD内外双版_20261030/BMJD内部使用版.html",
+      "version": "BMJD-INTERNAL-20261030-01",
+      "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
+      "audience": "internal",
+      "pagination": false,
+      "industry_codes_migrated": true
+    },
+    "client": {
+      "path": "BMJD内外双版_20261030/BMJD客户查询版.html",
+      "version": "BMJD-CLIENT-20261030-01",
+      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
+      "audience": "client",
+      "pagination": false,
+      "industry_codes_migrated": true
+    }
+  }
+}

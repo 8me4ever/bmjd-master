@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-30",
+  "version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+  "master_path": "原版分类编码收口_20261030/主库.json",
+  "master_sha256": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+  "basis": "用户在本会话确认该版主库，并指示以此拆分子库及同步HTML。",
+  "user_instruction": "我目前看着没什么问题了，以这个为主库拆分子库并同步到html吧",
+  "approved_scope": "11行业子库与查岗HTML；主库文件原样固定，新增工具不在本次迁移范围。"
+}

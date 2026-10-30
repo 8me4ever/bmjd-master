@@ -1,0 +1,930 @@
+[
+  {
+    "code": "CD014",
+    "previous_job_id": "UJ-EDE187F96A208B",
+    "previous_name": "高级国际贸易法律顾问",
+    "current_job_id": "UJ-67FDA613BD0733",
+    "current_name": "演播室技术支持主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD015",
+    "previous_job_id": "UJ-3BD115195FFCB1",
+    "previous_name": "国际贸易法律顾问",
+    "current_job_id": "UJ-4DFD86414C6443",
+    "current_name": "演播室技术支持专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD016",
+    "previous_job_id": "UJ-42552E1E9FDE5E",
+    "previous_name": "初级国际贸易法律顾问",
+    "current_job_id": "UJ-CDDE935E5B2EED",
+    "current_name": "演播室技术支持助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM015",
+    "previous_job_id": "UJ-1F0EB77029E18E",
+    "previous_name": "高级翻新技师",
+    "current_job_id": "UJ-D1C2962348CD14",
+    "current_name": "初级机械维护工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM016",
+    "previous_job_id": "UJ-C4C92ED97895BE",
+    "previous_name": "翻新技师",
+    "current_job_id": "UJ-0E53D63A5F87C8",
+    "current_name": "机械维修工（设备工程，6级）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE114",
+    "previous_job_id": "UJ-3A68CCAE4F0EAE",
+    "previous_name": "室内环境治理师",
+    "current_job_id": "UJ-EFB34C256C4327",
+    "current_name": "高级设备技术工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE115",
+    "previous_job_id": "UJ-1FF41521699D2C",
+    "previous_name": "室内环境检测专员",
+    "current_job_id": "UJ-D0F4394B96D48F",
+    "current_name": "设备技术工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "HR002",
+    "previous_job_id": "UJ-844F033C4F75B4",
+    "previous_name": "会展策划总监",
+    "current_job_id": "UJ-876F508F1DA704",
+    "current_name": "人力资源总监",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "HR003",
+    "previous_job_id": "UJ-A73FB30A68D26A",
+    "previous_name": "会展策划经理",
+    "current_job_id": "UJ-CF99A1CDE21669",
+    "current_name": "人力资源经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "HR004",
+    "previous_job_id": "UJ-A7F1B277704E05",
+    "previous_name": "会展策划主管",
+    "current_job_id": "UJ-ALLNC-16D7AA2B1D0F8A",
+    "current_name": "人力资源主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "HR005",
+    "previous_job_id": "UJ-85BD3A841904BD",
+    "previous_name": "会展策划专员",
+    "current_job_id": "UJ-ALLNC-B114B0E4D3D6C9",
+    "current_name": "人力资源专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "HR006",
+    "previous_job_id": "UJ-E6FC3BE7D14E6B",
+    "previous_name": "会展策划助理",
+    "current_job_id": "UJ-116F89BC7F2ED0",
+    "current_name": "人力资源助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT273",
+    "previous_job_id": "UJ-ALLNC-8261BB49C3F083",
+    "previous_name": "数据中心管理经理",
+    "current_job_id": "UJ-8DE888038A3CA3",
+    "current_name": "业务系统分析经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT274",
+    "previous_job_id": "UJ-ALLNC-119DB3EEDCFA9E",
+    "previous_name": "数据中心管理主管",
+    "current_job_id": "UJ-A20498FE31BD84",
+    "current_name": "业务系统分析主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT004",
+    "previous_job_id": "UJ-C3-805AF2E3D958",
+    "previous_name": "高级SAP/ORACLE实施工程师（运维）",
+    "current_job_id": "UJ-4791312B1DA2D6",
+    "current_name": "信息技术主管/高级信息技术工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT005",
+    "previous_job_id": "UJ-C3-5A96BC380848",
+    "previous_name": "SAP/ORACLE实施工程师（运维）",
+    "current_job_id": "UJ-4AC56F07E5D9C3",
+    "current_name": "信息技术专员/信息技术工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT056",
+    "previous_job_id": "UJ-C83845C461F2BA",
+    "previous_name": "网络社区助理",
+    "current_job_id": "UJ-ACB454EF84544B",
+    "current_name": "初级图像算法工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD846",
+    "previous_job_id": "UJ-78BF48EF74459E",
+    "previous_name": "生产制造助理",
+    "current_job_id": "UJ-329A77C21DF47B",
+    "current_name": "木工（工程部，6级）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD656",
+    "previous_job_id": "UJ-1489353A6E283A",
+    "previous_name": "水泵工（生产，6级）",
+    "current_job_id": "UJ-9EE6B662B226F4",
+    "current_name": "生产营运助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD155",
+    "previous_job_id": "UJ-AABDA2477D6FB2",
+    "previous_name": "卧式多轴钻机长",
+    "current_job_id": "UJ-8E42F54EF8CEFE",
+    "current_name": "初级土地勘探工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD165",
+    "previous_job_id": "UJ-E428383932DB54",
+    "previous_name": "印刷技术专员",
+    "current_job_id": "UJ-868C0850938262",
+    "current_name": "掘进组长",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD775",
+    "previous_job_id": "UJ-497B899DA4074F",
+    "previous_name": "热压机机长",
+    "current_job_id": "UJ-993113C9B16B5A",
+    "current_name": "初级爆破工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD495",
+    "previous_job_id": "UJ-C95BEE86A50C75",
+    "previous_name": "无线拼缝机机长",
+    "current_job_id": "UJ-3052351B732EB3",
+    "current_name": "初级设备生产/维修工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD215",
+    "previous_job_id": "UJ-5110A617C834F6",
+    "previous_name": "双色机长",
+    "current_job_id": "UJ-E6AA7D23AD5BDE",
+    "current_name": "采集组长",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE403",
+    "previous_job_id": "UJ-848E77CC02C2F4",
+    "previous_name": "高级安装工程师（专业技术）",
+    "current_job_id": "UJ-A04694CF3613D8",
+    "current_name": "高级安装工程师（项目工程）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE404",
+    "previous_job_id": "UJ-6C802884171C8E",
+    "previous_name": "安装工程师（专业技术）",
+    "current_job_id": "UJ-5ACDFDBCA17B74",
+    "current_name": "安装工程师（项目工程）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE405",
+    "previous_job_id": "UJ-9C465F15681C91",
+    "previous_name": "初级安装工程师（专业技术）",
+    "current_job_id": "UJ-BE47BC0FCF81EF",
+    "current_name": "初级安装工程师（项目工程）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE406",
+    "previous_job_id": "UJ-DE1A73E80A219A",
+    "previous_name": "助理安装工程师（专业技术）",
+    "current_job_id": "UJ-56C7BB6CA7AA2E",
+    "current_name": "助理安装工程师（项目工程）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE203",
+    "previous_job_id": "UJ-7F85514B65CBDF",
+    "previous_name": "车辆评估经理",
+    "current_job_id": "UJ-D0FBF715DC3957",
+    "current_name": "高级电气工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE206",
+    "previous_job_id": "UJ-255AA54C99E53E",
+    "previous_name": "车辆评估助理",
+    "current_job_id": "UJ-D8E538D53CFA54",
+    "current_name": "助理电气工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "FD003",
+    "previous_job_id": "UJ-EBE3D0CECB2B9E",
+    "previous_name": "基金管理经理",
+    "current_job_id": "UJ-5E2FFDB09E49A0",
+    "current_name": "外卖业务管理经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "FD004",
+    "previous_job_id": "UJ-5A0E58028B2E7B",
+    "previous_name": "基金管理主管",
+    "current_job_id": "UJ-E43B5634EB130E",
+    "current_name": "外卖业务管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "FD005",
+    "previous_job_id": "UJ-C5770F9EAA601C",
+    "previous_name": "基金管理专员",
+    "current_job_id": "UJ-6C823C2A174348",
+    "current_name": "外卖业务管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE034",
+    "previous_job_id": "UJ-EBED4BDE6DDF87",
+    "previous_name": "养老服务主管",
+    "current_job_id": "UJ-89A982862FAF51",
+    "current_name": "高级仿真工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PE035",
+    "previous_job_id": "UJ-DDD33F2D986C13",
+    "previous_name": "养老服务专员",
+    "current_job_id": "UJ-9D99CE8CFB8718",
+    "current_name": "仿真工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD003",
+    "previous_job_id": "UJ-0177F332DEC15A",
+    "previous_name": "公司业务法律经理",
+    "current_job_id": "UJ-31ACA4D2FF3DED",
+    "current_name": "影院管理经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD004",
+    "previous_job_id": "UJ-C6A874B86C06E2",
+    "previous_name": "高级公司业务法律顾问",
+    "current_job_id": "UJ-A41CF6ADE2EE00",
+    "current_name": "影院管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD005",
+    "previous_job_id": "UJ-6977061E258D10",
+    "previous_name": "公司业务法律顾问",
+    "current_job_id": "UJ-695BD5932D845B",
+    "current_name": "影院管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CD006",
+    "previous_job_id": "UJ-178BD06FAA1044",
+    "previous_name": "初级公司业务法律顾问",
+    "current_job_id": "UJ-99B42F4B4C3C88",
+    "current_name": "影院管理助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT233",
+    "previous_job_id": "UJ-ALLNC-223D31AFD1907B",
+    "previous_name": "云产品运维经理/资深云产品运维工程师",
+    "current_job_id": "UJ-6EDC0098156928",
+    "current_name": "解决方案经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT234",
+    "previous_job_id": "UJ-ALLNC-703B1B7777D8E8",
+    "previous_name": "高级云产品运维工程师",
+    "current_job_id": "UJ-FE3AE583B38B9D",
+    "current_name": "高级解决方案工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT235",
+    "previous_job_id": "UJ-ALLNC-B2282FEB4CEB3C",
+    "previous_name": "云产品运维工程师",
+    "current_job_id": "UJ-1B257D87B24BC4",
+    "current_name": "解决方案工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT236",
+    "previous_job_id": "UJ-ALLNC-6C626139A63F8F",
+    "previous_name": "初级云产品运维工程师",
+    "current_job_id": "UJ-E57688FA9DAB67",
+    "current_name": "初级解决方案工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AS014",
+    "previous_job_id": "UJ-8DFFFF235D9D64",
+    "previous_name": "内贸采购主管",
+    "current_job_id": "UJ-03C5B98A89054E",
+    "current_name": "主控管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AS015",
+    "previous_job_id": "UJ-23C07B9095377E",
+    "previous_name": "内贸采购专员",
+    "current_job_id": "UJ-5E5B1F69AB7A41",
+    "current_name": "主控管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AS024",
+    "previous_job_id": "UJ-956559BE3D4EA9",
+    "previous_name": "影视招商主管",
+    "current_job_id": "UJ-8DEC6A04A13EAB",
+    "current_name": "运价主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AS025",
+    "previous_job_id": "UJ-E2E9956FE953CD",
+    "previous_name": "影视招商专员",
+    "current_job_id": "UJ-2FC3CD828EDE5F",
+    "current_name": "运价专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "TS003",
+    "previous_job_id": "UJ-1D55FC672CAF9D",
+    "previous_name": "文字编辑经理",
+    "current_job_id": "UJ-FA26809B804B5B",
+    "current_name": "教研综合经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "TS005",
+    "previous_job_id": "UJ-D802D2B3D539B6",
+    "previous_name": "文字编辑专员",
+    "current_job_id": "UJ-0F5292F80FF4AB",
+    "current_name": "教研综合专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU015",
+    "previous_job_id": "UJ-E8D638BC0230D8",
+    "previous_name": "新产品导入工程师",
+    "current_job_id": "UJ-C1BD7451BCEA07",
+    "current_name": "国际版权专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU004",
+    "previous_job_id": "UJ-65A0903B7609E8",
+    "previous_name": "喷漆主管",
+    "current_job_id": "UJ-A3A3BC9C7C9BCF",
+    "current_name": "版权商务/交易主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU033",
+    "previous_job_id": "UJ-985AC1E91D36FE",
+    "previous_name": "生产审计经理",
+    "current_job_id": "UJ-A5D3EBC2FB0969",
+    "current_name": "版权授权经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU034",
+    "previous_job_id": "UJ-3844BF0B6C6FA4",
+    "previous_name": "高级生产审计工程师",
+    "current_job_id": "UJ-74962C41779865",
+    "current_name": "版权授权主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU035",
+    "previous_job_id": "UJ-85224A03D9AEBC",
+    "previous_name": "生产审计工程师",
+    "current_job_id": "UJ-7606F2913C2EA2",
+    "current_name": "版权授权专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "AU036",
+    "previous_job_id": "UJ-36B07542248675",
+    "previous_name": "初级生产审计工程师",
+    "current_job_id": "UJ-0FC2D082E06875",
+    "current_name": "版权授权助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "SP004",
+    "previous_job_id": "UJ-3DF92C9007886A",
+    "previous_name": "高级体系工程师",
+    "current_job_id": "UJ-087B99718EEAE9",
+    "current_name": "标准化部主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "SP005",
+    "previous_job_id": "UJ-46FBC96A2229F9",
+    "previous_name": "体系工程师",
+    "current_job_id": "UJ-ALLNC-EA56A431E2BD3B",
+    "current_name": "标准化工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "SP006",
+    "previous_job_id": "UJ-AACF73F2AA2987",
+    "previous_name": "初级体系工程师",
+    "current_job_id": "UJ-F721D11DDBDF0C",
+    "current_name": "初级标准化工程师（标准化）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "BC003",
+    "previous_job_id": "UJ-3AB4F06BC56477",
+    "previous_name": "暖通经理",
+    "current_job_id": "UJ-85FAA627123A2C",
+    "current_name": "筹建中心经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT024",
+    "previous_job_id": "UJ-37A2C2B482362C",
+    "previous_name": "高级服务器存储工程师",
+    "current_job_id": "UJ-660E7AEE8CBCA7",
+    "current_name": "网络运营主管/高级网络工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "IT025",
+    "previous_job_id": "UJ-5A89F5C9712263",
+    "previous_name": "服务器存储工程师",
+    "current_job_id": "UJ-9B747AB9F7956D",
+    "current_name": "网络运营专员/网络工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM054",
+    "previous_job_id": "UJ-608AF9D922F3FE",
+    "previous_name": "汽机检修主管",
+    "current_job_id": "UJ-D1E6F21CD2DAD3",
+    "current_name": "压雪主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM055",
+    "previous_job_id": "UJ-C5E1253B2B068A",
+    "previous_name": "汽机检修工程师",
+    "current_job_id": "UJ-CCC9AF60264DED",
+    "current_name": "压雪车运行司机",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM024",
+    "previous_job_id": "UJ-7762A0822A0D5A",
+    "previous_name": "仪控检修主管",
+    "current_job_id": "UJ-04D5A9FD977328",
+    "current_name": "园林维护主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM025",
+    "previous_job_id": "UJ-9CBFC01E6E1B54",
+    "previous_name": "仪控检修工程师",
+    "current_job_id": "UJ-60E2BAB7BF8A50",
+    "current_name": "园林维护专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM026",
+    "previous_job_id": "UJ-85F7306DF2CFB7",
+    "previous_name": "仪控检修工",
+    "current_job_id": "UJ-812EB852C84EB6",
+    "current_name": "喷灌工",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM084",
+    "previous_job_id": "UJ-A2CF5724EBE181",
+    "previous_name": "热控检修主管",
+    "current_job_id": "UJ-FE53905FAFB951",
+    "current_name": "场馆管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM085",
+    "previous_job_id": "UJ-5704979C2EAC13",
+    "previous_name": "热控检修工程师",
+    "current_job_id": "UJ-356A59F8BCCF68",
+    "current_name": "场馆管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM086",
+    "previous_job_id": "UJ-7B8AE87F7E2041",
+    "previous_name": "热控检修工",
+    "current_job_id": "UJ-49EE7E8919C731",
+    "current_name": "场馆管理助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM064",
+    "previous_job_id": "UJ-5444459B835C46",
+    "previous_name": "维修主管/高级维修技师",
+    "current_job_id": "UJ-991A848C88D847",
+    "current_name": "索道管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM065",
+    "previous_job_id": "UJ-5D6C46368CDBF8",
+    "previous_name": "维修专员/维修技师",
+    "current_job_id": "UJ-527B98261DEE08",
+    "current_name": "索道管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM005",
+    "previous_job_id": "UJ-1AF3F2C24A8A16",
+    "previous_name": "高级整备技师",
+    "current_job_id": "UJ-F96893EB0B2B37",
+    "current_name": "剪草工",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM006",
+    "previous_job_id": "UJ-EE2CEBFF85C7FA",
+    "previous_name": "整备技师",
+    "current_job_id": "UJ-48C5D3DA422F70",
+    "current_name": "初级剪草工",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "LM043",
+    "previous_job_id": "UJ-FED2B4832BC0BA",
+    "previous_name": "设备检修经理",
+    "current_job_id": "UJ-468E29D5B06DAB",
+    "current_name": "雪场管理经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA003",
+    "previous_job_id": "UJ-22048B1D60144A",
+    "previous_name": "影院经理",
+    "current_job_id": "UJ-522C6D0EBC8E0A",
+    "current_name": "球童部经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA004",
+    "previous_job_id": "UJ-F6CF2E9AD77D3B",
+    "previous_name": "影院主管",
+    "current_job_id": "UJ-9D11F55D4740FF",
+    "current_name": "球童主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA005",
+    "previous_job_id": "UJ-7CF3E5D7387303",
+    "previous_name": "影院专员",
+    "current_job_id": "UJ-5616BB6A751F27",
+    "current_name": "球童",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD075",
+    "previous_job_id": "UJ-5014113EC973C0",
+    "previous_name": "冷压机机长",
+    "current_job_id": "UJ-ALLNC-6EB9E50A14551E",
+    "current_name": "高级钳工（设备保全）",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD316",
+    "previous_job_id": "UJ-0B637844D3E353",
+    "previous_name": "巡检工",
+    "current_job_id": "UJ-ALLNC-F4674C0B839E26",
+    "current_name": "生产设备保全助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP075",
+    "previous_job_id": "UJ-A5428BF38A51B7",
+    "previous_name": "雪场管理专员",
+    "current_job_id": "UJ-DCE6A369504CE4",
+    "current_name": "图书管理员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP033",
+    "previous_job_id": "UJ-9455844CABF809",
+    "previous_name": "场馆管理经理",
+    "current_job_id": "UJ-210D328E29DD93",
+    "current_name": "学术经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP034",
+    "previous_job_id": "UJ-FE53905FAFB951",
+    "previous_name": "场馆管理主管",
+    "current_job_id": "UJ-E011009DD388B1",
+    "current_name": "学术主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP035",
+    "previous_job_id": "UJ-356A59F8BCCF68",
+    "previous_name": "场馆管理专员",
+    "current_job_id": "UJ-45D90B14AF579A",
+    "current_name": "学术专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP023",
+    "previous_job_id": "UJ-E8F2295C6DB444",
+    "previous_name": "园林维护经理",
+    "current_job_id": "UJ-8DEF8FD70078BB",
+    "current_name": "展务经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP024",
+    "previous_job_id": "UJ-04D5A9FD977328",
+    "previous_name": "园林维护主管",
+    "current_job_id": "UJ-0D1E7235CB7540",
+    "current_name": "展务主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP025",
+    "previous_job_id": "UJ-60E2BAB7BF8A50",
+    "previous_name": "园林维护专员",
+    "current_job_id": "UJ-B9258830BA1CA9",
+    "current_name": "展务专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP044",
+    "previous_job_id": "UJ-991A848C88D847",
+    "previous_name": "索道管理主管",
+    "current_job_id": "UJ-B5EB027087B690",
+    "current_name": "高级展品保养修复师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP045",
+    "previous_job_id": "UJ-527B98261DEE08",
+    "previous_name": "索道管理专员",
+    "current_job_id": "UJ-7213741125D00D",
+    "current_name": "展品保养修复师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP004",
+    "previous_job_id": "UJ-D1E6F21CD2DAD3",
+    "previous_name": "压雪主管",
+    "current_job_id": "UJ-AA270531725F76",
+    "current_name": "展览管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP005",
+    "previous_job_id": "UJ-CCC9AF60264DED",
+    "previous_name": "压雪车运行司机",
+    "current_job_id": "UJ-A8FAD66B51BA99",
+    "current_name": "展览管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP013",
+    "previous_job_id": "UJ-45E538C75C5398",
+    "previous_name": "园林养护经理",
+    "current_job_id": "UJ-26877C02A3164E",
+    "current_name": "展馆策划总监",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP014",
+    "previous_job_id": "UJ-23E7E65D15D15E",
+    "previous_name": "园林养护主管",
+    "current_job_id": "UJ-E988CB55B850C9",
+    "current_name": "展馆策划经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP015",
+    "previous_job_id": "UJ-F8A47DE9BB2779",
+    "previous_name": "园林养护专员",
+    "current_job_id": "UJ-655DFB178099AE",
+    "current_name": "展馆策划主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP016",
+    "previous_job_id": "UJ-1C19FFDD52EFF0",
+    "previous_name": "园林养护助理",
+    "current_job_id": "UJ-B12438DA860776",
+    "current_name": "展馆策划专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP053",
+    "previous_job_id": "UJ-6B9CDE3A398543",
+    "previous_name": "草坪经理",
+    "current_job_id": "UJ-31141ED54F85B3",
+    "current_name": "陈列设计经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP054",
+    "previous_job_id": "UJ-E262C7C395867B",
+    "previous_name": "草坪主管",
+    "current_job_id": "UJ-C598F11B0060D5",
+    "current_name": "陈列设计主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "EP055",
+    "previous_job_id": "UJ-F96893EB0B2B37",
+    "previous_name": "剪草工",
+    "current_job_id": "UJ-6BA24A0F20A5FF",
+    "current_name": "陈列设计专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA013",
+    "previous_job_id": "UJ-31ACA4D2FF3DED",
+    "previous_name": "影院管理经理",
+    "current_job_id": "UJ-979FD2714C7ADF",
+    "current_name": "公司信贷经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA014",
+    "previous_job_id": "UJ-A41CF6ADE2EE00",
+    "previous_name": "影院管理主管",
+    "current_job_id": "UJ-46D2B40FFCF25E",
+    "current_name": "公司信贷主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA015",
+    "previous_job_id": "UJ-695BD5932D845B",
+    "previous_name": "影院管理专员",
+    "current_job_id": "UJ-5504772E4A545A",
+    "current_name": "公司信贷专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CA016",
+    "previous_job_id": "UJ-99B42F4B4C3C88",
+    "previous_name": "影院管理助理",
+    "current_job_id": "UJ-A3D98E975EF8FE",
+    "current_name": "公司信贷助理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CN003",
+    "previous_job_id": "UJ-8CC78E20B9BD05",
+    "previous_name": "苗木/苗圃经理",
+    "current_job_id": "UJ-1498589A2BCAC2",
+    "current_name": "公寓管理经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CN004",
+    "previous_job_id": "UJ-98EF76A0A7BBE7",
+    "previous_name": "苗木/苗圃主管",
+    "current_job_id": "UJ-ED4AC70C33ABDA",
+    "current_name": "公寓管理主管",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "CN005",
+    "previous_job_id": "UJ-2FE54C994DF455",
+    "previous_name": "苗木/苗圃专员",
+    "current_job_id": "UJ-B484E841B55CA9",
+    "current_name": "公寓管理专员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "GO003",
+    "previous_job_id": "UJ-ALLNC-66A2C60E12303F",
+    "previous_name": "交互设计经理",
+    "current_job_id": "UJ-ALLNC-ECC448BA1D81C4",
+    "current_name": "游戏运维经理/资深游戏运维工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "GO004",
+    "previous_job_id": "UJ-DEA4FDEFB8E740",
+    "previous_name": "高级UE工程师",
+    "current_job_id": "UJ-ALLNC-38BD5455ACA1C2",
+    "current_name": "高级游戏运维工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "GO005",
+    "previous_job_id": "UJ-6D662B4D38F0F8",
+    "previous_name": "UE工程师",
+    "current_job_id": "UJ-ALLNC-E6561B55D4D268",
+    "current_name": "游戏运维工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "GO006",
+    "previous_job_id": "UJ-F48B5A05A17C6C",
+    "previous_name": "初级UE工程师",
+    "current_job_id": "UJ-ALLNC-7098ADCC09C93E",
+    "current_name": "初级游戏运维工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "PD336",
+    "previous_job_id": "UJ-384DC782F87F41",
+    "previous_name": "彩印主操",
+    "current_job_id": "UJ-499CC531CC8710",
+    "current_name": "初级车辆维修技术员",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "WS063",
+    "previous_job_id": "UJ-89E58964F5C005",
+    "previous_name": "游戏安全经理/资深游戏安全工程师",
+    "current_job_id": "UJ-7235E178291AD4",
+    "current_name": "资深安全培训讲师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "WS064",
+    "previous_job_id": "UJ-7898E3602CD55B",
+    "previous_name": "高级游戏安全工程师",
+    "current_job_id": "UJ-8D14C3487E0596",
+    "current_name": "高级安全培训讲师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "WS065",
+    "previous_job_id": "UJ-9FDB3A6F1A8D35",
+    "previous_name": "游戏安全工程师",
+    "current_job_id": "UJ-0CBD0980E2D1E1",
+    "current_name": "安全培训讲师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "DS003",
+    "previous_job_id": "UJ-7AA3BF0D2A2B13",
+    "previous_name": "寿险再保险业务经理",
+    "current_job_id": "UJ-8A3B9863D39DFB",
+    "current_name": "数据库安全经理",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "DS004",
+    "previous_job_id": "UJ-437734776BFF37",
+    "previous_name": "高级寿险再保险业务代表",
+    "current_job_id": "UJ-288E04BC65294F",
+    "current_name": "高级数据库安全工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "DS005",
+    "previous_job_id": "UJ-6182131F60CD3B",
+    "previous_name": "寿险再保险业务代表",
+    "current_job_id": "UJ-29CDC830C32913",
+    "current_name": "数据库安全工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  },
+  {
+    "code": "DS006",
+    "previous_job_id": "UJ-DA2A039416E0EA",
+    "previous_name": "初级寿险再保险业务代表",
+    "current_job_id": "UJ-9D99C886CC4B1C",
+    "current_name": "初级数据库安全工程师",
+    "notice": "跨版本代码身份改变，查询旧稿必须带旧版本或岗位ID；当前主库没有重码。"
+  }
+]

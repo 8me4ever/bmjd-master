@@ -1,0 +1,45 @@
+{
+  "version": "BMJD-FUNCTION-GROUPED-20261030-01",
+  "all_passed": true,
+  "status": "VERIFIED_PENDING_USER_REVIEW",
+  "summary": {
+    "jobs": 9111,
+    "unique_names": 9111,
+    "unique_codes": 9111,
+    "previous_flat_functions": 263,
+    "function_groups": 95,
+    "professional_directions": 270,
+    "series": 3077,
+    "product_jobs": 108,
+    "product_directions": 11,
+    "product_series": 34,
+    "changed_codes": 89,
+    "nonproduct_code_changes": 0,
+    "reviewed_small_functions": 101,
+    "small_functions_integrated": 90,
+    "remaining_independent_small_groups": 13,
+    "changed_names": 0,
+    "changed_jds": 0,
+    "retained_jd_issues": 3,
+    "children_updated": false,
+    "maintenance_updated": false
+  },
+  "checks": {
+    "9111岗位名称ID代码唯一": true,
+    "旧岗位字段仅产品代码和系列前缀改变": true,
+    "产品主序列全部PP": true,
+    "非产品岗位原码全部保持": true,
+    "3077原职责系列ID索引保留": true,
+    "所有系列前四位唯一": true,
+    "字母段共享不把生产计划并入产品": true,
+    "全部263原职能有审查结论": true,
+    "岗位层级原样且与末位一致": true,
+    "全部岗位唯一归属一个主序列方向": true
+  },
+  "input_sha256": {
+    "主库编码统一_20261030/主库.json": "958ec02dd03f3659203c1b93da6853ab0e1dde18488b20e404f5b4ee41069ef9",
+    "主库职能序列整合_20261030/职能序列整合规则.json": "2be8ca28e6b735a4e13124eeaf642b119ad710c7d3e4d694223ecdb7343fb23f",
+    "全量名称代码统一_20261029/全量原表元数据.json": "1b19146dc210cf38d1381aef445950b7be5782d80ba337119af7cb46348f1cca"
+  },
+  "scope": "全量旧职能/岗位/原来源映射、主序列归并与重点边界自审；不是逐句人工复核全部JD。已知3条原稿错配原样保留并单列。"
+}

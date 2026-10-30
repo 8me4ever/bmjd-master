@@ -1,0 +1,37 @@
+{
+  "version": "BMJD-INDUSTRY-SYNC-20261030-01",
+  "all_passed": true,
+  "summary": {
+    "industry_subcatalogs": 11,
+    "master_jobs": 9111,
+    "industry_job_memberships": 19018,
+    "shared_master_jobs": 2042,
+    "active_sources": 19226,
+    "paused_sources": 23,
+    "retained_industry_specialized_jds": 843,
+    "retained_specialized_job_ids": 832,
+    "new_jd_rewrites": 0,
+    "master_changes": 0,
+    "child_names_or_levels_changed": 0,
+    "child_codes_from_master": true
+  },
+  "input_sha256": {
+    "原版分类编码收口_20261030/主库.json": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+    "岗位JD匹配审查_20261029/岗位JD主库.json": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+    "全量名称代码统一_20261029/来源去向映射.json": "e5d8eec7470e149656789278dc5092466c1dfd135fd0246daedd081dc81cee3f",
+    "行业专业JD优化_20261029/子库优化总览.json": "9b4474817b522651f4ab81db76816b42d57e4fe8dcba39f7d568553970cf82cb",
+    "tools/sync_industry_masters.py": "05c01ac98d7ab6bba5d1fc23ffe238dcde2f681149195bcaccf40530e45b10d7",
+    "行业专业JD优化_20261029/传媒/岗位主库.json": "42f636c82ad58d6b93d2642a1f4b52301afce31a69a6412d9336264f2abddd02",
+    "行业专业JD优化_20261029/制造/岗位主库.json": "53112344417e6ad3f805f4e000ee8416471e65ea2064640454205467372ee14e",
+    "行业专业JD优化_20261029/医药/岗位主库.json": "2fbe5c67876258af03ffcb9dad6b4c8bb96928eb3566f6c1e1add1f569756197",
+    "行业专业JD优化_20261029/地产/岗位主库.json": "25c39694306bac29ee3fcedbc100b22f4a3f9a419a502f49a3b477e783ec229d",
+    "行业专业JD优化_20261029/教育/岗位主库.json": "d80299443770ff020f8d992cfa7c01fc71264bf32295e83b82bdeff74f852a67",
+    "行业专业JD优化_20261029/消费品/岗位主库.json": "0ce7c29dad3b09b5b03bbcb5c59714c6c458fc5015bb53a2d64835b8a57cf702",
+    "行业专业JD优化_20261029/物流/岗位主库.json": "0c89d131ba26a1c67b2a9f878be0a8acf69282cac68f2c7a8ebf2ea790ab5657",
+    "行业专业JD优化_20261029/综合服务/岗位主库.json": "7c728e51c27019fc615572d20aa3fb50eed7180469633188fb8484630d103eed",
+    "行业专业JD优化_20261029/能源化工/岗位主库.json": "41fc8d82b457379d79808423ff16fcb999c6f5048aadd58b3055db5a15d10e65",
+    "行业专业JD优化_20261029/金融/岗位主库.json": "2efe9587147d98a35c4744dbfe77a6e5ccf35c171d42a68e7cc083054bff96fc",
+    "行业专业JD优化_20261029/高科技/岗位主库.json": "ec3c41308570d8df7fccdf8cd3d11669b7ca6230c4845a5f6b8a7ba36799dc74"
+  },
+  "scope": "确认主库拆分与行业专业JD迁移，不改主库、岗位身份或旧行业文件。"
+}

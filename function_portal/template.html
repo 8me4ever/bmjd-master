@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb"><title>BMJD · 职能序列整合复核</title>
+  <meta name="description" content="按行业、职能和层级查询BMJD标准岗位，查看通用与行业职责，整理岗位清单。">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%233555d6'/%3E%3Ctext x='10' y='29' font-family='Arial' font-size='28' font-weight='700' fill='white'%3EB%3C/text%3E%3C/svg%3E">
+  <style>/*__STYLES__*/</style>
+</head>
+<body>
+<a class="skip" href="#query">跳到岗位搜索</a>
+<header class="topbar">
+  <a class="brand" href="#" id="brand-home"><span class="brand-mark">B</span><strong>BMJD</strong><span class="brand-caption">岗位字典</span></a>
+  <nav aria-label="主导航"><button class="nav-button active" id="nav-search" aria-current="page">岗位查询</button><button class="nav-button" id="nav-saved">我的清单 <span id="saved-count">0</span></button></nav>
+  <button class="maintenance" id="maintenance-pending" type="button" disabled title="分类与代码确认后再同步新增工具">新增岗位 · 待同步</button>
+</header>
+<main id="main">
+  <section class="page-heading"><div><h1>看清岗位方向，对照适合的层级。</h1><p>先选主序列与专业方向，再横向核对岗位层级和完整职责。</p></div><span class="coverage" id="coverage">正在载入岗位字典…</span></section>
+  <p class="review-version" id="review-version">__REVIEW_NOTICE__</p>
+  <div id="loading" class="load-state" role="status"><span class="loading-bar"></span><p>正在打开岗位字典，请稍候。</p></div>
+  <div id="load-error" class="error-state" role="alert" hidden><h2>岗位数据未能载入</h2><p id="error-message"></p><button class="button primary" id="retry-load">重新载入</button></div>
+  <div id="workspace" hidden>
+    <section id="search-screen">
+      <div class="search-toolbar"><div class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><label class="sr-only" for="query">搜索岗位名称、代码或常用叫法</label><input id="query" type="search" placeholder="输入岗位名称、代码或常用叫法" autocomplete="off"><kbd aria-hidden="true">/</kbd></div><label class="sr-only" for="search-scope">搜索范围</label><select id="search-scope" class="search-scope"><option value="name">名称 / 代码</option><option value="all">同时搜索职责</option></select><button class="filter-toggle button secondary" id="toggle-filters" aria-expanded="false" aria-controls="filter-controls">筛选条件</button></div>
+      <div class="catalog-layout">
+        <aside class="filters" id="filter-controls" aria-label="岗位筛选及职能字典">
+          <div class="filter-heading"><h2>筛选岗位</h2><button class="text-button" id="reset-filters">重置</button></div>
+          <label class="field-label" for="industry-filter">适用行业</label><select id="industry-filter"><option value="">全部行业 · 通用主库</option></select>
+          <div class="filter-pair"><div><label class="field-label" for="level-filter">定位层级</label><select id="level-filter"><option value="">全部层级</option><option value="1">1级 · 决策层</option><option value="2">2级 · 高级管理层</option><option value="3">3级 · 经营管理层</option><option value="4">4级 · 执行 / 高级专业</option><option value="5">5级 · 专业人员</option><option value="6">6级 · 初级专业</option><option value="7">7级 · 操作人员</option></select></div></div>
+          <label class="field-label" for="direction-filter">专业方向</label><select id="direction-filter" disabled><option value="">先选择主序列</option></select>
+          <label class="field-label" for="series-filter">职责系列</label><select id="series-filter" disabled><option value="">先选择职能</option></select>
+          <div class="dictionary-heading"><h2>主职能序列</h2><span id="function-total">正在载入</span></div>
+          <label class="sr-only" for="function-query">查找主序列或专业</label><input id="function-query" type="search" placeholder="查找主序列或专业" autocomplete="off">
+          <div id="function-list" class="function-list" aria-label="主职能序列"></div>
+        </aside>
+        <section class="results" aria-labelledby="results-title">
+          <div class="results-heading"><div><h2 id="results-title" tabindex="-1">岗位层级对照</h2><p id="result-count" role="status" aria-live="polite"></p></div><div class="view-switch" role="group" aria-label="浏览方式"><button id="view-matrix" aria-pressed="true">层级对照</button><button id="view-list" aria-pressed="false">岗位列表</button></div></div>
+          <div id="active-filters" class="active-filters"></div>
+          <div class="matrix-intro" id="matrix-intro"><span id="matrix-note">一行一个职责方向，横向查看1—7级。点击表头可定位层级。</span><details><summary>层级说明</summary><p>表头沿用原版BMJD的七层名称，括号内是原版参考职级区间。1—7是岗位代码末位的层级序号，不是评估分数；相邻区间存在重叠，请结合实际职责判断。横线表示该方向未设置该层岗位，不补造完整梯队。</p></details></div>
+          <div id="compare-tray" class="compare-tray" hidden><div id="compare-picks"></div><div><button id="start-compare" class="button primary" disabled>对比职责</button><button id="clear-compare" class="text-button">清空</button></div></div>
+          <div class="matrix-scroll" id="matrix-scroll" tabindex="0" aria-label="岗位层级对照表，可横向和纵向滚动"><table class="career-matrix"><caption class="sr-only">每行一个职责系列，每列一个岗位层级，空白层级不代表已有岗位。</caption><thead id="matrix-head"></thead><tbody id="matrix-body"></tbody></table></div>
+          <div id="job-list" class="job-list" hidden></div>
+          <div id="empty-results" class="empty-state" hidden><h3>没有找到匹配岗位</h3><p>试试其他名称或职责关键词，或减少筛选条件。</p><button class="button secondary" id="clear-empty">清除全部条件</button></div>
+          <div class="pagination"><button id="previous-page" class="button secondary">上一页</button><span id="page-label"></span><button id="next-page" class="button secondary">下一页</button></div>
+        </section>
+        <dialog id="detail-panel" class="detail" aria-labelledby="detail-name">
+          <div class="drawer-heading"><button class="text-button" id="detail-back"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m14 5-7 7 7 7"/></svg>返回岗位对照</button><button id="close-detail" class="close-detail" aria-label="关闭岗位详情"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button></div>
+          <div id="detail-empty" class="detail-empty"><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M13 7h16l7 7v27H13zM29 7v8h7M19 23h11M19 30h11"/></svg><h2>选择一个岗位</h2><p>在左侧结果中查看标准名称、岗位代码和完整职责。</p></div>
+          <div id="detail-content" hidden>
+            <div class="detail-code-row"><span id="detail-code" class="code"></span><button class="text-button" id="copy-code">复制代码</button></div>
+            <h2 id="detail-name" tabindex="-1"></h2>
+            <p id="detail-meta" class="detail-meta"></p>
+            <p id="detail-aliases" class="aliases" hidden></p>
+            <div class="detail-facts"><div><span>职责系列</span><strong id="detail-series"></strong></div><div><span>岗位层级</span><strong id="detail-level"></strong></div></div>
+            <div class="industry-tags" id="detail-industries"></div>
+            <div class="family-navigation"><span>同方向层级</span><div id="detail-family" aria-label="切换同职责方向的层级"></div></div>
+            <div class="jd-heading"><h3>岗位职责</h3><label class="sr-only" for="jd-scope">选择职责版本</label><select id="jd-scope" aria-label="选择职责版本"></select></div>
+            <p id="scope-note" class="scope-note"></p>
+            <p id="jd-review-note" class="jd-review-note" hidden></p>
+            <ol id="jd-clauses" class="jd-clauses"></ol>
+            <button class="button secondary detail-compare" id="compare-detail">加入职责对比</button>
+            <div class="detail-actions"><button class="button primary" id="save-job">加入我的清单</button><button class="button secondary" id="copy-jd">复制岗位与JD</button></div>
+          </div>
+        </dialog>
+      </div>
+    </section>
+    <section id="compare-screen" hidden aria-labelledby="compare-heading"><div class="comparison-heading"><div><button id="compare-back" class="text-button">返回岗位对照</button><h2 id="compare-heading" tabindex="-1">并排比较岗位职责</h2><p>同看岗位层级、专业方向与完整JD，确认职责范围是否符合实际岗位。</p></div><button id="copy-comparison" class="button secondary">复制对比内容</button></div><div id="comparison-grid" class="comparison-grid"></div></section>
+    <section id="saved-screen" hidden aria-labelledby="saved-heading">
+      <div class="saved-heading"><div><h2 id="saved-heading">我的岗位清单</h2><p>保留岗位和所选职责版本，便于整理与分享。</p></div><button class="button primary" id="export-saved">导出清单 CSV</button></div>
+      <p class="storage-note" id="storage-note">清单保存在当前浏览器，建议及时导出。</p>
+      <div id="saved-list" class="saved-list"></div>
+      <div id="empty-saved" class="empty-state" hidden><h3>清单还是空的</h3><p>找到合适的岗位后，点击“加入我的清单”。</p><button class="button primary" id="start-search">去查找岗位</button></div>
+    </section>
+  </div>
+  <details class="help"><summary>如何找到并使用岗位</summary><div><p>先选行业和主职能序列，再选专业方向，沿横向层级寻找岗位。矩阵一行对应现有职责系列，不按名称近似关系凑梯队。手机默认使用列表，也可切换“层级对照”左右滑动。</p><p>名称、代码和历史叫法可直接搜索。需要按具体工作内容查找时，选择“同时搜索职责”。搜索或定位层级后，蓝色岗位匹配条件，其他同系列岗位仅供比较；横线代表该层级未设岗。</p><p>勾选2—3个岗位可并排比较JD。点开岗位后还能快速切换同方向层级，或切换通用、行业职责。跨行业沿用相同代码，没有专业稿的行业沿用通用版。</p><p>加入清单时保存所选职责版本。新增工具仍待分类确认后同步，当前入口暂禁用。CSV含主序列、专业方向、岗位ID和版本，便于反馈。</p></div></details>
+  <footer><span>BMJD · 岗位字典</span><span id="version-label">2026.10</span></footer>
+</main>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p class="error-state">请启用JavaScript后打开此岗位字典。</p></noscript>
+<script id="portal-payload" type="application/octet-stream">__PAYLOAD__</script>
+<script>/*__CORE__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

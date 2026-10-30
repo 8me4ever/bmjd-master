@@ -1,0 +1,78 @@
+{
+  "version": "BMJD-REVIEW-PACKAGE-20261030-01",
+  "date": "2026-10-30",
+  "master_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+  "page_version": "BMJD-MASTER-PREVIEW-20261030-01",
+  "jobs": 9111,
+  "html_sha256": "e0b3626526fae0b6a58643b1da7b654e248023d9879b444039aaf1449e33287a",
+  "entry": "BMJD主库汇总预览.html",
+  "source_master_unchanged": true,
+  "files": {
+    "BMJD主库汇总预览.html": {
+      "bytes": 1946683,
+      "sha256": "e0b3626526fae0b6a58643b1da7b654e248023d9879b444039aaf1449e33287a",
+      "source": "BMJD主库汇总预览_20261030/BMJD主库汇总预览.html"
+    },
+    "使用说明.md": {
+      "bytes": 3479,
+      "sha256": "65f4be81f317b56e9887748d1cee9f17ed12128085c579997ec74637a5f015ea",
+      "source": "BMJD主库汇总预览_20261030/使用说明.md"
+    },
+    "核验/页面构建核验.json": {
+      "bytes": 3874,
+      "sha256": "32a9ec7e6d242cf546fb0bbe967cbf0899c9a3a150472fce917ea3de8c44a132",
+      "source": "BMJD主库汇总预览_20261030/页面构建核验.json"
+    },
+    "核验/页面浏览器核验.json": {
+      "bytes": 2821,
+      "sha256": "8e351ad20a41c84a5c7386f01d6abbb6b0ab3b48d30e7da62e22f0782934a665",
+      "source": "BMJD主库汇总预览_20261030/页面浏览器核验.json"
+    },
+    "原版分类编码收口_20261030/主库.json": {
+      "bytes": 35961054,
+      "sha256": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+      "source": "原版分类编码收口_20261030/主库.json"
+    },
+    "原版分类编码收口_20261030/原版分类岗位代码及JD.xlsx": {
+      "bytes": 3651256,
+      "sha256": "24c393246d345b308650c216e12c3d166b36157c11a884be01ae7961cbe6a98a",
+      "source": "原版分类编码收口_20261030/原版分类岗位代码及JD.xlsx"
+    },
+    "原版分类编码收口_20261030/复核结论与使用说明.md": {
+      "bytes": 8238,
+      "sha256": "a1c4eb9f6ef8ba7ae8464ba114f38dee68a176a048461fe29d52b4ee9b5d6eaf",
+      "source": "原版分类编码收口_20261030/复核结论与使用说明.md"
+    },
+    "原版分类编码收口_20261030/岗位名称代码及JD.tsv": {
+      "bytes": 6032648,
+      "sha256": "371b8ea04e685605175b15a05702ee63afdab62bfa13ed6d0a9227c9c41f50e0",
+      "source": "原版分类编码收口_20261030/岗位名称代码及JD.tsv"
+    },
+    "原版分类编码收口_20261030/收口核验报告.json": {
+      "bytes": 6678,
+      "sha256": "6d2ad633cf138d633e90a64c50290193fdd5d988543b8cd90db477dcf83c1a9d",
+      "source": "原版分类编码收口_20261030/收口核验报告.json"
+    },
+    "原版分类编码收口_20261030/独立核验报告.json": {
+      "bytes": 27338,
+      "sha256": "8f929f7457fbcc70ba7792d76f05c0d5930c081ffd65e32013f7d402fa3359a0",
+      "source": "原版分类编码收口_20261030/独立核验报告.json"
+    },
+    "原版分类编码收口_20261030/系列原分类与前缀依据.json": {
+      "bytes": 2762053,
+      "sha256": "8b1a66f3d2259dd5d281c9c0ca16eb82fe4d3ccf74e7db402e6478103a8aa31b",
+      "source": "原版分类编码收口_20261030/系列原分类与前缀依据.json"
+    },
+    "原版分类编码收口_20261030/跨版本同码身份变化.json": {
+      "bytes": 386521,
+      "sha256": "392b162d8dba1d183c476b889b839f00f6018f9a5e90fcfa1ff0efb959f7e8cd",
+      "source": "原版分类编码收口_20261030/跨版本同码身份变化.json"
+    },
+    "原版分类编码收口_20261030/逐岗原版代码对照.json": {
+      "bytes": 7877753,
+      "sha256": "0e9242ab20b08f48dbabdbca421353e8961ce601d8028884eaefeb54fa6c6eb2",
+      "source": "原版分类编码收口_20261030/逐岗原版代码对照.json"
+    }
+  },
+  "scope": "包内只有最新主库成果、原版映射与核验、新版查询HTML；行业JD按ID沿用，未带入旧新增工具或旧版HTML。"
+}

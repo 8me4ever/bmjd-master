@@ -1,0 +1,46 @@
+{
+  "version": "BMJD-CODE-UNIFIED-20261030-01",
+  "status": "VERIFIED_PENDING_USER_CONFIRMATION",
+  "all_passed": true,
+  "summary": {
+    "jobs": 9111,
+    "unique_codes": 9111,
+    "unique_names": 9111,
+    "functions": 263,
+    "series": 3077,
+    "changed_jobs": 2185,
+    "retained_jobs": 6926,
+    "changed_series": 753,
+    "affected_functions": 144,
+    "necessary_collision_moves": 27,
+    "cross_version_code_reassignments": 116,
+    "historical_prefix_extensions": 38,
+    "unresolved_series": 0,
+    "changed_names": 0,
+    "changed_jds": 0,
+    "subcatalogs_updated": false,
+    "html_updated": false
+  },
+  "checks": {
+    "9111岗代码名称ID一一对应": true,
+    "仅修改岗位code及series_prefix": true,
+    "人资HR财务FA综合GM": true,
+    "指定保护代码不改": true,
+    "层级及五位码正确": true,
+    "3077系列前四位全局唯一": true,
+    "每系列有原版或明确研发规则依据": true
+  },
+  "input_sha256": {
+    "岗位JD匹配审查_20261029/岗位JD主库.json": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+    "全量名称代码统一_20261029/全量原表元数据.json": "1b19146dc210cf38d1381aef445950b7be5782d80ba337119af7cb46348f1cca",
+    "全库统一完成_20261029/规范职能字典.json": "b9b7747cb7fbdae3823aa826f6dae095aaa527c0f3163c106c7875631ffd548e",
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+    "主库推定整理_20261029/统一主库.json": "d2c5dd4dedfae19431f95e6d887cf4307b77811a34249ad652ecd187151f86ac",
+    "岗位名称代码统一_20261029/名称代码主库.json": "8bb0cdd933eb3195f84bf1726a669a7158faedf9d306e83bf28b8de172e5ca99",
+    "全量名称代码统一_20261029/名称代码主库.json": "af2ba9276c52366a26610b949eb621ca2b8e31215261979712e85dbfe4b25d01"
+  },
+  "dependencies": {
+    "optimizer": "scipy.sparse.csgraph.min_weight_full_bipartite_matching"
+  },
+  "policy": "先保证当前名称代码一一对应与原版字母依据；在这些约束下优先最少变更岗位数，再优先恢复本系列原四位码、避让历史码；历史码位必要复用全部留痕。"
+}
