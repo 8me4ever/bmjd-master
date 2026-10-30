@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "baseline_version": "BMJD-ALL-20261029",
   "purpose": "Only files required to continue the current master and JD project; historical archive excluded.",
-  "tracked_file_count": 234,
-  "total_bytes_excluding_manifest": 670522939,
+  "tracked_file_count": 251,
+  "total_bytes_excluding_manifest": 675544401,
   "exclusions": [
     "历史归档/",
     ".claude/",
@@ -18,9 +18,34 @@
       "git_blob_sha1": "b6e768ca595c2a315d9d8b15a07cf393d8d37858"
     },
     ".gitignore": {
-      "bytes": 15418,
-      "sha256": "1a17e246b7e9b452a2b1b29978d30c93dc3616b8f550dd774515097be6187abd",
-      "git_blob_sha1": "7ace4fdc244d43eb3756664fdaf69f922b667a0f"
+      "bytes": 16280,
+      "sha256": "083586a0b2a199e0f1b0729b43d9fb986f8b2d8ebf2278a01099720df111d7d6",
+      "git_blob_sha1": "187eb2fdf4c471ae4910c37f3c172eae7526c7e5"
+    },
+    "BMJD客户查岗平台_20261030/BMJD客户查岗平台.html": {
+      "bytes": 1698686,
+      "sha256": "76eb3ce64c151b75574d7a366bea7c311c6ab294a52f80a5cd2b673ee60effdb",
+      "git_blob_sha1": "fd1d4fb48453b9ba1dc2c6ba994acc414527f20e"
+    },
+    "BMJD客户查岗平台_20261030/使用说明.md": {
+      "bytes": 3534,
+      "sha256": "a04bac9221da14fcd40fbebe017ff0e1059456bd167a9474b20c9b5db974fc18",
+      "git_blob_sha1": "7469b60a27ace8fc637d4082aeed4bd3a2f215b5"
+    },
+    "BMJD客户查岗平台_20261030/岗位新增工具.html": {
+      "bytes": 3061392,
+      "sha256": "150b057c30805609f8863e74dce0d5eec33d5b83093ac04fe605ce0b6f19287c",
+      "git_blob_sha1": "8fa6bf29b0ec343090d1c5dd2cf3ede16efcec57"
+    },
+    "BMJD客户查岗平台_20261030/构建核验.json": {
+      "bytes": 3228,
+      "sha256": "346eb1576d0994774f31f2294e5953cf2f3f3165fdf60e2b10c361c4f9b01189",
+      "git_blob_sha1": "2c8d7fc54c6f3af54bb0bd528e8fbd2edaad858e"
+    },
+    "BMJD客户查岗平台_20261030/浏览器核验.json": {
+      "bytes": 2151,
+      "sha256": "e5ab2aac520256fb4186e383ecf56beb4989826711a9b55c26ec2eed6bf179f7",
+      "git_blob_sha1": "8a8daa82a7f4a67dcfddbacd0093cf054ac0f91d"
     },
     "BMJD持续补全工具_20261029/BMJD岗位持续补全.html": {
       "bytes": 3061392,
@@ -41,6 +66,11 @@
       "bytes": 1448,
       "sha256": "834b92553188786f6fbcc5c69241ab711229f64f05b806fc3a93c89ef21a8e6b",
       "git_blob_sha1": "5eb5fa164903a28677c285606d1fc9b6d1f51c02"
+    },
+    "DESIGN.md": {
+      "bytes": 14582,
+      "sha256": "4945c1d6e09386f2346d6404e77ce9507c7fd4c99ab4a783932e8d045bab2a9a",
+      "git_blob_sha1": "a045297066ae787477e4664f69f27b565a6f4642"
     },
     "JD编写_20261029/build_jd.py": {
       "bytes": 31082,
@@ -82,10 +112,15 @@
       "sha256": "0b3b3686a873e97e884b6da2fb1031204308f7d5dfca0acc4dcdf417a9bd16ac",
       "git_blob_sha1": "876071edfe3b56261b291e852572d7319db96d5f"
     },
+    "PRODUCT.md": {
+      "bytes": 1851,
+      "sha256": "3858e8466f765b67a47ea84002af329f665e26ee9f02c567f959b5756cffd9d0",
+      "git_blob_sha1": "5d70d85c7c96882369c8fe30b3634519fac33ebc"
+    },
     "README.md": {
-      "bytes": 8614,
-      "sha256": "4da0cc8f1de095e5701d3a1a1714fb27905206c6550c1d1dfa3590c63dbfe033",
-      "git_blob_sha1": "a95b56c125e6a62a0a24de8aaf44d49b780b4618"
+      "bytes": 10096,
+      "sha256": "e2868b5b011dcb68d4e852495ec2b76d63ad91931a0b1baec96a04c138fb3c35",
+      "git_blob_sha1": "d6912a8f83c4dfa9bd9871a5c5787fd5a658168e"
     },
     "completion_tool/completion-app.js": {
       "bytes": 20361,
@@ -111,6 +146,31 @@
       "bytes": 10193,
       "sha256": "2c925b6156d4d5b4732aa8b08ad8ef1b07817d16eb1e42521cc5f07d794c547f",
       "git_blob_sha1": "73cb19b2e0d832d02364b72617c19b10ded6f456"
+    },
+    "customer_portal/portal-app.js": {
+      "bytes": 21324,
+      "sha256": "834fe439388b8ab897a7ddb076ca9270e3ebd3d33f74cce44364f942b18d8987",
+      "git_blob_sha1": "2f85ca20024167970dc402f2abd37b89b99a7faf"
+    },
+    "customer_portal/portal-core.js": {
+      "bytes": 5376,
+      "sha256": "ca3c837e660665999ac0a769d24e74a8a0d511a115248fc8afcf8794644edfc6",
+      "git_blob_sha1": "6b8bc1a22ddecebc95cc4a0b737b939c0a2afc1a"
+    },
+    "customer_portal/portal-core.test.cjs": {
+      "bytes": 3897,
+      "sha256": "c0e6f29cc0366711ea4a111b20945ebb193d7f01cc76b422db3272d02618f3ea",
+      "git_blob_sha1": "f26948e4f172bba36c73db4c27e4dca4ba2f3005"
+    },
+    "customer_portal/styles.css": {
+      "bytes": 25386,
+      "sha256": "d996eb3cd529eb651c62bd21f99fecd2d2dbf366ec2c4ed95343a15c2dec2e15",
+      "git_blob_sha1": "9d8dcda6210ab06a5694ee33105334e4073fc522"
+    },
+    "customer_portal/template.html": {
+      "bytes": 11215,
+      "sha256": "56d137100357dc518966c5c811853ee3ee0367b862e591387997189545acf791",
+      "git_blob_sha1": "2bad538bb008586ea897a8f301717b83d8337a51"
     },
     "tools/advance_master.py": {
       "bytes": 22266,
@@ -142,10 +202,20 @@
       "sha256": "7286ab7afd8551b278710be4f05bf0fb5de4f2d3d89c8882a63f7729f6be1e9d",
       "git_blob_sha1": "0d3115ff0734826f7a444fe3bef422ad8919df56"
     },
+    "tools/build_customer_portal.py": {
+      "bytes": 5115,
+      "sha256": "fcbc2fb126ba1ab48cace70993ab3f3b43c902d3341983e56ddcb6c90b8073f9",
+      "git_blob_sha1": "0a228ecaa3f9f33879ba2222c078062539f3847b"
+    },
     "tools/check_completion_browser.py": {
       "bytes": 11941,
       "sha256": "91381a1e7800c197d89303739424e8b33da33682c9a73aee81c3ea69da5b7fa1",
       "git_blob_sha1": "a66f77c0ac3cc8f9e115962bc600cd8a10056e5f"
+    },
+    "tools/check_customer_portal.cjs": {
+      "bytes": 13136,
+      "sha256": "87a76ea4306fe20f0586f4d2f40d770b41e9dd9c2bf1b35b49744b2b74d1aa2e",
+      "git_blob_sha1": "3fdb0ea76ac45a66dfe80d287133267141f2539d"
     },
     "tools/export_industry_masters.py": {
       "bytes": 7744,
@@ -168,9 +238,14 @@
       "git_blob_sha1": "54b92e07155bbe16c8ceb1d74c873298a61ac29e"
     },
     "tools/project_files.py": {
-      "bytes": 12484,
-      "sha256": "6ea9360d21d67f18dc8354d7c2c767b098f36dd8f6f9f3e541477c53006277f0",
-      "git_blob_sha1": "6e902e6a50b54b3668607699e29cad2cffd52518"
+      "bytes": 13108,
+      "sha256": "1a2e320f785cabb81cf2d51ab4179624c63a04ca8fb7894f087f8f7137d2940c",
+      "git_blob_sha1": "c789bc2827d21eb07205d8e723c2ae88664dc233"
+    },
+    "tools/restore_original_codes.py": {
+      "bytes": 10295,
+      "sha256": "b3b47f39c2b14fbc2f22b2f26bd88502885f760caa467b5c8a4101e03c4ab3f5",
+      "git_blob_sha1": "81ad49274dc165af385223fcc1234d14f59ccb31"
     },
     "tools/review_job_jds.py": {
       "bytes": 22685,
@@ -747,6 +822,16 @@
       "sha256": "709eb0a8c5f4ce33d64a12875242cb792301df7c1ea79bb54f450f2b5bf0d12e",
       "git_blob_sha1": "dfd669438bb4650b94c72bfbb3d49e862810d0c3"
     },
+    "岗位编码校正_20261030/核查进度与后续要求.md": {
+      "bytes": 4419,
+      "sha256": "5b950b9470201fb8b534043b3926063f999e3899e6a6798139cf838ce68a16da",
+      "git_blob_sha1": "c5627d24caeb9f929fb29cf5258393a75b46ad0d"
+    },
+    "岗位编码校正_20261030/编码核查与校正方案.json": {
+      "bytes": 123903,
+      "sha256": "cabbd19af02c822cd27dc271dd1e8e5f8643816702a1f9987f1bc719c9dfb44f",
+      "git_blob_sha1": "43be92ecd001f72dc998e897e675a49df4ddec6a"
+    },
     "统一收口_20261029/岗位职责原文.json": {
       "bytes": 6870198,
       "sha256": "48c94f27d707ff33a6dba6f0cd3bbe6be1ebb953ebdfb648e9c9f6c3cc506764",
@@ -1158,9 +1243,9 @@
       "git_blob_sha1": "110d5fb09092a585f9ac1323d4262bafe759708b"
     },
     "项目交接文档_20261029.md": {
-      "bytes": 6955,
-      "sha256": "977d94315f171cd4bb20f4bfd1633ffb93e8861d97bfd5088ab7205661f35c01",
-      "git_blob_sha1": "fd7cb9711d77f96c3c8ba5df7790e23ac5828809"
+      "bytes": 9999,
+      "sha256": "95b2a1a5accc2520c55ac5a878813de9c633f4d5d5aa619857e9555292dcb29f",
+      "git_blob_sha1": "c54558bddf23992e428193283555042615cc05ce"
     },
     "项目总结_20261030.docx": {
       "bytes": 44192,
@@ -1168,14 +1253,14 @@
       "git_blob_sha1": "b2b99bafd5e90fee1ee13b1fe9113c386b608c4d"
     },
     "项目总结_20261030.md": {
-      "bytes": 10955,
-      "sha256": "62af5c1d9a3a04ccc5c0f1b34b425125f2421915742ee64e9571ba8b7ddb0c6d",
-      "git_blob_sha1": "e9c36f091171c20e34d9c82c8a368da5ca99ef76"
+      "bytes": 15999,
+      "sha256": "edaf1a18021c1d9ba6b98343849d88841dfaecb4a95604dd2a35644b75102fc2",
+      "git_blob_sha1": "38637c82fba62b8e9133470b2510eecdaae1b23b"
     },
     "项目目标与验收标准.md": {
-      "bytes": 3565,
-      "sha256": "17ecdab81cf4cd70092637ee5e64f8c54340a375a90dc6121d0932077f26f302",
-      "git_blob_sha1": "4bdb24334f2ad01d4f2dad599899673fa3d17793"
+      "bytes": 4481,
+      "sha256": "c5d94c15221c5136b9a728c3953b7cbbbb4921abab8e98410ba3044117446de0",
+      "git_blob_sha1": "4d8157cc4b4da5cc1ed85bb88ff2f47292537e66"
     }
   }
 }

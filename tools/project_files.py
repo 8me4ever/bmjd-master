@@ -12,6 +12,12 @@ def fingerprint(p):
     return dict(bytes=size,sha256=a.hexdigest(),git_blob_sha1=b.hexdigest())
 def selected():
     names=['.gitignore','.gitattributes','README.md','项目交接文档_20261029.md','项目目标与验收标准.md','原始资料/README.md','tools/project_files.py','统一收口_20261029/岗位职责原文.json','原始资料/结构化依据/原BMJD职能基线.json']
+    names+=['PRODUCT.md','DESIGN.md']
+    names+=['customer_portal/'+n for n in ['template.html','styles.css','portal-core.js','portal-app.js','portal-core.test.cjs']]
+    names+=['tools/build_customer_portal.py','tools/check_customer_portal.cjs']
+    names+=['BMJD客户查岗平台_20261030/'+n for n in ['BMJD客户查岗平台.html','岗位新增工具.html','使用说明.md','构建核验.json','浏览器核验.json']]
+    names+=['tools/restore_original_codes.py']
+    names+=['岗位编码校正_20261030/'+n for n in ['核查进度与后续要求.md','编码核查与校正方案.json']]
     names+=['项目总结_20261030.md','项目总结_20261030.docx']
     names+=['全库统一完成_20261029/'+n for n in ['统一主库.json','规范职能字典.json','岗位JD及条款依据.json','推定与层级修正记录.json','源级分流记录.json','岗位归并记录.json','全来源新旧码映射.csv','C3工作码至统一码映射.csv','统计.json','输入指纹.json','验收报告.json']]
     names+=['双线协作交接_20261029/'+n for n in ['00_当前进度与分工交接.md','01_朋友_JD编写说明.md','02_Codex_主库与推定整理说明.md','JD编写输入.json','JD原文证据.json','JD回传模板.json','JD回传格式.schema.json','主库推定整理输入.json','主库变更回传模板.json','交接包清单与核验.json']]
@@ -54,11 +60,11 @@ def ignore_rules(paths):
             if isdir:emit(parent+'/'+name if parent else name)
     emit('');return '\n'.join(lines)+'\n'
 def write_manifest():
-    paths=selected();(ROOT/'.gitignore').write_text(ignore_rules(paths),'utf-8')
+    paths=selected();(ROOT/'.gitignore').write_text(ignore_rules(paths),'utf-8',newline='\n')
     files={n:fingerprint(ROOT/n) for n in paths}
     assert all(x['bytes']<100*1024*1024 for x in files.values()),'Oversized Git file'
-    m={'date':'2026-10-29','baseline_version':'BMJD-ALL-20261029','purpose':'Only files required to continue the current master and JD project; historical archive excluded.','tracked_file_count':len(files)+1,'total_bytes_excluding_manifest':sum(x['bytes'] for x in files.values()),'exclusions':['历史归档/','.claude/','.impeccable/','缓存、node_modules、重复ZIP','重复只读提取、可再生成的分册、旧HTML及补充参考'],'files':files}
-    MANIFEST.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n','utf-8');return m
+    m={'date':'2026-10-30','baseline_version':'BMJD-ALL-20261029','purpose':'Only files required to continue the current master and JD project; historical archive excluded.','tracked_file_count':len(files)+1,'total_bytes_excluding_manifest':sum(x['bytes'] for x in files.values()),'exclusions':['历史归档/','.claude/','.impeccable/','缓存、node_modules、重复ZIP','重复只读提取、可再生成的分册、旧HTML及补充参考'],'files':files}
+    MANIFEST.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n','utf-8',newline='\n');return m
 def check():
     m=load(MANIFEST);checks={};errors=[]
     checks['允许文件清单一致']=set(m['files'])==set(selected())

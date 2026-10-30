@@ -1,0 +1,5338 @@
+{
+  "status": "DRAFT_NOT_VALIDATED_NOT_APPLIED",
+  "applied": false,
+  "warning": "仅供核查承接；changed/current等字段为候选目标，非已生效变更；容量扫描及冲突规则待复核，禁止直接批量回写。",
+  "version": "BMJD-CODE-RESTORE-20261030-01",
+  "jobs": 9111,
+  "series": 3077,
+  "changed_jobs": 1798,
+  "changed_series": 592,
+  "affected_functions": 129,
+  "unchanged_jobs": 7313,
+  "unresolved_series": [
+    {
+      "function_name": "设备工程",
+      "series_name": "自动化",
+      "previous_prefix": "AF15",
+      "allowed_blocks": [
+        "PM",
+        "MT",
+        "LM",
+        "CS",
+        "KP",
+        "PE",
+        "RD",
+        "EE",
+        "EP",
+        "IS",
+        "OA",
+        "PD",
+        "SG",
+        "ES"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD71",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "设备工程",
+      "series_name": "IE工程师（设备工程）",
+      "previous_prefix": "AF16",
+      "allowed_blocks": [
+        "PM",
+        "MT",
+        "LM",
+        "CS",
+        "KP",
+        "PE",
+        "RD",
+        "EE",
+        "EP",
+        "IS",
+        "OA",
+        "PD",
+        "SG",
+        "ES"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD08",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "设备工程",
+      "series_name": "自动化",
+      "previous_prefix": "AF17",
+      "allowed_blocks": [
+        "PM",
+        "MT",
+        "LM",
+        "CS",
+        "KP",
+        "PE",
+        "RD",
+        "EE",
+        "EP",
+        "IS",
+        "OA",
+        "PD",
+        "SG",
+        "ES"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE56",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "设计",
+      "series_name": "动力工程师（设计）",
+      "previous_prefix": "AG02",
+      "allowed_blocks": [
+        "PE",
+        "RE",
+        "CS",
+        "RD",
+        "PA",
+        "DP"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE92",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "工程部",
+      "series_name": "木工",
+      "previous_prefix": "AN01",
+      "allowed_blocks": [
+        "PE",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD70",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        },
+        {
+          "prefix": "PE82",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "工程部",
+      "series_name": "暖通",
+      "previous_prefix": "AN08",
+      "allowed_blocks": [
+        "PE",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE35",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "普通操作工",
+      "previous_prefix": "AU02",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD10",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "生产审计",
+      "previous_prefix": "AU03",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD07",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "生产营运",
+      "previous_prefix": "AU05",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD06",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "生产计划",
+      "previous_prefix": "AU06",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD02",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        },
+        {
+          "prefix": "PP01",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "生产跟单",
+      "previous_prefix": "AU07",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD03",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "生产管理",
+      "series_name": "生产统计",
+      "previous_prefix": "AU08",
+      "allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD04",
+          "source_count": 7,
+          "name_matches": 7,
+          "level_matches": 7
+        },
+        {
+          "prefix": "PD07",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        },
+        {
+          "prefix": "CM01",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        },
+        {
+          "prefix": "IS00",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "土地勘探",
+      "previous_prefix": "AV00",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD91",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "掘进",
+      "previous_prefix": "AV01",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD96",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "爆破",
+      "previous_prefix": "AV02",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD94",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "生产安全",
+      "previous_prefix": "AV03",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD95",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "综采",
+      "previous_prefix": "AV04",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD81",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "设备生产",
+      "previous_prefix": "AV05",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD93",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "连采",
+      "previous_prefix": "AV06",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD82",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "矿产生产",
+      "series_name": "采集",
+      "previous_prefix": "AV07",
+      "allowed_blocks": [
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD97",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "项目工程",
+      "series_name": "自动化",
+      "previous_prefix": "BC03",
+      "allowed_blocks": [
+        "PE",
+        "SG",
+        "PA",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE56",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "项目工程",
+      "series_name": "机电",
+      "previous_prefix": "BC04",
+      "allowed_blocks": [
+        "PE",
+        "SG",
+        "PA",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE70",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "项目工程",
+      "series_name": "电气",
+      "previous_prefix": "BC50",
+      "allowed_blocks": [
+        "PE",
+        "SG",
+        "PA",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE20",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "节目",
+      "series_name": "节目策划",
+      "previous_prefix": "BM05",
+      "allowed_blocks": [
+        "PA",
+        "PD",
+        "PO",
+        "CR"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PD00",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "业务技术",
+      "series_name": "设备",
+      "previous_prefix": "BV04",
+      "allowed_blocks": [
+        "PE",
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE02",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "系统工程",
+      "series_name": "系统集成",
+      "previous_prefix": "CC02",
+      "allowed_blocks": [
+        "SO",
+        "SE",
+        "PS",
+        "PC",
+        "IT",
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD34",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "项目实施",
+      "series_name": "技术服务",
+      "previous_prefix": "CI02",
+      "allowed_blocks": [
+        "PE",
+        "EC",
+        "OS",
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD17",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "产品项目部",
+      "series_name": "解决方案",
+      "previous_prefix": "CX02",
+      "allowed_blocks": [
+        "PP",
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD55",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "机械工程",
+      "series_name": "机械工程",
+      "previous_prefix": "DH00",
+      "allowed_blocks": [
+        "TE",
+        "PE",
+        "PD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE03",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        },
+        {
+          "prefix": "TE02",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "再保险业务",
+      "series_name": "寿险再保险业务",
+      "previous_prefix": "DS00",
+      "allowed_blocks": [
+        "RI"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RI01",
+          "source_count": 5,
+          "name_matches": 5,
+          "level_matches": 5
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "再保险业务",
+      "series_name": "财险再保险业务",
+      "previous_prefix": "DS01",
+      "allowed_blocks": [
+        "RI"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RI02",
+          "source_count": 5,
+          "name_matches": 5,
+          "level_matches": 5
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "应用技术",
+      "series_name": "应用技术",
+      "previous_prefix": "DX00",
+      "allowed_blocks": [
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD56",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "网络工程",
+      "series_name": "工程师（4G）（网络工程）",
+      "previous_prefix": "EH00",
+      "allowed_blocks": [
+        "OS",
+        "RS",
+        "IT"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RS65",
+          "source_count": 2,
+          "name_matches": 2,
+          "level_matches": 2
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "计量",
+      "series_name": "计量",
+      "previous_prefix": "EI07",
+      "allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE04",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "计量",
+      "series_name": "计量",
+      "previous_prefix": "EI08",
+      "allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE74",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "计量",
+      "series_name": "计量",
+      "previous_prefix": "EI13",
+      "allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE04",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        },
+        {
+          "prefix": "PE74",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "计量",
+      "series_name": "计量工程",
+      "previous_prefix": "EI14",
+      "allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE04",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "计量",
+      "series_name": "计量",
+      "previous_prefix": "EI17",
+      "allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE04",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        },
+        {
+          "prefix": "PE74",
+          "source_count": 1,
+          "name_matches": 1,
+          "level_matches": 1
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "空间设计",
+      "series_name": "空间设计",
+      "previous_prefix": "GC01",
+      "allowed_blocks": [
+        "DP",
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD19",
+          "source_count": 4,
+          "name_matches": 4,
+          "level_matches": 4
+        },
+        {
+          "prefix": "DP00",
+          "source_count": 6,
+          "name_matches": 3,
+          "level_matches": 6
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "农作物研究",
+      "series_name": "水稻研究",
+      "previous_prefix": "RH02",
+      "allowed_blocks": [
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD83",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "农作物研究",
+      "series_name": "谷类研究",
+      "previous_prefix": "RH04",
+      "allowed_blocks": [
+        "RD"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "RD82",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    },
+    {
+      "function_name": "电解工程",
+      "series_name": "电解",
+      "previous_prefix": "RV00",
+      "allowed_blocks": [
+        "PE"
+      ],
+      "original_candidates": [
+        {
+          "prefix": "PE71",
+          "source_count": 3,
+          "name_matches": 3,
+          "level_matches": 3
+        }
+      ],
+      "reason": "原版码位被其他有效系列或历史码占用；为最小化变动暂保留原工作码，列明例外"
+    }
+  ],
+  "input_sha256": {
+    "岗位JD匹配审查_20261029/岗位JD主库.json": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+    "全量名称代码统一_20261029/全量原表元数据.json": "1b19146dc210cf38d1381aef445950b7be5782d80ba337119af7cb46348f1cca"
+  },
+  "functions": [
+    {
+      "function_name": "EHS",
+      "original_allowed_blocks": [
+        "SE",
+        "SH",
+        "MZ",
+        "HS",
+        "SS"
+      ],
+      "previous_blocks": {
+        "SE": 46
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SE": 46
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "IB业务",
+      "original_allowed_blocks": [
+        "BT"
+      ],
+      "previous_blocks": {
+        "BT": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BT": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "MCN",
+      "original_allowed_blocks": [
+        "MK"
+      ],
+      "previous_blocks": {
+        "DM": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "MK": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "三维模型开发",
+      "original_allowed_blocks": [
+        "CY",
+        "DP"
+      ],
+      "previous_blocks": {
+        "CY": 7
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CY": 7
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "专业技术",
+      "original_allowed_blocks": [
+        "PE",
+        "CS",
+        "RE",
+        "QE",
+        "FS",
+        "ZX"
+      ],
+      "previous_blocks": {
+        "PE": 85
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PE": 85
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "业务技术",
+      "original_allowed_blocks": [
+        "PE",
+        "RD"
+      ],
+      "previous_blocks": {
+        "BV": 13
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "PE": 12,
+        "BV": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "业务流程",
+      "original_allowed_blocks": [
+        "OS",
+        "FC",
+        "KP"
+      ],
+      "previous_blocks": {
+        "KP": 15
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "KP": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "临床科室",
+      "original_allowed_blocks": [
+        "ED",
+        "DR",
+        "EN",
+        "WK",
+        "DT",
+        "GO",
+        "PE",
+        "HE",
+        "XD",
+        "TD",
+        "GH",
+        "SR",
+        "HS",
+        "YJ",
+        "RD",
+        "LE",
+        "BA"
+      ],
+      "previous_blocks": {
+        "DR": 361,
+        "EN": 106
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DR": 361,
+        "EN": 106
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "云服务",
+      "original_allowed_blocks": [
+        "CC"
+      ],
+      "previous_blocks": {
+        "EL": 2
+      },
+      "corrected_jobs": 2,
+      "current_blocks": {
+        "CC": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "互联网医院",
+      "original_allowed_blocks": [
+        "HL"
+      ],
+      "previous_blocks": {
+        "HL": 6
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "HL": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "互联网金融产品",
+      "original_allowed_blocks": [
+        "IF"
+      ],
+      "previous_blocks": {
+        "IF": 4
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IF": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "产品",
+      "original_allowed_blocks": [
+        "PP"
+      ],
+      "previous_blocks": {
+        "DN": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PP": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "产品研发",
+      "original_allowed_blocks": [
+        "RD",
+        "PP",
+        "PD",
+        "DP"
+      ],
+      "previous_blocks": {
+        "RJ": 10
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RJ": 10
+      },
+      "policy": "保留既定研发R段"
+    },
+    {
+      "function_name": "产品营销",
+      "original_allowed_blocks": [
+        "PM"
+      ],
+      "previous_blocks": {
+        "DO": 10
+      },
+      "corrected_jobs": 10,
+      "current_blocks": {
+        "PM": 10
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "产品规划",
+      "original_allowed_blocks": [
+        "PP"
+      ],
+      "previous_blocks": {
+        "PP": 10
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PP": 10
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "产品运营",
+      "original_allowed_blocks": [
+        "PO",
+        "CO",
+        "PP",
+        "IT",
+        "EC",
+        "SO"
+      ],
+      "previous_blocks": {
+        "PO": 38
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PO": 38
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "产品项目部",
+      "original_allowed_blocks": [
+        "PP",
+        "RD"
+      ],
+      "previous_blocks": {
+        "CX": 7
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "PP": 6,
+        "CX": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "人力资源",
+      "original_allowed_blocks": [
+        "HR"
+      ],
+      "previous_blocks": {
+        "AI": 60
+      },
+      "corrected_jobs": 60,
+      "current_blocks": {
+        "HR": 60
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "仓储",
+      "original_allowed_blocks": [
+        "LO",
+        "PR",
+        "DD",
+        "BY",
+        "IT",
+        "SG"
+      ],
+      "previous_blocks": {
+        "AX": 25
+      },
+      "corrected_jobs": 25,
+      "current_blocks": {
+        "LO": 17,
+        "PR": 1,
+        "DD": 1,
+        "BY": 3,
+        "IT": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "企划",
+      "original_allowed_blocks": [
+        "OS"
+      ],
+      "previous_blocks": {
+        "DQ": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "OS": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "会展",
+      "original_allowed_blocks": [
+        "ME"
+      ],
+      "previous_blocks": {
+        "HR": 8
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "ME": 5,
+        "HR": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "会所",
+      "original_allowed_blocks": [
+        "BF",
+        "FB",
+        "FS",
+        "ES",
+        "BR",
+        "CR"
+      ],
+      "previous_blocks": {
+        "BF": 18
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BF": 18
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "体系建设",
+      "original_allowed_blocks": [
+        "RE",
+        "SP"
+      ],
+      "previous_blocks": {
+        "SP": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SP": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "保密管理",
+      "original_allowed_blocks": [
+        "OA"
+      ],
+      "previous_blocks": {
+        "EQ": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "OA": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "保险",
+      "original_allowed_blocks": [
+        "IS",
+        "RA"
+      ],
+      "previous_blocks": {
+        "CZ": 11
+      },
+      "corrected_jobs": 11,
+      "current_blocks": {
+        "IS": 3,
+        "RA": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "保险理赔",
+      "original_allowed_blocks": [
+        "HS",
+        "IA",
+        "CS"
+      ],
+      "previous_blocks": {
+        "IA": 15
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IA": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "信息安全",
+      "original_allowed_blocks": [
+        "WS",
+        "CC",
+        "RE",
+        "DS",
+        "TE",
+        "RD",
+        "IT"
+      ],
+      "previous_blocks": {
+        "RL": 17,
+        "WS": 25
+      },
+      "corrected_jobs": 17,
+      "current_blocks": {
+        "WS": 38,
+        "CC": 2,
+        "RE": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "信息技术",
+      "original_allowed_blocks": [
+        "IT",
+        "DS",
+        "DC",
+        "SO",
+        "CE",
+        "DM",
+        "SD",
+        "SE",
+        "TE",
+        "DA",
+        "CS"
+      ],
+      "previous_blocks": {
+        "AK": 29
+      },
+      "corrected_jobs": 29,
+      "current_blocks": {
+        "DA": 4,
+        "IT": 24,
+        "CS": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "信托业务",
+      "original_allowed_blocks": [
+        "FC"
+      ],
+      "previous_blocks": {
+        "FC": 9
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FC": 9
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "催收",
+      "original_allowed_blocks": [
+        "CM",
+        "PC"
+      ],
+      "previous_blocks": {
+        "BW": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "CM": 8,
+        "PC": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "党群工会",
+      "original_allowed_blocks": [
+        "PU"
+      ],
+      "previous_blocks": {
+        "PU": 24
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PU": 24
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "公寓",
+      "original_allowed_blocks": [
+        "CN"
+      ],
+      "previous_blocks": {
+        "ER": 2
+      },
+      "corrected_jobs": 2,
+      "current_blocks": {
+        "CN": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "再保险业务",
+      "original_allowed_blocks": [
+        "RI"
+      ],
+      "previous_blocks": {
+        "DS": 10
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DS": 10
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "农作物研究",
+      "original_allowed_blocks": [
+        "RD"
+      ],
+      "previous_blocks": {
+        "RH": 15
+      },
+      "corrected_jobs": 9,
+      "current_blocks": {
+        "RD": 9,
+        "RH": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "分期业务",
+      "original_allowed_blocks": [
+        "ST"
+      ],
+      "previous_blocks": {
+        "EU": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "ST": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "创意",
+      "original_allowed_blocks": [
+        "CR",
+        "CT",
+        "PO",
+        "CZ"
+      ],
+      "previous_blocks": {
+        "CR": 76
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CR": 76
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "初中教育",
+      "original_allowed_blocks": [
+        "JS"
+      ],
+      "previous_blocks": {
+        "JS": 47
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "JS": 47
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "别墅管家部",
+      "original_allowed_blocks": [
+        "VC"
+      ],
+      "previous_blocks": {
+        "VC": 4
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "VC": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "加盟事务",
+      "original_allowed_blocks": [
+        "JA"
+      ],
+      "previous_blocks": {
+        "JA": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "JA": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "动画",
+      "original_allowed_blocks": [
+        "CT"
+      ],
+      "previous_blocks": {
+        "AR": 26
+      },
+      "corrected_jobs": 26,
+      "current_blocks": {
+        "CT": 26
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "动画特效",
+      "original_allowed_blocks": [
+        "GD"
+      ],
+      "previous_blocks": {
+        "EV": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "GD": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "勘探",
+      "original_allowed_blocks": [
+        "PE",
+        "DP"
+      ],
+      "previous_blocks": {
+        "CJ": 19
+      },
+      "corrected_jobs": 19,
+      "current_blocks": {
+        "PE": 16,
+        "DP": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "化学工程",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "RN": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "医学部",
+      "original_allowed_blocks": [
+        "CR"
+      ],
+      "previous_blocks": {
+        "AB": 8
+      },
+      "corrected_jobs": 8,
+      "current_blocks": {
+        "CR": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "医技科室",
+      "original_allowed_blocks": [
+        "DR",
+        "ED",
+        "GS",
+        "BT",
+        "LK",
+        "YX",
+        "DP",
+        "XY",
+        "YJ",
+        "BS"
+      ],
+      "previous_blocks": {
+        "YX": 74
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "YX": 74
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "医疗养护中心",
+      "original_allowed_blocks": [
+        "DC",
+        "DT",
+        "OA"
+      ],
+      "previous_blocks": {
+        "DT": 27
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DT": 27
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "医疗控制",
+      "original_allowed_blocks": [
+        "QA"
+      ],
+      "previous_blocks": {
+        "DB": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "QA": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "厨房",
+      "original_allowed_blocks": [
+        "FB",
+        "KC",
+        "OA",
+        "BR"
+      ],
+      "previous_blocks": {
+        "FB": 21
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FB": 21
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "发行",
+      "original_allowed_blocks": [
+        "ES",
+        "JO"
+      ],
+      "previous_blocks": {
+        "JO": 17
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "JO": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "变电设计",
+      "original_allowed_blocks": [
+        "ET",
+        "SD"
+      ],
+      "previous_blocks": {
+        "SD": 13
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SD": 13
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "合成工程",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "RO": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "同业金融",
+      "original_allowed_blocks": [
+        "TY"
+      ],
+      "previous_blocks": {
+        "EW": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "TY": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "后期制作",
+      "original_allowed_blocks": [
+        "AD",
+        "DP",
+        "CR",
+        "CT"
+      ],
+      "previous_blocks": {
+        "CT": 12
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CT": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "咨询",
+      "original_allowed_blocks": [
+        "CA",
+        "SC",
+        "OC",
+        "RC",
+        "PM",
+        "MC",
+        "PC"
+      ],
+      "previous_blocks": {
+        "MC": 39
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MC": 39
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "品牌运营",
+      "original_allowed_blocks": [
+        "SO"
+      ],
+      "previous_blocks": {
+        "EX": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "SO": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "商业服务",
+      "original_allowed_blocks": [
+        "BS"
+      ],
+      "previous_blocks": {
+        "EY": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "BS": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "商业项目",
+      "original_allowed_blocks": [
+        "BP"
+      ],
+      "previous_blocks": {
+        "BP": 13
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BP": 13
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "商务",
+      "original_allowed_blocks": [
+        "AE",
+        "OV",
+        "CR",
+        "BU",
+        "MB",
+        "MK",
+        "MS",
+        "CS"
+      ],
+      "previous_blocks": {
+        "BU": 76
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BU": 76
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "商品管理",
+      "original_allowed_blocks": [
+        "CM"
+      ],
+      "previous_blocks": {
+        "DU": 7
+      },
+      "corrected_jobs": 7,
+      "current_blocks": {
+        "CM": 7
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "固定收益",
+      "original_allowed_blocks": [
+        "FB"
+      ],
+      "previous_blocks": {
+        "AP": 9
+      },
+      "corrected_jobs": 9,
+      "current_blocks": {
+        "FB": 9
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "国际业务",
+      "original_allowed_blocks": [
+        "IB"
+      ],
+      "previous_blocks": {
+        "IB": 20
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IB": 20
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "国际教育",
+      "original_allowed_blocks": [
+        "IB",
+        "IS",
+        "TM",
+        "MH",
+        "TX"
+      ],
+      "previous_blocks": {
+        "IS": 153
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IS": 153
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "场务项目",
+      "original_allowed_blocks": [
+        "BR"
+      ],
+      "previous_blocks": {
+        "DV": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "BR": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "场地服务",
+      "original_allowed_blocks": [
+        "SS"
+      ],
+      "previous_blocks": {
+        "EZ": 2
+      },
+      "corrected_jobs": 2,
+      "current_blocks": {
+        "SS": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "场地运营",
+      "original_allowed_blocks": [
+        "OM",
+        "CA",
+        "ST",
+        "FE",
+        "LM",
+        "SS"
+      ],
+      "previous_blocks": {
+        "EP": 68
+      },
+      "corrected_jobs": 68,
+      "current_blocks": {
+        "LM": 28,
+        "OM": 5,
+        "FE": 4,
+        "SS": 20,
+        "ST": 7,
+        "CA": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "培训",
+      "original_allowed_blocks": [
+        "SC",
+        "WS",
+        "HR",
+        "CS",
+        "TE",
+        "TN",
+        "AC",
+        "ST",
+        "CA"
+      ],
+      "previous_blocks": {
+        "TN": 41
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "TN": 41
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "基金管理",
+      "original_allowed_blocks": [
+        "AM"
+      ],
+      "previous_blocks": {
+        "FD": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "AM": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "塑料生产",
+      "original_allowed_blocks": [
+        "PZ"
+      ],
+      "previous_blocks": {
+        "JZ": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "PZ": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "外教",
+      "original_allowed_blocks": [
+        "FT"
+      ],
+      "previous_blocks": {
+        "FT": 9
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FT": 9
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "媒介",
+      "original_allowed_blocks": [
+        "ME",
+        "MK"
+      ],
+      "previous_blocks": {
+        "ME": 35
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ME": 35
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "学前教育",
+      "original_allowed_blocks": [
+        "ED"
+      ],
+      "previous_blocks": {
+        "AL": 30
+      },
+      "corrected_jobs": 30,
+      "current_blocks": {
+        "ED": 30
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "实验室",
+      "original_allowed_blocks": [
+        "PR",
+        "DD"
+      ],
+      "previous_blocks": {
+        "BX": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "PR": 11,
+        "DD": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "审计",
+      "original_allowed_blocks": [
+        "AT",
+        "SU",
+        "LE",
+        "AU",
+        "FA"
+      ],
+      "previous_blocks": {
+        "SU": 13
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SU": 13
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "客务部",
+      "original_allowed_blocks": [
+        "CM"
+      ],
+      "previous_blocks": {
+        "CM": 27
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CM": 27
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "客户交付",
+      "original_allowed_blocks": [
+        "EC",
+        "OS"
+      ],
+      "previous_blocks": {
+        "FF": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "OS": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "客户关系",
+      "original_allowed_blocks": [
+        "CS",
+        "MS"
+      ],
+      "previous_blocks": {
+        "BY": 22
+      },
+      "corrected_jobs": 22,
+      "current_blocks": {
+        "CS": 22
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "客户工程",
+      "original_allowed_blocks": [
+        "CE"
+      ],
+      "previous_blocks": {
+        "CE": 3
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "客户服务",
+      "original_allowed_blocks": [
+        "CS",
+        "SS",
+        "AC",
+        "OS",
+        "FS",
+        "PD"
+      ],
+      "previous_blocks": {
+        "CS": 96
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CS": 96
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "宴会厅",
+      "original_allowed_blocks": [
+        "BH"
+      ],
+      "previous_blocks": {
+        "BH": 3
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BH": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "对外贸易",
+      "original_allowed_blocks": [
+        "IB"
+      ],
+      "previous_blocks": {
+        "FG": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "IB": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "小学教育",
+      "original_allowed_blocks": [
+        "PS"
+      ],
+      "previous_blocks": {
+        "ED": 40
+      },
+      "corrected_jobs": 40,
+      "current_blocks": {
+        "PS": 40
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程",
+      "original_allowed_blocks": [
+        "EP",
+        "EE",
+        "TE",
+        "PE"
+      ],
+      "previous_blocks": {
+        "EE": 19
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "EE": 19
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程作业",
+      "original_allowed_blocks": [
+        "ZX",
+        "PC",
+        "TE"
+      ],
+      "previous_blocks": {
+        "ZX": 65
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ZX": 65
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程咨询",
+      "original_allowed_blocks": [
+        "PC"
+      ],
+      "previous_blocks": {
+        "FH": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "PC": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程技术",
+      "original_allowed_blocks": [
+        "FE",
+        "DP",
+        "PA",
+        "BY",
+        "PE",
+        "SE"
+      ],
+      "previous_blocks": {
+        "DC": 22
+      },
+      "corrected_jobs": 22,
+      "current_blocks": {
+        "DP": 10,
+        "PA": 2,
+        "BY": 1,
+        "PE": 1,
+        "SE": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程支持",
+      "original_allowed_blocks": [
+        "PS"
+      ],
+      "previous_blocks": {
+        "AY": 17
+      },
+      "corrected_jobs": 17,
+      "current_blocks": {
+        "PS": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程监理",
+      "original_allowed_blocks": [
+        "PE",
+        "EP"
+      ],
+      "previous_blocks": {
+        "FI": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "PE": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程管理",
+      "original_allowed_blocks": [
+        "BP",
+        "SC",
+        "SD",
+        "PM",
+        "PE",
+        "PA",
+        "TE",
+        "PS",
+        "PC",
+        "DP",
+        "SO",
+        "PD",
+        "GM"
+      ],
+      "previous_blocks": {
+        "PM": 81
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PM": 81
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程设备",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "BL": 15
+      },
+      "corrected_jobs": 15,
+      "current_blocks": {
+        "TE": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程部",
+      "original_allowed_blocks": [
+        "PE",
+        "PD"
+      ],
+      "previous_blocks": {
+        "AN": 27
+      },
+      "corrected_jobs": 24,
+      "current_blocks": {
+        "PE": 24,
+        "AN": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "工程项目",
+      "original_allowed_blocks": [
+        "FE",
+        "SA",
+        "SO"
+      ],
+      "previous_blocks": {
+        "FJ": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "FE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "市场",
+      "original_allowed_blocks": [
+        "MK",
+        "CR",
+        "PH",
+        "AD",
+        "GD",
+        "ID",
+        "LP",
+        "MS",
+        "ME",
+        "BD",
+        "SP"
+      ],
+      "previous_blocks": {
+        "MK": 184
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MK": 184
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "市场调研",
+      "original_allowed_blocks": [
+        "DA",
+        "DD",
+        "ME"
+      ],
+      "previous_blocks": {
+        "DW": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "ME": 5,
+        "DA": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "应用技术",
+      "original_allowed_blocks": [
+        "RD"
+      ],
+      "previous_blocks": {
+        "DX": 8
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "DX": 4,
+        "RD": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "店面工程",
+      "original_allowed_blocks": [
+        "PE",
+        "DP"
+      ],
+      "previous_blocks": {
+        "FK": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "PE": 5,
+        "DP": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "建筑工程",
+      "original_allowed_blocks": [
+        "PQ"
+      ],
+      "previous_blocks": {
+        "PQ": 9
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PQ": 9
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "开发",
+      "original_allowed_blocks": [
+        "RD",
+        "IP",
+        "RE",
+        "RA",
+        "RU"
+      ],
+      "previous_blocks": {
+        "IP": 21
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IP": 21
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "开发筹建",
+      "original_allowed_blocks": [
+        "BC",
+        "PS"
+      ],
+      "previous_blocks": {
+        "FN": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "BC": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "影视",
+      "original_allowed_blocks": [
+        "DP",
+        "PC"
+      ],
+      "previous_blocks": {
+        "BZ": 19
+      },
+      "corrected_jobs": 19,
+      "current_blocks": {
+        "PC": 15,
+        "DP": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "影院",
+      "original_allowed_blocks": [
+        "CD",
+        "BR",
+        "CM"
+      ],
+      "previous_blocks": {
+        "CA": 15
+      },
+      "corrected_jobs": 15,
+      "current_blocks": {
+        "BR": 3,
+        "CD": 4,
+        "CM": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "成本控制",
+      "original_allowed_blocks": [
+        "CB",
+        "FA"
+      ],
+      "previous_blocks": {
+        "DY": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "CB": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "战略发展/业务发展",
+      "original_allowed_blocks": [
+        "BD",
+        "IR",
+        "IB",
+        "IO"
+      ],
+      "previous_blocks": {
+        "BD": 79
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BD": 79
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "技术",
+      "original_allowed_blocks": [
+        "TE",
+        "PC",
+        "FE",
+        "ZX"
+      ],
+      "previous_blocks": {
+        "CK": 15
+      },
+      "corrected_jobs": 15,
+      "current_blocks": {
+        "TE": 11,
+        "PC": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "技术检测",
+      "original_allowed_blocks": [
+        "TT",
+        "TE",
+        "DP",
+        "FS",
+        "BY"
+      ],
+      "previous_blocks": {
+        "TT": 24
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "TT": 24
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "投融资",
+      "original_allowed_blocks": [
+        "FA",
+        "IM"
+      ],
+      "previous_blocks": {
+        "FO": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "IM": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "投资业务",
+      "original_allowed_blocks": [
+        "PE",
+        "AM",
+        "IO",
+        "CI",
+        "DI",
+        "FI",
+        "FU",
+        "GI",
+        "IM",
+        "SI",
+        "FA"
+      ],
+      "previous_blocks": {
+        "IO": 62
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IO": 62
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "投资发展",
+      "original_allowed_blocks": [
+        "ID"
+      ],
+      "previous_blocks": {
+        "FP": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "ID": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "投资研究",
+      "original_allowed_blocks": [
+        "RA"
+      ],
+      "previous_blocks": {
+        "AO": 32
+      },
+      "corrected_jobs": 32,
+      "current_blocks": {
+        "RA": 32
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "投资银行业务",
+      "original_allowed_blocks": [
+        "AM",
+        "IM"
+      ],
+      "previous_blocks": {
+        "IM": 24
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IM": 24
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "担保业务",
+      "original_allowed_blocks": [
+        "CR",
+        "GB",
+        "SS",
+        "ST"
+      ],
+      "previous_blocks": {
+        "GB": 33
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "GB": 33
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "招募",
+      "original_allowed_blocks": [
+        "RE"
+      ],
+      "previous_blocks": {
+        "FQ": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "RE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "招投标",
+      "original_allowed_blocks": [
+        "BI",
+        "EB"
+      ],
+      "previous_blocks": {
+        "BI": 8
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BI": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "挂号",
+      "original_allowed_blocks": [
+        "CS"
+      ],
+      "previous_blocks": {
+        "DZ": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "CS": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "搜索引擎",
+      "original_allowed_blocks": [
+        "ST"
+      ],
+      "previous_blocks": {
+        "DF": 13
+      },
+      "corrected_jobs": 13,
+      "current_blocks": {
+        "ST": 13
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "收益",
+      "original_allowed_blocks": [
+        "CM"
+      ],
+      "previous_blocks": {
+        "FR": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "CM": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "政府事务",
+      "original_allowed_blocks": [
+        "GA"
+      ],
+      "previous_blocks": {
+        "GA": 9
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "GA": 9
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教务",
+      "original_allowed_blocks": [
+        "EM",
+        "EO",
+        "TD",
+        "LM",
+        "RS",
+        "OE"
+      ],
+      "previous_blocks": {
+        "EO": 37
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "EO": 37
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教学管理",
+      "original_allowed_blocks": [
+        "TM"
+      ],
+      "previous_blocks": {
+        "TM": 8
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "TM": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教师发展",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "DG": 8
+      },
+      "corrected_jobs": 8,
+      "current_blocks": {
+        "TE": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教材教辅",
+      "original_allowed_blocks": [
+        "ES"
+      ],
+      "previous_blocks": {
+        "TS": 27
+      },
+      "corrected_jobs": 27,
+      "current_blocks": {
+        "ES": 27
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教研",
+      "original_allowed_blocks": [
+        "TS"
+      ],
+      "previous_blocks": {
+        "CL": 14
+      },
+      "corrected_jobs": 14,
+      "current_blocks": {
+        "TS": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "教练",
+      "original_allowed_blocks": [
+        "SC"
+      ],
+      "previous_blocks": {
+        "SC": 30
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SC": 30
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "数据分析",
+      "original_allowed_blocks": [
+        "DA",
+        "RD",
+        "BR",
+        "RS",
+        "BD",
+        "HR",
+        "MO"
+      ],
+      "previous_blocks": {
+        "DA": 27
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DA": 27
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "数据管理",
+      "original_allowed_blocks": [
+        "DA",
+        "DT"
+      ],
+      "previous_blocks": {
+        "FU": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "DT": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "数据采集",
+      "original_allowed_blocks": [
+        "DD"
+      ],
+      "previous_blocks": {
+        "DD": 4
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DD": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "数模测试",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "FV": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "TE": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "文艺活动",
+      "original_allowed_blocks": [
+        "PE",
+        "CR",
+        "CZ",
+        "PO",
+        "ID",
+        "IE",
+        "AC",
+        "CT",
+        "FM",
+        "PM",
+        "FS",
+        "PA"
+      ],
+      "previous_blocks": {
+        "AC": 81
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "AC": 81
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "新媒体记者",
+      "original_allowed_blocks": [
+        "ID"
+      ],
+      "previous_blocks": {
+        "FW": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "ID": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "无机工程",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "RQ": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "有机工程",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "RR": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "机场接待",
+      "original_allowed_blocks": [
+        "CM"
+      ],
+      "previous_blocks": {
+        "ES": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "CM": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "机械工程",
+      "original_allowed_blocks": [
+        "TE",
+        "PE",
+        "PD"
+      ],
+      "previous_blocks": {
+        "DH": 8
+      },
+      "corrected_jobs": 7,
+      "current_blocks": {
+        "DH": 1,
+        "PE": 7
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "标准化",
+      "original_allowed_blocks": [
+        "SP",
+        "RI",
+        "PJ"
+      ],
+      "previous_blocks": {
+        "EA": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "RI": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "核保",
+      "original_allowed_blocks": [
+        "AA"
+      ],
+      "previous_blocks": {
+        "AA": 14
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "AA": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "核磁",
+      "original_allowed_blocks": [
+        "NM"
+      ],
+      "previous_blocks": {
+        "NM": 3
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "NM": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "检修",
+      "original_allowed_blocks": [
+        "ZC",
+        "CS",
+        "PD",
+        "LO",
+        "EE",
+        "LM"
+      ],
+      "previous_blocks": {
+        "LM": 36
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LM": 36
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "检验",
+      "original_allowed_blocks": [
+        "IC"
+      ],
+      "previous_blocks": {
+        "CQ": 24
+      },
+      "corrected_jobs": 24,
+      "current_blocks": {
+        "IC": 24
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "楼层管理",
+      "original_allowed_blocks": [
+        "SC"
+      ],
+      "previous_blocks": {
+        "FX": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "SC": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "模具制造",
+      "original_allowed_blocks": [
+        "MD",
+        "PD"
+      ],
+      "previous_blocks": {
+        "DI": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "MD": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "法律合规",
+      "original_allowed_blocks": [
+        "LE",
+        "CR"
+      ],
+      "previous_blocks": {
+        "LE": 50
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LE": 50
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "测控",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "FY": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "TE": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "测试",
+      "original_allowed_blocks": [
+        "TE",
+        "RS",
+        "CC",
+        "IT",
+        "PP",
+        "IP"
+      ],
+      "previous_blocks": {
+        "RT": 9,
+        "TE": 67
+      },
+      "corrected_jobs": 9,
+      "current_blocks": {
+        "TE": 71,
+        "PP": 4,
+        "IP": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "消费金融",
+      "original_allowed_blocks": [
+        "XF"
+      ],
+      "previous_blocks": {
+        "XF": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "XF": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "游客部",
+      "original_allowed_blocks": [
+        "BR",
+        "FL",
+        "TB"
+      ],
+      "previous_blocks": {
+        "TB": 17
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "TB": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "游戏",
+      "original_allowed_blocks": [
+        "GR",
+        "GO",
+        "GD",
+        "GP",
+        "TE"
+      ],
+      "previous_blocks": {
+        "RG": 36
+      },
+      "corrected_jobs": 36,
+      "current_blocks": {
+        "GD": 8,
+        "TE": 7,
+        "GR": 13,
+        "GO": 7,
+        "GP": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "版权",
+      "original_allowed_blocks": [
+        "AU"
+      ],
+      "previous_blocks": {
+        "DJ": 14
+      },
+      "corrected_jobs": 14,
+      "current_blocks": {
+        "AU": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "牧场体系",
+      "original_allowed_blocks": [
+        "MM",
+        "MN"
+      ],
+      "previous_blocks": {
+        "MN": 45
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MN": 45
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物业工程",
+      "original_allowed_blocks": [
+        "CP",
+        "EO",
+        "ES",
+        "OA",
+        "PD",
+        "CS"
+      ],
+      "previous_blocks": {
+        "CP": 48
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CP": 48
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物业管理",
+      "original_allowed_blocks": [
+        "RM",
+        "CN",
+        "HA",
+        "CG"
+      ],
+      "previous_blocks": {
+        "HA": 30
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "HA": 30
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物流",
+      "original_allowed_blocks": [
+        "LO",
+        "CS"
+      ],
+      "previous_blocks": {
+        "AZ": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "LO": 11,
+        "CS": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物流业务",
+      "original_allowed_blocks": [
+        "EB",
+        "IT"
+      ],
+      "previous_blocks": {
+        "BB": 29
+      },
+      "corrected_jobs": 29,
+      "current_blocks": {
+        "EB": 25,
+        "IT": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物流管理",
+      "original_allowed_blocks": [
+        "LO",
+        "EB",
+        "LB",
+        "CO",
+        "IT",
+        "RE",
+        "CS",
+        "SS",
+        "GM"
+      ],
+      "previous_blocks": {
+        "LO": 134
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LO": 134
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "物流运作",
+      "original_allowed_blocks": [
+        "EB",
+        "BY"
+      ],
+      "previous_blocks": {
+        "AJ": 28
+      },
+      "corrected_jobs": 28,
+      "current_blocks": {
+        "EB": 26,
+        "BY": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "猎聘",
+      "original_allowed_blocks": [
+        "HH"
+      ],
+      "previous_blocks": {
+        "HH": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "HH": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "现场工程",
+      "original_allowed_blocks": [
+        "FE",
+        "TE"
+      ],
+      "previous_blocks": {
+        "FE": 14
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FE": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "现场管理",
+      "original_allowed_blocks": [
+        "PC",
+        "FM",
+        "CS"
+      ],
+      "previous_blocks": {
+        "BJ": 14
+      },
+      "corrected_jobs": 14,
+      "current_blocks": {
+        "FM": 6,
+        "PC": 6,
+        "CS": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产",
+      "original_allowed_blocks": [
+        "PD",
+        "PR",
+        "PZ",
+        "FM",
+        "IS",
+        "PA",
+        "JZ",
+        "AF",
+        "CP",
+        "CM",
+        "EE",
+        "OA",
+        "MD",
+        "PE"
+      ],
+      "previous_blocks": {
+        "FM": 216,
+        "PD": 254
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FM": 216,
+        "PD": 254
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产准备",
+      "original_allowed_blocks": [
+        "PA",
+        "VT"
+      ],
+      "previous_blocks": {
+        "VT": 16
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "VT": 16
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产工艺",
+      "original_allowed_blocks": [
+        "MT",
+        "TE",
+        "RE",
+        "PD",
+        "DP",
+        "CS",
+        "PJ"
+      ],
+      "previous_blocks": {
+        "MT": 161
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MT": 161
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产技术",
+      "original_allowed_blocks": [
+        "AT",
+        "BE",
+        "FE",
+        "FM",
+        "GE",
+        "PD",
+        "PZ",
+        "RE",
+        "SW",
+        "WT",
+        "PJ",
+        "ET",
+        "PE"
+      ],
+      "previous_blocks": {
+        "BE": 212
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BE": 212
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产物流",
+      "original_allowed_blocks": [
+        "ML"
+      ],
+      "previous_blocks": {
+        "ML": 17
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ML": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产管理",
+      "original_allowed_blocks": [
+        "AF",
+        "FM",
+        "PD",
+        "CS",
+        "RE",
+        "PJ",
+        "PP",
+        "CM",
+        "IS"
+      ],
+      "previous_blocks": {
+        "AU": 28
+      },
+      "corrected_jobs": 7,
+      "current_blocks": {
+        "CS": 1,
+        "RE": 1,
+        "AU": 21,
+        "PJ": 1,
+        "IS": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "生产运行",
+      "original_allowed_blocks": [
+        "ZC",
+        "BY"
+      ],
+      "previous_blocks": {
+        "ZC": 26
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ZC": 26
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "用户体验",
+      "original_allowed_blocks": [
+        "UE",
+        "CR",
+        "RE",
+        "DP",
+        "RD",
+        "ID",
+        "GO"
+      ],
+      "previous_blocks": {
+        "GO": 16
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "GO": 16
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "电子商务",
+      "original_allowed_blocks": [
+        "EB",
+        "EC",
+        "LS",
+        "LR",
+        "MS",
+        "LT",
+        "PO"
+      ],
+      "previous_blocks": {
+        "EC": 85
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "EC": 85
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "电气工程",
+      "original_allowed_blocks": [
+        "EE",
+        "RD",
+        "PE",
+        "PD",
+        "TE"
+      ],
+      "previous_blocks": {
+        "DK": 7
+      },
+      "corrected_jobs": 7,
+      "current_blocks": {
+        "RD": 2,
+        "EE": 2,
+        "TE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "电解工程",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "RV": 3
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RV": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "畜牧技术",
+      "original_allowed_blocks": [
+        "MM",
+        "MN"
+      ],
+      "previous_blocks": {
+        "MM": 47
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MM": 47
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "畜牧饲料",
+      "original_allowed_blocks": [
+        "AR"
+      ],
+      "previous_blocks": {
+        "RK": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "AR": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "疫苗研发",
+      "original_allowed_blocks": [
+        "CR"
+      ],
+      "previous_blocks": {
+        "RW": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "CR": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "监查",
+      "original_allowed_blocks": [
+        "CR"
+      ],
+      "previous_blocks": {
+        "AT": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "CR": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "直播运营",
+      "original_allowed_blocks": [
+        "LT"
+      ],
+      "previous_blocks": {
+        "LT": 12
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LT": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "矿产生产",
+      "original_allowed_blocks": [
+        "PD"
+      ],
+      "previous_blocks": {
+        "AV": 22
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "AV": 22
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "研发",
+      "original_allowed_blocks": [
+        "RD",
+        "RA",
+        "RE",
+        "RS",
+        "TM",
+        "TC",
+        "EE",
+        "PM",
+        "DD",
+        "CO",
+        "RF",
+        "IT",
+        "CC",
+        "RU",
+        "EC",
+        "TD",
+        "TE",
+        "RI"
+      ],
+      "previous_blocks": {
+        "RD": 186,
+        "RE": 111,
+        "RS": 279
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RD": 186,
+        "RE": 111,
+        "RS": 279
+      },
+      "policy": "保留既定研发R段"
+    },
+    {
+      "function_name": "社群运营",
+      "original_allowed_blocks": [
+        "CO",
+        "CS",
+        "PO",
+        "MK"
+      ],
+      "previous_blocks": {
+        "EB": 6
+      },
+      "corrected_jobs": 6,
+      "current_blocks": {
+        "CS": 2,
+        "CO": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "种植体系",
+      "original_allowed_blocks": [
+        "MN",
+        "SD"
+      ],
+      "previous_blocks": {
+        "CU": 16
+      },
+      "corrected_jobs": 16,
+      "current_blocks": {
+        "MN": 16
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "租赁业务",
+      "original_allowed_blocks": [
+        "LA"
+      ],
+      "previous_blocks": {
+        "LA": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LA": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "秩序保护",
+      "original_allowed_blocks": [
+        "ES",
+        "OA",
+        "PF"
+      ],
+      "previous_blocks": {
+        "DL": 23
+      },
+      "corrected_jobs": 23,
+      "current_blocks": {
+        "ES": 13,
+        "OA": 7,
+        "PF": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "移动业务",
+      "original_allowed_blocks": [
+        "BU"
+      ],
+      "previous_blocks": {
+        "FZ": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "BU": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "空间设计",
+      "original_allowed_blocks": [
+        "DP",
+        "RD"
+      ],
+      "previous_blocks": {
+        "GC": 4
+      },
+      "corrected_jobs": 1,
+      "current_blocks": {
+        "DP": 1,
+        "GC": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "筹建中心",
+      "original_allowed_blocks": [
+        "BC",
+        "PS"
+      ],
+      "previous_blocks": {
+        "EF": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "PS": 3,
+        "BC": 2
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "签证",
+      "original_allowed_blocks": [
+        "VI"
+      ],
+      "previous_blocks": {
+        "VI": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "VI": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "管理信息系统",
+      "original_allowed_blocks": [
+        "OS",
+        "SO",
+        "IT",
+        "DM"
+      ],
+      "previous_blocks": {
+        "OS": 15
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "OS": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "管理咨询",
+      "original_allowed_blocks": [
+        "PC"
+      ],
+      "previous_blocks": {
+        "GD": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "PC": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "系统工程",
+      "original_allowed_blocks": [
+        "SO",
+        "SE",
+        "PS",
+        "PC",
+        "IT",
+        "RD"
+      ],
+      "previous_blocks": {
+        "CC": 5
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "RD": 4,
+        "CC": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "纪检",
+      "original_allowed_blocks": [
+        "PU"
+      ],
+      "previous_blocks": {
+        "GE": 1
+      },
+      "corrected_jobs": 1,
+      "current_blocks": {
+        "PU": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "经纪",
+      "original_allowed_blocks": [
+        "CP",
+        "HT",
+        "LS"
+      ],
+      "previous_blocks": {
+        "HT": 14
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "HT": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "经纪业务管理",
+      "original_allowed_blocks": [
+        "BA"
+      ],
+      "previous_blocks": {
+        "BA": 16
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BA": 16
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "经营管理",
+      "original_allowed_blocks": [
+        "OM",
+        "DP",
+        "BY"
+      ],
+      "previous_blocks": {
+        "EG": 2
+      },
+      "corrected_jobs": 2,
+      "current_blocks": {
+        "DP": 1,
+        "BY": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "综合支持",
+      "original_allowed_blocks": [
+        "SS",
+        "TR",
+        "AM",
+        "ES"
+      ],
+      "previous_blocks": {
+        "AM": 23
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "AM": 23
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "综合服务管理",
+      "original_allowed_blocks": [
+        "SM"
+      ],
+      "previous_blocks": {
+        "CV": 16
+      },
+      "corrected_jobs": 16,
+      "current_blocks": {
+        "SM": 16
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "综合管理",
+      "original_allowed_blocks": [
+        "GM"
+      ],
+      "previous_blocks": {
+        "GM": 60
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "GM": 60
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "综合项目",
+      "original_allowed_blocks": [
+        "PM"
+      ],
+      "previous_blocks": {
+        "GF": 1
+      },
+      "corrected_jobs": 1,
+      "current_blocks": {
+        "PM": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "编辑",
+      "original_allowed_blocks": [
+        "IE",
+        "PW",
+        "ID"
+      ],
+      "previous_blocks": {
+        "IE": 33
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IE": 33
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "网站内容",
+      "original_allowed_blocks": [
+        "ID",
+        "ES",
+        "IT",
+        "IE"
+      ],
+      "previous_blocks": {
+        "ID": 32
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ID": 32
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "网络工程",
+      "original_allowed_blocks": [
+        "OS",
+        "RS",
+        "IT"
+      ],
+      "previous_blocks": {
+        "EH": 7
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "EH": 2,
+        "OS": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "网银管理",
+      "original_allowed_blocks": [
+        "NB"
+      ],
+      "previous_blocks": {
+        "NB": 5
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "NB": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "美工",
+      "original_allowed_blocks": [
+        "AD",
+        "GD",
+        "RE",
+        "ID",
+        "CR",
+        "RD",
+        "MK",
+        "DP",
+        "EC",
+        "CT"
+      ],
+      "previous_blocks": {
+        "AD": 53
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "AD": 53
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "职业教育/培训辅导",
+      "original_allowed_blocks": [
+        "VE",
+        "TY",
+        "OE"
+      ],
+      "previous_blocks": {
+        "VE": 69
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "VE": 69
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "能源管理",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "CG": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "PE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "船务制造",
+      "original_allowed_blocks": [
+        "SD"
+      ],
+      "previous_blocks": {
+        "AW": 29
+      },
+      "corrected_jobs": 29,
+      "current_blocks": {
+        "SD": 29
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "船舶分段",
+      "original_allowed_blocks": [
+        "SF"
+      ],
+      "previous_blocks": {
+        "SF": 18
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SF": 18
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "艺术展馆",
+      "original_allowed_blocks": [
+        "EP",
+        "FL"
+      ],
+      "previous_blocks": {
+        "FL": 23
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FL": 23
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "节目",
+      "original_allowed_blocks": [
+        "PA",
+        "PD",
+        "PO",
+        "CR"
+      ],
+      "previous_blocks": {
+        "BM": 12
+      },
+      "corrected_jobs": 9,
+      "current_blocks": {
+        "PA": 5,
+        "PO": 2,
+        "CR": 2,
+        "BM": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "药品研发",
+      "original_allowed_blocks": [
+        "CR",
+        "BR",
+        "CC",
+        "PR"
+      ],
+      "previous_blocks": {
+        "RF": 155
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RF": 155
+      },
+      "policy": "保留既定研发R段"
+    },
+    {
+      "function_name": "营业部",
+      "original_allowed_blocks": [
+        "BA",
+        "BF",
+        "BG",
+        "BH",
+        "BS",
+        "BU"
+      ],
+      "previous_blocks": {
+        "BG": 26
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BG": 26
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "营销策划",
+      "original_allowed_blocks": [
+        "MK",
+        "OP",
+        "SM",
+        "MS",
+        "SP",
+        "RP",
+        "GD",
+        "AD",
+        "CD",
+        "ID",
+        "PO",
+        "CT",
+        "CO"
+      ],
+      "previous_blocks": {
+        "AE": 103
+      },
+      "corrected_jobs": 103,
+      "current_blocks": {
+        "MK": 49,
+        "RP": 4,
+        "GD": 15,
+        "CT": 4,
+        "SM": 2,
+        "MS": 8,
+        "OP": 4,
+        "CD": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "行政",
+      "original_allowed_blocks": [
+        "OA",
+        "CP",
+        "ES",
+        "KC",
+        "PS",
+        "PT",
+        "ZD",
+        "DC",
+        "LO",
+        "FB",
+        "BF",
+        "FS",
+        "PD",
+        "GM"
+      ],
+      "previous_blocks": {
+        "OA": 128
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "OA": 128
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "衍生品",
+      "original_allowed_blocks": [
+        "DE"
+      ],
+      "previous_blocks": {
+        "DE": 14
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DE": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "规划设计",
+      "original_allowed_blocks": [
+        "DP",
+        "PD",
+        "CG"
+      ],
+      "previous_blocks": {
+        "DP": 123
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "DP": 123
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "计调",
+      "original_allowed_blocks": [
+        "OP"
+      ],
+      "previous_blocks": {
+        "GG": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "OP": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "计量",
+      "original_allowed_blocks": [
+        "MT",
+        "ML",
+        "CP",
+        "PE",
+        "LO",
+        "ET"
+      ],
+      "previous_blocks": {
+        "EI": 21
+      },
+      "corrected_jobs": 14,
+      "current_blocks": {
+        "ML": 1,
+        "MT": 9,
+        "CP": 2,
+        "EI": 7,
+        "LO": 1,
+        "ET": 1
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设备",
+      "original_allowed_blocks": [
+        "ES",
+        "PD",
+        "EM",
+        "IS",
+        "KP"
+      ],
+      "previous_blocks": {
+        "EM": 15
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "EM": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设备保全",
+      "original_allowed_blocks": [
+        "ES",
+        "ET",
+        "PD",
+        "CS",
+        "SO",
+        "PE",
+        "KP",
+        "ZX",
+        "OP"
+      ],
+      "previous_blocks": {
+        "ET": 52
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "ET": 52
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设备工程",
+      "original_allowed_blocks": [
+        "PM",
+        "MT",
+        "LM",
+        "CS",
+        "KP",
+        "PE",
+        "RD",
+        "EE",
+        "EP",
+        "IS",
+        "OA",
+        "PD",
+        "SG",
+        "ES"
+      ],
+      "previous_blocks": {
+        "AF": 55
+      },
+      "corrected_jobs": 52,
+      "current_blocks": {
+        "MT": 3,
+        "LM": 4,
+        "CS": 2,
+        "KP": 4,
+        "PE": 5,
+        "EE": 1,
+        "PM": 17,
+        "RD": 1,
+        "EP": 3,
+        "IS": 2,
+        "OA": 3,
+        "SG": 3,
+        "ES": 4,
+        "AF": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设备测试",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "GH": 3
+      },
+      "corrected_jobs": 3,
+      "current_blocks": {
+        "TE": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设计",
+      "original_allowed_blocks": [
+        "PE",
+        "RE",
+        "CS",
+        "RD",
+        "PA",
+        "DP"
+      ],
+      "previous_blocks": {
+        "AG": 46
+      },
+      "corrected_jobs": 45,
+      "current_blocks": {
+        "RE": 3,
+        "PE": 36,
+        "AG": 1,
+        "PA": 3,
+        "DP": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "设计研发",
+      "original_allowed_blocks": [
+        "RD",
+        "RE",
+        "RS",
+        "MT",
+        "RU",
+        "TC",
+        "PP",
+        "GD",
+        "TE",
+        "PE",
+        "CR"
+      ],
+      "previous_blocks": {
+        "RU": 261
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RU": 261
+      },
+      "policy": "保留既定研发R段"
+    },
+    {
+      "function_name": "证券投资",
+      "original_allowed_blocks": [
+        "SI"
+      ],
+      "previous_blocks": {
+        "SI": 12
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SI": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "诉讼",
+      "original_allowed_blocks": [
+        "LE"
+      ],
+      "previous_blocks": {
+        "CD": 21
+      },
+      "corrected_jobs": 21,
+      "current_blocks": {
+        "LE": 21
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "财务",
+      "original_allowed_blocks": [
+        "FA"
+      ],
+      "previous_blocks": {
+        "FA": 109
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FA": 109
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "财富管理",
+      "original_allowed_blocks": [
+        "FM"
+      ],
+      "previous_blocks": {
+        "GI": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "FM": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "质谱",
+      "original_allowed_blocks": [
+        "MP"
+      ],
+      "previous_blocks": {
+        "MP": 3
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MP": 3
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "质量检验",
+      "original_allowed_blocks": [
+        "QA",
+        "RD",
+        "DD",
+        "FS",
+        "WT",
+        "AT"
+      ],
+      "previous_blocks": {
+        "WT": 11
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "WT": 11
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "质量管理",
+      "original_allowed_blocks": [
+        "QA",
+        "QC",
+        "CQ",
+        "CP",
+        "JZ",
+        "PD",
+        "QE",
+        "CS",
+        "SS",
+        "PE",
+        "QM",
+        "DD",
+        "QS",
+        "FS"
+      ],
+      "previous_blocks": {
+        "QA": 167
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "QA": 167
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "贵金属/珠宝交易",
+      "original_allowed_blocks": [
+        "AP",
+        "TR"
+      ],
+      "previous_blocks": {
+        "TR": 10
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "TR": 10
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "资产保全",
+      "original_allowed_blocks": [
+        "BQ"
+      ],
+      "previous_blocks": {
+        "BQ": 14
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BQ": 14
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "资金管理",
+      "original_allowed_blocks": [
+        "VM"
+      ],
+      "previous_blocks": {
+        "EJ": 8
+      },
+      "corrected_jobs": 8,
+      "current_blocks": {
+        "VM": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "赛事管理",
+      "original_allowed_blocks": [
+        "MO",
+        "RS"
+      ],
+      "previous_blocks": {
+        "MO": 17
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MO": 17
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "软件开发",
+      "original_allowed_blocks": [
+        "RD",
+        "RE",
+        "RS",
+        "IT",
+        "IP",
+        "ID",
+        "RU",
+        "DA",
+        "SE",
+        "SO",
+        "LO",
+        "RA",
+        "RF",
+        "PE",
+        "PM",
+        "DD",
+        "EC",
+        "CC",
+        "TE",
+        "SM",
+        "RI"
+      ],
+      "previous_blocks": {
+        "RB": 86,
+        "RI": 212
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "RB": 86,
+        "RI": 212
+      },
+      "policy": "保留既定研发R段"
+    },
+    {
+      "function_name": "运维",
+      "original_allowed_blocks": [
+        "IP",
+        "RD",
+        "SO",
+        "OS",
+        "CS",
+        "IT",
+        "SE",
+        "RE",
+        "RU",
+        "DA",
+        "CC",
+        "GO"
+      ],
+      "previous_blocks": {
+        "IT": 85
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "IT": 85
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "运营事业",
+      "original_allowed_blocks": [
+        "OP"
+      ],
+      "previous_blocks": {
+        "CW": 12
+      },
+      "corrected_jobs": 12,
+      "current_blocks": {
+        "OP": 12
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "运营管理",
+      "original_allowed_blocks": [
+        "CO",
+        "OM",
+        "HS",
+        "PO",
+        "EC",
+        "PM",
+        "HA"
+      ],
+      "previous_blocks": {
+        "CO": 32
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CO": 32
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "运行监察",
+      "original_allowed_blocks": [
+        "AS"
+      ],
+      "previous_blocks": {
+        "CF": 15
+      },
+      "corrected_jobs": 15,
+      "current_blocks": {
+        "AS": 15
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "运输",
+      "original_allowed_blocks": [
+        "LO"
+      ],
+      "previous_blocks": {
+        "AH": 47
+      },
+      "corrected_jobs": 47,
+      "current_blocks": {
+        "LO": 47
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "进出口事务",
+      "original_allowed_blocks": [
+        "LO"
+      ],
+      "previous_blocks": {
+        "CH": 18
+      },
+      "corrected_jobs": 18,
+      "current_blocks": {
+        "LO": 18
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "造价",
+      "original_allowed_blocks": [
+        "CB",
+        "SC",
+        "PS"
+      ],
+      "previous_blocks": {
+        "CB": 48
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "CB": 48
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "采掘",
+      "original_allowed_blocks": [
+        "PE"
+      ],
+      "previous_blocks": {
+        "BK": 36
+      },
+      "corrected_jobs": 36,
+      "current_blocks": {
+        "PE": 36
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "采购",
+      "original_allowed_blocks": [
+        "LO",
+        "ST",
+        "PC",
+        "FS",
+        "BI",
+        "MA"
+      ],
+      "previous_blocks": {
+        "AS": 48
+      },
+      "corrected_jobs": 48,
+      "current_blocks": {
+        "FS": 3,
+        "LO": 8,
+        "BI": 12,
+        "ST": 13,
+        "MA": 4,
+        "PC": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "量化金融",
+      "original_allowed_blocks": [
+        "QF",
+        "RA"
+      ],
+      "previous_blocks": {
+        "QF": 11
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "QF": 11
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "银行业务",
+      "original_allowed_blocks": [
+        "IS",
+        "CA",
+        "GS",
+        "AM"
+      ],
+      "previous_blocks": {
+        "GS": 47
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "GS": 47
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "销售",
+      "original_allowed_blocks": [
+        "MS",
+        "SS",
+        "EB",
+        "FM",
+        "AS",
+        "FS",
+        "IS",
+        "CS",
+        "BY",
+        "SA",
+        "EC"
+      ],
+      "previous_blocks": {
+        "MS": 205
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "MS": 205
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "销售支持",
+      "original_allowed_blocks": [
+        "SA",
+        "PS",
+        "BR",
+        "MD",
+        "CS",
+        "DP",
+        "DA",
+        "SS",
+        "RD",
+        "FS"
+      ],
+      "previous_blocks": {
+        "FS": 25
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "FS": 25
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "销售管理",
+      "original_allowed_blocks": [
+        "SA",
+        "MD",
+        "PS",
+        "MS",
+        "ST",
+        "SS",
+        "EC"
+      ],
+      "previous_blocks": {
+        "SA": 62
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "SA": 62
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "门店",
+      "original_allowed_blocks": [
+        "BR",
+        "BS",
+        "EB"
+      ],
+      "previous_blocks": {
+        "BS": 68
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BS": 68
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "陈列",
+      "original_allowed_blocks": [
+        "BS"
+      ],
+      "previous_blocks": {
+        "EK": 8
+      },
+      "corrected_jobs": 8,
+      "current_blocks": {
+        "BS": 8
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "零售业务",
+      "original_allowed_blocks": [
+        "LS"
+      ],
+      "previous_blocks": {
+        "LS": 29
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "LS": 29
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "需求分析",
+      "original_allowed_blocks": [
+        "SD"
+      ],
+      "previous_blocks": {
+        "GJ": 5
+      },
+      "corrected_jobs": 5,
+      "current_blocks": {
+        "SD": 5
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "静模测试",
+      "original_allowed_blocks": [
+        "TE"
+      ],
+      "previous_blocks": {
+        "GK": 4
+      },
+      "corrected_jobs": 4,
+      "current_blocks": {
+        "TE": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目",
+      "original_allowed_blocks": [
+        "PM",
+        "TX",
+        "IM",
+        "SP",
+        "OS",
+        "PA"
+      ],
+      "previous_blocks": {
+        "BN": 21
+      },
+      "corrected_jobs": 21,
+      "current_blocks": {
+        "TX": 5,
+        "OS": 6,
+        "PM": 10
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目事务",
+      "original_allowed_blocks": [
+        "PA",
+        "PC"
+      ],
+      "previous_blocks": {
+        "AQ": 26
+      },
+      "corrected_jobs": 26,
+      "current_blocks": {
+        "PA": 26
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目事务（项目前期）",
+      "original_allowed_blocks": [
+        "PA",
+        "PS"
+      ],
+      "previous_blocks": {
+        "PA": 39
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PA": 39
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目实施",
+      "original_allowed_blocks": [
+        "PE",
+        "EC",
+        "OS",
+        "RD"
+      ],
+      "previous_blocks": {
+        "CI": 11
+      },
+      "corrected_jobs": 9,
+      "current_blocks": {
+        "EC": 5,
+        "CI": 2,
+        "OS": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目客户关系",
+      "original_allowed_blocks": [
+        "CS",
+        "ND"
+      ],
+      "previous_blocks": {
+        "CN": 24
+      },
+      "corrected_jobs": 24,
+      "current_blocks": {
+        "ND": 3,
+        "CS": 21
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目工程",
+      "original_allowed_blocks": [
+        "PE",
+        "SG",
+        "PA",
+        "PD"
+      ],
+      "previous_blocks": {
+        "BC": 89
+      },
+      "corrected_jobs": 85,
+      "current_blocks": {
+        "PA": 11,
+        "PE": 74,
+        "BC": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目案场",
+      "original_allowed_blocks": [
+        "PF"
+      ],
+      "previous_blocks": {
+        "PF": 11
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PF": 11
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "项目管理",
+      "original_allowed_blocks": [
+        "PE",
+        "PC",
+        "CO",
+        "PM",
+        "CE",
+        "GM",
+        "PA",
+        "OS",
+        "RD",
+        "PP",
+        "IT"
+      ],
+      "previous_blocks": {
+        "PC": 27
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PC": 27
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "预定中心",
+      "original_allowed_blocks": [
+        "BO"
+      ],
+      "previous_blocks": {
+        "BO": 4
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BO": 4
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "风电项目",
+      "original_allowed_blocks": [
+        "TE",
+        "PS"
+      ],
+      "previous_blocks": {
+        "PS": 6
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "PS": 6
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "风险管理",
+      "original_allowed_blocks": [
+        "VM",
+        "IM",
+        "VF",
+        "CC",
+        "SE",
+        "OS"
+      ],
+      "previous_blocks": {
+        "VM": 78
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "VM": 78
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "餐饮部",
+      "original_allowed_blocks": [
+        "FB",
+        "BR",
+        "FD",
+        "MT",
+        "BF"
+      ],
+      "previous_blocks": {
+        "BR": 68
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "BR": 68
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "高中教育",
+      "original_allowed_blocks": [
+        "HS"
+      ],
+      "previous_blocks": {
+        "HS": 50
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "HS": 50
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    },
+    {
+      "function_name": "高校教育",
+      "original_allowed_blocks": [
+        "TR",
+        "UE"
+      ],
+      "previous_blocks": {
+        "UE": 7
+      },
+      "corrected_jobs": 0,
+      "current_blocks": {
+        "UE": 7
+      },
+      "policy": "原版字母段优先；职能共享字母段不再互相挤出"
+    }
+  ]
+}
