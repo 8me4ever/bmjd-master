@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "release_version": "BMJD-AUDIENCE-RELEASE-20261030-01",
+  "release_version": "BMJD-AUDIENCE-RELEASE-20261030-02",
   "date": "2026-10-30",
   "status": "MASTER_APPROVED_DUAL_PORTALS_RELEASED",
   "master": {
@@ -25,7 +25,11 @@
     "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
     "audience": "internal",
     "pagination": false,
-    "industry_codes_migrated": true
+    "industry_codes_migrated": true,
+    "matrix_enabled": true,
+    "list_enabled": true,
+    "default_desktop_view": "matrix",
+    "default_mobile_view": "list"
   },
   "maintenance_tool": {
     "migrated": false,
@@ -38,15 +42,23 @@
       "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
       "audience": "internal",
       "pagination": false,
-      "industry_codes_migrated": true
+      "industry_codes_migrated": true,
+      "matrix_enabled": true,
+      "list_enabled": true,
+      "default_desktop_view": "matrix",
+      "default_mobile_view": "list"
     },
     "client": {
       "path": "BMJD内外双版_20261030/BMJD客户查询版.html",
-      "version": "BMJD-CLIENT-20261030-01",
-      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
+      "version": "BMJD-CLIENT-20261030-02",
+      "sha256": "c35d4a096c137fc23bf04a11730f2f5d4c0697dcd68d97beea51ff365ef4153d",
       "audience": "client",
       "pagination": false,
-      "industry_codes_migrated": true
+      "industry_codes_migrated": true,
+      "matrix_enabled": true,
+      "list_enabled": true,
+      "default_desktop_view": "matrix",
+      "default_mobile_view": "list"
     }
   }
 }

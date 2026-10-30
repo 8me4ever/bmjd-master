@@ -18,7 +18,7 @@ from urllib.parse import quote
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'BMJD内外双版_20261030';MASTER=ROOT/'原版分类编码收口_20261030/主库.json';CHILDREN=ROOT/'行业子库同步_20261030'
 def read(p):return json.loads(p.read_text('utf-8'))
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
-def payload(p):return json.loads(gzip.decompress(base64.b64decode(re.search(r'<script id="portal-payload"[^>]*>(.*?)</script>',p.read_text(),re.S)[1])))
+def payload(p):return json.loads(gzip.decompress(base64.b64decode(re.search(r'<script id="portal-payload"[^>]*>(.*?)</script>',p.read_text('utf-8'),re.S)[1])))
 def clauses(t):return [re.sub(r'^\s*\d+\s*[、.．)]\s*','',s).strip() for s in t.splitlines() if s.strip()]
 
 
@@ -58,15 +58,14 @@ def main():
                     page.locator('[data-job="'+j['id']+'"]').click();page.wait_for_function('document.getElementById("detail-panel").open')
                 def detail(j,text):return page.locator('#detail-code').inner_text()==j['code'] and page.locator('#detail-name').inner_text()==j['name'] and page.locator('#jd-clauses li').all_text_contents()==clauses(text)
                 check(audience+' 不存在上一页下一页加载更多或分页控件',page.locator('.pagination,#previous-page,#next-page,#page-label,[data-load-more]').count()==0 and state()['resultCount']==9111)
-                if audience=='internal':
-                    check('内部矩阵3077方向及9111岗位一次全部生成',page.locator('#matrix-body>tr').count()==3077 and page.locator('#matrix-body [data-job]').count()==9111)
-                    last=page.locator('#matrix-body [data-job]').last;j=by[last.get_attribute('data-job')];last.click();check('内部矩阵末尾岗位可直接滚动打开完整JD',detail(j,j['jd']));close()
-                    page.locator('#view-list').click()
+                check(audience+' 矩阵3077方向及9111岗位一次全部生成',page.locator('#matrix-body>tr').count()==3077 and page.locator('#matrix-body [data-job]').count()==9111)
+                last=page.locator('#matrix-body [data-job]').last;j=by[last.get_attribute('data-job')];last.click();check(audience+' 矩阵末尾岗位可直接滚动打开完整JD',detail(j,j['jd']));close()
+                page.locator('#view-list').click()
                 check(audience+' 列表单页实际包含全部9111岗无截断',page.locator('#job-list [data-job]').count()==9111 and set(page.locator('#job-list [data-job]').evaluate_all('(es)=>es.map(e=>e.dataset.job)'))==set(by))
                 last=page.locator('#job-list [data-job]').last;j=by[last.get_attribute('data-job')];last.click();check(audience+' 列表末尾岗位可直接滚动打开完整JD',detail(j,j['jd']));close()
                 if audience=='client':
-                    check('客户页面彻底移除对比清单导出复制新增和原码依据',page.locator('#nav-saved,#saved-screen,#compare-screen,#compare-detail,#save-job,#export-saved,#copy-code,#copy-jd,#code-basis,#maintenance-pending,#view-matrix,[data-compare]').count()==0)
-                    check('客户JS仅提供搜索与JD能力且不读取本地清单',page.evaluate('Object.keys(window.BMJDPortalCore).sort()')==sorted(['key','prepare','search','jdFor','clauses']) and page.evaluate('window.__storageReads')==0)
+                    check('客户页面保留矩阵且无内部维护功能',page.locator('#nav-saved,#saved-screen,#compare-screen,#compare-detail,#save-job,#export-saved,#copy-code,#copy-jd,#code-basis,#maintenance-pending,[data-compare]').count()==0 and page.locator('#view-matrix').count()==1)
+                    check('客户JS仅提供搜索矩阵与JD能力且不读取本地清单',page.evaluate('Object.keys(window.BMJDPortalCore).sort()')==sorted(['key','prepare','search','jdFor','clauses','levels','matrixRows']) and page.evaluate('window.__storageReads')==0)
                 else:
                     check('内部保留对比导出清单编码依据并承接旧清单',page.locator('#compare-detail,#export-saved,#code-basis').count()==3 and state()['saved'][0]['id']==data['jobs'][0]['id'])
                     page.evaluate('(d)=>window.__audit=window.BMJDPortalCore.prepare(d)',data)
@@ -94,7 +93,9 @@ def main():
                 if audience=='internal':
                     page.locator('#code-basis').evaluate('(e)=>e.open=true');check('内部原版分类代码依据完整保留',page.locator('#basis-codes').inner_text()=='、'.join(mapping[target['id']]['original_codes']))
                 close();ctx.set_offline(True);query(data['jobs'][0]['code']);open_job(data['jobs'][0]);check(audience+' 断网后仍可查询及查看JD',detail(data['jobs'][0],data['jobs'][0]['jd']));close();ctx.set_offline(False)
-                query('产品');page.screenshot(path=str(args.screenshots/(audience+'-desktop.png')),full_page=True)
+                query('产品')
+                if audience=='client':page.locator('#view-matrix').click()
+                page.screenshot(path=str(args.screenshots/(audience+'-desktop.png')),full_page=True)
                 check(audience+' 桌面无横向溢出',page.evaluate('document.documentElement.scrollWidth<=innerWidth'))
                 ctx.close()
                 mobile=browser.new_context(viewport={'width':390,'height':844});mobile.set_default_timeout(45000);mp=mobile.new_page();mp.on('pageerror',lambda e:errors.append(str(e)));mp.goto(origin+quote(r['file']));mp.wait_for_function('window.BMJDPortal?.ready===true',timeout=120000)
@@ -109,7 +110,7 @@ def main():
     result={'version':build['version'],'all_passed':True,'passed':len(checks),'checks':checks,'metrics':metrics,'errors':errors,'external_requests':external,
       'html_sha256':{a:sha(OUT/r['file']) for a,r in build['profiles'].items()},
       'scope':'Both complete 9111-job DOMs and final-row access; all 11 industry ranges and JDs; internal CSV/compare/saved lists; customer feature/data minimization; desktop/mobile/offline. Local HTTP used because managed Chromium blocks file URLs.'}
-    (OUT/'浏览器核验.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps({'all_passed':True,'passed':len(checks),'metrics':metrics},ensure_ascii=False))
+    (OUT/'浏览器核验.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n','utf-8');print(json.dumps({'all_passed':True,'passed':len(checks),'metrics':metrics},ensure_ascii=False))
 
 
 if __name__=='__main__':main()

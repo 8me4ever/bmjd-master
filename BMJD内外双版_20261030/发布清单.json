@@ -1,5 +1,5 @@
 {
-  "version": "BMJD-AUDIENCE-RELEASE-20261030-01",
+  "version": "BMJD-AUDIENCE-RELEASE-20261030-02",
   "date": "2026-10-30",
   "master_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
   "industry_version": "BMJD-INDUSTRY-SYNC-20261030-01",
@@ -10,15 +10,23 @@
       "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
       "audience": "internal",
       "pagination": false,
-      "industry_codes_migrated": true
+      "industry_codes_migrated": true,
+      "matrix_enabled": true,
+      "list_enabled": true,
+      "default_desktop_view": "matrix",
+      "default_mobile_view": "list"
     },
     "client": {
       "path": "BMJD内外双版_20261030/BMJD客户查询版.html",
-      "version": "BMJD-CLIENT-20261030-01",
-      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
+      "version": "BMJD-CLIENT-20261030-02",
+      "sha256": "c35d4a096c137fc23bf04a11730f2f5d4c0697dcd68d97beea51ff365ef4153d",
       "audience": "client",
       "pagination": false,
-      "industry_codes_migrated": true
+      "industry_codes_migrated": true,
+      "matrix_enabled": true,
+      "list_enabled": true,
+      "default_desktop_view": "matrix",
+      "default_mobile_view": "list"
     }
   },
   "jobs": 9111,
@@ -29,24 +37,24 @@
       "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b"
     },
     "BMJD客户查询版.html": {
-      "bytes": 1603823,
-      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18"
+      "bytes": 1613759,
+      "sha256": "c35d4a096c137fc23bf04a11730f2f5d4c0697dcd68d97beea51ff365ef4153d"
     },
     "使用说明.md": {
-      "bytes": 3164,
-      "sha256": "55152c033f3ff4bb668a966d7e658e111a3862e7ba668604aa8fae94dc6c6906"
+      "bytes": 3901,
+      "sha256": "a2c24d0d5bbc6bc5f6722281a8c93ef97e6d47b085a3432c8dad662c85b0ecc6"
     },
     "核验/构建核验.json": {
-      "bytes": 5780,
-      "sha256": "dd6b579cc6ca5346e846eb434b0d77249c3ff6668d01d8156f1b74355514979e"
+      "bytes": 5863,
+      "sha256": "fbe7ee72b0737bb93ccfbce62a0ca370f712292d8c783d5f424d80a9410fdfb7"
     },
     "核验/浏览器核验.json": {
-      "bytes": 6427,
-      "sha256": "a5a7e7756c584e2577b73a7e0f2ee1032a9dc0b9ceddbed531fb059c1411ab0b"
+      "bytes": 3352,
+      "sha256": "7963dc9c10bd2c528cb0505971814d6c2f879b2dcbb964df77bb995d4a8103a5"
     },
     "当前发布版本.json": {
-      "bytes": 1852,
-      "sha256": "5b7618d8ba7214fac0edb5c377fe7a77c93856d2f16ee70b5fb0261ad0d3fb1c"
+      "bytes": 2313,
+      "sha256": "d5429556e53003467cc5752e75d40aa0111e88bf7f5855f9f34c6d5194624fcb"
     }
   },
   "distribution": "客户转发使用客户版单文件；双版汇总包用于公司内部保存。"

@@ -2,8 +2,8 @@
   "date": "2026-10-30",
   "scope": "all-workspace",
   "purpose": "User requested every workspace file, including archives, local configuration and process files. Release authority remains 当前发布版本.json.",
-  "tracked_file_count": 1213,
-  "total_bytes_excluding_manifest": 1434276845,
+  "tracked_file_count": 1224,
+  "total_bytes_excluding_manifest": 1438519448,
   "exclusions": [
     "Git internal .git directories and metadata"
   ],
@@ -53,6 +53,36 @@
       "bytes": 79931,
       "sha256": "bdb40d4530822aace2328fbe6bfe5a42081f9042811e34551250c35711881fc9",
       "git_blob_sha1": "04f7b64baee5c3408ce05309a7148f3277e06500"
+    },
+    ".impeccable/review/client-matrix/brief.md": {
+      "bytes": 2353,
+      "sha256": "b51dccedfca8ec885dac0ebe0ab742c04efea2c7dc79ac37d67fb914eec0f1a9",
+      "git_blob_sha1": "023d0a8b7c9343acd7fd16ba1d48001403b2b238"
+    },
+    ".impeccable/review/client-matrix/desktop.png": {
+      "bytes": 106908,
+      "sha256": "7116ef4617a95c5aa3a53433db27a8b551e2ceaa73e334f2fa79324d829bba54",
+      "git_blob_sha1": "341df65bceae26cab54f5f6b126b655ff11e70b8"
+    },
+    ".impeccable/review/client-matrix/mobile-detail.png": {
+      "bytes": 36329,
+      "sha256": "967957418d55d2d1381bd435d26dab9d1fc2638bcfb1779a9033a26448370cc5",
+      "git_blob_sha1": "2e1a6be26cd705194231cbb04ba35c40bfca6097"
+    },
+    ".impeccable/review/client-matrix/mobile-list.png": {
+      "bytes": 47179,
+      "sha256": "b2f83dba9579fefac0372f9825dabae92b585bf1bd0a7d3c3c93fc86c293cf79",
+      "git_blob_sha1": "7685315a5f8723527f5768433bf4dec987df2894"
+    },
+    ".impeccable/review/client-matrix/mobile-matrix.png": {
+      "bytes": 46508,
+      "sha256": "414bf4877676a9e326f8990d61caec09ee4444377534b92079a464c76184b211",
+      "git_blob_sha1": "59df992b0b81428dfcf533c4f01b5224261e57b6"
+    },
+    ".impeccable/review/client-matrix/tablet.png": {
+      "bytes": 83885,
+      "sha256": "e2316bf49be19a5fdb5e7f5b043b398ab7c4eeebf05ff390192592a186f76926",
+      "git_blob_sha1": "7bf25b42b0adc1c6e55b896bee41b5de04d1a615"
     },
     ".impeccable/review/customer-brief.md": {
       "bytes": 2032,
@@ -2649,35 +2679,50 @@
       "sha256": "8e351ad20a41c84a5c7386f01d6abbb6b0ab3b48d30e7da62e22f0782934a665",
       "git_blob_sha1": "2dceb589af273f752fbb9f0585ab408e8e54b413"
     },
+    "BMJD内外双版_20261030/BMJD_内部与客户双版本_20261030.zip": {
+      "bytes": 2665251,
+      "sha256": "0265f3690da7463376125a87f1537443a7964a6a453d5cf971c35964a48d8ab5",
+      "git_blob_sha1": "57176ce51abe3944044f5af7b05a8214958f68cb"
+    },
+    "BMJD内外双版_20261030/BMJD_客户查询版_层级横向_20261030.zip": {
+      "bytes": 1211390,
+      "sha256": "3232a9da6f7cf077849e1c0dd8add8ea6ffe05fc9b653b0e3fb675e9bdef0a0b",
+      "git_blob_sha1": "d33fe397668e6a86ec3771c7c4e358f7ab045454"
+    },
     "BMJD内外双版_20261030/BMJD内部使用版.html": {
       "bytes": 1946624,
       "sha256": "5669dca2d48911c456e94d391f4327de594f8ef2b302eaaabbf36d37cd80fa9b",
       "git_blob_sha1": "f4959a3b8597de0028e7af885cfc688f523c1dea"
     },
     "BMJD内外双版_20261030/BMJD客户查询版.html": {
-      "bytes": 1603823,
-      "sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
-      "git_blob_sha1": "dd00e437d6de60b44c930919617d35f195b95b64"
+      "bytes": 1613759,
+      "sha256": "c35d4a096c137fc23bf04a11730f2f5d4c0697dcd68d97beea51ff365ef4153d",
+      "git_blob_sha1": "d1847115bab0b740a7a836498dfe266dbc860dd2"
     },
     "BMJD内外双版_20261030/使用说明.md": {
-      "bytes": 3164,
-      "sha256": "55152c033f3ff4bb668a966d7e658e111a3862e7ba668604aa8fae94dc6c6906",
-      "git_blob_sha1": "3f1aad15de066e9ee50bbe9c54096d748a4e80de"
+      "bytes": 3901,
+      "sha256": "a2c24d0d5bbc6bc5f6722281a8c93ef97e6d47b085a3432c8dad662c85b0ecc6",
+      "git_blob_sha1": "6805c0d8bf217090ae0fe5486e3dd754ab5a1b21"
     },
     "BMJD内外双版_20261030/发布清单.json": {
-      "bytes": 1871,
-      "sha256": "2eaf8df2797a6f0ecafaff085efe76ea55dbb433f6a0517d14847dca0eb0f045",
-      "git_blob_sha1": "627ce8b213a9387b6a320c8645cf3277eb149b9e"
+      "bytes": 2202,
+      "sha256": "9c9b66f1d559ecb5cf10a710270670a707ca7426a50f04c7ba891f54f8d9e847",
+      "git_blob_sha1": "676c90e73e7b1a894328d8184eb5b220fb3ea33c"
+    },
+    "BMJD内外双版_20261030/客户版使用说明.md": {
+      "bytes": 1176,
+      "sha256": "36c0c26b02a04d5c134f83e6eb1f7bd428af8ff3e7a7ea7455ec065918d9faeb",
+      "git_blob_sha1": "232e663de78db9451dfa2ff9ae44cb7906b63956"
     },
     "BMJD内外双版_20261030/构建核验.json": {
-      "bytes": 5780,
-      "sha256": "dd6b579cc6ca5346e846eb434b0d77249c3ff6668d01d8156f1b74355514979e",
-      "git_blob_sha1": "f8995001683d67f0554f1222c37b7cf473929fb2"
+      "bytes": 5863,
+      "sha256": "fbe7ee72b0737bb93ccfbce62a0ca370f712292d8c783d5f424d80a9410fdfb7",
+      "git_blob_sha1": "9443b8b32d870b3fb7abd80d7ea0be5c1b268c80"
     },
     "BMJD内外双版_20261030/浏览器核验.json": {
-      "bytes": 6427,
-      "sha256": "a5a7e7756c584e2577b73a7e0f2ee1032a9dc0b9ceddbed531fb059c1411ab0b",
-      "git_blob_sha1": "72833c91bbee67aeaeaf3c901f304f101bc3a212"
+      "bytes": 3352,
+      "sha256": "7963dc9c10bd2c528cb0505971814d6c2f879b2dcbb964df77bb995d4a8103a5",
+      "git_blob_sha1": "5b5378cb6d7cfe1c356ff1ab8d86435db309c4a5"
     },
     "BMJD客户查岗平台_20261030/BMJD客户查岗平台.html": {
       "bytes": 1698686,
@@ -2815,34 +2860,39 @@
       "git_blob_sha1": "5d70d85c7c96882369c8fe30b3634519fac33ebc"
     },
     "README.md": {
-      "bytes": 15959,
-      "sha256": "647b60373eab30c3f18358c55943a16c1d73418d1d920a3822c2dc5110628c3e",
-      "git_blob_sha1": "f51df1f694ac6a74d1ad56a6bdf94c7bcc45ea26"
+      "bytes": 16904,
+      "sha256": "5fab80306bd8dc39da3f5fa250302e47b705617f8d8b5d83e7e41d59c8e4d59c",
+      "git_blob_sha1": "09b414def81e38b2d1ef3df899b116f3a7c92c52"
+    },
+    "audience_portal/DESIGN.md": {
+      "bytes": 4714,
+      "sha256": "2de1c3ea746000741c43ba6dd38d929acb657f126d7eb0f93f819f3f8133fe46",
+      "git_blob_sha1": "c80bd5691778f725bf6d0950ede66a42b0a8fb5e"
     },
     "audience_portal/client-app.js": {
-      "bytes": 7423,
-      "sha256": "3af90cb92c6664192c0b01a94932b2d715ecd355a30e74ac8a032408e88f159e",
-      "git_blob_sha1": "1d34b018b7920de93df35b843c6e11c8bf60eb6b"
+      "bytes": 10473,
+      "sha256": "974d6015cb570cff9f8a09096ceec9e17a91467464d89294fcfeb3c436cb24a6",
+      "git_blob_sha1": "891af605dfb8b2b67ad3a1f252a7724f260f9d47"
     },
     "audience_portal/client-core.js": {
-      "bytes": 2035,
-      "sha256": "436f57709f3772ff4876543b930b066965e87050da2ef83b08626ccd8c4ae10a",
-      "git_blob_sha1": "381735706bb153fd1e567ee653e32615c0e029de"
+      "bytes": 3848,
+      "sha256": "61953da3b7b44e7dec7b80bca13086930c6a4ac4fa7f86fb3bf4473105243106",
+      "git_blob_sha1": "a6bb7b1a8b99b75a024bb5421fcf8ac9621f9043"
     },
     "audience_portal/client-styles.css": {
-      "bytes": 7377,
-      "sha256": "f6c2d24a4478bbb55ca7c89e2ed39a0e7d1be6bc91cec8fd4f163d5a4ce75cc3",
-      "git_blob_sha1": "b3dab453d270234b1c9b0cd2ff4f6257c9521d9a"
+      "bytes": 11233,
+      "sha256": "1f0d4e82c514fa42ba981acabfd36238281ee81a040dc9193438b0fa0acd80ff",
+      "git_blob_sha1": "35d5590db30ec371e0046172c97d597cf95e958c"
     },
     "audience_portal/client-template.html": {
-      "bytes": 5136,
-      "sha256": "756ae15ec715fa3dc3d2f4a499fc217f883a43090a776cfba0590cb1ed27c51b",
-      "git_blob_sha1": "dd44477d575b914a5cd0165bf0d51c4fc719372f"
+      "bytes": 6349,
+      "sha256": "a269f1b2453d61b8c8a5ec7461818bc823848e7e159ebe5f1bf64a9c7ee9ec94",
+      "git_blob_sha1": "b71fe4dd355910fb90543c3c682161bbd8dbfd1a"
     },
     "audience_portal/core.test.cjs": {
-      "bytes": 2706,
-      "sha256": "cfc66d893b78a4a174ebbf474452a890152d9803425da255fd6be55328a8f662",
-      "git_blob_sha1": "792184c8cc24385c229e6cfe587363167a4239e0"
+      "bytes": 3759,
+      "sha256": "5eb24bbd26a4960f5c4969cde4a461db8bfa7c6a93190a04b11896ea75467e38",
+      "git_blob_sha1": "c51ba199add5ef41ce202c7c8a97b73e4a9f4a33"
     },
     "audience_portal/internal-app.js": {
       "bytes": 22335,
@@ -3010,9 +3060,9 @@
       "git_blob_sha1": "a80bdf7a9d0c33e937ebd6d957fc3af76d45ba8e"
     },
     "tools/build_audience_portals.py": {
-      "bytes": 7265,
-      "sha256": "d4dac8369248d81fad32e7eda0ee5078434b83eb9e0ec93b63c03852cc6e551c",
-      "git_blob_sha1": "3cf80a1e7189199c50c83bdd6060c06d6040f5c2"
+      "bytes": 7532,
+      "sha256": "504010f943b658349d51791e1d7d469004fccf919916de7485ff23c51c5d26e8",
+      "git_blob_sha1": "51d73caecc5b7ea09625f28c341df9087dfe5d18"
     },
     "tools/build_completion_tool.py": {
       "bytes": 5696,
@@ -3045,9 +3095,14 @@
       "git_blob_sha1": "c3574ca3baba53157d57d48dc7dd4fb97302651f"
     },
     "tools/check_audience_portals.py": {
-      "bytes": 13026,
-      "sha256": "a9bd400c0e80ef3a41816213e8ca7445372acdf42db2ba10177ad8da40e2d7da",
-      "git_blob_sha1": "8b67363e80cadef0d857fae816021a9b011d46c9"
+      "bytes": 13125,
+      "sha256": "f02075ccf3b84f519ef7b720b9e47eefa6b89ba98e983d8cecd143fbaa0460b5",
+      "git_blob_sha1": "505a6b7d45c29d708bf399c1874e9920b3125874"
+    },
+    "tools/check_client_matrix.cjs": {
+      "bytes": 13872,
+      "sha256": "76f601ff67a65e8fa52f72cbf039d40be3e1e073c440b4ff2001431b57e69008",
+      "git_blob_sha1": "a6f9c4329e23158f722ab1e802c14cde07fc0de4"
     },
     "tools/check_completion_browser.py": {
       "bytes": 11941,
@@ -3115,9 +3170,9 @@
       "git_blob_sha1": "54b92e07155bbe16c8ceb1d74c873298a61ac29e"
     },
     "tools/package_audience_portals.py": {
-      "bytes": 3105,
-      "sha256": "caef1a4fe25d592a33895ba061329b60c80dec00a5256a0faa65ac85e975125c",
-      "git_blob_sha1": "e50bc757aefe8a4df745a0382a3135eec4caab1e"
+      "bytes": 3558,
+      "sha256": "e2c1b1d27f30265cef5492a198413ee94a21735f08b945206b1d05ff1daca475",
+      "git_blob_sha1": "7856c78427dedb73b97a862754bec411d7d188d5"
     },
     "tools/package_semantic_review.py": {
       "bytes": 3016,
@@ -5427,9 +5482,9 @@
       "git_blob_sha1": "cd61f9dd7497ffe0624a0f71a04ab93d20925287"
     },
     "当前发布版本.json": {
-      "bytes": 1852,
-      "sha256": "5b7618d8ba7214fac0edb5c377fe7a77c93856d2f16ee70b5fb0261ad0d3fb1c",
-      "git_blob_sha1": "7b4294194379bd89dd316a33f1e8c511b297761b"
+      "bytes": 2313,
+      "sha256": "d5429556e53003467cc5752e75d40aa0111e88bf7f5855f9f34c6d5194624fcb",
+      "git_blob_sha1": "4daab866c42b563ce4b0e453a94dada5f05d1974"
     },
     "统一收口_20261029/岗位职责原文.json": {
       "bytes": 6870198,
@@ -6052,9 +6107,9 @@
       "git_blob_sha1": "ef54b70bc86d18c6c75ba25f3e014ef74f739800"
     },
     "项目交接文档_20261029.md": {
-      "bytes": 18324,
-      "sha256": "e394dbb8a50a5c7fcfc773ce908b3adebb198f8194bdbbe541e69544d806cc5d",
-      "git_blob_sha1": "2583f92943ce90b874df8c5acabb52373f6fe477"
+      "bytes": 19034,
+      "sha256": "fe9aac8268be638b3904a15ed74f7a8c81bddab1de5dfdbd504f1b62bb8a9bac",
+      "git_blob_sha1": "ce931d9908185e6fee12a73d3b344801f672f592"
     },
     "项目总结_20261030.docx": {
       "bytes": 44192,
@@ -6062,9 +6117,9 @@
       "git_blob_sha1": "b2b99bafd5e90fee1ee13b1fe9113c386b608c4d"
     },
     "项目总结_20261030.md": {
-      "bytes": 20267,
-      "sha256": "f1955bf681826c9f8761ab2bf099ac9a0ff159b78e4adbd7d26fb8cea76109a5",
-      "git_blob_sha1": "562d06b014c25a0781e28607bbf12b6077cdc52d"
+      "bytes": 21373,
+      "sha256": "d0f08a70b4ec485709f373019fea2e622c2bff57e28900e5454ca5959dae0c42",
+      "git_blob_sha1": "1a76e57da8a7f5443a3c58a4a0d05c130c3b71e0"
     },
     "项目目标与验收标准.md": {
       "bytes": 7827,

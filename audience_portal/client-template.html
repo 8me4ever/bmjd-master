@@ -11,7 +11,7 @@
 <a class="skip" href="#query">跳到岗位搜索</a>
 <header class="topbar"><a class="brand" href="#" id="brand-home"><span class="brand-mark">B</span><strong>BMJD</strong><span class="brand-caption">岗位查询</span></a><span class="coverage" id="coverage">正在载入岗位…</span></header>
 <main>
-  <section class="page-heading"><h1>查找标准岗位，查看完整职责。</h1><p>输入岗位名称或代码，也可按行业和职能筛选。</p></section>
+  <section class="page-heading"><h1>横向对照岗位层级，查看完整职责。</h1><p>先选行业与职能，再沿同一方向查找岗位；也可直接搜索名称或代码。</p></section>
   <div id="loading" class="load-state" role="status">正在打开岗位字典，请稍候。</div>
   <div id="load-error" class="error-state" role="alert" hidden><h2>岗位数据未能载入</h2><p id="error-message"></p><button class="button" id="retry-load">重新载入</button></div>
   <div id="workspace" hidden>
@@ -24,12 +24,17 @@
         <label for="direction-filter">专业方向</label><select id="direction-filter" disabled><option value="">先选择职能分类</option></select>
         <div class="dictionary-heading"><h2>职能分类</h2><span id="function-total"></span></div><label class="sr-only" for="function-query">查找职能分类</label><input id="function-query" type="search" placeholder="查找职能或专业" autocomplete="off"><div id="function-list" class="function-list"></div>
       </aside>
-      <section class="results" aria-labelledby="results-title"><div class="results-heading"><h2 id="results-title">岗位列表</h2><p id="result-count" role="status" aria-live="polite"></p></div><div id="job-list" class="job-list"></div><div id="empty-results" class="empty-state" hidden><h3>没有找到匹配岗位</h3><p>试试其他关键词，或减少筛选条件。</p><button id="clear-empty" class="button">清除筛选条件</button></div><p class="result-end">全部结果在本页显示，可滚动查看。</p></section>
+      <section class="results" aria-labelledby="results-title">
+        <div class="results-heading"><div><h2 id="results-title">岗位层级对照</h2><p id="result-count" role="status" aria-live="polite"></p></div><div class="view-switch" role="group" aria-label="浏览方式"><button id="view-matrix" aria-pressed="true">层级对照</button><button id="view-list" aria-pressed="false">岗位列表</button></div></div>
+        <div class="matrix-intro" id="matrix-intro"><div><span id="matrix-note">一行一个职责系列，横向查看1—7级；点击岗位名称查看JD。</span><span class="matrix-swipe-hint">可左右滑动查看其他层级，左侧职责方向保持固定。</span></div><details><summary>层级说明</summary><p>1—7是岗位代码末位的层级序号，不是岗位价值评估分数。表头沿用原BMJD七层名称及参考职级区间，区间可能重叠，请结合实际职责判断。横线表示该系列未设该层岗位。</p></details></div>
+        <div class="matrix-scroll" id="matrix-scroll" tabindex="0" aria-label="岗位层级对照表，可横向和纵向滚动"><table class="career-matrix"><caption class="sr-only">每行一个实际职责系列，七列依次对应1至7级，横线表示未设岗。</caption><thead id="matrix-head"></thead><tbody id="matrix-body"></tbody></table></div>
+        <div id="job-list" class="job-list" hidden></div><div id="empty-results" class="empty-state" hidden><h3>没有找到匹配岗位</h3><p>试试其他关键词，或减少筛选条件。</p><button id="clear-empty" class="button">清除筛选条件</button></div><p class="result-end">全部结果在本页显示，可滚动查看。</p>
+      </section>
     </div>
   </div>
   <footer>BMJD · 岗位查询</footer>
 </main>
-<dialog id="detail-panel" class="detail" aria-labelledby="detail-name"><div class="drawer-heading"><button id="detail-back" class="text-button">‹ 返回岗位列表</button><button id="close-detail" class="close-detail" aria-label="关闭岗位详情">×</button></div><span class="code" id="detail-code"></span><h2 id="detail-name" tabindex="-1"></h2><p class="detail-meta" id="detail-meta"></p><div class="detail-facts"><div><span>职责方向</span><strong id="detail-series"></strong></div><div><span>岗位层级</span><strong id="detail-level"></strong></div></div><div id="detail-industries" class="industry-tags"></div><div class="jd-heading"><h3>岗位职责</h3><label class="sr-only" for="jd-scope">选择职责版本</label><select id="jd-scope"></select></div><p id="scope-note" class="scope-note"></p><p id="jd-notice" class="jd-notice" hidden></p><ol id="jd-clauses" class="jd-clauses"></ol></dialog>
+<dialog id="detail-panel" class="detail" aria-labelledby="detail-name"><div class="drawer-heading"><button id="detail-back" class="text-button">‹ 返回岗位查询</button><button id="close-detail" class="close-detail" aria-label="关闭岗位详情">×</button></div><span class="code" id="detail-code"></span><h2 id="detail-name" tabindex="-1"></h2><p class="detail-meta" id="detail-meta"></p><div class="detail-facts"><div><span>职责方向</span><strong id="detail-series"></strong></div><div><span>岗位层级</span><strong id="detail-level"></strong></div></div><div id="detail-industries" class="industry-tags"></div><div class="jd-heading"><h3>岗位职责</h3><label class="sr-only" for="jd-scope">选择职责版本</label><select id="jd-scope"></select></div><p id="scope-note" class="scope-note"></p><p id="jd-notice" class="jd-notice" hidden></p><ol id="jd-clauses" class="jd-clauses"></ol></dialog>
 <noscript><p>请启用JavaScript后打开岗位字典。</p></noscript>
 <script id="portal-payload" type="application/octet-stream">__PAYLOAD__</script>
 <script>/*__CORE__*/</script><script>/*__APP__*/</script>

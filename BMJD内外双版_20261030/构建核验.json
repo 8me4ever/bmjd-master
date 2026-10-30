@@ -1,5 +1,5 @@
 {
-  "version": "BMJD-AUDIENCE-RELEASE-20261030-01",
+  "version": "BMJD-AUDIENCE-RELEASE-20261030-02",
   "master_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
   "industry_version": "BMJD-INDUSTRY-SYNC-20261030-01",
   "all_passed": true,
@@ -42,7 +42,7 @@
     },
     "client": {
       "file": "BMJD客户查询版.html",
-      "version": "BMJD-CLIENT-20261030-01",
+      "version": "BMJD-CLIENT-20261030-02",
       "all_passed": true,
       "checks": {
         "全部9111岗位名码层级JD及行业版本一致": true,
@@ -51,12 +51,13 @@
         "行业专业JD843条保持": true,
         "单文件没有外部资源依赖": true,
         "客户岗位数据无内部原码及审查依据": true,
-        "客户无对比清单导出复制新增及存储逻辑": true
+        "客户无对比清单导出复制新增及存储逻辑": true,
+        "客户保留七层横向矩阵及列表切换": true
       },
       "jobs": 9111,
       "pagination": false,
-      "html_sha256": "91d6a6ba037dd80a1abb6b2c52f087ae004fa5f9dc61d8bcdb979c16f18ede18",
-      "payload_sha256": "8bd1abe01b77e4c4e71c79d5090e356ff72e3ce93f8aa2c427d4df8f9dcaad65",
+      "html_sha256": "c35d4a096c137fc23bf04a11730f2f5d4c0697dcd68d97beea51ff365ef4153d",
+      "payload_sha256": "26a7af0fd5517f4f3dff3926b31583feb76ffc934f78be0b0e856d4815ec9755",
       "payload_fields": [
         "audience",
         "directions",
@@ -94,11 +95,11 @@
     "audience_portal/internal-styles.css": "166fdd77cfdc090c51c5f48c6e870275237b05c6f925fa954fcbd2add81de32c",
     "audience_portal/internal-core.js": "cfa152905f402e94aa15b47c0b5caf440eb5af8da6633a66e77b0b0275e6fd7d",
     "audience_portal/internal-app.js": "95e963b4977bd79b24f96b138c0be83c0854867842311846a08aed23375dba2a",
-    "audience_portal/client-template.html": "756ae15ec715fa3dc3d2f4a499fc217f883a43090a776cfba0590cb1ed27c51b",
-    "audience_portal/client-styles.css": "f6c2d24a4478bbb55ca7c89e2ed39a0e7d1be6bc91cec8fd4f163d5a4ce75cc3",
-    "audience_portal/client-core.js": "436f57709f3772ff4876543b930b066965e87050da2ef83b08626ccd8c4ae10a",
-    "audience_portal/client-app.js": "3af90cb92c6664192c0b01a94932b2d715ecd355a30e74ac8a032408e88f159e",
-    "tools/build_audience_portals.py": "d4dac8369248d81fad32e7eda0ee5078434b83eb9e0ec93b63c03852cc6e551c"
+    "audience_portal/client-template.html": "a269f1b2453d61b8c8a5ec7461818bc823848e7e159ebe5f1bf64a9c7ee9ec94",
+    "audience_portal/client-styles.css": "1f0d4e82c514fa42ba981acabfd36238281ee81a040dc9193438b0fa0acd80ff",
+    "audience_portal/client-core.js": "61953da3b7b44e7dec7b80bca13086930c6a4ac4fa7f86fb3bf4473105243106",
+    "audience_portal/client-app.js": "974d6015cb570cff9f8a09096ceec9e17a91467464d89294fcfeb3c436cb24a6",
+    "tools/build_audience_portals.py": "504010f943b658349d51791e1d7d469004fccf919916de7485ff23c51c5d26e8"
   },
-  "scope": "仅新增内部/客户两个单页HTML，确认主库及11子库不改。客户只含查找及JD查看所需功能和数据。"
+  "scope": "客户恢复与内部一致的七层横向矩阵，仍只含查找、筛选及JD查看；内部HTML原样保留，确认主库及11子库不改。"
 }
