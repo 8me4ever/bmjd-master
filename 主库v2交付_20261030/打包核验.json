@@ -1,0 +1,46 @@
+{
+  "version": "BMJD-MASTER-V2-LEVELS-20261030-01",
+  "all_passed": true,
+  "checks": {
+    "全部独立核验文件指纹一致": true,
+    "v1备份及正式下游保持": true,
+    "ZIP逐文件解压SHA256一致": true
+  },
+  "packages": {
+    "BMJD主库v2_层级补全_含审查_20261030.zip": {
+      "bytes": 9038562,
+      "sha256": "e2cc30e1637749fae46f2a7cb09c877f513cf99569eba5d75652e4aa8e269c88",
+      "files": {
+        "主库v2_层级补全_20261030/BMJD主库v2_层级补全.xlsx": "b16042db63a590c3ba25ba77bf3a7a1e81b2fdc3c8a65b8b31a5e7489152ab8d",
+        "主库v2_层级补全_20261030/主库v2.json": "d36fbbb24396c0b59d02f5c5c038e9cf4b8680acc14f1ce7784efabbe7ef47ed",
+        "主库v2_层级补全_20261030/主库v2岗位名称代码及JD.tsv": "521e3b7dc3e5d76f7ae4093ae91801aae8f5aa2a8b201ac85cbc81eb99b66745",
+        "主库v2_层级补全_20261030/仅新增岗位名称代码及JD.tsv": "5c99bd3fcf660d22ffbf0fa92dd24527fad95caf21199fea2e065f5e04dce7c2",
+        "主库v2_层级补全_20261030/新增岗位候选.json": "2a5d1d901e82dc56e4fae184508ced50f4ed9d5f37d5c40361f06b9c558989bf",
+        "主库v2_层级补全_20261030/核验报告.json": "6f9696ec860889ae14f91dfbafb7b6d846abc9bc0ee6af96622dfde49743caaf",
+        "主库v2_层级补全_20261030/独立核验报告.json": "4b8e994d5c28c59b2fa11a4e20278c0daeeac0986955ef286fb51f43ae12f4f9",
+        "主库v2_层级补全_20261030/职责系列层级审查.json": "8e7beb0410442da5231f766ce2bcb18109215534f2828cc3aa7f6056aed7ae7e",
+        "主库v2_层级补全_20261030/补全结果与使用说明.md": "34df53811ec6f5a1e0af185a0c3a7f3b6022f32c16ea48641e81ad726950f4bb",
+        "主库v2_层级补全_20261030/补全规则.json": "ed1df6c539a1e35f7ba61bcb7112ba881a22fdb8631bc7d3f8a150931f4c9b0a",
+        "主库v2_层级补全_20261030/逐层级补全审查.json": "7475841c8685051f0dd9bc10f03a566a723ec5359c09e1b60a70fe51f546a230",
+        "主库v2工作版本.json": "1df40829ed3696c1c9e11c88729a499cf482b25e1fa0adf140dc42c8408eff79"
+      }
+    },
+    "BMJD_v1主库原样备份_20261030.zip": {
+      "bytes": 8178202,
+      "sha256": "e97c43c9cd77aa09530b5633f01b1223ebb05845d1959ccaaa1d71aa7ab065f5",
+      "files": {
+        "主库备份_20261030_v1/v1发布版本快照.json": "d5429556e53003467cc5752e75d40aa0111e88bf7f5855f9f34c6d5194624fcb",
+        "主库备份_20261030_v1/主库.json": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+        "主库备份_20261030_v1/原版分类岗位代码及JD.xlsx": "24c393246d345b308650c216e12c3d166b36157c11a884be01ae7961cbe6a98a",
+        "主库备份_20261030_v1/备份清单.json": "f80a51237d54e7318be66059fd2c3d25352a7433af7b786e745a0123fa2cc0ce",
+        "主库备份_20261030_v1/复核结论与使用说明.md": "a1c4eb9f6ef8ba7ae8464ba114f38dee68a176a048461fe29d52b4ee9b5d6eaf",
+        "主库备份_20261030_v1/岗位名称代码及JD.tsv": "371b8ea04e685605175b15a05702ee63afdab62bfa13ed6d0a9227c9c41f50e0",
+        "主库备份_20261030_v1/收口核验报告.json": "6d2ad633cf138d633e90a64c50290193fdd5d988543b8cd90db477dcf83c1a9d",
+        "主库备份_20261030_v1/独立核验报告.json": "8f929f7457fbcc70ba7792d76f05c0d5930c081ffd65e32013f7d402fa3359a0",
+        "主库备份_20261030_v1/系列原分类与前缀依据.json": "8b1a66f3d2259dd5d281c9c0ca16eb82fe4d3ccf74e7db402e6478103a8aa31b",
+        "主库备份_20261030_v1/跨版本同码身份变化.json": "392b162d8dba1d183c476b889b839f00f6018f9a5e90fcfa1ff0efb959f7e8cd",
+        "主库备份_20261030_v1/逐岗原版代码对照.json": "0e9242ab20b08f48dbabdbca421353e8961ce601d8028884eaefeb54fa6c6eb2"
+      }
+    }
+  }
+}

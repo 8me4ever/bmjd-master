@@ -1,0 +1,62 @@
+{
+  "version": "BMJD-MASTER-V2-LEVELS-20261030-01",
+  "status": "STRUCTURE_VERIFIED_ADDITIVE_WORKING_MASTER",
+  "parent_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+  "all_passed": true,
+  "summary": {
+    "jobs": 11723,
+    "existing_jobs_retained": 9111,
+    "added_jobs": 2612,
+    "functions": 263,
+    "function_groups": 95,
+    "professional_directions": 270,
+    "series": 3077,
+    "target_levels": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "target_slots": 12308,
+    "filled_target_slots_before": 8204,
+    "filled_target_slots_after": 10816,
+    "gap_slots_before": 4104,
+    "gap_slots_after": 1492,
+    "complete_series_before": 935,
+    "complete_series_after": 2233,
+    "added_by_level": {
+      "3": 966,
+      "4": 485,
+      "5": 315,
+      "6": 846
+    },
+    "gap_decisions": {
+      "新增推定岗位": 2612,
+      "同名或别名已有同级岗位-跨系列核对": 847,
+      "名称或别名已占用其他层级-暂不新增": 73,
+      "保留专业边界": 572
+    },
+    "new_clause_counts": {
+      "4": 1083,
+      "5": 1529
+    },
+    "existing_names_changed": 0,
+    "existing_codes_changed": 0,
+    "existing_jds_changed": 0,
+    "new_series_or_letter_blocks": 0,
+    "identity_inferences": 6101,
+    "paused_original_sources_retained": 23,
+    "html_updated": false,
+    "subcatalogs_updated": false
+  },
+  "comparison_scope": "逐个审查原3077个职责系列、4104个3—6级空位；原9111岗全部字段逐值保留，新岗按本系列格式推定并单列依据。",
+  "input_sha256": {
+    "原版分类编码收口_20261030/主库.json": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+    "主库v2_层级补全_20261030/补全规则.json": "ed1df6c539a1e35f7ba61bcb7112ba881a22fdb8631bc7d3f8a150931f4c9b0a",
+    "岗位JD匹配审查_20261029/JD审查与编写规则.json": "32e61e4ed6c259f92f34ffab4d1e1430ad08a9a4152a9b5b813ff8259b540842",
+    "主库备份_20261030_v1/备份清单.json": "f80a51237d54e7318be66059fd2c3d25352a7433af7b786e745a0123fa2cc0ce",
+    "主库职能序列整合_20261030/JD边界问题.json": "2b65bdeeeeef159307ec0e43e4619a1ce0cbb73df35942535da25eae1726b73d",
+    "tools/complete_master_v2.py": "c85a2d61abd2bdee68cd0c72fd9725d11f249b79dac37e6da5b3e04e3733b744"
+  },
+  "limits": "同名/别名占用仅提示跨系列覆盖或层级冲突，不能当作专业身份已裁定；专业边界保留空位，不机械补齐。新增岗没有原表逐字岗位证据，全部标记待复核。"
+}

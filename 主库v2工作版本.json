@@ -1,0 +1,64 @@
+{
+  "version": "BMJD-MASTER-V2-LEVELS-20261030-01",
+  "status": "ADDITIVE_WORKING_MASTER_PENDING_USER_REVIEW",
+  "master": {
+    "path": "主库v2_层级补全_20261030/主库v2.json",
+    "sha256": "d36fbbb24396c0b59d02f5c5c038e9cf4b8680acc14f1ce7784efabbe7ef47ed"
+  },
+  "excel": {
+    "path": "主库v2_层级补全_20261030/BMJD主库v2_层级补全.xlsx",
+    "sha256": "b16042db63a590c3ba25ba77bf3a7a1e81b2fdc3c8a65b8b31a5e7489152ab8d"
+  },
+  "audit": {
+    "path": "主库v2_层级补全_20261030/独立核验报告.json",
+    "sha256": "4b8e994d5c28c59b2fa11a4e20278c0daeeac0986955ef286fb51f43ae12f4f9"
+  },
+  "v1_backup": "主库备份_20261030_v1",
+  "summary": {
+    "jobs": 11723,
+    "existing_jobs_retained": 9111,
+    "added_jobs": 2612,
+    "functions": 263,
+    "function_groups": 95,
+    "professional_directions": 270,
+    "series": 3077,
+    "target_levels": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "target_slots": 12308,
+    "filled_target_slots_before": 8204,
+    "filled_target_slots_after": 10816,
+    "gap_slots_before": 4104,
+    "gap_slots_after": 1492,
+    "complete_series_before": 935,
+    "complete_series_after": 2233,
+    "added_by_level": {
+      "3": 966,
+      "4": 485,
+      "5": 315,
+      "6": 846
+    },
+    "gap_decisions": {
+      "新增推定岗位": 2612,
+      "同名或别名已有同级岗位-跨系列核对": 847,
+      "名称或别名已占用其他层级-暂不新增": 73,
+      "保留专业边界": 572
+    },
+    "new_clause_counts": {
+      "4": 1083,
+      "5": 1529
+    },
+    "existing_names_changed": 0,
+    "existing_codes_changed": 0,
+    "existing_jds_changed": 0,
+    "new_series_or_letter_blocks": 0,
+    "identity_inferences": 6101,
+    "paused_original_sources_retained": 23,
+    "html_updated": false,
+    "subcatalogs_updated": false
+  },
+  "release_policy": "仅新增工作版；当前发布版本.json及11行业子库、内外HTML继续指向已确认v1。全部新增岗位单列待复核。"
+}

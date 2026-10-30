@@ -1,0 +1,59 @@
+{
+  "backup_version": "BMJD-V1-BACKUP-20261030-01",
+  "date": "2026-10-30",
+  "source_version": "BMJD-ORIGINAL-CLASS-CODE-20261030-01",
+  "master_sha256": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d",
+  "files": {
+    "主库.json": {
+      "source": "原版分类编码收口_20261030/主库.json",
+      "bytes": 35961054,
+      "sha256": "0479043ca8a8f3d0cc53e414b9bd87a20476ff383f1278037c95e3b19bc7900d"
+    },
+    "原版分类岗位代码及JD.xlsx": {
+      "source": "原版分类编码收口_20261030/原版分类岗位代码及JD.xlsx",
+      "bytes": 3651256,
+      "sha256": "24c393246d345b308650c216e12c3d166b36157c11a884be01ae7961cbe6a98a"
+    },
+    "复核结论与使用说明.md": {
+      "source": "原版分类编码收口_20261030/复核结论与使用说明.md",
+      "bytes": 8238,
+      "sha256": "a1c4eb9f6ef8ba7ae8464ba114f38dee68a176a048461fe29d52b4ee9b5d6eaf"
+    },
+    "岗位名称代码及JD.tsv": {
+      "source": "原版分类编码收口_20261030/岗位名称代码及JD.tsv",
+      "bytes": 6032648,
+      "sha256": "371b8ea04e685605175b15a05702ee63afdab62bfa13ed6d0a9227c9c41f50e0"
+    },
+    "收口核验报告.json": {
+      "source": "原版分类编码收口_20261030/收口核验报告.json",
+      "bytes": 6678,
+      "sha256": "6d2ad633cf138d633e90a64c50290193fdd5d988543b8cd90db477dcf83c1a9d"
+    },
+    "独立核验报告.json": {
+      "source": "原版分类编码收口_20261030/独立核验报告.json",
+      "bytes": 27338,
+      "sha256": "8f929f7457fbcc70ba7792d76f05c0d5930c081ffd65e32013f7d402fa3359a0"
+    },
+    "系列原分类与前缀依据.json": {
+      "source": "原版分类编码收口_20261030/系列原分类与前缀依据.json",
+      "bytes": 2762053,
+      "sha256": "8b1a66f3d2259dd5d281c9c0ca16eb82fe4d3ccf74e7db402e6478103a8aa31b"
+    },
+    "跨版本同码身份变化.json": {
+      "source": "原版分类编码收口_20261030/跨版本同码身份变化.json",
+      "bytes": 386521,
+      "sha256": "392b162d8dba1d183c476b889b839f00f6018f9a5e90fcfa1ff0efb959f7e8cd"
+    },
+    "逐岗原版代码对照.json": {
+      "source": "原版分类编码收口_20261030/逐岗原版代码对照.json",
+      "bytes": 7877753,
+      "sha256": "0e9242ab20b08f48dbabdbca421353e8961ce601d8028884eaefeb54fa6c6eb2"
+    },
+    "v1发布版本快照.json": {
+      "source": "当前发布版本.json",
+      "bytes": 2313,
+      "sha256": "d5429556e53003467cc5752e75d40aa0111e88bf7f5855f9f34c6d5194624fcb"
+    }
+  },
+  "scope": "当前已确认主库全部文件及发布指针按字节备份；新v2另建目录，不覆盖v1。"
+}
