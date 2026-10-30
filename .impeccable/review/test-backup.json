@@ -1,0 +1,16 @@
+{
+  "format": "BMJD_REVIEW_V1",
+  "dataVersion": "BMJD-20261028-dictionary-v1",
+  "exportedAt": "2026-10-28T05:54:18.517Z",
+  "records": [
+    {
+      "key": "JOB:DP203",
+      "title": "高级总图设计师",
+      "status": "需补充资料",
+      "proposedCode": "",
+      "note": "【功能验证临时记录】总图设计来源追溯及本机保存测试。",
+      "updatedAt": "2026-10-28T05:53:27.757Z",
+      "dataVersion": "BMJD-20261028-dictionary-v1"
+    }
+  ]
+}

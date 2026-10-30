@@ -1,0 +1,19 @@
+{
+  "repository": "https://github.com/8me4ever/bmjd-master",
+  "visibility": "public",
+  "branch": "main",
+  "commit": "c9583f5be118364e4eefbc440df0da2cdb736740",
+  "remote_commit": "c9583f5be118364e4eefbc440df0da2cdb736740",
+  "files": 61,
+  "all_file_git_hashes_match": true,
+  "commit_matches": true,
+  "tree_matches": true,
+  "truncated": false,
+  "history_or_cache_uploaded": false,
+  "missing": [],
+  "extra": [],
+  "worktree_clean": true,
+  "remote_tree_sha": "1726c8af7082019c9bf4f883cd721748f4045e60",
+  "git_data_commit_matches": true,
+  "verification_note": "逐文件比对61个远端blob；根tree使用Git commit元数据确认，不使用按分支读取tree接口回显的输入SHA。"
+}

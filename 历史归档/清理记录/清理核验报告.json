@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "root_entries_before": 208,
+  "real_files_before": 1029,
+  "archived_files": 701,
+  "relocated_evidence_files": 31,
+  "unchanged_retained_files": 297,
+  "reparse_links_removed": 2,
+  "archive_path": "历史归档/过期版本与过程资料_20261029.zip",
+  "archive_bytes": 156613762,
+  "archive_sha256": "8a1bbfcd366ee0c1c73693958c2e41b6ebbe3255ad57c07584ece76d911a7933",
+  "critical_files_unchanged": true,
+  "root_entries_after": 11,
+  "all_checks_passed": true,
+  "checks": {
+    "归档CRC及逐文件SHA256删除前已验证": true,
+    "归档删除后SHA256未改变": true,
+    "当前主库原文池及朋友交接包指纹未变": true,
+    "全部保留文件及搬迁文件内容未变": true,
+    "归档文件原位置已移出日常目录": true,
+    "原版及修改版6各11份Excel": true,
+    "原文池原相对路径保持可用": true,
+    "两个目录链接已移除且目标共享库仍在": true,
+    "原始265份资料均可定位且原SHA一致": true,
+    "全部当前文档本地链接有效": true,
+    "无意外遗留的过期目录": true
+  },
+  "missing_links": [],
+  "retained_nonempty_directories": [
+    "全库统一完成_20261029/职能分册",
+    "全库统一完成_20261029",
+    "双线协作交接_20261029",
+    "统一收口_20261029"
+  ],
+  "unexpected_remaining_directories": []
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-30T02:41:22.6582731Z",
+  "title": "Design System: BMJD 客户查岗平台",
+  "extensions": {
+    "shadows": [
+      {
+        "name": "search",
+        "value": "0 3px 9px #243a6505",
+        "purpose": "搜索栏轻阴影。"
+      },
+      {
+        "name": "fixed-direction",
+        "value": "3px 0 5px #25416505",
+        "purpose": "矩阵固定职责方向列边缘。"
+      },
+      {
+        "name": "detail-drawer",
+        "value": "-12px 0 38px #1d35582e",
+        "purpose": "原生详情抽屉，遮罩为 #172f501c。"
+      },
+      {
+        "name": "toast",
+        "value": "0 9px 26px #233a6028",
+        "purpose": "短暂操作反馈。"
+      },
+      {
+        "name": "selected-job",
+        "value": "inset 0 0 0 2px var(--blue)",
+        "purpose": "矩阵当前岗位内描边。"
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-color",
+        "value": "background-color .16s ease,color .16s ease,border-color .16s ease",
+        "purpose": "导航、岗位选择、职能按钮和标准按钮。"
+      },
+      {
+        "name": "loading",
+        "value": "loading 1.3s ease-in-out infinite alternate",
+        "purpose": "数据载入进度条。"
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation:none!important;transition:none!important;scroll-behavior:auto!important",
+        "purpose": "prefers-reduced-motion:reduce 时关闭动画和过渡。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "value": "min-width:1600px",
+        "name": "wide"
+      },
+      {
+        "value": "max-width:1150px",
+        "name": "compact-desktop"
+      },
+      {
+        "value": "max-width:960px",
+        "name": "compact-catalog"
+      },
+      {
+        "value": "max-width:640px",
+        "name": "mobile"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "主要按钮",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "加入清单、导出和开始对比等主要操作。",
+      "html": "<button class=\"ds-button ds-primary\">加入我的清单</button>",
+      "css": ".ds-button{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:7px;border:1px solid transparent;border-radius:6px;padding:10px 13px;min-height:41px;font-size:13px;font-weight:550;line-height:1.5;cursor:pointer;transition:background-color .16s ease,color .16s ease,border-color .16s ease}.ds-button:disabled{cursor:not-allowed;opacity:.45}.ds-button:focus-visible{outline:3px solid var(--focus,#1c3fbf);outline-offset:3px}.ds-primary{background:var(--blue,#3555d6);color:white;border-color:var(--blue,#3555d6)}.ds-primary:hover{background:#2847c0}"
+    },
+    {
+      "name": "次要按钮",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "复制和查看等常规操作。",
+      "html": "<button class=\"ds-button ds-secondary\">复制岗位与JD</button>",
+      "css": ".ds-button{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:7px;border:1px solid transparent;border-radius:6px;padding:10px 13px;min-height:41px;font-size:13px;font-weight:550;line-height:1.5;cursor:pointer;transition:background-color .16s ease,color .16s ease,border-color .16s ease}.ds-button:disabled{cursor:not-allowed;opacity:.45}.ds-button:focus-visible{outline:3px solid var(--focus,#1c3fbf);outline-offset:3px}.ds-secondary{background:white;color:#415b87;border-color:#c7d2e5}.ds-secondary:hover{background:#f0f4fc;border-color:#8fa6d1}"
+    },
+    {
+      "name": "岗位搜索",
+      "kind": "input",
+      "description": "名称、代码和常用叫法搜索；职责范围另由下拉框控制。",
+      "html": "<label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10.5\" cy=\"10.5\" r=\"6.5\"/><path d=\"m16 16 4 4\"/></svg><input aria-label=\"搜索岗位名称、代码或常用叫法\" placeholder=\"输入岗位名称、代码或常用叫法\"><kbd>/</kbd></label>",
+      "css": ".ds-search{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:flex;align-items:center;gap:12px;background:white;border:1px solid #b5c3dc;border-radius:9px;padding:0 16px;min-height:55px;box-shadow:0 3px 9px #243a6505}.ds-search:focus-within{border-color:var(--blue,#3555d6);box-shadow:0 0 0 1px var(--blue,#3555d6)}.ds-search svg{fill:none;stroke:#5573b0;stroke-width:1.7;stroke-linecap:round;width:20px;height:20px;flex-shrink:0}.ds-search input{font-family:inherit;min-width:0;width:100%;border:0;background:transparent;padding:13px 0;min-height:53px;font-size:15px;color:var(--ink,#22324b);outline:0;caret-color:var(--blue,#3555d6)}.ds-search input::placeholder{color:#65758c}.ds-search kbd{font:12px/1.4 inherit;border:1px solid var(--line,#dde4ef);padding:1px 7px;border-radius:4px;color:var(--muted,#596980)}@media(max-width:640px){.ds-search{min-height:49px;padding:0 11px;gap:8px}.ds-search input{font-size:16px;min-height:48px}.ds-search kbd{display:none}}"
+    },
+    {
+      "name": "客户查询导航",
+      "kind": "nav",
+      "description": "白色顶栏中的查询和清单导航，当前项使用蓝色底线。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"主导航\"><button class=\"ds-active\" aria-current=\"page\">岗位查询</button><button>我的清单 <span>0</span></button></nav>",
+      "css": ".ds-nav{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:flex;gap:27px;background:white;height:74px}.ds-nav button{font-family:inherit;font-size:14px;line-height:1.6;padding:0 2px;border:0;border-bottom:2px solid transparent;font-weight:600;color:#596980;background:none;cursor:pointer;transition:background-color .16s ease,color .16s ease,border-color .16s ease}.ds-nav button.ds-active{color:var(--blue,#3555d6);border-bottom-color:var(--blue,#3555d6)}.ds-nav button:focus-visible{outline:3px solid var(--focus,#1c3fbf);outline-offset:3px}.ds-nav span{background:#edf1f8;padding:2px 7px;border-radius:5px;margin-left:4px;font-size:12px;font-variant-numeric:tabular-nums}@media(max-width:640px){.ds-nav{height:66px;gap:15px}.ds-nav button{font-size:12px}.ds-nav span{font-size:10px;padding:1px 5px}}"
+    },
+    {
+      "name": "活动筛选标签",
+      "kind": "chip",
+      "refersTo": "filter-chip",
+      "description": "静态展示当前条件；不是审核状态或可删除按钮。",
+      "html": "<span class=\"ds-chip\">搜索：财务</span>",
+      "css": ".ds-chip{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:inline-block;background:#f1f4fa;color:#425a7c;border-radius:4px;font-size:11px;line-height:1.6;padding:3px 6px;overflow-wrap:anywhere}"
+    },
+    {
+      "name": "结果阅读面板",
+      "kind": "card",
+      "refersTo": "results-panel",
+      "description": "细线白面板承载岗位矩阵或列表；无常规浮起阴影。",
+      "html": "<section class=\"ds-panel\"><header><h2>岗位层级对照</h2><p>一行一个职责方向，横向查看1—7级。</p></header></section>",
+      "css": ".ds-panel{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;min-width:0;background:white;color:var(--ink,#22324b);border:1px solid var(--line,#dde4ef);border-radius:9px;overflow:hidden}.ds-panel header{padding:18px 19px 13px}.ds-panel h2{font-size:16px;line-height:1.6;margin:0;font-weight:650}.ds-panel p{font-size:12px;line-height:1.6;color:var(--muted,#596980);margin:3px 0 0}@media(max-width:640px){.ds-panel header{padding:16px}.ds-panel h2{font-size:15px}.ds-panel p{font-size:11px}}"
+    },
+    {
+      "name": "层级对照与列表切换",
+      "kind": "custom",
+      "description": "两种浏览方式独立于查询导航，当前方式用浅蓝底与 aria-pressed 表达。",
+      "html": "<div class=\"ds-view\" role=\"group\" aria-label=\"浏览方式\"><button aria-pressed=\"true\">层级对照</button><button aria-pressed=\"false\">岗位列表</button></div>",
+      "css": ".ds-view{font-family:\"Microsoft YaHei\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;display:inline-flex;border:1px solid #c9d3e4;border-radius:6px;overflow:hidden}.ds-view button{font-family:inherit;border:0;font-size:12px;line-height:1.6;color:#526581;padding:8px 12px;background:white;min-height:36px;cursor:pointer}.ds-view button+button{border-left:1px solid #c9d3e4}.ds-view button[aria-pressed=true]{color:#2846b4;background:#edf2ff;font-weight:600}.ds-view button:focus-visible{outline:3px solid var(--focus,#1c3fbf);outline-offset:3px}@media(max-width:640px){.ds-view button{font-size:11px;padding:7px 10px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "岗位横向层级对照",
+    "overview": "这是对已完成客户查询界面的扫描记录；上面的名称描述现有结构，不新增品牌隐喻。视觉以 BMJD 蓝色操作、白色阅读面、浅灰蓝工作区和紧凑中文信息组成。岗位方向、层级、代码和职责是主内容，操作用于定位、对比与带走结果。\n\n适用范围仅为 `customer_portal/` 的模板、样式与查询交互，以及由它生成的 `BMJD客户查岗平台_20261030/BMJD客户查岗平台.html`。不适用于 `completion_tool/`、独立新增岗位工具或旧审议界面。新增入口指向同目录独立 HTML；此规范不要求这些工具换肤或改动业务逻辑。\n\n提取依据是 `customer_portal/styles.css` 的最终级联、`template.html`、`portal-app.js` 与 `portal-core.js`。产品事实见 `PRODUCT.md`，本次页面方向见 `.impeccable/review/customer-brief.md`；本文不替代这两份文件。没有新增品牌字体、营销图或用户批准的视觉图片稿。",
+    "keyCharacteristics": [
+      "桌面按职责系列为行，1—7层级为列；保留现有空位。",
+      "顶部查询与清单导航，左侧行业及职能筛选，主要宽度交给岗位结果。",
+      "手机默认列表，原生模态详情全屏阅读；可切换横向矩阵。",
+      "2—3岗并排展示完整JD，职责版本始终可辨。",
+      "离线单HTML使用本机系统字体与内联图标，不请求外部视觉资源。"
+    ],
+    "rules": [
+      {
+        "name": "The Scope Rule",
+        "section": "colors",
+        "body": "查询界面的蓝色表达交互和定位，不承载批准、审议或主库修改状态。"
+      },
+      {
+        "name": "The Code Identity Rule",
+        "section": "typography",
+        "body": "名称可换行，代码保持完整；层级序号和参考职级区间不能代替岗位身份。"
+      },
+      {
+        "name": "The Reading Surface Rule",
+        "section": "elevation",
+        "body": "日常数据阅读面使用细线分区；保留已有局部阴影和模态层，不为每个岗位增加浮起效果。"
+      }
+    ],
+    "dos": [
+      "**Do** 将这份规范限定为客户查询界面，沿用蓝白操作与中文系统字体。",
+      "**Do** 保留七列层级、职责方向固定列、可切换列表和手机全屏原生详情。",
+      "**Do** 完整显示岗位代码、职责版本与长JD，2—3岗对比保留全部职责。",
+      "**Do** 将匹配岗位与邻级上下文区分，并让两者都遵守行业范围。",
+      "**Do** 保留键盘焦点、原生模态行为、禁用、空态、错误和本机存储提示。",
+      "**Do** 保持新增入口独立，让客户查询的岗位名称、代码和JD只读。"
+    ],
+    "donts": [
+      "**Don't** 将客户查询规范应用到旧 `completion_tool/`，或据旧审议 sidecar 重写客户界面。",
+      "**Don't** 添加营销图、外部字体、新品牌设定或审议/批准状态体系。",
+      "**Don't** 按名称相似合并系列、补造七级空位，或把参考职级区间当作自动评价规则。",
+      "**Don't** 恢复三栏常驻详情布局，或在手机强制以矩阵作为初始视图。",
+      "**Don't** 截断完整JD、以摘要替代对比内容，或省略职责行业版本。",
+      "**Don't** 将本机清单、复制或导出描述成主库修改、多人同步或自动回写。"
+    ]
+  }
+}

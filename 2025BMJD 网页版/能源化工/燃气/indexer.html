@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<!-- saved from url=(0014)about:internet -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>能源化工-燃气索引</title>
+    <link href="../system/style.css" rel="stylesheet" />
+    <script src="../system/jquery.min.js"></script>
+    <style type="text/css">
+        html, body {
+            width: 100%;
+            height: 100%;
+        }
+        .loading {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            background: rgba(0, 0, 0, 0.75);
+            top: 0px;
+        }
+        .spinner {
+            position: absolute;
+            width: 54px;
+            height: 40px;
+            left: 50%;
+            top: 50%;
+            margin-top: -20px;
+            margin-left: -27px;
+            text-align: center;
+            font-size: 10px;
+        }
+        .spinner > div {
+            background-color: #fff;
+            height: 100%;
+            width: 6px;
+            display: inline-block;
+            -webkit-animation: sk-stretchdelay 1.2s infinite ease-in-out;
+            animation: sk-stretchdelay 1.2s infinite ease-in-out;
+        }
+        .spinner .rect2 {
+            -webkit-animation-delay: -1.1s;
+            animation-delay: -1.1s;
+        }
+        .spinner .rect3 {
+            -webkit-animation-delay: -1.0s;
+            animation-delay: -1.0s;
+        }
+        .spinner .rect4 {
+            -webkit-animation-delay: -0.9s;
+            animation-delay: -0.9s;
+        }
+        .spinner .rect5 {
+            -webkit-animation-delay: -0.8s;
+            animation-delay: -0.8s;
+        }
+        @-webkit-keyframes sk-stretchdelay {
+            0%, 40%, 100% {
+                -webkit-transform: scaleY(0.4);
+            }
+
+            20% {
+                -webkit-transform: scaleY(1.0);
+            }
+        }
+        @keyframes sk-stretchdelay {
+            0%, 40%, 100% {
+                transform: scaleY(0.4);
+                -webkit-transform: scaleY(0.4);
+            }
+            20% {
+                transform: scaleY(1.0);
+                -webkit-transform: scaleY(1.0);
+            }
+        }
+    </style>
+    <script type="text/javascript">
+        $(function () {
+            $(".table-main2 td").click(function () {
+                var test = $(this)[0].innerText;
+                if (test != "") {
+                    $(".loading").show();
+                    setTimeout(function () {
+                        location.href = "content.html?range!" + test;
+                        $(".loading").hide();
+                    }, 200);
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="loading" style="display: none;">
+        <div class="spinner">
+            <div class="rect1"></div>
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+            <div class="rect4"></div>
+            <div class="rect5"></div>
+        </div>
+    </div>
+    <div class="main">
+        <div class="header">能源化工-燃气索引</div>
+        <p class="zhushi">此文档为太和顾问向参与能源化工行业调研公司提供的能源化工岗位系统，太和顾问保留所有相关权利，未经太和顾问书面许可，不得因任何其它目的，复制、使用或传播此文件中的任何部分。</p>
+        <p class="fu-title">职位体系</p>
+
+        <table class='table-main' border='1' cellpadding='0' cellspacing='0'><tr class='t-head'><td>1、综合管理体系</td><td>2、职能管理体系</td><td>3、风险管理体系</td><td>4、市场营销体系</td><td>5、物流管理体系</td></tr><tr><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>综合管理</td></tr><tr><td>党群工会</td></tr><tr><td>政府事务</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>法律合规</td></tr><tr><td>战略发展/业务发展</td></tr><tr><td>运营管理</td></tr><tr><td>开发筹建</td></tr><tr><td>财务</td></tr><tr><td>人力资源</td></tr><tr><td>行政</td></tr><tr><td>保密管理</td></tr><tr><td>EHS</td></tr><tr><td>品质管理</td></tr><tr><td>信息技术</td></tr><tr><td>客户工程</td></tr><tr><td>物流管理</td></tr><tr><td>内审监察</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>风险管理</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>市场调研</td></tr><tr><td>市场</td></tr><tr><td>营销策划</td></tr><tr><td>销售</td></tr><tr><td>招投标</td></tr><tr><td>销售管理</td></tr><tr><td>电子商务</td></tr><tr><td>跟单</td></tr><tr><td>对外贸易</td></tr><tr><td>投资发展</td></tr><tr><td>招标采购</td></tr><tr><td>商务</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>物流管理</td></tr></table></td></tr></table><table class='table-main' border='1' cellpadding='0' cellspacing='0'><tr class='t-head'><td>6、物流体系</td><td>7、客户服务体系</td><td>8、质量管理体系</td><td>9、研发体系</td><td>10、项目工程体系</td></tr><tr><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>物流</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>客户服务</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>质量管理</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>技术研发</td></tr><tr><td>产品检测</td></tr><tr><td>产品规划</td></tr><tr><td>研发</td></tr><tr><td>产品工艺</td></tr><tr><td>运维</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>工程</td></tr><tr><td>工程管理</td></tr><tr><td>设计</td></tr><tr><td>化学工程</td></tr><tr><td>合成工程</td></tr><tr><td>招标材料</td></tr><tr><td>项目事务</td></tr><tr><td>质量安全</td></tr><tr><td>质量管理</td></tr><tr><td>生产</td></tr><tr><td>项目管理</td></tr></table></td></tr></table><table class='table-main' border='1' cellpadding='0' cellspacing='0'><tr class='t-head'><td>11、生产体系</td><td>12、生产工艺体系</td><td>13、工程技术体系</td><td>14、项目运营体系</td><td>15、业务技术体系</td></tr><tr><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>生产</td></tr><tr><td>矿产生产</td></tr><tr><td>塑料生产</td></tr><tr><td>现场管理</td></tr><tr><td>设备</td></tr><tr><td>采购</td></tr><tr><td>电气工程</td></tr><tr><td>生产计划</td></tr><tr><td>设备保全</td></tr><tr><td>测控</td></tr><tr><td>生产培训</td></tr><tr><td>生产运行</td></tr><tr><td>检修</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>生产工艺</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>工程</td></tr><tr><td>项目</td></tr><tr><td>生产技术</td></tr><tr><td>勘探</td></tr><tr><td>采掘</td></tr><tr><td>工程作业</td></tr><tr><td>技术</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>工程管理</td></tr><tr><td>项目管理</td></tr><tr><td>终端服务</td></tr><tr><td>运营事业</td></tr></table></td><td style='margin: 0px; padding: 0px; border: none; '><table class='table-main2' cellspacing='0' cellpadding='0' border='1'><tr><td>业务技术</td></tr><tr><td>研发</td></tr></table></td></tr></table>
+
+        <p class="zhushi">《能源化工岗位系统》由索引、岗位列表、各职能职责描述三部分组成。在索引页面中点击任意职能部门，即可进入岗位列表页面查看该职能部门的详细岗位设置情况；在岗位列表页面中点击任意职能部门，即可查看该职能部门职责描述。</p>
+        <div class="footer">
+            <div class="adress">
+                <p style="float: left; text-align: left;">
+                    网址：www.taihe.com.cn
+                    <br />
+                    地址：北京市朝外大街18号丰联广场A座2501 北京太和睿信企业管理顾问有限公司
+                </p>
+                <p style="float: right; text-align: right;">北京太和睿信企业管理顾问有限公司<br />
+                    电话：010-65885656</p>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

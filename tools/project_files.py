@@ -1,16 +1,36 @@
-"""Select and verify the minimal BMJD project files. Python standard library only."""
-import argparse,ast,hashlib,json,re,sys
+"""Inventory and verify BMJD project files, including the requested full backup."""
+import argparse,ast,hashlib,json,os,re,sys
 from collections import Counter
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 MANIFEST=ROOT/'项目文件清单.json'
+FULL_MARKER='# BMJD upload scope: all-workspace (user request 2026-10-30)'
+
+def full_workspace():
+    return FULL_MARKER in (ROOT/'.gitignore').read_text('utf-8')
+
+def all_workspace_files():
+    names=[]
+    for base,dirs,files in os.walk(ROOT,followlinks=False):
+        dirs[:]=[n for n in dirs if n!='.git']
+        for name in files:
+            path=Path(base)/name
+            if name=='.git' or path==MANIFEST:continue
+            if path.is_symlink():raise ValueError('Symlink needs explicit inventory treatment: '+str(path))
+            names.append(path.relative_to(ROOT).as_posix())
+    return sorted(names)
 def load(p):return json.loads(p.read_text('utf-8'))
 def fingerprint(p):
     size=p.stat().st_size;a=hashlib.sha256();b=hashlib.sha1(f'blob {size}\0'.encode())
     with p.open('rb') as f:
         for chunk in iter(lambda:f.read(1024*1024),b''):a.update(chunk);b.update(chunk)
-    return dict(bytes=size,sha256=a.hexdigest(),git_blob_sha1=b.hexdigest())
+    result=dict(bytes=size,sha256=a.hexdigest(),git_blob_sha1=b.hexdigest())
+    if full_workspace() and size>=100*1024*1024:
+        pointer=f'version https://git-lfs.github.com/spec/v1\noid sha256:{a.hexdigest()}\nsize {size}\n'.encode()
+        result.update(storage='git-lfs',lfs_oid='sha256:'+a.hexdigest(),git_blob_sha1=hashlib.sha1(f'blob {len(pointer)}\0'.encode()+pointer).hexdigest())
+    return result
 def selected():
+    if full_workspace():return all_workspace_files()
     names=['.gitignore','.gitattributes','README.md','项目交接文档_20261029.md','项目目标与验收标准.md','原始资料/README.md','tools/project_files.py','统一收口_20261029/岗位职责原文.json','原始资料/结构化依据/原BMJD职能基线.json']
     names+=['PRODUCT.md','DESIGN.md']
     names+=['customer_portal/'+n for n in ['template.html','styles.css','portal-core.js','portal-app.js','portal-core.test.cjs']]
@@ -69,6 +89,7 @@ def selected():
         names += [p.relative_to(ROOT).as_posix() for p in paths]
     return sorted(set(names))
 def ignore_rules(paths):
+    if full_workspace():return FULL_MARKER+'\n# Include archives, hidden configuration, generated files and all local process files.\n/.git/\n'
     children={}
     for name in set(paths)|{'项目文件清单.json'}:
         parts=name.split('/')
@@ -83,11 +104,22 @@ def ignore_rules(paths):
 def write_manifest():
     paths=selected();(ROOT/'.gitignore').write_text(ignore_rules(paths),'utf-8',newline='\n')
     files={n:fingerprint(ROOT/n) for n in paths}
+    if full_workspace():
+        m={'date':'2026-10-30','scope':'all-workspace','purpose':'User requested every workspace file, including archives, local configuration and process files. Release authority remains 当前发布版本.json.','tracked_file_count':len(files)+1,'total_bytes_excluding_manifest':sum(x['bytes'] for x in files.values()),'exclusions':['Git internal .git directories and metadata'],'large_file_storage':'Files >=100MiB use Git LFS; sha256/bytes describe actual data and git_blob_sha1 describes the LFS pointer.','files':files}
+        MANIFEST.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n','utf-8',newline='\n');return m
     assert all(x['bytes']<100*1024*1024 for x in files.values()),'Oversized Git file'
     m={'date':'2026-10-30','baseline_version':'BMJD-ALL-20261029','purpose':'Only files required to continue the current master and JD project; historical archive excluded.','tracked_file_count':len(files)+1,'total_bytes_excluding_manifest':sum(x['bytes'] for x in files.values()),'exclusions':['历史归档/','.claude/','.impeccable/','缓存、node_modules、重复ZIP','重复只读提取、可再生成的分册、旧HTML及补充参考'],'files':files}
     MANIFEST.write_text(json.dumps(m,ensure_ascii=False,indent=2)+'\n','utf-8',newline='\n');return m
 def check():
     m=load(MANIFEST);checks={};errors=[]
+    if full_workspace():
+        checks['全量工作区文件范围一致']=set(m['files'])==set(all_workspace_files())
+        errors=[n for n,v in m['files'].items() if not (ROOT/n).is_file() or fingerprint(ROOT/n)!=v]
+        checks['所有文件大小和SHA256一致']=not errors
+        checks['仅排除Git内部数据']=not any('.git' in Path(n).parts for n in m['files']) and m.get('scope')=='all-workspace'
+        checks['超限文件登记GitLFS']=all(v.get('storage')=='git-lfs' and v.get('lfs_oid')=='sha256:'+v['sha256'] for v in m['files'].values() if v['bytes']>=100*1024*1024)
+        result={'all_passed':all(checks.values()),'passed':sum(checks.values()),'total':len(checks),'files':m['tracked_file_count'],'size_mb':round(m['total_bytes_excluding_manifest']/1024/1024,2),'checks':checks,'changed_or_missing':errors,'scope':'File backup completeness and integrity only; no business-data rewrite or legacy-script execution.'}
+        print(json.dumps(result,ensure_ascii=False,indent=2));return 0 if result['all_passed'] else 1
     checks['允许文件清单一致']=set(m['files'])==set(selected())
     for n,v in m['files'].items():
         if not (ROOT/n).is_file() or fingerprint(ROOT/n)!=v:errors.append(n)
