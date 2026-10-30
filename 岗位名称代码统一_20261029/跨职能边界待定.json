@@ -1,0 +1,222 @@
+[
+  {
+    "old_codes": [
+      "AE123",
+      "BY033"
+    ],
+    "old_names": [
+      "会员营销经理",
+      "会员营销经理"
+    ],
+    "level": 3,
+    "target_job_ids": [
+      "UJ-3C4BA4A3E727A6",
+      "UJ-8C1886E571C175"
+    ],
+    "current_codes": [
+      "AE123",
+      "BY033"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "CP083",
+      "OA213"
+    ],
+    "old_names": [
+      "物业设施维修工程师（3级）",
+      "物业设施维修工程师（3级）"
+    ],
+    "level": 3,
+    "target_job_ids": [
+      "UJ-634B8E14DD2889",
+      "UJ-ALL-A878996D55C101"
+    ],
+    "current_codes": [
+      "CP083",
+      "OA213"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "FA073",
+      "IO073"
+    ],
+    "old_names": [
+      "投资经理",
+      "投资经理"
+    ],
+    "level": 3,
+    "target_job_ids": [
+      "UJ-3EEEBE130DD78C",
+      "UJ-42ADE86752A635"
+    ],
+    "current_codes": [
+      "FA073",
+      "IO073"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "FA074",
+      "IO074"
+    ],
+    "old_names": [
+      "投资主管",
+      "投资主管"
+    ],
+    "level": 4,
+    "target_job_ids": [
+      "UJ-B116DC2E971A5E",
+      "UJ-DD744CBB1375A0"
+    ],
+    "current_codes": [
+      "FA074",
+      "IO074"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "FA075",
+      "IO075"
+    ],
+    "old_names": [
+      "投资专员",
+      "投资专员"
+    ],
+    "level": 5,
+    "target_job_ids": [
+      "UJ-97CE16C21FE02A",
+      "UJ-A74FB5C18590A8"
+    ],
+    "current_codes": [
+      "FA075",
+      "IO075"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "FA076",
+      "IO076"
+    ],
+    "old_names": [
+      "投资助理",
+      "投资助理"
+    ],
+    "level": 6,
+    "target_job_ids": [
+      "UJ-5951408631F6C9",
+      "UJ-A731DF44BE8E13"
+    ],
+    "current_codes": [
+      "FA076",
+      "IO076"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "LO235",
+      "MS295"
+    ],
+    "old_names": [
+      "订单专员",
+      "订单专员"
+    ],
+    "level": 5,
+    "target_job_ids": [
+      "UJ-B8856AF890C3F1",
+      "UJ-C9F09A7DDA498A"
+    ],
+    "current_codes": [
+      "LO235",
+      "MS295"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "LO236",
+      "MS296"
+    ],
+    "old_names": [
+      "订单助理",
+      "订单助理"
+    ],
+    "level": 6,
+    "target_job_ids": [
+      "UJ-AC8679837A739B",
+      "UJ-D1186727782060"
+    ],
+    "current_codes": [
+      "LO236",
+      "MS296"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "PC035",
+      "PC085"
+    ],
+    "old_names": [
+      "项目专员",
+      "项目专员"
+    ],
+    "level": 5,
+    "target_job_ids": [
+      "UJ-215A7393BC43D7",
+      "UJ-666C9C1EFE4683"
+    ],
+    "current_codes": [
+      "PC035",
+      "PC085"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "RD394",
+      "RI984"
+    ],
+    "old_names": [
+      "算法主管",
+      "算法主管"
+    ],
+    "level": 4,
+    "target_job_ids": [
+      "UJ-4369EE34B596B7",
+      "UJ-ALL-FF671ED4B38D17"
+    ],
+    "current_codes": [
+      "RD394",
+      "RI984"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  },
+  {
+    "old_codes": [
+      "RI854",
+      "RS714"
+    ],
+    "old_names": [
+      "构架设计高级工程师",
+      "构架设计高级工程师"
+    ],
+    "level": 4,
+    "target_job_ids": [
+      "UJ-38090F65D7737E",
+      "UJ-ALL-E6AC15B816AC1D"
+    ],
+    "current_codes": [
+      "RI854",
+      "RS714"
+    ],
+    "status": "已在名称中保留分支区别，是否同一身份仍待确定；不能算已解决重复岗位"
+  }
+]

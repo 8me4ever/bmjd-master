@@ -1,0 +1,174 @@
+{
+  "version": "BMJD-INDUSTRY-JD-20261029-02",
+  "global_master_version": "BMJD-JD-REVIEW-20261029-02",
+  "global_master_sha256": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+  "summary": {
+    "industries": 11,
+    "reviewed_industry_jobs": 19018,
+    "modified_industry_jobs": 843,
+    "modified_unique_master_ids": 832,
+    "retained_industry_jobs": 18175,
+    "protected_common_function_jobs": 7666,
+    "unique_master_jobs": 9111,
+    "changed_names": 0,
+    "changed_codes": 0,
+    "master_jd_changes": 0,
+    "previous_subcatalog_changes": 0
+  },
+  "industries": [
+    {
+      "industry": "传媒",
+      "jobs": 1314,
+      "modified": 62,
+      "retained": 1252,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 416,
+        "改写-补充行业专业职责": 62,
+        "保留-通用职能": 763,
+        "保留-现稿非通用补写框架": 43,
+        "保留-已覆盖关键专业维度": 30
+      },
+      "path": "传媒/岗位主库.json"
+    },
+    {
+      "industry": "制造",
+      "jobs": 2062,
+      "modified": 130,
+      "retained": 1932,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 1058,
+        "保留-通用职能": 756,
+        "改写-补充行业专业职责": 130,
+        "保留-现稿非通用补写框架": 107,
+        "保留-已覆盖关键专业维度": 11
+      },
+      "path": "制造/岗位主库.json"
+    },
+    {
+      "industry": "医药",
+      "jobs": 2063,
+      "modified": 215,
+      "retained": 1848,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 796,
+        "保留-通用职能": 591,
+        "保留-已覆盖关键专业维度": 49,
+        "保留-现稿非通用补写框架": 412,
+        "改写-补充行业专业职责": 215
+      },
+      "path": "医药/岗位主库.json"
+    },
+    {
+      "industry": "地产",
+      "jobs": 2166,
+      "modified": 30,
+      "retained": 2136,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 1130,
+        "保留-通用职能": 832,
+        "保留-已覆盖关键专业维度": 90,
+        "改写-补充行业专业职责": 30,
+        "保留-现稿非通用补写框架": 84
+      },
+      "path": "地产/岗位主库.json"
+    },
+    {
+      "industry": "教育",
+      "jobs": 1296,
+      "modified": 41,
+      "retained": 1255,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 630,
+        "保留-通用职能": 490,
+        "保留-已覆盖关键专业维度": 26,
+        "保留-现稿非通用补写框架": 109,
+        "改写-补充行业专业职责": 41
+      },
+      "path": "教育/岗位主库.json"
+    },
+    {
+      "industry": "消费品",
+      "jobs": 1867,
+      "modified": 77,
+      "retained": 1790,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 886,
+        "保留-通用职能": 714,
+        "保留-现稿非通用补写框架": 111,
+        "改写-补充行业专业职责": 77,
+        "保留-已覆盖关键专业维度": 79
+      },
+      "path": "消费品/岗位主库.json"
+    },
+    {
+      "industry": "物流",
+      "jobs": 1112,
+      "modified": 30,
+      "retained": 1082,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 382,
+        "保留-通用职能": 658,
+        "保留-现稿非通用补写框架": 28,
+        "改写-补充行业专业职责": 30,
+        "保留-已覆盖关键专业维度": 14
+      },
+      "path": "物流/岗位主库.json"
+    },
+    {
+      "industry": "综合服务",
+      "jobs": 1045,
+      "modified": 6,
+      "retained": 1039,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 384,
+        "保留-通用职能": 638,
+        "保留-已覆盖关键专业维度": 13,
+        "保留-现稿非通用补写框架": 4,
+        "改写-补充行业专业职责": 6
+      },
+      "path": "综合服务/岗位主库.json"
+    },
+    {
+      "industry": "能源化工",
+      "jobs": 2216,
+      "modified": 131,
+      "retained": 2085,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 1214,
+        "保留-通用职能": 732,
+        "保留-现稿非通用补写框架": 123,
+        "改写-补充行业专业职责": 131,
+        "保留-已覆盖关键专业维度": 16
+      },
+      "path": "能源化工/岗位主库.json"
+    },
+    {
+      "industry": "金融",
+      "jobs": 1386,
+      "modified": 18,
+      "retained": 1368,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 552,
+        "保留-现稿非通用补写框架": 97,
+        "改写-补充行业专业职责": 18,
+        "保留-通用职能": 678,
+        "保留-已覆盖关键专业维度": 41
+      },
+      "path": "金融/岗位主库.json"
+    },
+    {
+      "industry": "高科技",
+      "jobs": 2491,
+      "modified": 103,
+      "retained": 2388,
+      "decision_counts": {
+        "保留-无明确专业化改写依据": 1455,
+        "保留-通用职能": 814,
+        "保留-现稿非通用补写框架": 90,
+        "改写-补充行业专业职责": 103,
+        "保留-已覆盖关键专业维度": 29
+      },
+      "path": "高科技/岗位主库.json"
+    }
+  ]
+}

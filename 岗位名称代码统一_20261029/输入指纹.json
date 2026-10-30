@@ -1,0 +1,30 @@
+{
+  "baseline_master": {
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3"
+  },
+  "decisions_sha256": "fbe83068894cfe5d6ec9cd728def5cbcee33888937e5d7192dc4a10d0bf9bdb2",
+  "workbooks": {
+    "原始资料/原版BMJD/2025BMJD-传媒.xlsx": "c1d52343667b774e5dafb4b0cfc0b543bd4cdbea1888c9d91fc410b623a33df0",
+    "原始资料/最新输入_修改版6/2025BMJD-传媒.xlsx": "18d871ab97bc6199bd6bb695a8c1828a73b876787f952e0068de13cbc8c5ddbb",
+    "原始资料/原版BMJD/2025BMJD-制造.xlsx": "75005dc0caae40d0a28f09a673510160b28b42084a918697cd02e4b8cd652e4e",
+    "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx": "3f2ebe1d3dfc5e40c8a52bba2d4d849c1333f216921893c0c5a039fbc7d3d0f5",
+    "原始资料/原版BMJD/2025BMJD-医药.xlsx": "3f77b3d6c01539b99d244819ff4a1db3bbe24c15ea518dd6c20b10e1bc566e9b",
+    "原始资料/最新输入_修改版6/2025BMJD-医药.xlsx": "7cd68f10114f21a5f0caa482421470ca124760735c065ecd7a1dc9444bddc426",
+    "原始资料/原版BMJD/2025BMJD-地产.xlsx": "9bde01e82239792acc0322b5ff5654e457f500370c15b94a2702f26807af7549",
+    "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx": "581ac14df41df14c0b9c9bfc4be4e7875db7e15e07171d8e37dead0e7cd86e3f",
+    "原始资料/原版BMJD/2025BMJD-教育.xlsx": "2ea3bcb9b683d4f5c110513f7c217fa5b20eed7abfba320473155ad1fb1f3285",
+    "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx": "b61b0342452fd10252f6df6b30000b1c3f3ce7477fa7a9e7f8b33ff85673e41b",
+    "原始资料/原版BMJD/2025BMJD-消费品.xlsx": "5af9439a496dc21e784d6cc6f02332ea23bd634d51e7ba94025a42210539ff04",
+    "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx": "cbebf07038bd13ab58f1515a3c657d405c427826760329cf6ebea85eef982ec8",
+    "原始资料/原版BMJD/2025BMJD-物流.xlsx": "56a25f81cc9a092af7a1b40e950988ce630d5befef1cdb251214714d04a97e1c",
+    "原始资料/最新输入_修改版6/2025BMJD-物流.xlsx": "1ba14cc176bda8413e9488d9fdc61cecaf4b6662788f6765a7bdeefe0a80ee02",
+    "原始资料/原版BMJD/2025BMJD-综合服务.xlsx": "dbb449b47e791e5a193f77732969cdfe9e08d4749388ecc8697b2edb95b3e514",
+    "原始资料/最新输入_修改版6/2025BMJD-综合服务.xlsx": "b1c3b30631071f2882a0f45f34e20b666f43c8f6f09bf92185ba73f4d68d388a",
+    "原始资料/原版BMJD/2025BMJD-能源化工.xlsx": "e65d65119ad8c8965d70d0a45878fc50c7f402910cb073b3e2217c1be088ee7a",
+    "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx": "84fa40c03fb7f25234e5b73599be656615c90e6f0e41acca9b368a1c132741ab",
+    "原始资料/原版BMJD/2025BMJD-金融.xlsx": "203323fa07c05a1a2f862ec5d4c657aa8f57d66f44d57ab0176981c8f458faa6",
+    "原始资料/最新输入_修改版6/2025BMJD-金融.xlsx": "e44edaacfa208e2ebfd865a1d25f2896592c5fb3518798fc0adaa815fafaadb8",
+    "原始资料/原版BMJD/2025BMJD-高科技.xlsx": "3c0582b5743e9a3026330126b44fd82ba6d5edc13a02bdb067cedc30bb84f279",
+    "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx": "0999e59efbbda9a0bf936999055626310794bd969804277131339438ddb15be9"
+  }
+}

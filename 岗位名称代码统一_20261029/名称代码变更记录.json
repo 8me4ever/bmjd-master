@@ -1,0 +1,1899 @@
+[
+  {
+    "baseline_job_id": "UJ-3DF55145F468A9",
+    "old_code": "AE003",
+    "old_name": "KOL运营经理",
+    "target_job_ids": [
+      "UJ-3DF55145F468A9"
+    ],
+    "new_codes": [
+      "AE003"
+    ],
+    "new_names": [
+      "KOL运营经理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-1283": [
+        "AE003"
+      ],
+      "SRC-制造-2017": [
+        "AE003"
+      ],
+      "SRC-物流-0839": [
+        "AE003"
+      ],
+      "SRC-高科技-2476": [
+        "AE003"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-C3E67073391319",
+    "old_code": "AE004",
+    "old_name": "KOL运营主管",
+    "target_job_ids": [
+      "UJ-C3E67073391319"
+    ],
+    "new_codes": [
+      "AE004"
+    ],
+    "new_names": [
+      "KOL运营主管"
+    ],
+    "source_destinations": {
+      "SRC-传媒-1284": [
+        "AE004"
+      ],
+      "SRC-制造-2018": [
+        "AE004"
+      ],
+      "SRC-物流-0840": [
+        "AE004"
+      ],
+      "SRC-高科技-2477": [
+        "AE004"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-B6DD1530D71385",
+    "old_code": "AE005",
+    "old_name": "KOL运营专员",
+    "target_job_ids": [
+      "UJ-B6DD1530D71385"
+    ],
+    "new_codes": [
+      "AE005"
+    ],
+    "new_names": [
+      "KOL运营专员"
+    ],
+    "source_destinations": {
+      "SRC-传媒-1285": [
+        "AE005"
+      ],
+      "SRC-制造-2019": [
+        "AE005"
+      ],
+      "SRC-物流-0841": [
+        "AE005"
+      ],
+      "SRC-高科技-2478": [
+        "AE005"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3513F972699E21",
+    "old_code": "AE006",
+    "old_name": "KOL运营助理",
+    "target_job_ids": [
+      "UJ-3513F972699E21"
+    ],
+    "new_codes": [
+      "AE006"
+    ],
+    "new_names": [
+      "KOL运营助理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-1286": [
+        "AE006"
+      ],
+      "SRC-传媒-1302": [
+        "AE006"
+      ],
+      "SRC-制造-2020": [
+        "AE006"
+      ],
+      "SRC-物流-0842": [
+        "AE006"
+      ],
+      "SRC-高科技-2479": [
+        "AE006"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-649ED110BD81DC",
+    "old_code": "AX012",
+    "old_name": "仓储管理总监",
+    "target_job_ids": [
+      "UJ-649ED110BD81DC"
+    ],
+    "new_codes": [
+      "AX012"
+    ],
+    "new_names": [
+      "仓储管理总监"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-0882": [
+        "AX012"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-E88B4AF6D5B773",
+    "old_code": "AX013",
+    "old_name": "仓储经理",
+    "target_job_ids": [
+      "UJ-ALL-E88B4AF6D5B773"
+    ],
+    "new_codes": [
+      "AX013"
+    ],
+    "new_names": [
+      "仓储经理"
+    ],
+    "source_destinations": {
+      "SRC-医药-1295": [
+        "AX013"
+      ],
+      "SRC-教育-0502": [
+        "AX013"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-DE5AD79AEF7088",
+    "old_code": "AX014",
+    "old_name": "库管组长",
+    "target_job_ids": [
+      "UJ-NC-CB27BE99CDF5AC",
+      "UJ-NC-EC38D7EE4596DC"
+    ],
+    "new_codes": [
+      "AX014",
+      "AX086"
+    ],
+    "new_names": [
+      "仓储主管",
+      "库管组长"
+    ],
+    "source_destinations": {
+      "SRC-医药-1296": [
+        "AX014"
+      ],
+      "SRC-教育-0505": [
+        "AX014"
+      ],
+      "SRC-能源化工-1917": [
+        "AX086"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-BD2D6DDAB9C8C0",
+    "old_code": "AX066",
+    "old_name": "血浆助理",
+    "target_job_ids": [
+      "UJ-BD2D6DDAB9C8C0"
+    ],
+    "new_codes": [
+      "AX066"
+    ],
+    "new_names": [
+      "原料血浆开发助理"
+    ],
+    "source_destinations": {
+      "SRC-医药-1060": [
+        "AX066"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3AB4F06BC56477",
+    "old_code": "BC003",
+    "old_name": "暖通工程经理/资深工程师",
+    "target_job_ids": [
+      "UJ-3AB4F06BC56477",
+      "UJ-NC-5D3C4F846AA240"
+    ],
+    "new_codes": [
+      "BC003",
+      "BC173"
+    ],
+    "new_names": [
+      "暖通经理",
+      "高级锅炉工程师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1723": [
+        "BC173"
+      ],
+      "SRC-地产-1800": [
+        "BC003"
+      ],
+      "SRC-能源化工-1869": [
+        "BC003"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-DE775E25E9BB14",
+    "old_code": "BC004",
+    "old_name": "高级暖通工程师",
+    "target_job_ids": [
+      "UJ-DE775E25E9BB14",
+      "UJ-NC-D88D74EE0A8842"
+    ],
+    "new_codes": [
+      "BC004",
+      "BC174"
+    ],
+    "new_names": [
+      "暖通主管",
+      "锅炉工程师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1724": [
+        "BC174"
+      ],
+      "SRC-地产-1801": [
+        "BC004"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-F2525EBE6588DE",
+    "old_code": "BC005",
+    "old_name": "暖通工程师",
+    "target_job_ids": [
+      "UJ-NC-C20FC82A169686",
+      "UJ-NC-DF581AB71D297B"
+    ],
+    "new_codes": [
+      "BC006",
+      "BC175"
+    ],
+    "new_names": [
+      "初级暖通工程师",
+      "初级锅炉工程师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1725": [
+        "BC175"
+      ],
+      "SRC-地产-1736": [
+        "BC006"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-446D79ABF5472F",
+    "old_code": "BC006",
+    "old_name": "暖通工程助理",
+    "target_job_ids": [
+      "UJ-NC-9C3DE8E7B8A97C"
+    ],
+    "new_codes": [
+      "BC176"
+    ],
+    "new_names": [
+      "助理锅炉工程师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1726": [
+        "BC176"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3C4BA4A3E727A6",
+    "old_code": "BY033",
+    "old_name": "会员营销经理",
+    "target_job_ids": [
+      "UJ-3C4BA4A3E727A6"
+    ],
+    "new_codes": [
+      "BY033"
+    ],
+    "new_names": [
+      "会员中心经理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0749": [
+        "BY033"
+      ],
+      "SRC-制造-0659": [
+        "BY033"
+      ],
+      "SRC-地产-0959": [
+        "BY033"
+      ],
+      "SRC-消费品-0772": [
+        "BY033"
+      ],
+      "SRC-物流-0123": [
+        "BY033"
+      ],
+      "SRC-综合服务-0844": [
+        "BY033"
+      ],
+      "SRC-能源化工-0916": [
+        "BY033"
+      ],
+      "SRC-金融-0672": [
+        "BY033"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-5B62FE8E35EBC2",
+    "old_code": "CK036",
+    "old_name": "助理结构工程工程师",
+    "target_job_ids": [
+      "UJ-5B62FE8E35EBC2"
+    ],
+    "new_codes": [
+      "CK036"
+    ],
+    "new_names": [
+      "助理结构工程师"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-1717": [
+        "CK036"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-A878996D55C101",
+    "old_code": "CP083",
+    "old_name": "物业设施维修工程师（3级）",
+    "target_job_ids": [
+      "UJ-ALL-A878996D55C101"
+    ],
+    "new_codes": [
+      "CP083"
+    ],
+    "new_names": [
+      "资深设备维修工（物业）"
+    ],
+    "source_destinations": {
+      "SRC-地产-1953": [
+        "CP083"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-FAB8906136010F",
+    "old_code": "DP045",
+    "old_name": "结构设计专员/初级结构设计师",
+    "target_job_ids": [
+      "UJ-NC-1130DAD820017F",
+      "UJ-NC-E2BD276BF12E94",
+      "UJ-NC-C20FC82A169686",
+      "UJ-FAB8906136010F"
+    ],
+    "new_codes": [
+      "AN085",
+      "BC005",
+      "BC006",
+      "DP045"
+    ],
+    "new_names": [
+      "暖通领班",
+      "暖通工程师",
+      "初级暖通工程师",
+      "结构设计专员/初级结构设计师"
+    ],
+    "source_destinations": {
+      "SRC-制造-1661": [
+        "BC006"
+      ],
+      "SRC-地产-1121": [
+        "DP045"
+      ],
+      "SRC-地产-1802": [
+        "AN085"
+      ],
+      "SRC-能源化工-1871": [
+        "BC005"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-70170D7D8978A5",
+    "old_code": "DP106",
+    "old_name": "助理暖通设计师/暖通设计助理",
+    "target_job_ids": [
+      "UJ-NC-C20FC82A169686",
+      "UJ-70170D7D8978A5"
+    ],
+    "new_codes": [
+      "BC006",
+      "DP106"
+    ],
+    "new_names": [
+      "初级暖通工程师",
+      "助理暖通设计师/暖通设计助理"
+    ],
+    "source_destinations": {
+      "SRC-地产-1138": [
+        "DP106"
+      ],
+      "SRC-能源化工-1872": [
+        "BC006"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-9758DF53F96DC7",
+    "old_code": "DP173",
+    "old_name": "高级工艺设计师",
+    "target_job_ids": [
+      "UJ-9758DF53F96DC7"
+    ],
+    "new_codes": [
+      "DP173"
+    ],
+    "new_names": [
+      "高级工艺设计师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1161": [
+        "DP173"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-C76B1455FAC763",
+    "old_code": "DP174",
+    "old_name": "工艺设计师",
+    "target_job_ids": [
+      "UJ-C76B1455FAC763"
+    ],
+    "new_codes": [
+      "DP174"
+    ],
+    "new_names": [
+      "工艺设计师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1162": [
+        "DP174"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-C0212D0FA56252",
+    "old_code": "DP175",
+    "old_name": "初级工艺布置设计师",
+    "target_job_ids": [
+      "UJ-C0212D0FA56252"
+    ],
+    "new_codes": [
+      "DP175"
+    ],
+    "new_names": [
+      "初级工艺设计师"
+    ],
+    "source_destinations": {
+      "SRC-地产-1163": [
+        "DP175"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-235DCABE392434",
+    "old_code": "EO076",
+    "old_name": "班级教务助理",
+    "target_job_ids": [
+      "UJ-NC-CE23F8EE077D53"
+    ],
+    "new_codes": [
+      "VE646"
+    ],
+    "new_names": [
+      "初级校外辅导教师"
+    ],
+    "source_destinations": {
+      "SRC-教育-1075": [
+        "VE646"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-42ADE86752A635",
+    "old_code": "FA073",
+    "old_name": "投资经理",
+    "target_job_ids": [
+      "UJ-42ADE86752A635"
+    ],
+    "new_codes": [
+      "FA073"
+    ],
+    "new_names": [
+      "财务投资经理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0156": [
+        "FA073"
+      ],
+      "SRC-制造-0216": [
+        "FA073"
+      ],
+      "SRC-医药-1996": [
+        "FA073"
+      ],
+      "SRC-地产-0256": [
+        "FA073"
+      ],
+      "SRC-教育-0264": [
+        "FA073"
+      ],
+      "SRC-消费品-0146": [
+        "FA073"
+      ],
+      "SRC-物流-0302": [
+        "FA073"
+      ],
+      "SRC-综合服务-0158": [
+        "FA073"
+      ],
+      "SRC-能源化工-0160": [
+        "FA073"
+      ],
+      "SRC-金融-0233": [
+        "FA073"
+      ],
+      "SRC-高科技-0213": [
+        "FA073"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-DD744CBB1375A0",
+    "old_code": "FA074",
+    "old_name": "投资主管",
+    "target_job_ids": [
+      "UJ-DD744CBB1375A0"
+    ],
+    "new_codes": [
+      "FA074"
+    ],
+    "new_names": [
+      "财务投资主管"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0157": [
+        "FA074"
+      ],
+      "SRC-制造-0217": [
+        "FA074"
+      ],
+      "SRC-医药-1997": [
+        "FA074"
+      ],
+      "SRC-地产-0257": [
+        "FA074"
+      ],
+      "SRC-教育-0265": [
+        "FA074"
+      ],
+      "SRC-消费品-0147": [
+        "FA074"
+      ],
+      "SRC-物流-0303": [
+        "FA074"
+      ],
+      "SRC-综合服务-0159": [
+        "FA074"
+      ],
+      "SRC-能源化工-0161": [
+        "FA074"
+      ],
+      "SRC-金融-0234": [
+        "FA074"
+      ],
+      "SRC-高科技-0214": [
+        "FA074"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-A74FB5C18590A8",
+    "old_code": "FA075",
+    "old_name": "投资专员",
+    "target_job_ids": [
+      "UJ-A74FB5C18590A8"
+    ],
+    "new_codes": [
+      "FA075"
+    ],
+    "new_names": [
+      "财务投资专员"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0158": [
+        "FA075"
+      ],
+      "SRC-制造-0218": [
+        "FA075"
+      ],
+      "SRC-医药-1998": [
+        "FA075"
+      ],
+      "SRC-地产-0258": [
+        "FA075"
+      ],
+      "SRC-教育-0266": [
+        "FA075"
+      ],
+      "SRC-消费品-0148": [
+        "FA075"
+      ],
+      "SRC-物流-0304": [
+        "FA075"
+      ],
+      "SRC-综合服务-0160": [
+        "FA075"
+      ],
+      "SRC-能源化工-0162": [
+        "FA075"
+      ],
+      "SRC-金融-0235": [
+        "FA075"
+      ],
+      "SRC-高科技-0215": [
+        "FA075"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-A731DF44BE8E13",
+    "old_code": "FA076",
+    "old_name": "投资助理",
+    "target_job_ids": [
+      "UJ-A731DF44BE8E13"
+    ],
+    "new_codes": [
+      "FA076"
+    ],
+    "new_names": [
+      "财务投资助理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0159": [
+        "FA076"
+      ],
+      "SRC-制造-0219": [
+        "FA076"
+      ],
+      "SRC-医药-1999": [
+        "FA076"
+      ],
+      "SRC-地产-0259": [
+        "FA076"
+      ],
+      "SRC-教育-0267": [
+        "FA076"
+      ],
+      "SRC-消费品-0149": [
+        "FA076"
+      ],
+      "SRC-物流-0305": [
+        "FA076"
+      ],
+      "SRC-综合服务-0161": [
+        "FA076"
+      ],
+      "SRC-能源化工-0163": [
+        "FA076"
+      ],
+      "SRC-金融-0236": [
+        "FA076"
+      ],
+      "SRC-高科技-0216": [
+        "FA076"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-2E3F2C5F1F7352",
+    "old_code": "FA103",
+    "old_name": "应收/应付经理",
+    "target_job_ids": [
+      "UJ-2E3F2C5F1F7352"
+    ],
+    "new_codes": [
+      "FA103"
+    ],
+    "new_names": [
+      "应收应付经理"
+    ],
+    "source_destinations": {
+      "SRC-地产-0273": [
+        "FA103"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-973FD4EA3250D4",
+    "old_code": "FA104",
+    "old_name": "应收/应付主管",
+    "target_job_ids": [
+      "UJ-973FD4EA3250D4"
+    ],
+    "new_codes": [
+      "FA104"
+    ],
+    "new_names": [
+      "应收应付主管"
+    ],
+    "source_destinations": {
+      "SRC-地产-0274": [
+        "FA104"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-9AE2F7A777FA09",
+    "old_code": "FA105",
+    "old_name": "应收/应付专员",
+    "target_job_ids": [
+      "UJ-9AE2F7A777FA09"
+    ],
+    "new_codes": [
+      "FA105"
+    ],
+    "new_names": [
+      "应收应付专员"
+    ],
+    "source_destinations": {
+      "SRC-地产-0275": [
+        "FA105"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-36BF88CBDA183D",
+    "old_code": "FA106",
+    "old_name": "应收/应付助理",
+    "target_job_ids": [
+      "UJ-36BF88CBDA183D"
+    ],
+    "new_codes": [
+      "FA106"
+    ],
+    "new_names": [
+      "应收应付助理"
+    ],
+    "source_destinations": {
+      "SRC-地产-0276": [
+        "FA106"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-A00455EBD4D774",
+    "old_code": "FA313",
+    "old_name": "应收应付经理",
+    "target_job_ids": [
+      "UJ-2E3F2C5F1F7352"
+    ],
+    "new_codes": [
+      "FA103"
+    ],
+    "new_names": [
+      "应收应付经理"
+    ],
+    "source_destinations": {
+      "SRC-医药-0202": [
+        "FA103"
+      ],
+      "SRC-地产-0217": [
+        "FA103"
+      ],
+      "SRC-教育-0336": [
+        "FA103"
+      ],
+      "SRC-高科技-0204": [
+        "FA103"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-CAD8F7B6CC32F1",
+    "old_code": "FA314",
+    "old_name": "应收应付主管",
+    "target_job_ids": [
+      "UJ-973FD4EA3250D4"
+    ],
+    "new_codes": [
+      "FA104"
+    ],
+    "new_names": [
+      "应收应付主管"
+    ],
+    "source_destinations": {
+      "SRC-医药-0203": [
+        "FA104"
+      ],
+      "SRC-地产-0218": [
+        "FA104"
+      ],
+      "SRC-教育-0338": [
+        "FA104"
+      ],
+      "SRC-高科技-0205": [
+        "FA104"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-00BB0441EEBBA6",
+    "old_code": "FA315",
+    "old_name": "应收应付专员",
+    "target_job_ids": [
+      "UJ-9AE2F7A777FA09"
+    ],
+    "new_codes": [
+      "FA105"
+    ],
+    "new_names": [
+      "应收应付专员"
+    ],
+    "source_destinations": {
+      "SRC-医药-0204": [
+        "FA105"
+      ],
+      "SRC-地产-0219": [
+        "FA105"
+      ],
+      "SRC-教育-0340": [
+        "FA105"
+      ],
+      "SRC-高科技-0206": [
+        "FA105"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-7454DA06A2CC68",
+    "old_code": "FA316",
+    "old_name": "应收应付助理",
+    "target_job_ids": [
+      "UJ-36BF88CBDA183D"
+    ],
+    "new_codes": [
+      "FA106"
+    ],
+    "new_names": [
+      "应收应付助理"
+    ],
+    "source_destinations": {
+      "SRC-医药-0205": [
+        "FA106"
+      ],
+      "SRC-地产-0220": [
+        "FA106"
+      ],
+      "SRC-教育-0342": [
+        "FA106"
+      ],
+      "SRC-高科技-0207": [
+        "FA106"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-1DBEBA6F226A8A",
+    "old_code": "FM435",
+    "old_name": "高级剪切切割技师",
+    "target_job_ids": [
+      "UJ-865EF3242E0303"
+    ],
+    "new_codes": [
+      "PD575"
+    ],
+    "new_names": [
+      "高级剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-1286": [
+        "PD575"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-48A6C9A5CB55B5",
+    "old_code": "FM436",
+    "old_name": "中级剪切切割技师",
+    "target_job_ids": [
+      "UJ-488E11B70EEB03"
+    ],
+    "new_codes": [
+      "PD576"
+    ],
+    "new_names": [
+      "剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-1287": [
+        "PD576"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-FD5CF69E49FD41",
+    "old_code": "FM437",
+    "old_name": "初级剪切切割技师",
+    "target_job_ids": [
+      "UJ-9BB00549D155C9"
+    ],
+    "new_codes": [
+      "PD577"
+    ],
+    "new_names": [
+      "初级剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-1288": [
+        "PD577"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3EEEBE130DD78C",
+    "old_code": "IO073",
+    "old_name": "投资经理",
+    "target_job_ids": [
+      "UJ-3EEEBE130DD78C"
+    ],
+    "new_codes": [
+      "IO073"
+    ],
+    "new_names": [
+      "投资管理经理"
+    ],
+    "source_destinations": {
+      "SRC-地产-0110": [
+        "IO073"
+      ],
+      "SRC-金融-1039": [
+        "IO073"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-B116DC2E971A5E",
+    "old_code": "IO074",
+    "old_name": "投资主管",
+    "target_job_ids": [
+      "UJ-B116DC2E971A5E"
+    ],
+    "new_codes": [
+      "IO074"
+    ],
+    "new_names": [
+      "投资管理主管"
+    ],
+    "source_destinations": {
+      "SRC-地产-0111": [
+        "IO074"
+      ],
+      "SRC-金融-1040": [
+        "IO074"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-97CE16C21FE02A",
+    "old_code": "IO075",
+    "old_name": "投资专员",
+    "target_job_ids": [
+      "UJ-97CE16C21FE02A"
+    ],
+    "new_codes": [
+      "IO075"
+    ],
+    "new_names": [
+      "投资管理专员"
+    ],
+    "source_destinations": {
+      "SRC-地产-0112": [
+        "IO075"
+      ],
+      "SRC-金融-1041": [
+        "IO075"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-5951408631F6C9",
+    "old_code": "IO076",
+    "old_name": "投资助理",
+    "target_job_ids": [
+      "UJ-5951408631F6C9"
+    ],
+    "new_codes": [
+      "IO076"
+    ],
+    "new_names": [
+      "投资管理助理"
+    ],
+    "source_destinations": {
+      "SRC-地产-0113": [
+        "IO076"
+      ],
+      "SRC-金融-1042": [
+        "IO076"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-C726E279AAD14C",
+    "old_code": "LO021",
+    "old_name": "仓储管理负责人",
+    "target_job_ids": [
+      "UJ-C726E279AAD14C"
+    ],
+    "new_codes": [
+      "AX011"
+    ],
+    "new_names": [
+      "仓储副总经理"
+    ],
+    "source_destinations": {
+      "SRC-物流-0595": [
+        "AX011"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-59011DB300DC33",
+    "old_code": "LO022",
+    "old_name": "仓储管理总监",
+    "target_job_ids": [
+      "UJ-649ED110BD81DC"
+    ],
+    "new_codes": [
+      "AX012"
+    ],
+    "new_names": [
+      "仓储管理总监"
+    ],
+    "source_destinations": {
+      "SRC-物流-0596": [
+        "AX012"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-E2E794110BAD36",
+    "old_code": "LO023",
+    "old_name": "仓储经理",
+    "target_job_ids": [
+      "UJ-ALL-E88B4AF6D5B773"
+    ],
+    "new_codes": [
+      "AX013"
+    ],
+    "new_names": [
+      "仓储经理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0859": [
+        "AX013"
+      ],
+      "SRC-制造-1022": [
+        "AX013"
+      ],
+      "SRC-地产-1028": [
+        "AX013"
+      ],
+      "SRC-消费品-0808": [
+        "AX013"
+      ],
+      "SRC-物流-0597": [
+        "AX013"
+      ],
+      "SRC-综合服务-0783": [
+        "AX013"
+      ],
+      "SRC-能源化工-0883": [
+        "AX013"
+      ],
+      "SRC-高科技-0878": [
+        "AX013"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-EB8E1AB05FDF7F",
+    "old_code": "LO024",
+    "old_name": "仓储主管",
+    "target_job_ids": [
+      "UJ-NC-CB27BE99CDF5AC"
+    ],
+    "new_codes": [
+      "AX014"
+    ],
+    "new_names": [
+      "仓储主管"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0860": [
+        "AX014"
+      ],
+      "SRC-制造-1023": [
+        "AX014"
+      ],
+      "SRC-地产-1029": [
+        "AX014"
+      ],
+      "SRC-消费品-0809": [
+        "AX014"
+      ],
+      "SRC-物流-0598": [
+        "AX014"
+      ],
+      "SRC-综合服务-0784": [
+        "AX014"
+      ],
+      "SRC-能源化工-0884": [
+        "AX014"
+      ],
+      "SRC-高科技-0879": [
+        "AX014"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3FDE5C31ABB840",
+    "old_code": "LO025",
+    "old_name": "仓储专员",
+    "target_job_ids": [
+      "UJ-3FDE5C31ABB840"
+    ],
+    "new_codes": [
+      "AX075"
+    ],
+    "new_names": [
+      "仓储专员"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0861": [
+        "AX075"
+      ],
+      "SRC-制造-1024": [
+        "AX075"
+      ],
+      "SRC-医药-1297": [
+        "AX075"
+      ],
+      "SRC-地产-1030": [
+        "AX075"
+      ],
+      "SRC-教育-0508": [
+        "AX075"
+      ],
+      "SRC-消费品-0810": [
+        "AX075"
+      ],
+      "SRC-物流-0599": [
+        "AX075"
+      ],
+      "SRC-综合服务-0785": [
+        "AX075"
+      ],
+      "SRC-能源化工-0885": [
+        "AX075"
+      ],
+      "SRC-高科技-0880": [
+        "AX075"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-113EE1845AFBC8",
+    "old_code": "LO026",
+    "old_name": "仓储助理",
+    "target_job_ids": [
+      "UJ-113EE1845AFBC8"
+    ],
+    "new_codes": [
+      "AX076"
+    ],
+    "new_names": [
+      "仓储助理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0862": [
+        "AX076"
+      ],
+      "SRC-制造-1025": [
+        "AX076"
+      ],
+      "SRC-地产-1031": [
+        "AX076"
+      ],
+      "SRC-消费品-0811": [
+        "AX076"
+      ],
+      "SRC-物流-0600": [
+        "AX076"
+      ],
+      "SRC-综合服务-0786": [
+        "AX076"
+      ],
+      "SRC-能源化工-0886": [
+        "AX076"
+      ],
+      "SRC-高科技-0881": [
+        "AX076"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-74A1E4E5498BF0",
+    "old_code": "LO027",
+    "old_name": "仓储员",
+    "target_job_ids": [
+      "UJ-74A1E4E5498BF0"
+    ],
+    "new_codes": [
+      "AX077"
+    ],
+    "new_names": [
+      "仓储员"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0863": [
+        "AX077"
+      ],
+      "SRC-制造-1026": [
+        "AX077"
+      ],
+      "SRC-地产-1032": [
+        "AX077"
+      ],
+      "SRC-消费品-0812": [
+        "AX077"
+      ],
+      "SRC-物流-0601": [
+        "AX077"
+      ],
+      "SRC-综合服务-0787": [
+        "AX077"
+      ],
+      "SRC-能源化工-0887": [
+        "AX077"
+      ],
+      "SRC-高科技-0882": [
+        "AX077"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-E1626D0EA088C4",
+    "old_code": "LO095",
+    "old_name": "报关专员",
+    "target_job_ids": [
+      "UJ-E1626D0EA088C4",
+      "UJ-NC-A1D274CC34E365"
+    ],
+    "new_codes": [
+      "LO095",
+      "LO096"
+    ],
+    "new_names": [
+      "报关专员",
+      "报关员"
+    ],
+    "source_destinations": {
+      "SRC-制造-1068": [
+        "LO095"
+      ],
+      "SRC-地产-1075": [
+        "LO096"
+      ],
+      "SRC-物流-0193": [
+        "LO096"
+      ],
+      "SRC-能源化工-0909": [
+        "LO095"
+      ],
+      "SRC-高科技-0835": [
+        "LO095"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-3719A1D0A6B428",
+    "old_code": "LO147",
+    "old_name": "物流管理综合员",
+    "target_job_ids": [
+      "UJ-3719A1D0A6B428"
+    ],
+    "new_codes": [
+      "LO147"
+    ],
+    "new_names": [
+      "物流管理员"
+    ],
+    "source_destinations": {
+      "SRC-医药-1294": [
+        "LO147"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-7DACEDAEBBC066",
+    "old_code": "LO234",
+    "old_name": "订单主管",
+    "target_job_ids": [
+      "UJ-7DACEDAEBBC066"
+    ],
+    "new_codes": [
+      "LO234"
+    ],
+    "new_names": [
+      "物流订单主管"
+    ],
+    "source_destinations": {
+      "SRC-制造-1051": [
+        "LO234"
+      ],
+      "SRC-物流-0614": [
+        "LO234"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-C9F09A7DDA498A",
+    "old_code": "LO235",
+    "old_name": "订单专员",
+    "target_job_ids": [
+      "UJ-C9F09A7DDA498A"
+    ],
+    "new_codes": [
+      "LO235"
+    ],
+    "new_names": [
+      "物流订单专员"
+    ],
+    "source_destinations": {
+      "SRC-制造-1052": [
+        "LO235"
+      ],
+      "SRC-物流-0615": [
+        "LO235"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-AC8679837A739B",
+    "old_code": "LO236",
+    "old_name": "订单助理",
+    "target_job_ids": [
+      "UJ-AC8679837A739B"
+    ],
+    "new_codes": [
+      "LO236"
+    ],
+    "new_names": [
+      "物流订单助理"
+    ],
+    "source_destinations": {
+      "SRC-制造-1053": [
+        "LO236"
+      ],
+      "SRC-物流-0616": [
+        "LO236"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-BDD8A4A13F5ED3",
+    "old_code": "LO276",
+    "old_name": "运输(司机)助理",
+    "target_job_ids": [
+      "UJ-BDD8A4A13F5ED3"
+    ],
+    "new_codes": [
+      "LO276"
+    ],
+    "new_names": [
+      "运输司机"
+    ],
+    "source_destinations": {
+      "SRC-医药-1305": [
+        "LO276"
+      ],
+      "SRC-物流-0643": [
+        "LO276"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-8808029A6A1FF9",
+    "old_code": "LO304",
+    "old_name": "配货主管/组长",
+    "target_job_ids": [
+      "UJ-8808029A6A1FF9"
+    ],
+    "new_codes": [
+      "LO304"
+    ],
+    "new_names": [
+      "配货主管"
+    ],
+    "source_destinations": {
+      "SRC-制造-1085": [
+        "LO304"
+      ],
+      "SRC-消费品-1862": [
+        "LO304"
+      ],
+      "SRC-物流-0649": [
+        "LO304"
+      ],
+      "SRC-高科技-0857": [
+        "LO304"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-CDF4660FA16785",
+    "old_code": "MK423",
+    "old_name": "KOL运营经理",
+    "target_job_ids": [
+      "UJ-3DF55145F468A9"
+    ],
+    "new_codes": [
+      "AE003"
+    ],
+    "new_names": [
+      "KOL运营经理"
+    ],
+    "source_destinations": {
+      "SRC-金融-1363": [
+        "AE003"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-20BA4F8FFC0A3A",
+    "old_code": "MK424",
+    "old_name": "KOL运营主管",
+    "target_job_ids": [
+      "UJ-C3E67073391319"
+    ],
+    "new_codes": [
+      "AE004"
+    ],
+    "new_names": [
+      "KOL运营主管"
+    ],
+    "source_destinations": {
+      "SRC-金融-1364": [
+        "AE004"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-75B5DFAEE46791",
+    "old_code": "MK425",
+    "old_name": "KOL运营专员",
+    "target_job_ids": [
+      "UJ-B6DD1530D71385"
+    ],
+    "new_codes": [
+      "AE005"
+    ],
+    "new_names": [
+      "KOL运营专员"
+    ],
+    "source_destinations": {
+      "SRC-金融-1365": [
+        "AE005"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-C01FD6C1EEAC19",
+    "old_code": "MK426",
+    "old_name": "KOL运营助理",
+    "target_job_ids": [
+      "UJ-3513F972699E21"
+    ],
+    "new_codes": [
+      "AE006"
+    ],
+    "new_names": [
+      "KOL运营助理"
+    ],
+    "source_destinations": {
+      "SRC-金融-1366": [
+        "AE006"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-60035C30BD970F",
+    "old_code": "MS294",
+    "old_name": "订单管理主管（订单管理）",
+    "target_job_ids": [
+      "UJ-60035C30BD970F"
+    ],
+    "new_codes": [
+      "MS294"
+    ],
+    "new_names": [
+      "销售订单管理主管"
+    ],
+    "source_destinations": {
+      "SRC-地产-0913": [
+        "MS294"
+      ],
+      "SRC-消费品-0743": [
+        "MS294"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-B8856AF890C3F1",
+    "old_code": "MS295",
+    "old_name": "订单专员",
+    "target_job_ids": [
+      "UJ-B8856AF890C3F1"
+    ],
+    "new_codes": [
+      "MS295"
+    ],
+    "new_names": [
+      "销售订单管理专员"
+    ],
+    "source_destinations": {
+      "SRC-医药-0682": [
+        "MS295"
+      ],
+      "SRC-地产-0914": [
+        "MS295"
+      ],
+      "SRC-消费品-0744": [
+        "MS295"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-D1186727782060",
+    "old_code": "MS296",
+    "old_name": "订单助理",
+    "target_job_ids": [
+      "UJ-D1186727782060"
+    ],
+    "new_codes": [
+      "MS296"
+    ],
+    "new_names": [
+      "销售订单管理助理"
+    ],
+    "source_destinations": {
+      "SRC-医药-0683": [
+        "MS296"
+      ],
+      "SRC-地产-0915": [
+        "MS296"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-634B8E14DD2889",
+    "old_code": "OA213",
+    "old_name": "物业设施维修工程师（3级）",
+    "target_job_ids": [
+      "UJ-634B8E14DD2889"
+    ],
+    "new_codes": [
+      "OA213"
+    ],
+    "new_names": [
+      "工程维修经理"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0321": [
+        "OA213"
+      ],
+      "SRC-制造-0382": [
+        "OA213"
+      ],
+      "SRC-地产-1865": [
+        "OA213"
+      ],
+      "SRC-消费品-0259": [
+        "OA213"
+      ],
+      "SRC-物流-0105": [
+        "OA213"
+      ],
+      "SRC-综合服务-0330": [
+        "OA213"
+      ],
+      "SRC-能源化工-0299": [
+        "OA213"
+      ],
+      "SRC-金融-0401": [
+        "OA213"
+      ],
+      "SRC-高科技-0348": [
+        "OA213"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-666C9C1EFE4683",
+    "old_code": "PC035",
+    "old_name": "项目专员",
+    "target_job_ids": [
+      "UJ-666C9C1EFE4683"
+    ],
+    "new_codes": [
+      "PC035"
+    ],
+    "new_names": [
+      "营销活动项目专员"
+    ],
+    "source_destinations": {
+      "SRC-传媒-0828": [
+        "PC035"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-215A7393BC43D7",
+    "old_code": "PC085",
+    "old_name": "项目专员",
+    "target_job_ids": [
+      "UJ-215A7393BC43D7"
+    ],
+    "new_codes": [
+      "PC085"
+    ],
+    "new_names": [
+      "项目管理专员"
+    ],
+    "source_destinations": {
+      "SRC-能源化工-1861": [
+        "PC085"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-865EF3242E0303",
+    "old_code": "PD575",
+    "old_name": "高级剪切/切割技师",
+    "target_job_ids": [
+      "UJ-865EF3242E0303"
+    ],
+    "new_codes": [
+      "PD575"
+    ],
+    "new_names": [
+      "高级剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-制造-1569": [
+        "PD575"
+      ],
+      "SRC-消费品-1203": [
+        "PD575"
+      ],
+      "SRC-高科技-1821": [
+        "PD575"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-488E11B70EEB03",
+    "old_code": "PD576",
+    "old_name": "剪切/切割技师",
+    "target_job_ids": [
+      "UJ-488E11B70EEB03"
+    ],
+    "new_codes": [
+      "PD576"
+    ],
+    "new_names": [
+      "剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-制造-1570": [
+        "PD576"
+      ],
+      "SRC-消费品-1204": [
+        "PD576"
+      ],
+      "SRC-高科技-1822": [
+        "PD576"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-9BB00549D155C9",
+    "old_code": "PD577",
+    "old_name": "初级剪切/切割技师",
+    "target_job_ids": [
+      "UJ-9BB00549D155C9"
+    ],
+    "new_codes": [
+      "PD577"
+    ],
+    "new_names": [
+      "初级剪切/切割技师"
+    ],
+    "source_destinations": {
+      "SRC-制造-1571": [
+        "PD577"
+      ],
+      "SRC-消费品-1205": [
+        "PD577"
+      ],
+      "SRC-高科技-1823": [
+        "PD577"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-4369EE34B596B7",
+    "old_code": "RD394",
+    "old_name": "算法主管",
+    "target_job_ids": [
+      "UJ-4369EE34B596B7"
+    ],
+    "new_codes": [
+      "RD394"
+    ],
+    "new_names": [
+      "高级算法工程师（研发）"
+    ],
+    "source_destinations": {
+      "SRC-医药-0489": [
+        "RD394"
+      ],
+      "SRC-消费品-0898": [
+        "RD394"
+      ],
+      "SRC-高科技-0954": [
+        "RD394"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-E6AC15B816AC1D",
+    "old_code": "RI854",
+    "old_name": "构架设计高级工程师",
+    "target_job_ids": [
+      "UJ-ALL-E6AC15B816AC1D"
+    ],
+    "new_codes": [
+      "RI854"
+    ],
+    "new_names": [
+      "软件架构设计高级工程师"
+    ],
+    "source_destinations": {
+      "SRC-制造-1362": [
+        "RI854"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-ALL-FF671ED4B38D17",
+    "old_code": "RI984",
+    "old_name": "算法主管",
+    "target_job_ids": [
+      "UJ-ALL-FF671ED4B38D17"
+    ],
+    "new_codes": [
+      "RI984"
+    ],
+    "new_names": [
+      "高级算法工程师（软件开发）"
+    ],
+    "source_destinations": {
+      "SRC-制造-1328": [
+        "RI984"
+      ],
+      "SRC-教育-0570": [
+        "RI984"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-38090F65D7737E",
+    "old_code": "RS714",
+    "old_name": "构架设计高级工程师",
+    "target_job_ids": [
+      "UJ-38090F65D7737E"
+    ],
+    "new_codes": [
+      "RS714"
+    ],
+    "new_names": [
+      "研发架构设计高级工程师"
+    ],
+    "source_destinations": {
+      "SRC-医药-0461": [
+        "RS714"
+      ],
+      "SRC-地产-2166": [
+        "RS714"
+      ],
+      "SRC-教育-0546": [
+        "RS714"
+      ],
+      "SRC-消费品-0886": [
+        "RS714"
+      ],
+      "SRC-综合服务-0921": [
+        "RS714"
+      ],
+      "SRC-高科技-0941": [
+        "RS714"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-8F85C71924B8B2",
+    "old_code": "VE067",
+    "old_name": "学员学习运营助理（7级）",
+    "target_job_ids": [
+      "UJ-NC-D4BE01A0AAF9E2"
+    ],
+    "new_codes": [
+      "VE645"
+    ],
+    "new_names": [
+      "中级校外辅导教师"
+    ],
+    "source_destinations": {
+      "SRC-教育-1074": [
+        "VE645"
+      ]
+    }
+  },
+  {
+    "baseline_job_id": "UJ-29E7B0AF7E444A",
+    "old_code": "VE146",
+    "old_name": "高级校外辅导教师",
+    "target_job_ids": [
+      "UJ-NC-8E9B42B165965E"
+    ],
+    "new_codes": [
+      "VE644"
+    ],
+    "new_names": [
+      "高级校外辅导教师"
+    ],
+    "source_destinations": {
+      "SRC-教育-1073": [
+        "VE644"
+      ]
+    }
+  }
+]

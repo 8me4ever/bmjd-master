@@ -1,0 +1,39 @@
+{
+  "version": "BMJD-COMPLETION-20261029-01",
+  "summary": {
+    "tool_version": "BMJD-COMPLETION-20261029-01",
+    "base_version": "BMJD-JD-REVIEW-20261029-02",
+    "base_sha256": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+    "base_jobs": 9111,
+    "known_codes": 13164,
+    "historical_only_codes": 4053,
+    "known_series_prefixes": 3908
+  },
+  "all_passed": true,
+  "checks": {
+    "完整内置9111岗且主键代码唯一": true,
+    "263规范职能与3077职责系列": true,
+    "11行业范围": true,
+    "全部当前代码均已登记占用": true,
+    "原5类研发职能均遵守R段规则": true,
+    "RA_RC_RM_RP非研发保留段完整": true,
+    "所有职责系列前四位都保留": true
+  },
+  "html_bytes": 3061392,
+  "payload_gzip_bytes": 2238136,
+  "html_sha256": "150b057c30805609f8863e74dce0d5eec33d5b83093ac04fe605ce0b6f19287c",
+  "input_sha256": {
+    "岗位JD匹配审查_20261029/岗位JD主库.json": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+    "全量名称代码统一_20261029/全量原表元数据.json": "1b19146dc210cf38d1381aef445950b7be5782d80ba337119af7cb46348f1cca",
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+    "主库推定整理_20261029/统一主库.json": "d2c5dd4dedfae19431f95e6d887cf4307b77811a34249ad652ecd187151f86ac",
+    "岗位名称代码统一_20261029/名称代码主库.json": "8bb0cdd933eb3195f84bf1726a669a7158faedf9d306e83bf28b8de172e5ca99",
+    "全量名称代码统一_20261029/名称代码主库.json": "af2ba9276c52366a26610b949eb621ca2b8e31215261979712e85dbfe4b25d01",
+    "completion_tool/template.html": "2c925b6156d4d5b4732aa8b08ad8ef1b07817d16eb1e42521cc5f07d794c547f",
+    "completion_tool/styles.css": "d49be51fb6938963c7b57152428bc3eee30db9f5db93ed8c7520617891002e8d",
+    "completion_tool/completion-core.js": "a4e144f4fde82f176f57a4db51900e0b6eb69580f83b6372707466d8b66c495b",
+    "completion_tool/completion-app.js": "d0ecb32fea76c165d5e8c4ff61fcb155574e6fa3c759cf4a1c499d0c915515ee",
+    "tools/build_completion_tool.py": "7286ab7afd8551b278710be4f05bf0fb5de4f2d3d89c8882a63f7729f6be1e9d"
+  },
+  "scope": "内置全局主库和已知历史码；浏览器端只追加，导出新文件，不写原主库及行业专业JD。"
+}

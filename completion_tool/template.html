@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f5f7fb"><title>BMJD · 岗位持续补全</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='11' fill='%233555d6'/%3E%3Ctext x='11' y='29' font-family='Arial' font-size='28' font-weight='700' fill='white'%3EB%3C/text%3E%3C/svg%3E">
+<style>/*__STYLES__*/</style>
+</head>
+<body>
+<a class="skip" href="#form-heading">跳到新增岗位</a>
+<header class="topbar"><a class="brand" href="#"><span class="brand-icon">B<span>+</span></span><strong>BMJD</strong><span class="brand-divider"></span><span>岗位持续补全</span></a><div class="header-status"><span class="dot"></span><span id="storage-status">正在载入…</span><button class="help-button" id="help" aria-label="查看使用说明">?</button></div></header>
+<main>
+  <section class="heading"><div><p class="eyebrow">BUILD THE NEXT ROLE</p><h1>每个新岗位，都有自己的位置。</h1><p class="intro">选好职能和专业方向，自动寻找空闲代码，再补充岗位名称与职责。</p></div><div class="heading-label"><span class="dot"></span>一岗一码 · 沿用主库规则</div></section>
+  <div class="notice" id="load-message" role="status">正在载入内置主库与历史代码登记…</div>
+  <div class="notice warning" id="storage-warning" hidden>浏览器存储不可用。本次数据仅在当前页面保留，请及时导出完整主库或增量备份。</div>
+  <section class="stats" aria-label="当前工作库概况"><div><span>已载入主库</span><strong id="base-count">—</strong><small>个岗位</small></div><div><span>规范职能</span><strong id="function-count">—</strong><small>类</small></div><div><span>本次活动新增</span><strong id="active-count">0</strong><small>个岗位</small></div><div><span>历史保留代码</span><strong id="reserved-count">—</strong><small>个，不再复用</small></div></section>
+  <div class="work-grid">
+    <section class="panel editor"><div class="panel-title"><div><span class="section-index">01</span><h2 id="form-heading">新增岗位</h2><span class="small-pill" id="editing-label" hidden>编辑本次录入</span></div><button class="text-button" id="reset-form" type="button">重置表单</button></div>
+      <form id="job-form" novalidate>
+        <div class="form-row two"><div class="field"><label for="function-input">所属职能 <em>*</em></label><input id="function-input" list="function-options" placeholder="输入或选择职能，如人力资源" autocomplete="off" required><datalist id="function-options"></datalist></div><div class="field level-field"><label for="level-input">岗位层级 <em>*</em></label><select id="level-input"><option value="1">1级</option><option value="2">2级</option><option value="3">3级</option><option value="4">4级</option><option value="5" selected>5级</option><option value="6">6级</option><option value="7">7级</option></select></div></div>
+        <div class="field"><label for="series-select">职责系列 <em>*</em><span>同一专业方向的职业梯队</span></label><select id="series-select"><option value="__new__">＋ 新建职责系列</option></select></div>
+        <div class="field" id="new-series-field"><label for="series-name">新系列名称 <em>*</em></label><input id="series-name" placeholder="填写明确的专业方向，如人才智能化分析" maxlength="100"><p class="field-note">已有相同专业方向时，请选择已有系列并补充空闲层级。</p></div>
+        <div class="field"><label for="job-name">岗位名称 <em>*</em></label><input id="job-name" placeholder="填写规范岗位名称" maxlength="120" autocomplete="off"><div class="name-conflict" id="name-conflict" hidden role="status"></div></div>
+        <fieldset class="industry-field"><legend>适用行业 <em>*</em><span>至少选择1个</span></legend><div class="industry-options" id="industry-options"></div><button id="select-industries" class="text-button" type="button">全选11行业</button></fieldset>
+        <div class="field jd-field"><label for="job-jd">岗位JD <em>*</em><span id="jd-count">0 / 4—5条</span></label><textarea id="job-jd" rows="9" maxlength="6000" placeholder="1、写清一项核心职责的行动与工作对象。&#10;2、写清第二项独立职责。&#10;3、写清第三项独立职责。&#10;4、写清第四项独立职责。"></textarea><p class="field-note">每条独立一行，可直接粘贴4—5条职责，保存时统一为“1、”格式。</p></div>
+        <div class="field"><label for="author">录入人 <span>选填</span></label><input id="author" placeholder="姓名或团队，便于后续追溯" maxlength="80"></div>
+        <div class="form-error" id="form-error" role="alert" hidden></div>
+        <footer class="form-footer"><span>保存时再次检查全库编码与名称冲突</span><button class="button primary" id="save-job" type="submit">＋ 保存新增岗位</button></footer>
+      </form>
+    </section>
+    <aside class="side-panels">
+      <section class="code-panel"><div class="code-label"><span class="mini-icon">⌁</span> 自动分配代码<span class="suggestion-label" id="suggestion-label">可用建议码</span></div><div id="suggested-code" class="suggested-code" aria-live="polite">— — — — —</div><div class="code-parts"><span>职能码段</span><span>职责系列</span><span>层级</span></div><div class="code-note" id="allocation-note">先选择职能，即可查找可用代码。</div></section>
+      <section class="panel slot-panel"><div class="subheading"><h3>系列位置</h3><span id="slot-prefix">尚未选择</span></div><div class="slots" id="series-slots"></div><p class="field-note">已有岗位与历史保留码均视为占用。新专业方向使用全新的前4位代码。</p></section>
+      <section class="panel reference-panel"><div class="subheading"><h3>先查已有岗位</h3><span class="subtle">避免重复建岗</span></div><input id="lookup" type="search" placeholder="搜索岗位名称、代码或历史别名" aria-label="查找已有岗位"><div class="reference-list" id="reference-list"></div></section>
+      <div class="workspace-note"><strong>持续补全的范围</strong><p>在浏览器中登记新增岗位，既有岗位保持原稿。完整主库导出包含新增记录；行业专业JD不会被覆盖。</p><p>跨设备或多人录入时，先汇总并导入最新主库或增量，再继续配码。</p></div>
+    </aside>
+  </div>
+  <section class="panel records-panel"><div class="records-heading"><div><p class="eyebrow">CONTINUOUS COMPLETION</p><h2>本机补全记录 <span id="record-total">0</span></h2><p>已保存的代码会持续留档，撤回后也不会重新分配。</p></div><div class="record-filters"><label class="sr-only" for="record-filter">筛选补全状态</label><select id="record-filter"><option value="all">全部记录</option><option value="active">活动新增</option><option value="withdrawn">已撤回</option><option value="integrated">已并入基库</option></select></div></div><div class="table-wrap"><table><caption class="sr-only">本机补全记录</caption><thead><tr><th>岗位代码</th><th>岗位名称 / 职能</th><th>职责系列</th><th>层级</th><th>状态</th><th>操作</th></tr></thead><tbody id="records-body"><tr><td colspan="6" class="empty">还没有新增岗位，从上方表单开始补全。</td></tr></tbody></table></div>
+    <div class="export-toolbar"><div><button class="button secondary" id="export-full">↓ 导出完整主库 JSON</button><button class="button secondary" id="export-delta">↓ 导出增量备份 JSON</button><button class="button secondary" id="export-csv">↓ 导出新增岗位 CSV</button></div><button class="text-button import-button" id="import-json">↑ 导入主库 / 增量 JSON</button><input id="import-file" type="file" accept=".json,application/json" hidden></div>
+  </section>
+  <footer class="page-footer"><span>BMJD · 岗位持续补全工具</span><span id="base-version">离线可用 · 无需安装</span></footer>
+</main>
+<dialog id="job-dialog"><div class="dialog-head"><div><span class="dialog-code" id="detail-code"></span><h2 id="detail-name"></h2><p id="detail-meta"></p></div><button class="close-dialog" aria-label="关闭岗位详情">×</button></div><ol class="detail-clauses" id="detail-clauses"></ol></dialog>
+<dialog id="help-dialog"><div class="dialog-head"><h2>如何持续补全BMJD</h2><button class="close-dialog" aria-label="关闭使用说明">×</button></div><div class="help-content"><p><b>1. 选择职能和系列。</b>同一专业方向补层级时选择已有系列；新专业方向填写新系列名称。代码末位始终对应1—7级。</p><p><b>2. 填写名称与职责。</b>选择适用行业，填写4—5条JD。工具检查代码、名称和历史别名冲突，不会代替你判断两个岗位的实质职责是否相同。</p><p><b>3. 保存后及时导出。</b>本机记录自动保存于当前浏览器。“完整主库JSON”可作为下次导入基库；“增量备份JSON”用于备份、跨设备合并。CSV供Excel查阅。</p><p><b>4. 撤回保留原码。</b>可以编辑本次活动新增岗位；撤回后可恢复。已并入导入基库的岗位保持只读。</p><p><b>5. 多人先合并。</b>离线工具只知道已载入主库、本机和已导入增量的占用，跨设备没有中央锁。合并时发现同码、同名或系列冲突会整体拒绝，不会悄悄换码。</p><p><b>6. 保护行业JD。</b>工具新增的是全局主库岗位，不导入行业子库替换主库，也不回写现有行业专业JD。</p></div></dialog>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+<noscript><div class="notice warning">请启用JavaScript后使用此离线工具。</div></noscript>
+<script id="bmjd-payload" type="application/octet-stream">__PAYLOAD__</script>
+<script>/*__CORE__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

@@ -2,8 +2,8 @@
   "date": "2026-10-29",
   "baseline_version": "BMJD-ALL-20261029",
   "purpose": "Only files required to continue the current master and JD project; historical archive excluded.",
-  "tracked_file_count": 61,
-  "total_bytes_excluding_manifest": 164383782,
+  "tracked_file_count": 234,
+  "total_bytes_excluding_manifest": 670522939,
   "exclusions": [
     "历史归档/",
     ".claude/",
@@ -18,9 +18,29 @@
       "git_blob_sha1": "b6e768ca595c2a315d9d8b15a07cf393d8d37858"
     },
     ".gitignore": {
-      "bytes": 3693,
-      "sha256": "e46672c5165140dfa620013795c172125541e29d89f180ce16a4e22ec3bd57a8",
-      "git_blob_sha1": "59fca326e54ad9edcc5ad10c3e08f5f999451636"
+      "bytes": 15418,
+      "sha256": "1a17e246b7e9b452a2b1b29978d30c93dc3616b8f550dd774515097be6187abd",
+      "git_blob_sha1": "7ace4fdc244d43eb3756664fdaf69f922b667a0f"
+    },
+    "BMJD持续补全工具_20261029/BMJD岗位持续补全.html": {
+      "bytes": 3061392,
+      "sha256": "150b057c30805609f8863e74dce0d5eec33d5b83093ac04fe605ce0b6f19287c",
+      "git_blob_sha1": "8fa6bf29b0ec343090d1c5dd2cf3ede16efcec57"
+    },
+    "BMJD持续补全工具_20261029/使用说明.md": {
+      "bytes": 5515,
+      "sha256": "6f77ce636287019e2e00e23482f9d9c46905b0a47068c50441083993fbdf442c",
+      "git_blob_sha1": "8e1d2997cc92299b8380073acb506cc76e287bfd"
+    },
+    "BMJD持续补全工具_20261029/内置数据与构建核验.json": {
+      "bytes": 2343,
+      "sha256": "06e554179dbddd49d00d27ff7c5eb54a9f77d8cd31db507fed7f8cd0e2aeafe3",
+      "git_blob_sha1": "812fba242a8e262c4595b347457ae924024a107f"
+    },
+    "BMJD持续补全工具_20261029/浏览器核验.json": {
+      "bytes": 1448,
+      "sha256": "834b92553188786f6fbcc5c69241ab711229f64f05b806fc3a93c89ef21a8e6b",
+      "git_blob_sha1": "5eb5fa164903a28677c285606d1fc9b6d1f51c02"
     },
     "JD编写_20261029/build_jd.py": {
       "bytes": 31082,
@@ -63,14 +83,229 @@
       "git_blob_sha1": "876071edfe3b56261b291e852572d7319db96d5f"
     },
     "README.md": {
-      "bytes": 3411,
-      "sha256": "c38a58ebe5157d646d5e58d35eaadb07a00aafae0bfe4e7ec1e8762fc6307aac",
-      "git_blob_sha1": "ed8ac810b310d2184847845326ce70187df6b8ff"
+      "bytes": 8614,
+      "sha256": "4da0cc8f1de095e5701d3a1a1714fb27905206c6550c1d1dfa3590c63dbfe033",
+      "git_blob_sha1": "a95b56c125e6a62a0a24de8aaf44d49b780b4618"
+    },
+    "completion_tool/completion-app.js": {
+      "bytes": 20361,
+      "sha256": "d0ecb32fea76c165d5e8c4ff61fcb155574e6fa3c759cf4a1c499d0c915515ee",
+      "git_blob_sha1": "909ca56b80d3cef0ecfe0b21a4a308ca3c1d3d78"
+    },
+    "completion_tool/completion-core.js": {
+      "bytes": 27748,
+      "sha256": "a4e144f4fde82f176f57a4db51900e0b6eb69580f83b6372707466d8b66c495b",
+      "git_blob_sha1": "ae5fc12107942ae051331218547e90bbb3d2cc30"
+    },
+    "completion_tool/completion-core.test.js": {
+      "bytes": 9634,
+      "sha256": "3af33f19aaad73fbe17ea57edbf4e4ededcf5b941c920b189186ef25613c7736",
+      "git_blob_sha1": "efcb14b86adf5cd38bd7f5d7efb5102780755096"
+    },
+    "completion_tool/styles.css": {
+      "bytes": 18954,
+      "sha256": "d49be51fb6938963c7b57152428bc3eee30db9f5db93ed8c7520617891002e8d",
+      "git_blob_sha1": "0ea77f53b64b65ef96d67089c44df1e8ca19dd9e"
+    },
+    "completion_tool/template.html": {
+      "bytes": 10193,
+      "sha256": "2c925b6156d4d5b4732aa8b08ad8ef1b07817d16eb1e42521cc5f07d794c547f",
+      "git_blob_sha1": "73cb19b2e0d832d02364b72617c19b10ded6f456"
+    },
+    "tools/advance_master.py": {
+      "bytes": 22266,
+      "sha256": "840309eb76472b497e6886057db0cfbde1027d850a90ab2d607fb0004bbe4f5e",
+      "git_blob_sha1": "2296eca914ea256307b075d5b496299af333fca3"
+    },
+    "tools/audit_industry_masters.py": {
+      "bytes": 11414,
+      "sha256": "2910f63246a73cdbb5a87e1224c3edb3b0efaf3119b96a7782cf07f2449ff04e",
+      "git_blob_sha1": "52fa0788a81f43d4ad63ff3b21d91575b6b2eea6"
+    },
+    "tools/audit_job_codes.py": {
+      "bytes": 14370,
+      "sha256": "c6e3f95522c9ac23f8f4a7b4640c5e51c4ba6195265d0314bb01a15aa5102b98",
+      "git_blob_sha1": "cce99f29c0b2d730db550022f489c493967ff1d7"
+    },
+    "tools/audit_job_jds.py": {
+      "bytes": 10690,
+      "sha256": "39a58be27bcafa1e697ffc51196ed8416a7a53f550e0a8101b6e1118ef23e792",
+      "git_blob_sha1": "dfea149f9a98c03a9ca2d83768af7edeb461790a"
+    },
+    "tools/audit_specialized_industry_jds.py": {
+      "bytes": 14597,
+      "sha256": "77229755ef067014dabe8fc9a326386ac3b08d5cf9e6c64609c216a920221191",
+      "git_blob_sha1": "a7ebc904a11ca2665b27f29913a83400c695d2f6"
+    },
+    "tools/build_completion_tool.py": {
+      "bytes": 5696,
+      "sha256": "7286ab7afd8551b278710be4f05bf0fb5de4f2d3d89c8882a63f7729f6be1e9d",
+      "git_blob_sha1": "0d3115ff0734826f7a444fe3bef422ad8919df56"
+    },
+    "tools/check_completion_browser.py": {
+      "bytes": 11941,
+      "sha256": "91381a1e7800c197d89303739424e8b33da33682c9a73aee81c3ea69da5b7fa1",
+      "git_blob_sha1": "a66f77c0ac3cc8f9e115962bc600cd8a10056e5f"
+    },
+    "tools/export_industry_masters.py": {
+      "bytes": 7744,
+      "sha256": "9fb1b855d696b87711e4afcd080ba0a2cf6b30f9e0cd0c7016b776ea9b9c34b5",
+      "git_blob_sha1": "53535f0f66127e79521a1b261490e0fbecf49c05"
+    },
+    "tools/export_job_jds.py": {
+      "bytes": 6705,
+      "sha256": "3fa0e063f3b49464cad88723ffaa1565c90daeff3034ec3b6723cb20157e5a31",
+      "git_blob_sha1": "f6f432559b5ec8c5589d955dfcb07cc4c2d9bce7"
+    },
+    "tools/export_specialized_industry_jds.py": {
+      "bytes": 5845,
+      "sha256": "d2e55915018050ff94482db86c6c91f5c24f1fffac9ac14815c513886f7687fa",
+      "git_blob_sha1": "797a940ddef171fb1761ced9e23a832e789122d3"
+    },
+    "tools/name_code_master.py": {
+      "bytes": 24760,
+      "sha256": "2cad8d5648fa355e595d4ddd670e52eb12fc4cbf31e6f1913dac679cfe711f5c",
+      "git_blob_sha1": "54b92e07155bbe16c8ceb1d74c873298a61ac29e"
     },
     "tools/project_files.py": {
-      "bytes": 8248,
-      "sha256": "922e205e19fff0126996d835499f0b0305904c1e9617f78556fe0d760116f401",
-      "git_blob_sha1": "483f808aadab312a1fb8e6b09834a6c7ed1348ed"
+      "bytes": 12484,
+      "sha256": "6ea9360d21d67f18dc8354d7c2c767b098f36dd8f6f9f3e541477c53006277f0",
+      "git_blob_sha1": "6e902e6a50b54b3668607699e29cad2cffd52518"
+    },
+    "tools/review_job_jds.py": {
+      "bytes": 22685,
+      "sha256": "7a1461a029605b8adff54b737a839e1e2b2c5949062e3a83a4ed67cf38556bfa",
+      "git_blob_sha1": "8a328e1c8caf2c2c39e95c88c152da8fb7c7ffc8"
+    },
+    "tools/specialize_industry_jds.py": {
+      "bytes": 15829,
+      "sha256": "ebff36c1bb74e08cff84715cf01fe8b5a2be462378bb60687c83e2bb98aa0fda",
+      "git_blob_sha1": "ae76def1bf3e0e204f39baf40dc1ee966a0c02ef"
+    },
+    "tools/split_industry_masters.py": {
+      "bytes": 12017,
+      "sha256": "6a3c8500a985d1a33fd96c51ab6377c8fc24c81059da51d94f87dbc6b02d0242",
+      "git_blob_sha1": "fe8b54fdb5de5cad849a40e7aafdf3dad422b264"
+    },
+    "tools/test_advance_master.py": {
+      "bytes": 6549,
+      "sha256": "0b4fbbbe0e92a4cf344e8bca2a2cc263b41be17a2d1a0038c057b52ffe1b523b",
+      "git_blob_sha1": "7121b50d9e5ef92f7fe1fcf71027ab5141580612"
+    },
+    "tools/test_audit_job_codes.py": {
+      "bytes": 2688,
+      "sha256": "8e49e83d94b7af31076b5072d4cb3f31a8528bdbc7c117d69960f7210522ab9a",
+      "git_blob_sha1": "73c9bcfdcfde9df3a3b6775f96d985e71aa107ff"
+    },
+    "tools/test_audit_job_jds.py": {
+      "bytes": 1806,
+      "sha256": "12aa3f547518600873b55f085e013bc563db90cabc6df1be98eca8306bd22ade",
+      "git_blob_sha1": "34493e2a3f340d8343da8e7fe86a64cd42df0910"
+    },
+    "tools/test_audit_specialized_industry_jds.py": {
+      "bytes": 4020,
+      "sha256": "27a6fd30eca537c4558607e504f6f2c64edfbe77d41d3196d01c1a4de6e4726a",
+      "git_blob_sha1": "212a8ad364bb26235f3c5a43f85a508ca26079a3"
+    },
+    "tools/test_name_code_master.py": {
+      "bytes": 6985,
+      "sha256": "a79c057db6b88c357295bbabafa9b389091fc3983731adc6368520163413ec83",
+      "git_blob_sha1": "2216e08d06bbc50c248dbf8ba1015a3e0d8b5579"
+    },
+    "tools/test_review_job_jds.py": {
+      "bytes": 6545,
+      "sha256": "bb5df56829db96a885d6c8259ba77afec316a3e319cfe1800f37c734aa1b4e3b",
+      "git_blob_sha1": "93f0b8e14b6c26dfb1accf6ea6b429728c32c375"
+    },
+    "tools/test_specialize_industry_jds.py": {
+      "bytes": 5515,
+      "sha256": "4e726939f15a0735217f436805107635e1e17247d60fb248707c19cef4581635",
+      "git_blob_sha1": "7df99b551e84524b8c430f5ea2ae6167481d9db1"
+    },
+    "tools/test_split_industry_masters.py": {
+      "bytes": 5965,
+      "sha256": "1f739c847a984803c0186fe96c609335dbede29cb838220ea8e0ecc1e40bed0c",
+      "git_blob_sha1": "be62f089176902af00f0f437b4b3c23559d8484e"
+    },
+    "tools/test_unify_all_names.py": {
+      "bytes": 11282,
+      "sha256": "bb7a226944e4b1c26c543d99dfd37ae156759cb6cb4a5acf5a7b95f5e0171742",
+      "git_blob_sha1": "ac36d5a4e2ee095dbdb6526d1115d77c2ee8dd57"
+    },
+    "tools/unify_all_names.py": {
+      "bytes": 46548,
+      "sha256": "da09ffb7aeedcda125a890925db6c0e0af0d24fe04c10ed590339abfd8ec7acf",
+      "git_blob_sha1": "21a9fee617fcaec06bb2c56b86b6a017be01c623"
+    },
+    "主库推定整理_20261029/JD接收记录.json": {
+      "bytes": 5972764,
+      "sha256": "592fb8ac0c1fa9d351c22618badb91c89990c650e8573ae80c1e1fff18d9f2a9",
+      "git_blob_sha1": "56c163ef6ea63740aff8c26998d2fd38ef4162e4"
+    },
+    "主库推定整理_20261029/全库相邻冲突候选.json": {
+      "bytes": 11893,
+      "sha256": "8e03333c031b7c2d2ac902539166fce1e22d146f614d6d82bebd79e80ec8dc4b",
+      "git_blob_sha1": "3cef21a75116b20aa5c471164d9d263e3024ce14"
+    },
+    "主库推定整理_20261029/受影响JD清单.json": {
+      "bytes": 816,
+      "sha256": "c2281323dd682fa5b679309470ad1d8c4ac954449d827eadcc90f7f098de8a70",
+      "git_blob_sha1": "3f88ebae6348db032d5953af8cadc6453aa23cc9"
+    },
+    "主库推定整理_20261029/基线到当前ID映射.json": {
+      "bytes": 2778036,
+      "sha256": "536475acec37b939e2cb9a80c9bde25a2168922d7ede13ace48fb16ba9e06667",
+      "git_blob_sha1": "d0abe3fa57824b0f46c56abad0e0545dfe9df35f"
+    },
+    "主库推定整理_20261029/岗位JD及条款依据.json": {
+      "bytes": 33393670,
+      "sha256": "6416e25d8cecf384748a51aefe7e4733f53e603feb8e31e0da91eaad418cc36a",
+      "git_blob_sha1": "7dda2c43dde9a407106df8e3f114df5d8bf547dc"
+    },
+    "主库推定整理_20261029/接收修复及正文变更.json": {
+      "bytes": 22634,
+      "sha256": "8d748987712d477d8801696949e64ec86d6533b0191699ca7e1ee6dd8909ac1c",
+      "git_blob_sha1": "52981197d3851a707fc04f374b0c0823616e61fe"
+    },
+    "主库推定整理_20261029/朋友身份问题线索.json": {
+      "bytes": 190863,
+      "sha256": "6b4a368119be0dfdf21ab67ae7030a54122b8d56d2f00bd30921b9b73564f095",
+      "git_blob_sha1": "0cf0ac77dfdf99effd1176722bcab488b3e5975d"
+    },
+    "主库推定整理_20261029/核验报告.json": {
+      "bytes": 988,
+      "sha256": "ff9e3804f2d14d30ce84bc55fba2f6360a5bdd4fcb45d72f4022193d86f4e7ed",
+      "git_blob_sha1": "48ffac0b8296f796a877e666bd4f2b56fea506ac"
+    },
+    "主库推定整理_20261029/统一主库.json": {
+      "bytes": 54506698,
+      "sha256": "d2c5dd4dedfae19431f95e6d887cf4307b77811a34249ad652ecd187151f86ac",
+      "git_blob_sha1": "9a8103f63906b68519e759e5685457b4f545cfc3"
+    },
+    "主库推定整理_20261029/规范职能字典.json": {
+      "bytes": 3801702,
+      "sha256": "500d75c2f1ce33f4b76ff8b8494495a9ceebf26e9a114365c78c0b80647c1a28",
+      "git_blob_sha1": "059391767cbe6db117a903554af32c29f3dd6d8f"
+    },
+    "主库推定整理_20261029/身份推定结论台账.json": {
+      "bytes": 1213767,
+      "sha256": "da5f260540b27ebd40bf1bfb68724704671971a09a9ef567ecd25fce46e075ed",
+      "git_blob_sha1": "22e275909bb49c2d73ecc26f8921be1aa6b30974"
+    },
+    "主库推定整理_20261029/输入指纹.json": {
+      "bytes": 1286,
+      "sha256": "2309b52bab855c4c3088ed672f8c0c68d35c305ad24af6e0aff332aaadfe8d41",
+      "git_blob_sha1": "249517a6d6faafce61aad32fe86cfc946f3d3cd0"
+    },
+    "主库推定整理_20261029/进度与交接.md": {
+      "bytes": 5180,
+      "sha256": "2bfc9d2b70d61bb48e1afbc233a2c3b6de0511da31bf735c13ca5eb16966ded0",
+      "git_blob_sha1": "8e50ec8dfc9ba3da029d609724a95fba392858c4"
+    },
+    "主库推定整理_20261029/首批复核决策.json": {
+      "bytes": 5465,
+      "sha256": "b23f8d66e8c48d45bb98de70440efd11d9075926b41e3807daf8d31e755b9b52",
+      "git_blob_sha1": "99a38ee7d500b1e68c6ffb6798dfd813dabe8be3"
     },
     "全库统一完成_20261029/C3工作码至统一码映射.csv": {
       "bytes": 737048,
@@ -126,6 +361,111 @@
       "bytes": 6465,
       "sha256": "9e463575b7c380186c05fc790f9f3c671d24733d372feb3458f5bf45fc47ae1e",
       "git_blob_sha1": "6777c5db11e115409fc6bcc71a7e04c3e2118f2b"
+    },
+    "全量名称代码统一_20261029/全部岗位名称代码表.tsv": {
+      "bytes": 1083574,
+      "sha256": "1c79273872a5b4dcd97d20af6ace913f3a658d8a309ee1b078ec789e02cd50da",
+      "git_blob_sha1": "d8b48d93363833b509e6367db588ccd614a90d4a"
+    },
+    "全量名称代码统一_20261029/全部岗位名称代码表.xlsx": {
+      "bytes": 569194,
+      "sha256": "638fe90a8666a82dd91a78d161cee4427bbd0ada21fd348b706856cc08859e14",
+      "git_blob_sha1": "ab69e313d426961d18c7eba617519229ea9e2611"
+    },
+    "全量名称代码统一_20261029/全量原表元数据.json": {
+      "bytes": 15091739,
+      "sha256": "1b19146dc210cf38d1381aef445950b7be5782d80ba337119af7cb46348f1cca",
+      "git_blob_sha1": "ec06a880b8686a8efff5d7c569c4a72038cf1149"
+    },
+    "全量名称代码统一_20261029/全量岗位处置台账.json": {
+      "bytes": 10855679,
+      "sha256": "54d314634ce7dc282a4599f2bda3057090c1b5d57905c847a61aa3f66dd7e0d2",
+      "git_blob_sha1": "514bdd212e4a8011552f5757bea5eed556df824d"
+    },
+    "全量名称代码统一_20261029/前版ID名称代码映射.json": {
+      "bytes": 3599088,
+      "sha256": "7381a25fa9a33cd8b18ac79455796a029a2cdb8b48cd8904ee333f83935f89e9",
+      "git_blob_sha1": "11a92841981f85a2c96ebf910226fc01f4bee3fd"
+    },
+    "全量名称代码统一_20261029/原级与工作级差异.json": {
+      "bytes": 7692,
+      "sha256": "aa8f8fcaaee828d8cee65994df3bd68dea4d50b2ffa0aa9667a07969d6026b3f",
+      "git_blob_sha1": "f2050614b932fc6d76828e5d882814c007e8322c"
+    },
+    "全量名称代码统一_20261029/原表版本差异.json": {
+      "bytes": 54966,
+      "sha256": "d68a419945269c89d42be6ad1fb11c8f605a0eedc3c0286f6272e69545be109b",
+      "git_blob_sha1": "b495cce880ac276e8ec7ce7bb1ea7de4df1efc76"
+    },
+    "全量名称代码统一_20261029/同名跨职级说明.json": {
+      "bytes": 43585,
+      "sha256": "aa192177a2663bcfde3c5c2c5572d365fbd083040e26de19f194116c08036e99",
+      "git_blob_sha1": "71959a9ebd307968e3c242d6c474604ff1506344"
+    },
+    "全量名称代码统一_20261029/名称代码主库.json": {
+      "bytes": 7478797,
+      "sha256": "af2ba9276c52366a26610b949eb621ca2b8e31215261979712e85dbfe4b25d01",
+      "git_blob_sha1": "ca0a17e9adbc14c3e321ae9858f1e639cff54b4d"
+    },
+    "全量名称代码统一_20261029/基线ID名称代码映射.json": {
+      "bytes": 2513102,
+      "sha256": "cca4cc6fd8696b2266f820836430045b905020d58d803292afae623bcdbae9b3",
+      "git_blob_sha1": "998704d56ee2359049e6387e0567c0635224587f"
+    },
+    "全量名称代码统一_20261029/基线推定岗位处置.json": {
+      "bytes": 1680722,
+      "sha256": "d26454d799f007631fad9eb6feef7d02ec2cdaf94dbb077c9d6604aeabbf34ad",
+      "git_blob_sha1": "ae79b28339de2492077ab5edc32cfeab61fab6cb"
+    },
+    "全量名称代码统一_20261029/来源去向映射.json": {
+      "bytes": 7731476,
+      "sha256": "e5d8eec7470e149656789278dc5092466c1dfd135fd0246daedd081dc81cee3f",
+      "git_blob_sha1": "526719553acb741de56ecc1788a68414a00c8b19"
+    },
+    "全量名称代码统一_20261029/核验报告.json": {
+      "bytes": 1290,
+      "sha256": "2dc04896d7116d854a1100ece3dfd3f71c607440552d068ff3e840b2e00cc99c",
+      "git_blob_sha1": "d2b0b5624b37a50eb00bf5d808ab76455c97ca01"
+    },
+    "全量名称代码统一_20261029/统一结果与交接.md": {
+      "bytes": 7860,
+      "sha256": "eec0ae72d5cdc87eab65145de9c9a7be7d72aa5e90f4ce4a564fef8e7c81cea7",
+      "git_blob_sha1": "6d35d5d022960f4f6343dcf962997f60a49c14a4"
+    },
+    "全量名称代码统一_20261029/统一规则.json": {
+      "bytes": 219992,
+      "sha256": "02767091c7dc6908d7ff549a60624ce9a82f38c77efbadfaf4d91c0b0565bee3",
+      "git_blob_sha1": "5dd3a012f694047e14b93af9d61dfc80d8ca2cff"
+    },
+    "全量名称代码统一_20261029/编码自审报告.json": {
+      "bytes": 6026,
+      "sha256": "45ba49026fef003553804b250930e852c7f556b7a95bb993ddce655f1af0a7ee",
+      "git_blob_sha1": "97fc200b6e15fd660f01b5cc6cc3f98d70e29979"
+    },
+    "全量名称代码统一_20261029/编码自审规则.json": {
+      "bytes": 1922,
+      "sha256": "773059b2e500541ec8842ab3dc1a20240d98ae4dbd81bd94c1750b9c67e5f86f",
+      "git_blob_sha1": "7223cee92836bf8d2fcf6f0a78ab95379859924a"
+    },
+    "全量名称代码统一_20261029/编码自审说明.md": {
+      "bytes": 2885,
+      "sha256": "e98b5d85a400d4a045bd8d5e6d2ca1fea3ce6e52903bb29af9010ccc54e25e23",
+      "git_blob_sha1": "95093aac27e6eacb23f7050dd7e6912d4f0ace1d"
+    },
+    "全量名称代码统一_20261029/输入指纹.json": {
+      "bytes": 3223,
+      "sha256": "bee454b7dabc19b94f63ec0de2b92545587548f08d4951271ea4cb1e69b07c27",
+      "git_blob_sha1": "0e1a406c21558abb4a1892d9e9bec645a91085b4"
+    },
+    "全量名称代码统一_20261029/边界统一结论.json": {
+      "bytes": 1847,
+      "sha256": "d891c650485fc9a83e0c9f318dd23c15951f74c57c26ab28987e22b332b398c7",
+      "git_blob_sha1": "d5d30a14b5a20100202d74f51a31b247b7dd9250"
+    },
+    "全量名称代码统一_20261029/透明推定清单.json": {
+      "bytes": 4968425,
+      "sha256": "ce9ec75fc7feadf5d8544b09d52cb55ba01fad06c2a6962ef55561197fad0a18",
+      "git_blob_sha1": "925fce7770d815b2a741d9e0b05c7c46e3141439"
     },
     "原始资料/README.md": {
       "bytes": 759,
@@ -297,20 +637,545 @@
       "sha256": "ce7ced1f7d905118fbc8a29f1f6340d2a245f5c177ecfad9745aa2df3837b122",
       "git_blob_sha1": "b26e9798bde24312d9e3a7ba7db6636f8aaeb504"
     },
+    "岗位JD匹配审查_20261029/JD审查与编写规则.json": {
+      "bytes": 178194,
+      "sha256": "32e61e4ed6c259f92f34ffab4d1e1430ad08a9a4152a9b5b813ff8259b540842",
+      "git_blob_sha1": "1f766f7cf72fdfe02d26610a8ac78c2db3c9cda6"
+    },
+    "岗位JD匹配审查_20261029/全部岗位名称与JD.xlsx": {
+      "bytes": 2822614,
+      "sha256": "ee3e999322788d2de89bf7a139aaa4d8d6bba84e4a5ccbcd665f020eb1d429d0",
+      "git_blob_sha1": "7c068df74c676e00fdad8ee3065c38c8fc7034cc"
+    },
+    "岗位JD匹配审查_20261029/审查结果与使用说明.md": {
+      "bytes": 6428,
+      "sha256": "816ea11d9f1b673411d5698f08cc83de094e2e6edeb1215cb7c8a976e116ddea",
+      "git_blob_sha1": "a915c69d3d813abe94b692f40fefe9b73ef88641"
+    },
+    "岗位JD匹配审查_20261029/岗位JD主库.json": {
+      "bytes": 33487224,
+      "sha256": "68fd7023cfd1c8f6b19359c40f3fb1806a7a78342003af2cbb8596d65c2e1ef4",
+      "git_blob_sha1": "99f6362cf0e00f5c45e750ef40e048fb68415dff"
+    },
+    "岗位JD匹配审查_20261029/岗位名称与JD表.tsv": {
+      "bytes": 5985162,
+      "sha256": "ec04b15519e98a5f7f6f21a20162d4b1c010967823ae147a06f0d5adc60f831c",
+      "git_blob_sha1": "b97e1e1338aecaa4fdc17dedd87483cafc920e3c"
+    },
+    "岗位JD匹配审查_20261029/核验报告.json": {
+      "bytes": 3809,
+      "sha256": "972bd09dc0dd41be6bb6f91e20aa66e6703502da1bd346264927c8439e34ae32",
+      "git_blob_sha1": "60531d11b449e785a87c2a9865c9a49710941bb3"
+    },
+    "岗位JD匹配审查_20261029/独立核验报告.json": {
+      "bytes": 2980,
+      "sha256": "eeb61e75b5139d4e886ccacc07e2fbf2673713c60749f48fd9c61fca70a3a74d",
+      "git_blob_sha1": "9f404cc62bd6ba5f075380dbe2c61306d8b9d1c6"
+    },
+    "岗位JD匹配审查_20261029/职责系列审查目录.json": {
+      "bytes": 2087238,
+      "sha256": "f4c19773ee1073fb2f6b4d96fa126fbadb44ef37469c78a22e71efcb72f861ff",
+      "git_blob_sha1": "f43973e507098ad2a7faea7838ec5cac5a8ed0ea"
+    },
+    "岗位JD匹配审查_20261029/逐岗JD审查台账.json": {
+      "bytes": 30004005,
+      "sha256": "576641062b88b9decfe72d644c9f4da1dbcf7dd00a4dea62c2931714c9ce6fcb",
+      "git_blob_sha1": "dbae95ddbc0b1181e7dab4d41f901679283506b7"
+    },
+    "岗位名称代码统一_20261029/原表名称职能证据.json": {
+      "bytes": 300159,
+      "sha256": "3389588523af4eb88695b930a324d79bebc3fc785a8166ad00573bfbc69c9273",
+      "git_blob_sha1": "55d39ec4bcb12c9cafb8acfb7d882338555fbd8f"
+    },
+    "岗位名称代码统一_20261029/同名待核候选.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "git_blob_sha1": "fe51488c7066f6687ef680d6bfaa4f7768ef205c"
+    },
+    "岗位名称代码统一_20261029/名称代码主库.json": {
+      "bytes": 6339374,
+      "sha256": "8bb0cdd933eb3195f84bf1726a669a7158faedf9d306e83bf28b8de172e5ca99",
+      "git_blob_sha1": "26d3ff9d546fb6ff65c392879552790e7c8c52d2"
+    },
+    "岗位名称代码统一_20261029/名称代码决策.json": {
+      "bytes": 61369,
+      "sha256": "fbe83068894cfe5d6ec9cd728def5cbcee33888937e5d7192dc4a10d0bf9bdb2",
+      "git_blob_sha1": "fffc70c31dbbfa8c03793f9e9f60144608fe8d24"
+    },
+    "岗位名称代码统一_20261029/名称代码变更记录.json": {
+      "bytes": 35280,
+      "sha256": "2a5b52ad08d522844f5bf95d9b74a9aed21ddf7ca7a9937758a8262d6a7b02ef",
+      "git_blob_sha1": "d1f3a03e6d90a92276312ba618ee0f521177725d"
+    },
+    "岗位名称代码统一_20261029/基线名称代码映射.json": {
+      "bytes": 3765005,
+      "sha256": "cfed7ebf81b4e6c80f6d3edfcfce4b4a0514101aa43657c41e3b46478a69eb45",
+      "git_blob_sha1": "14f1c9250a0ef1d650e50b64449b388b58dbf4b4"
+    },
+    "岗位名称代码统一_20261029/岗位名称代码表.tsv": {
+      "bytes": 979709,
+      "sha256": "23bf30fd560e7de5a43a74f36099ed7a387c14307f6b1dec3986f1404bd2f5c5",
+      "git_blob_sha1": "5e1d5c20044673443a9190e58140ab325d87c93d"
+    },
+    "岗位名称代码统一_20261029/推定岗位名码台账.json": {
+      "bytes": 853971,
+      "sha256": "0b4b085fd842012fc118e3eaba3a2d445325dfd03d78b4a8398622890f8f6a0f",
+      "git_blob_sha1": "84d092c75ce8699c720a333ae66aa61c0a8c61e6"
+    },
+    "岗位名称代码统一_20261029/来源去向映射.json": {
+      "bytes": 8548514,
+      "sha256": "5908f9de1abbd1687f26c5c993c73e6beced0cceebd7c39bd37c42e0ada868a4",
+      "git_blob_sha1": "c374cfddb37432a7c2e262d8bc1f9136676873cb"
+    },
+    "岗位名称代码统一_20261029/核验报告.json": {
+      "bytes": 1005,
+      "sha256": "d215264780b5df7a895f94d124e742bb58d62b5b2fc309c3cf20a00845fff712",
+      "git_blob_sha1": "1baca616076a0c4f1ce9134bb1906d08bc11966f"
+    },
+    "岗位名称代码统一_20261029/跨职能边界待定.json": {
+      "bytes": 4595,
+      "sha256": "36349647a7df4073ca486ef22461bb8c14073b663c2911de44dee0e022484a4b",
+      "git_blob_sha1": "5fd280aae493cc9b9e19f4caabc59e073d2633d7"
+    },
+    "岗位名称代码统一_20261029/输入指纹.json": {
+      "bytes": 3081,
+      "sha256": "201c7e1de52714c2fe80453062584af8852c97454c488ea687b64326b3ab5a36",
+      "git_blob_sha1": "2606569f6e53670986b99225fe0a6aa052711d28"
+    },
+    "岗位名称代码统一_20261029/进度与规则.md": {
+      "bytes": 6715,
+      "sha256": "709eb0a8c5f4ce33d64a12875242cb792301df7c1ea79bb54f450f2b5bf0d12e",
+      "git_blob_sha1": "dfd669438bb4650b94c72bfbb3d49e862810d0c3"
+    },
     "统一收口_20261029/岗位职责原文.json": {
       "bytes": 6870198,
       "sha256": "48c94f27d707ff33a6dba6f0cd3bbe6be1ebb953ebdfb648e9c9f6c3cc506764",
       "git_blob_sha1": "61cd1ea77435e67d44c167546b3d5857cf8ea4fc"
     },
+    "行业一级子库_20261029/BMJD_11行业一级子库.xlsx": {
+      "bytes": 4173210,
+      "sha256": "32828ade8813d7b16608ce1e91c0dfac4cfc7554e4b141417b81e04bb1601963",
+      "git_blob_sha1": "39a4462422089797f4a8dcb0ac289d6ea1ba2433"
+    },
+    "行业一级子库_20261029/传媒/岗位主库.json": {
+      "bytes": 5927167,
+      "sha256": "ab39bb79046d4200864fd1c866ed3478013d60bf75b86628f75e404269d6becc",
+      "git_blob_sha1": "25fa9ce1dc4d349daffd7acb1b2e51362db3e4b9"
+    },
+    "行业一级子库_20261029/传媒/岗位主库.xlsx": {
+      "bytes": 262910,
+      "sha256": "e897f5a30074b9934e573a942a78d7b0c0a5995de718ad51982f1bd8cd776927",
+      "git_blob_sha1": "8312fc4866277a924bca13849611f6ccd923ec52"
+    },
+    "行业一级子库_20261029/传媒/岗位名称代码及JD.tsv": {
+      "bytes": 783918,
+      "sha256": "a6afc57149432d033a075128ee874e64dbdb27677d1252818aec82bcb5f9f05f",
+      "git_blob_sha1": "73ae1ff06b7c5f57cb707137337f78f47ce8844b"
+    },
+    "行业一级子库_20261029/制造/岗位主库.json": {
+      "bytes": 9229778,
+      "sha256": "d149d6ab4c792a74e9671bf35f5b47b9a1621949098595d531349eea73a6efe2",
+      "git_blob_sha1": "bd454533db5d4aaa88b8b17a497bb9c819ba72ef"
+    },
+    "行业一级子库_20261029/制造/岗位主库.xlsx": {
+      "bytes": 405084,
+      "sha256": "f1bbcb97e88118fe862dbe8290773ac4ede22d55eb8ab88775afef20b731a0af",
+      "git_blob_sha1": "da926fe04e2f6dd9f74c535544a13410305bd2f0"
+    },
+    "行业一级子库_20261029/制造/岗位名称代码及JD.tsv": {
+      "bytes": 1218478,
+      "sha256": "2367a940cc05700343631a69e0fb46f4a77076999d9283db13545f3720864c8a",
+      "git_blob_sha1": "f7217a7afc5d8dd842970e8c4c163bfd1312f251"
+    },
+    "行业一级子库_20261029/医药/岗位主库.json": {
+      "bytes": 9454149,
+      "sha256": "30f0ac0ebbb16f96929c4a47441b79a5228d7c28e03117d9048c05bd25f81de0",
+      "git_blob_sha1": "559b312fe2267a6837467359a00ab955a8c9fa04"
+    },
+    "行业一级子库_20261029/医药/岗位主库.xlsx": {
+      "bytes": 416266,
+      "sha256": "8401491588639af56643fb040e451e25716fec8a2a3b2678e75e51aff6597695",
+      "git_blob_sha1": "f0a59cac8bf51344469072adbe34fd86897bb4e8"
+    },
+    "行业一级子库_20261029/医药/岗位名称代码及JD.tsv": {
+      "bytes": 1264258,
+      "sha256": "61c5231645b820f4643352031e16191989119bc399b52332181183955b61b1a7",
+      "git_blob_sha1": "fd545db0f9261a3abda8e1a6fdeb24fc3d6a454e"
+    },
+    "行业一级子库_20261029/地产/岗位主库.json": {
+      "bytes": 9647095,
+      "sha256": "97a54e1e1f3a6aa6303eae48429f93736d898b760f1a293508825870c3050ec1",
+      "git_blob_sha1": "54cbc5e2c4418b6b8dbdfe5c0a8f37df7e823df2"
+    },
+    "行业一级子库_20261029/地产/岗位主库.xlsx": {
+      "bytes": 440570,
+      "sha256": "396b3c622d6c3adfe205680a93004a3513c74d3082ac041b69aca5b30b364f0b",
+      "git_blob_sha1": "5ed61953f76d4bddf15e4854031994db81a5a751"
+    },
+    "行业一级子库_20261029/地产/岗位名称代码及JD.tsv": {
+      "bytes": 1256143,
+      "sha256": "01237901f5fe0c5fd62c83bb5e79175ee404c54104f1bfc3d6c55d16131da6e3",
+      "git_blob_sha1": "07bb63e2c13017d5f6ac8c63d1ece994d637bd9e"
+    },
+    "行业一级子库_20261029/子库总览.json": {
+      "bytes": 4765,
+      "sha256": "c6c1538457e015ef777aae6979066e6bcf6b46612db17c7b6a12a6179ee1f2cd",
+      "git_blob_sha1": "9cd8f767af222efe6513379256870cf082e0ba2f"
+    },
+    "行业一级子库_20261029/岗位行业索引.json": {
+      "bytes": 2465264,
+      "sha256": "5b979a3ade30648f7af89a8e323e1d681535e91736b8b5763e5dd1d1a5e07004",
+      "git_blob_sha1": "bdaa31ee7862032ce95d101edce113daa93fa2ad"
+    },
+    "行业一级子库_20261029/拆分结果与使用说明.md": {
+      "bytes": 5300,
+      "sha256": "dbd5d9ff7b159dcca4da0362e0a3f7c50ea95304ce62d03b526fcf852bd145cd",
+      "git_blob_sha1": "b5279c4b3281bcbb7d3e60ba29b07904557b36be"
+    },
+    "行业一级子库_20261029/教育/岗位主库.json": {
+      "bytes": 5788564,
+      "sha256": "1c6f150bec2cc177422788013f22ead2c75059d82ecbd7cbc5f707a7daab4d23",
+      "git_blob_sha1": "7ea4e83b4bd00bc14cf684298b9433d155f5709e"
+    },
+    "行业一级子库_20261029/教育/岗位主库.xlsx": {
+      "bytes": 249738,
+      "sha256": "09e45fbe9ee25cc106b31ead68bc3a845f3836b1d5846213bdddad66725bd698",
+      "git_blob_sha1": "333d79968da491690215d64b75de21f37bea65e5"
+    },
+    "行业一级子库_20261029/教育/岗位名称代码及JD.tsv": {
+      "bytes": 759293,
+      "sha256": "9d8e973c3d00fc7fdf40b1308efc5e557c11efb0b748108987dadff084031052",
+      "git_blob_sha1": "df181347ba66be969f2470efa908dd8b688ab944"
+    },
+    "行业一级子库_20261029/核验报告.json": {
+      "bytes": 10672,
+      "sha256": "927419cf8287e0437d07a0202081507bd0ec8f39bedb3eeecaef63118830bb1a",
+      "git_blob_sha1": "5d65d27aa7ea282cc0da048a10efa710f003379c"
+    },
+    "行业一级子库_20261029/消费品/岗位主库.json": {
+      "bytes": 8515887,
+      "sha256": "2e1f3ebebb16904c19174d5d87cf62581975ae0f53b200b2879c2816f522b432",
+      "git_blob_sha1": "de26d3cffa8c8f6b56ec5f5df1459f51e581d90a"
+    },
+    "行业一级子库_20261029/消费品/岗位主库.xlsx": {
+      "bytes": 383233,
+      "sha256": "caeeaa491468a33324c550cdb085d0ad0ac8ba50f0a678bec1cd77e1964bc5b9",
+      "git_blob_sha1": "1ef57d3aa9980358882f9d72b1fb8429f34c83cb"
+    },
+    "行业一级子库_20261029/消费品/岗位名称代码及JD.tsv": {
+      "bytes": 1132484,
+      "sha256": "dd19649c341ec40e2f09fc3636bc682b488353c286c0004808a5aaf5fb31b4fa",
+      "git_blob_sha1": "5540da8f2ac3d3b509ed789c64d3e089c0fb5924"
+    },
+    "行业一级子库_20261029/物流/岗位主库.json": {
+      "bytes": 5180790,
+      "sha256": "2df2d6bc06b8ab996499f8a0626b65042111f5d9f5293e6d11a5da0afee2d153",
+      "git_blob_sha1": "106c040b96fea109cb3a8262c85150b4555dcbf0"
+    },
+    "行业一级子库_20261029/物流/岗位主库.xlsx": {
+      "bytes": 232702,
+      "sha256": "474e1022467579c5f3f0b72e551bb84dc29ea6172be83aa0f61bb0282f7493e0",
+      "git_blob_sha1": "c53f3a09406fef8944e868ae5e7f7e07404c369e"
+    },
+    "行业一级子库_20261029/物流/岗位名称代码及JD.tsv": {
+      "bytes": 694028,
+      "sha256": "8d0462ac6b59fd8970fdddf98aacb9a7266ee27667ffb01ea68dd9c5e958f648",
+      "git_blob_sha1": "303c14b072ca2aa1954cd99282388c6ce8eee889"
+    },
+    "行业一级子库_20261029/独立核验报告.json": {
+      "bytes": 19470,
+      "sha256": "f7e01e48a88963247795ef27a250c36ccd57df7080ded5ffbd55adb460950bcb",
+      "git_blob_sha1": "0c7d2a6ca403f69e8240030d1b8b0a7d092bee4c"
+    },
+    "行业一级子库_20261029/综合服务/岗位主库.json": {
+      "bytes": 4972004,
+      "sha256": "8378105e814df7f595bb305e4523c4445f6c3a1b7a3b7cccfb0152d691c0c844",
+      "git_blob_sha1": "090dd4289a4c041e9fdd27fc61de4af89cd3c6e9"
+    },
+    "行业一级子库_20261029/综合服务/岗位主库.xlsx": {
+      "bytes": 222580,
+      "sha256": "d2617399928c1002555c5cd8b3fc4386f016789409c6d709d483843e35dc540d",
+      "git_blob_sha1": "bb68f4a0230b6c04883541f020963e9c052012ef"
+    },
+    "行业一级子库_20261029/综合服务/岗位名称代码及JD.tsv": {
+      "bytes": 672502,
+      "sha256": "5828040c7bd3558d879efdbefcf549af8113c7c8f74ed1a2c1a7bdb623772df0",
+      "git_blob_sha1": "13452bdf1fb3c4c589712b528cd2e5b3944a41d7"
+    },
+    "行业一级子库_20261029/能源化工/岗位主库.json": {
+      "bytes": 10107309,
+      "sha256": "f5769ffe1a8e57506a719afe94f9171a44301ae3cc28366a83cabadae1fa2244",
+      "git_blob_sha1": "b07471d3627aaf4e2b2d922b74270643e1b6f0f3"
+    },
+    "行业一级子库_20261029/能源化工/岗位主库.xlsx": {
+      "bytes": 452659,
+      "sha256": "0965ced05a8e4559aabf9bfdd3cef74a269419c719ba12ecf7dd4c06255cfade",
+      "git_blob_sha1": "c1c6508aa1f3092020a35d4f07bad25fca25bfec"
+    },
+    "行业一级子库_20261029/能源化工/岗位名称代码及JD.tsv": {
+      "bytes": 1354445,
+      "sha256": "b06f762b073759273fabb9c307683df324f66ee393fd7af4d1d9bc8f100a86d5",
+      "git_blob_sha1": "74c1e73b069c5b2d05590f424dd6197a6065c5cb"
+    },
+    "行业一级子库_20261029/行业划分依据.json": {
+      "bytes": 4002,
+      "sha256": "5eb05c3bf984b57dfed0ff90669da5963589c5490f42cf0974f1e18d8aed14c8",
+      "git_blob_sha1": "2cbeea6f3cd1660235852673efbcfe29730c4824"
+    },
+    "行业一级子库_20261029/金融/岗位主库.json": {
+      "bytes": 6247960,
+      "sha256": "9ebcd96458ce70501f4e3f326c5685dd52455910b4f4b5b70c17aa96c426653e",
+      "git_blob_sha1": "67daefc34a792f01b3dc70377556f4bf211c3384"
+    },
+    "行业一级子库_20261029/金融/岗位主库.xlsx": {
+      "bytes": 281813,
+      "sha256": "9e805a766ed0d092eb83c884af2d1df0fe073380463dfd1242ff64f033d7d02f",
+      "git_blob_sha1": "0a0865260c951c6af79b0a822ae1bfc6484aff74"
+    },
+    "行业一级子库_20261029/金融/岗位名称代码及JD.tsv": {
+      "bytes": 836394,
+      "sha256": "8cc7ee6be2f0d260b56efcb61ef8a617de2cb1d7aea16f4f9786f17e7cd2ad63",
+      "git_blob_sha1": "cb7e81d5b1c6f41dcac8f3d5730c1a318d08f073"
+    },
+    "行业一级子库_20261029/高科技/岗位主库.json": {
+      "bytes": 11153953,
+      "sha256": "df4a7ac82f377e5057d0a164774676d2063e90902206057df5906e66b0adfc14",
+      "git_blob_sha1": "58818fbdcf17455471132b3394ca7aae39d84bdb"
+    },
+    "行业一级子库_20261029/高科技/岗位主库.xlsx": {
+      "bytes": 491074,
+      "sha256": "a1c8bee5c03a345b07715b6fd22c128a90ac1ee48e73b38f9dbcf910e3707e0b",
+      "git_blob_sha1": "18d0dbba6824641b57b2a2b68a052c9a9841261d"
+    },
+    "行业一级子库_20261029/高科技/岗位名称代码及JD.tsv": {
+      "bytes": 1486349,
+      "sha256": "b8c149878edb45b10c902aea3886ea71779731910a002115bb16dbb3fedfa12f",
+      "git_blob_sha1": "22b88258fbcf140a97dded89ba4fccb2b26a87db"
+    },
+    "行业专业JD优化_20261029/BMJD_11行业专业JD优化.xlsx": {
+      "bytes": 3911092,
+      "sha256": "e7fe1b6af853974725783a59d8416695f8b14d8f82a4e3c38415727b000d5fa0",
+      "git_blob_sha1": "426bb99d79a977db0573f9b67b27d6dd1dc9bf7a"
+    },
+    "行业专业JD优化_20261029/优化结果与使用说明.md": {
+      "bytes": 7572,
+      "sha256": "efbc894023fc52c381ab3c75a09b1e6e28a7c0adbfc4adb87119626d65d383d2",
+      "git_blob_sha1": "b84fdd1010bc308f646e666219ae60305247996f"
+    },
+    "行业专业JD优化_20261029/传媒/岗位主库.json": {
+      "bytes": 5970359,
+      "sha256": "42f636c82ad58d6b93d2642a1f4b52301afce31a69a6412d9336264f2abddd02",
+      "git_blob_sha1": "2381945aa1bf6b0eb27f3334995e88954010818e"
+    },
+    "行业专业JD优化_20261029/传媒/岗位主库.xlsx": {
+      "bytes": 275560,
+      "sha256": "3104f58e477f76fad84d543305ae1c6046bdf6457ada3e9cd9b848c88bf8c0f0",
+      "git_blob_sha1": "f736a7e4d45f1af354a41f8f7e7e7dec50494769"
+    },
+    "行业专业JD优化_20261029/传媒/岗位名称代码及JD.tsv": {
+      "bytes": 733605,
+      "sha256": "192e3197b519625280809e621d1da0a75a5d6a0ef6975b1d4f5307d66cad5b0e",
+      "git_blob_sha1": "bb4e42341dd3a70421534d1cf82a217f43b32237"
+    },
+    "行业专业JD优化_20261029/制造/岗位主库.json": {
+      "bytes": 9316452,
+      "sha256": "53112344417e6ad3f805f4e000ee8416471e65ea2064640454205467372ee14e",
+      "git_blob_sha1": "9b13411242dd7ea416cd71ea77193d38866c6c4d"
+    },
+    "行业专业JD优化_20261029/制造/岗位主库.xlsx": {
+      "bytes": 431703,
+      "sha256": "a9459eab8f76278a7d187a361dbea0997df26261db7e4769b12bffec8eb46286",
+      "git_blob_sha1": "8c73d6c4beec9b471046c527401da1ab69b132b8"
+    },
+    "行业专业JD优化_20261029/制造/岗位名称代码及JD.tsv": {
+      "bytes": 1173971,
+      "sha256": "655a2e9c8b5886edb2e2dd032158dcbb30d6fd77ac9ca877ddbf4ddb41bfef95",
+      "git_blob_sha1": "b68675303e0e1b016849a681fc19c69670bee2e0"
+    },
+    "行业专业JD优化_20261029/医药/岗位主库.json": {
+      "bytes": 9587099,
+      "sha256": "2fbe5c67876258af03ffcb9dad6b4c8bb96928eb3566f6c1e1add1f569756197",
+      "git_blob_sha1": "9d2811a1498ef6669c40d734593a61c2694ddb96"
+    },
+    "行业专业JD优化_20261029/医药/岗位主库.xlsx": {
+      "bytes": 470971,
+      "sha256": "ae456e9642eac7fe61ac53bb10492bc0031f5057c4309cf0cd41068560838253",
+      "git_blob_sha1": "a9491b8a11a5fe99e8a673d417de530fbd376340"
+    },
+    "行业专业JD优化_20261029/医药/岗位名称代码及JD.tsv": {
+      "bytes": 1248417,
+      "sha256": "3adfe057fd078f22483538c65574a2e005ae64d9aa05117ace415f4b2a42f35d",
+      "git_blob_sha1": "8e1c728489c42e4dc04249279cd19208c8d083df"
+    },
+    "行业专业JD优化_20261029/地产/岗位主库.json": {
+      "bytes": 9668217,
+      "sha256": "25c39694306bac29ee3fcedbc100b22f4a3f9a419a502f49a3b477e783ec229d",
+      "git_blob_sha1": "4995897fba547a7a77db889e6542185b79cc04d1"
+    },
+    "行业专业JD优化_20261029/地产/岗位主库.xlsx": {
+      "bytes": 445330,
+      "sha256": "ecf216a6d0bf0ec3f51fb35198bb75754e3743460946b9b6ce5614a51e74b6d3",
+      "git_blob_sha1": "2146c7a248bdb280eff520768932633adf37887f"
+    },
+    "行业专业JD优化_20261029/地产/岗位名称代码及JD.tsv": {
+      "bytes": 1217170,
+      "sha256": "94899328711b2749e38db3a964233f8df59cebba5adc3a7637f06b9a1ca1c064",
+      "git_blob_sha1": "0a2592e97ebca4eed94c20af72b7fa4851d90fee"
+    },
+    "行业专业JD优化_20261029/子库优化总览.json": {
+      "bytes": 5270,
+      "sha256": "9b4474817b522651f4ab81db76816b42d57e4fe8dcba39f7d568553970cf82cb",
+      "git_blob_sha1": "0e96c65ca80f5cc6dabf0e6584e116d8924fc6c3"
+    },
+    "行业专业JD优化_20261029/教育/岗位主库.json": {
+      "bytes": 5814675,
+      "sha256": "d80299443770ff020f8d992cfa7c01fc71264bf32295e83b82bdeff74f852a67",
+      "git_blob_sha1": "0b6a75dd768359a3d26b1a6b0da261781baf6610"
+    },
+    "行业专业JD优化_20261029/教育/岗位主库.xlsx": {
+      "bytes": 257427,
+      "sha256": "9ee4527eb1c345f5f587b4cd6f03c5a37a2271e1c6ecab74cbd68cc89a8bb5fa",
+      "git_blob_sha1": "31bc8e3331fea77a4b99dc0f85bf4dff6637cde4"
+    },
+    "行业专业JD优化_20261029/教育/岗位名称代码及JD.tsv": {
+      "bytes": 737754,
+      "sha256": "a84e1457cf505cbb396bdd6c463ab482447449c56db28545c22083f97c3bb74c",
+      "git_blob_sha1": "dccea965d181eb651a4b4611b0391d7bf59582e5"
+    },
+    "行业专业JD优化_20261029/核验报告.json": {
+      "bytes": 17495,
+      "sha256": "7fb759719d7bfc1ae3e4f00d36d5666ab86fab41b502b96282d03f444962125a",
+      "git_blob_sha1": "816ce40a9c932fdb534d2d5d1c52044eaf68634e"
+    },
+    "行业专业JD优化_20261029/消费品/岗位主库.json": {
+      "bytes": 8569651,
+      "sha256": "0ce7c29dad3b09b5b03bbcb5c59714c6c458fc5015bb53a2d64835b8a57cf702",
+      "git_blob_sha1": "d4731263ca3e82fc348e604bb3e03afa419752b2"
+    },
+    "行业专业JD优化_20261029/消费品/岗位主库.xlsx": {
+      "bytes": 399321,
+      "sha256": "a5c1ecafb794005b13f2a8fac995452f719b060e07c856e0d0a23482a5653427",
+      "git_blob_sha1": "79d41c7b683e1aa442051a945a35d84f6744a9f8"
+    },
+    "行业专业JD优化_20261029/消费品/岗位名称代码及JD.tsv": {
+      "bytes": 1084437,
+      "sha256": "d7f14559abff9a9e2b9ffbd9800410d92717376a280d88c39d73a4748416d2f5",
+      "git_blob_sha1": "0e408f2bfcdd1fe96df4633ff217008e803541b3"
+    },
+    "行业专业JD优化_20261029/物流/岗位主库.json": {
+      "bytes": 5201192,
+      "sha256": "0c89d131ba26a1c67b2a9f878be0a8acf69282cac68f2c7a8ebf2ea790ab5657",
+      "git_blob_sha1": "2bad04e385d269e1fbaa734ed7b16601c63fa9c4"
+    },
+    "行业专业JD优化_20261029/物流/岗位主库.xlsx": {
+      "bytes": 236192,
+      "sha256": "a689f3694a17145b173116a788c3dcba707f378a57c46dacc84f51a4afe847e2",
+      "git_blob_sha1": "2fa0035eb7a4c0500a720aae5b4eec07e0b7c47b"
+    },
+    "行业专业JD优化_20261029/物流/岗位名称代码及JD.tsv": {
+      "bytes": 631459,
+      "sha256": "368e88fd703933d2af9351bb66589700ddbcca10d8bd16306dedae181e439e43",
+      "git_blob_sha1": "c09ebb3af168f668fd57b99f85aba173e7bde1fa"
+    },
+    "行业专业JD优化_20261029/独立核验报告.json": {
+      "bytes": 15810,
+      "sha256": "b24f23d1bac8d0f86fda6fbaff7525cedd59e3236be4e7127d05b1c8f92b2ef8",
+      "git_blob_sha1": "d4deac50b18c5afca009850472e9857a1010e783"
+    },
+    "行业专业JD优化_20261029/综合服务/岗位主库.json": {
+      "bytes": 4976277,
+      "sha256": "7c728e51c27019fc615572d20aa3fb50eed7180469633188fb8484630d103eed",
+      "git_blob_sha1": "521e3cf66a832e897c59d36fcf7812cd63c688b5"
+    },
+    "行业专业JD优化_20261029/综合服务/岗位主库.xlsx": {
+      "bytes": 221071,
+      "sha256": "52581a0763812d1ac0e57d9ed75e84cc6ad450f05d5fb1b9ca8eb5c91690deb7",
+      "git_blob_sha1": "cee2b5db12cab8a8cec2fc948197fcafff93648b"
+    },
+    "行业专业JD优化_20261029/综合服务/岗位名称代码及JD.tsv": {
+      "bytes": 604607,
+      "sha256": "4f1fa56879953fd34eb4896e4810398cb9235cba85a8918f2311482a64d8fd13",
+      "git_blob_sha1": "4fc383fcc77b58c0c7005708bf6fa3d772416fdc"
+    },
+    "行业专业JD优化_20261029/能源化工/岗位主库.json": {
+      "bytes": 10199178,
+      "sha256": "41fc8d82b457379d79808423ff16fcb999c6f5048aadd58b3055db5a15d10e65",
+      "git_blob_sha1": "63323d8938ef863ca581e556f2b1e0f2dfb5b311"
+    },
+    "行业专业JD优化_20261029/能源化工/岗位主库.xlsx": {
+      "bytes": 479160,
+      "sha256": "834698ac53df14d924cf8cb4cf74d439eef2a345df5b11dd595810bd05fdd180",
+      "git_blob_sha1": "8792c3dcbe41f5e1454487a3c926490cf1a8fec5"
+    },
+    "行业专业JD优化_20261029/能源化工/岗位名称代码及JD.tsv": {
+      "bytes": 1308661,
+      "sha256": "eb12c0fbd035f7c625e2498684e2543e6e9a2a3fec1f4d9335ae2e5e53aed555",
+      "git_blob_sha1": "aa8a698298db45ca5ea09718a1edc46faad4f75b"
+    },
+    "行业专业JD优化_20261029/行业JD改写对照.json": {
+      "bytes": 2260043,
+      "sha256": "f351e16960f8f73024650bf8f3da77dc9b53b95ae9aa6a64ea05b99df5047d25",
+      "git_blob_sha1": "ee2a08db38b0cea8663063c2a7fff8af60e26984"
+    },
+    "行业专业JD优化_20261029/行业专业化规则.json": {
+      "bytes": 151869,
+      "sha256": "2f32c765599b81623558cf8828982f1dee227ce354ff7b3bd05dafe3172eb3ab",
+      "git_blob_sha1": "11a48656f45890b9d13bb9316578f4b93c253bdc"
+    },
+    "行业专业JD优化_20261029/逐岗行业JD审查台账.json": {
+      "bytes": 32949839,
+      "sha256": "80f91fa672b3eedbcaee955fcdb93d5e3a348fc41face24bea2c65df6d2b6553",
+      "git_blob_sha1": "704ec89fb97aa68b6de697e7dc9100993322aca7"
+    },
+    "行业专业JD优化_20261029/金融/岗位主库.json": {
+      "bytes": 6260739,
+      "sha256": "2efe9587147d98a35c4744dbfe77a6e5ccf35c171d42a68e7cc083054bff96fc",
+      "git_blob_sha1": "79754d91fcd695d68d05cc5476a53c8e6154b082"
+    },
+    "行业专业JD优化_20261029/金融/岗位主库.xlsx": {
+      "bytes": 285490,
+      "sha256": "5df0420c033add13e79a1ff8ad37941364c79607bb98c762781a573653b7f3a9",
+      "git_blob_sha1": "c38a5c86c713ebd1d205d2c3798ddb7388f30784"
+    },
+    "行业专业JD优化_20261029/金融/岗位名称代码及JD.tsv": {
+      "bytes": 789471,
+      "sha256": "7a842cce0f4a063e21ed80e86b38e3dab5ab857dd5584c1ab3a48fb52b637c14",
+      "git_blob_sha1": "3c5b770db1c5b4276ec27b7e5675fe65fd3d326a"
+    },
+    "行业专业JD优化_20261029/高科技/岗位主库.json": {
+      "bytes": 11224895,
+      "sha256": "ec3c41308570d8df7fccdf8cd3d11669b7ca6230c4845a5f6b8a7ba36799dc74",
+      "git_blob_sha1": "a2b125864fe6caa2c541ac97d546925e48f883cc"
+    },
+    "行业专业JD优化_20261029/高科技/岗位主库.xlsx": {
+      "bytes": 517443,
+      "sha256": "1a2cf4392eba8dd71596f310a46a2799f82ea91b6bb2f40b6f84dfc5f05a1f36",
+      "git_blob_sha1": "23dca5cc456978378af9bf514f858abc5494e55f"
+    },
+    "行业专业JD优化_20261029/高科技/岗位名称代码及JD.tsv": {
+      "bytes": 1448266,
+      "sha256": "726c2267043e0d087d830235f2ec9bc494ac8a824153813e222071afbc529a4e",
+      "git_blob_sha1": "110d5fb09092a585f9ac1323d4262bafe759708b"
+    },
     "项目交接文档_20261029.md": {
-      "bytes": 2779,
-      "sha256": "d88b2343ab51e89e86ab528bf17fff3ef90bc763e103e79d4027772438b1cdbb",
-      "git_blob_sha1": "132b0b41d6e1cb9cde31e6bc4b0980f3282c83de"
+      "bytes": 6955,
+      "sha256": "977d94315f171cd4bb20f4bfd1633ffb93e8861d97bfd5088ab7205661f35c01",
+      "git_blob_sha1": "fd7cb9711d77f96c3c8ba5df7790e23ac5828809"
+    },
+    "项目总结_20261030.docx": {
+      "bytes": 44192,
+      "sha256": "f2e21517db9ba2c63a3e7b4ce47f2becacbd47dece6ace1e40e988c28227f774",
+      "git_blob_sha1": "b2b99bafd5e90fee1ee13b1fe9113c386b608c4d"
+    },
+    "项目总结_20261030.md": {
+      "bytes": 10955,
+      "sha256": "62af5c1d9a3a04ccc5c0f1b34b425125f2421915742ee64e9571ba8b7ddb0c6d",
+      "git_blob_sha1": "e9c36f091171c20e34d9c82c8a368da5ca99ef76"
     },
     "项目目标与验收标准.md": {
-      "bytes": 1695,
-      "sha256": "9a03a626734a16595ebf1877c6ad134c1d516f01bf70c7222a917864d4e79f5e",
-      "git_blob_sha1": "c6cc9edf14edd05571e89e997ac24fdddb20c13e"
+      "bytes": 3565,
+      "sha256": "17ecdab81cf4cd70092637ee5e64f8c54340a375a90dc6121d0932077f26f302",
+      "git_blob_sha1": "4bdb24334f2ad01d4f2dad599899673fa3d17793"
     }
   }
 }

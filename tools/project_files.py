@@ -12,9 +12,31 @@ def fingerprint(p):
     return dict(bytes=size,sha256=a.hexdigest(),git_blob_sha1=b.hexdigest())
 def selected():
     names=['.gitignore','.gitattributes','README.md','项目交接文档_20261029.md','项目目标与验收标准.md','原始资料/README.md','tools/project_files.py','统一收口_20261029/岗位职责原文.json','原始资料/结构化依据/原BMJD职能基线.json']
+    names+=['项目总结_20261030.md','项目总结_20261030.docx']
     names+=['全库统一完成_20261029/'+n for n in ['统一主库.json','规范职能字典.json','岗位JD及条款依据.json','推定与层级修正记录.json','源级分流记录.json','岗位归并记录.json','全来源新旧码映射.csv','C3工作码至统一码映射.csv','统计.json','输入指纹.json','验收报告.json']]
     names+=['双线协作交接_20261029/'+n for n in ['00_当前进度与分工交接.md','01_朋友_JD编写说明.md','02_Codex_主库与推定整理说明.md','JD编写输入.json','JD原文证据.json','JD回传模板.json','JD回传格式.schema.json','主库推定整理输入.json','主库变更回传模板.json','交接包清单与核验.json']]
     names+=['JD编写_20261029/'+n for n in ['交付说明_常规岗.md','build_jd.py','name_check.py','schema_check.py','make_markdown.py','out/JD回传_常规岗.json','out/JD阅读版_常规岗.md','out/validation_errors.json']]
+    names+=['tools/advance_master.py','tools/test_advance_master.py']
+    names+=['主库推定整理_20261029/'+n for n in ['进度与交接.md','首批复核决策.json','统一主库.json','规范职能字典.json','岗位JD及条款依据.json','基线到当前ID映射.json','JD接收记录.json','接收修复及正文变更.json','身份推定结论台账.json','受影响JD清单.json','朋友身份问题线索.json','全库相邻冲突候选.json','核验报告.json','输入指纹.json']]
+    names+=['tools/name_code_master.py','tools/test_name_code_master.py']
+    names+=['岗位名称代码统一_20261029/'+n for n in ['进度与规则.md','名称代码决策.json','名称代码主库.json','岗位名称代码表.tsv','基线名称代码映射.json','名称代码变更记录.json','来源去向映射.json','推定岗位名码台账.json','原表名称职能证据.json','同名待核候选.json','跨职能边界待定.json','核验报告.json','输入指纹.json']]
+    names+=['tools/unify_all_names.py','tools/test_unify_all_names.py']
+    names+=['全量名称代码统一_20261029/'+n for n in ['统一结果与交接.md','统一规则.json','名称代码主库.json','全部岗位名称代码表.tsv','全量岗位处置台账.json','基线推定岗位处置.json','基线ID名称代码映射.json','前版ID名称代码映射.json','来源去向映射.json','全量原表元数据.json','原表版本差异.json','原级与工作级差异.json','同名跨职级说明.json','透明推定清单.json','边界统一结论.json','核验报告.json','输入指纹.json']]
+    names+=['tools/audit_job_codes.py','tools/test_audit_job_codes.py']
+    names+=['全量名称代码统一_20261029/'+n for n in ['全部岗位名称代码表.xlsx','编码自审规则.json','编码自审报告.json','编码自审说明.md']]
+    names+=['tools/review_job_jds.py','tools/audit_job_jds.py','tools/export_job_jds.py','tools/test_review_job_jds.py','tools/test_audit_job_jds.py']
+    names+=['岗位JD匹配审查_20261029/'+n for n in ['审查结果与使用说明.md','JD审查与编写规则.json','岗位JD主库.json','逐岗JD审查台账.json','职责系列审查目录.json','岗位名称与JD表.tsv','全部岗位名称与JD.xlsx','核验报告.json','独立核验报告.json']]
+    names+=['tools/split_industry_masters.py','tools/export_industry_masters.py','tools/audit_industry_masters.py','tools/test_split_industry_masters.py']
+    names+=['行业一级子库_20261029/'+n for n in ['拆分结果与使用说明.md','子库总览.json','岗位行业索引.json','行业划分依据.json','核验报告.json','独立核验报告.json','BMJD_11行业一级子库.xlsx']]
+    for industry in ['传媒','制造','医药','地产','教育','消费品','物流','综合服务','能源化工','金融','高科技']:
+        names+=['行业一级子库_20261029/'+industry+'/'+n for n in ['岗位主库.json','岗位名称代码及JD.tsv','岗位主库.xlsx']]
+    names+=['tools/specialize_industry_jds.py','tools/export_specialized_industry_jds.py','tools/audit_specialized_industry_jds.py','tools/test_specialize_industry_jds.py','tools/test_audit_specialized_industry_jds.py']
+    names+=['行业专业JD优化_20261029/'+n for n in ['优化结果与使用说明.md','行业专业化规则.json','子库优化总览.json','逐岗行业JD审查台账.json','行业JD改写对照.json','核验报告.json','独立核验报告.json','BMJD_11行业专业JD优化.xlsx']]
+    for industry in ['传媒','制造','医药','地产','教育','消费品','物流','综合服务','能源化工','金融','高科技']:
+        names+=['行业专业JD优化_20261029/'+industry+'/'+n for n in ['岗位主库.json','岗位名称代码及JD.tsv','岗位主库.xlsx']]
+    names+=['completion_tool/'+n for n in ['completion-core.js','completion-app.js','completion-core.test.js','styles.css','template.html']]
+    names+=['tools/build_completion_tool.py','tools/check_completion_browser.py']
+    names+=['BMJD持续补全工具_20261029/'+n for n in ['BMJD岗位持续补全.html','使用说明.md','内置数据与构建核验.json','浏览器核验.json']]
     for folder in ['原始资料/原版BMJD','原始资料/最新输入_修改版6']:
         paths=sorted((ROOT/folder).glob('*.xlsx'));assert len(paths)==11,folder
         names += [p.relative_to(ROOT).as_posix() for p in paths]

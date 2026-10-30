@@ -1,0 +1,218 @@
+[
+  {
+    "source_id": "SRC-教育-0425",
+    "source_name": "初级插画师",
+    "original_code": "GD095",
+    "original_level": 5,
+    "work_level": 6,
+    "reason": "同名初级插画师原5/6级各一条，沿插画高级4/普通5/初级6工作梯队；属于推定",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-能源化工-1119",
+    "source_name": "资深管道设计工程师",
+    "original_code": "CS105",
+    "original_level": 5,
+    "work_level": 3,
+    "reason": "同名管道设计梯队多数来源为资深3/高级4/工程师5，燃气来源5/6/7按同名工作梯队对齐",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-能源化工-1120",
+    "source_name": "高级管道设计工程师(燃气)",
+    "original_code": "CS106",
+    "original_level": 6,
+    "work_level": 4,
+    "reason": "同名管道设计梯队多数来源为资深3/高级4/工程师5，燃气来源5/6/7按同名工作梯队对齐",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-能源化工-1121",
+    "source_name": "管道设计工程师（燃气)",
+    "original_code": "CS107",
+    "original_level": 7,
+    "work_level": 5,
+    "reason": "同名管道设计梯队多数来源为资深3/高级4/工程师5，燃气来源5/6/7按同名工作梯队对齐",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-地产-1736",
+    "source_name": "初级暖通工程师",
+    "original_code": "PE125",
+    "original_level": 5,
+    "work_level": 6,
+    "reason": "同名初级暖通工程师两条原6级支持，地产原5级沿首批推定统一6级",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-传媒-1130",
+    "source_name": "道具师",
+    "original_code": "PA405",
+    "original_level": 5,
+    "work_level": 4,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-传媒-1131",
+    "source_name": "道具师助理",
+    "original_code": "PA406",
+    "original_level": 6,
+    "work_level": 5,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-地产-1454",
+    "source_name": "编剧",
+    "original_code": "CZ005",
+    "original_level": 5,
+    "work_level": 4,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-制造-0665",
+    "source_name": "初级电话客服员",
+    "original_code": "CS057",
+    "original_level": 7,
+    "work_level": 6,
+    "reason": "同名初级电话客服员八条原6级、一条原7级，工作级按多数同名来源6级承接",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0684",
+    "source_name": "经销商管理经理",
+    "original_code": "EC201",
+    "original_level": 1,
+    "work_level": 3,
+    "reason": "经销商管理经理/主管/专员原1/2/3连续标号，按同职务3/4/5归一；原级与本轮推定分别保留",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0685",
+    "source_name": "经销商管理主管",
+    "original_code": "EC202",
+    "original_level": 2,
+    "work_level": 4,
+    "reason": "经销商管理经理/主管/专员原1/2/3连续标号，按同职务3/4/5归一；原级与本轮推定分别保留",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0686",
+    "source_name": "经销商管理专员",
+    "original_code": "EC203",
+    "original_level": 3,
+    "work_level": 5,
+    "reason": "经销商管理经理/主管/专员原1/2/3连续标号，按同职务3/4/5归一；原级与本轮推定分别保留",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-制造-1855",
+    "source_name": "化水员",
+    "original_code": "CP037",
+    "original_level": 7,
+    "work_level": 6,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0019",
+    "source_name": "总经理助理",
+    "original_code": "GM502",
+    "original_level": 2,
+    "work_level": 3,
+    "reason": "同名总经理助理十条原3级、一条原2级，工作级按多数同名来源3级承接",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0813",
+    "source_name": "互联网医院医疗产品经理",
+    "original_code": "HL006",
+    "original_level": 6,
+    "work_level": 3,
+    "reason": "原名医疗产品经理/主管/专员，原6/7/8连续标号按3/4/5工作梯队归一，非法8不入活动码",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0814",
+    "source_name": "互联网医院医疗产品主管",
+    "original_code": "HL007",
+    "original_level": 7,
+    "work_level": 4,
+    "reason": "原名医疗产品经理/主管/专员，原6/7/8连续标号按3/4/5工作梯队归一，非法8不入活动码",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-医药-0815",
+    "source_name": "互联网医院医疗产品专员",
+    "original_code": "HL008",
+    "original_level": 8,
+    "work_level": 5,
+    "reason": "原名医疗产品经理/主管/专员，原6/7/8连续标号按3/4/5工作梯队归一，非法8不入活动码",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-物流-0186",
+    "source_name": "制单组长",
+    "original_code": "EB115",
+    "original_level": 5,
+    "work_level": 4,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-物流-0198",
+    "source_name": "发货组长",
+    "original_code": "EB175",
+    "original_level": 5,
+    "work_level": 4,
+    "reason": "同名发货组长两条原4级、一条原5级，沿同名多数4级工作结论，保留推定",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-物流-0199",
+    "source_name": "发货员",
+    "original_code": "EB176",
+    "original_level": 6,
+    "work_level": 5,
+    "reason": "同名原级存在冲突，沿既有工作级并保留推定；本轮未将该级别冒充用户确认或JD已证明",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-消费品-1862",
+    "source_name": "配货组长",
+    "original_code": "LO936",
+    "original_level": 6,
+    "work_level": 4,
+    "reason": "既有用户确认：配货组长并4级配货主管；原6级永久保留在来源记录",
+    "user_confirmed": true
+  },
+  {
+    "source_id": "SRC-教育-1073",
+    "source_name": "高级校外辅导教师",
+    "original_code": "VE066",
+    "original_level": 6,
+    "work_level": 4,
+    "reason": "原高级/中级/初级教师连续6/7/8不符合统一等级；沿首批4/5/6工作梯队，非用户逐岗确认",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-教育-1074",
+    "source_name": "中级校外辅导教师",
+    "original_code": "VE067",
+    "original_level": 7,
+    "work_level": 5,
+    "reason": "原高级/中级/初级教师连续6/7/8不符合统一等级；沿首批4/5/6工作梯队，非用户逐岗确认",
+    "user_confirmed": false
+  },
+  {
+    "source_id": "SRC-教育-1075",
+    "source_name": "初级校外辅导教师",
+    "original_code": "VE068",
+    "original_level": 8,
+    "work_level": 6,
+    "reason": "原高级/中级/初级教师连续6/7/8不符合统一等级；沿首批4/5/6工作梯队，非用户逐岗确认",
+    "user_confirmed": false
+  }
+]

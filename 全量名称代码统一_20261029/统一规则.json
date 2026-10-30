@@ -1,0 +1,7579 @@
+{
+  "version": "BMJD-NAME-CODE-20261029-ALL",
+  "mode": "全量名称代码规则统一，保留透明推定；不匹配、不编写、不回填JD",
+  "previous_version": "BMJD-NAME-CODE-20261029-01",
+  "family_policies": [
+    {
+      "prefix": "AC08",
+      "function": "文艺活动",
+      "series": "特效",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AC084",
+          "name": "特效主管",
+          "names": [
+            "高级特效师",
+            "高级特效设计师"
+          ],
+          "specialties": [
+            "特效"
+          ]
+        },
+        {
+          "code": "AC085",
+          "name": "特效专员",
+          "names": [
+            "特效师",
+            "特效设计师"
+          ],
+          "specialties": [
+            "特效"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AC10",
+      "function": "文艺活动",
+      "series": "舞台影视灯光",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AC106",
+          "name": "舞台影视灯光助理",
+          "names": [
+            "初级灯光师",
+            "灯光师助理"
+          ],
+          "specialties": [
+            "灯光"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AC43",
+      "function": "文艺活动",
+      "series": "舞台灯光制作",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AC435",
+          "name": "舞台灯光制作师/灯光控制师",
+          "names": [
+            "灯光师",
+            "灯光控制师"
+          ],
+          "specialties": [
+            "灯光"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AD04",
+      "function": "美工",
+      "series": "平面视觉设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AD043",
+          "name": "平面视觉设计经理",
+          "names": [
+            "平面设计经理",
+            "平面设计经理（市场）",
+            "美工经理/平面设计经理"
+          ],
+          "specialties": [
+            "平面设计",
+            "美工"
+          ]
+        },
+        {
+          "code": "AD044",
+          "name": "平面视觉设计高级工程师",
+          "names": [
+            "高级平面创意设计师",
+            "高级平面设计工程师",
+            "高级平面设计师",
+            "高级平面设计师（市场）",
+            "高级美工/高级平面设计师"
+          ],
+          "specialties": [
+            "平面设计",
+            "平面设计（设计研发）",
+            "美工"
+          ]
+        },
+        {
+          "code": "AD045",
+          "name": "平面视觉设计工程师",
+          "names": [
+            "平面创意设计师",
+            "平面设计工程师",
+            "平面设计师",
+            "平面设计师（市场）",
+            "美工/平面设计师"
+          ],
+          "specialties": [
+            "平面设计",
+            "平面设计（设计研发）",
+            "美工"
+          ]
+        },
+        {
+          "code": "AD046",
+          "name": "平面视觉设计助理工程师",
+          "names": [
+            "初级平面创意设计师",
+            "初级平面设计工程师",
+            "初级平面设计师",
+            "平面设计助理（市场）",
+            "美工助理/初级平面设计师"
+          ],
+          "specialties": [
+            "平面设计",
+            "平面设计（设计研发）",
+            "美工"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AD11",
+      "function": "美工",
+      "series": "用户界面设计",
+      "policy": "split_by_metadata_title",
+      "reason": "UI设计、UI开发和界面本地化分别确定，不按界面文字一并归美工。",
+      "source_title_sets": [
+        {
+          "code": "AD113",
+          "name": "用户界面设计经理",
+          "names": [
+            "UI开发经理",
+            "界面设计/本地化经理",
+            "资深界面设计/本地化工程师"
+          ],
+          "specialties": [
+            "UI开发",
+            "界面设计/本地化"
+          ]
+        },
+        {
+          "code": "AD114",
+          "name": "用户界面设计高级工程师",
+          "names": [
+            "高级UI设计师",
+            "高级界面设计/本地化工程师",
+            "高级网站UI设计师"
+          ],
+          "specialties": [
+            "UI",
+            "UI设计",
+            "界面设计/本地化",
+            "网站UI",
+            "网络UI",
+            "美工UI"
+          ]
+        },
+        {
+          "code": "AD115",
+          "name": "用户界面设计工程师",
+          "names": [
+            "UI开发工程师",
+            "UI设计师",
+            "界面设计/本地化工程师",
+            "网站UI设计师"
+          ],
+          "specialties": [
+            "UI",
+            "UI开发",
+            "UI设计",
+            "界面设计/本地化",
+            "网站UI",
+            "网络UI",
+            "美工UI"
+          ]
+        },
+        {
+          "code": "AD116",
+          "name": "用户界面设计助理工程师",
+          "names": [
+            "初级UI开发工程师",
+            "初级UI设计师",
+            "初级界面设计/本地化工程师",
+            "初级网站UI设计师"
+          ],
+          "specialties": [
+            "UI",
+            "UI开发",
+            "界面设计/本地化",
+            "网站UI",
+            "网络UI",
+            "美工UI"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AD12",
+      "function": "美工",
+      "series": "美工",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AD124",
+          "name": "美工主管",
+          "names": [
+            "美工主管",
+            "高级美工"
+          ],
+          "specialties": [
+            "美工"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AD15",
+      "function": "美工",
+      "series": "视觉设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AD155",
+          "name": "视觉设计工程师",
+          "names": [
+            "中级视觉设计师",
+            "视觉设计师"
+          ],
+          "specialties": [
+            "视觉设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AE05",
+      "function": "营销策划",
+      "series": "场景设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AE055",
+          "name": "中级场景设计师",
+          "names": [
+            "中级场景设计师",
+            "场景设计师"
+          ],
+          "specialties": [
+            "场景设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AE06",
+      "function": "营销策划",
+      "series": "插画",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AE064",
+          "name": "插画主管",
+          "names": [
+            "中级插画师",
+            "高级插画师"
+          ],
+          "specialties": [
+            "插画"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AF00",
+      "function": "设备工程",
+      "series": "产线工艺设备维修",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AF004",
+          "name": "工艺维修主管",
+          "names": [
+            "工艺维修主管",
+            "高级工艺维修工程师"
+          ],
+          "specialties": [
+            "家电工艺维修",
+            "工艺维修"
+          ]
+        },
+        {
+          "code": "AF006",
+          "name": "工艺维修助理",
+          "names": [
+            "初级工艺维修工程师",
+            "工艺维修助理"
+          ],
+          "specialties": [
+            "家电工艺维修",
+            "工艺维修"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AF03",
+      "function": "设备工程",
+      "series": "客户设备安装调试维修",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AF034",
+          "name": "客户设备安装调试维修主管/高级工程师",
+          "names": [
+            "安装调试维修主管",
+            "安装调试维修主管/高级安装调试维修工程师",
+            "安装调试维修主管/高级安装调试维修师",
+            "高级安装调试维修工程师"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "安装",
+            "安装调试",
+            "安装调试维修"
+          ]
+        },
+        {
+          "code": "AF035",
+          "name": "客户设备安装调试维修工程师",
+          "names": [
+            "安装调试维修专员/安装调试维修工程师",
+            "安装调试维修专员/安装调试维修师",
+            "安装调试维修工程师"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "安装",
+            "安装调试",
+            "安装调试维修"
+          ]
+        },
+        {
+          "code": "AF036",
+          "name": "客户设备安装调试维修助理/初级工程师",
+          "names": [
+            "初级安装调试维修工程师",
+            "安装调试维修助理/初级安装调试维修工程师",
+            "安装调试维修助理/初级安装调试维修师"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "安装",
+            "安装调试",
+            "安装调试维修"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AF04",
+      "function": "设备工程",
+      "series": "工业自动化工程",
+      "policy": "split_by_metadata_title",
+      "reason": "IE工业工程与自动化工程分开。",
+      "source_title_sets": [
+        {
+          "code": "AF043",
+          "name": "工业自动化工程经理",
+          "names": [
+            "资深自动化工程师",
+            "高级自动化工程师"
+          ],
+          "specialties": [
+            "自动化"
+          ]
+        },
+        {
+          "code": "AF044",
+          "name": "高级工业自动化工程师",
+          "names": [
+            "自动化工程师",
+            "高级IE工程师",
+            "高级自动化工程师"
+          ],
+          "specialties": [
+            "IE",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AF11",
+      "function": "设备工程",
+      "series": "设备资产管理",
+      "policy": "split_by_metadata_title",
+      "reason": "设备管理、生产统计、设备统计和内部统计分开。",
+      "source_title_sets": [
+        {
+          "code": "AF113",
+          "name": "设备资产经理",
+          "names": [
+            "基建/设备管理经理",
+            "生产统计经理",
+            "生产设备管理经理",
+            "生产设备统计经理",
+            "设备管理经理"
+          ],
+          "specialties": [
+            "基建设备管理",
+            "家电设备管理",
+            "生产统计",
+            "生产设备管理",
+            "生产设备统计"
+          ]
+        },
+        {
+          "code": "AF114",
+          "name": "设备资产主管",
+          "names": [
+            "基建/设备管理主管",
+            "生产统计主管",
+            "生产设备管理主管",
+            "生产设备统计主管",
+            "设备管理主管"
+          ],
+          "specialties": [
+            "基建设备管理",
+            "家电设备管理",
+            "生产统计",
+            "生产设备管理",
+            "生产设备统计",
+            "设备管理"
+          ]
+        },
+        {
+          "code": "AF115",
+          "name": "设备资产专员",
+          "names": [
+            "内部统计专员",
+            "基建/设备管理专员",
+            "生产统计专员",
+            "生产设备管理专员",
+            "生产设备统计专员",
+            "设备管理专员"
+          ],
+          "specialties": [
+            "内部统计",
+            "基建设备管理",
+            "家电设备管理",
+            "生产统计",
+            "生产设备管理",
+            "生产设备统计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AG09",
+      "function": "设计",
+      "series": "管道工程设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AG093",
+          "name": "资深管道设计工程师(业务技术)",
+          "names": [
+            "资深管道设计工程师",
+            "资深管道设计工程师（业务技术)",
+            "资深管道设计工程师（产品工艺)"
+          ],
+          "specialties": [
+            "安装",
+            "设计",
+            "项目管理"
+          ]
+        },
+        {
+          "code": "AG094",
+          "name": "高级管道设计工程师(业务技术)",
+          "names": [
+            "高级管道设计工程师",
+            "高级管道设计工程师(燃气)",
+            "高级管道设计工程师（业务技术)",
+            "高级管道设计工程师（产品工艺)"
+          ],
+          "specialties": [
+            "安装",
+            "管道设计",
+            "设计",
+            "项目管理"
+          ]
+        },
+        {
+          "code": "AG095",
+          "name": "管道设计工程师(业务技术)",
+          "names": [
+            "管道设计工程师（业务技术)",
+            "管道设计工程师（产品工艺)",
+            "管道设计工程师（燃气)"
+          ],
+          "specialties": [
+            "安装",
+            "设计",
+            "项目管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AI04",
+      "function": "人力资源",
+      "series": "人力资源综合管理",
+      "policy": "split_by_metadata_title",
+      "reason": "人事/人力资源为同义；门店财务和门店会计归财务，不并人力资源。",
+      "source_title_sets": [
+        {
+          "code": "AI043",
+          "name": "人力资源经理",
+          "names": [
+            "人事经理",
+            "人力资源经理"
+          ],
+          "specialties": [
+            "人事",
+            "人力资源综合"
+          ]
+        },
+        {
+          "code": "AI044",
+          "name": "人力资源主管",
+          "names": [
+            "人事主管",
+            "人力资源主管",
+            "门店财务主管"
+          ],
+          "specialties": [
+            "人事",
+            "人力资源综合",
+            "门店"
+          ]
+        },
+        {
+          "code": "AI045",
+          "name": "人力资源专员",
+          "names": [
+            "人事专员",
+            "人力资源专员",
+            "门店会计"
+          ],
+          "specialties": [
+            "人事",
+            "人力资源综合",
+            "门店"
+          ]
+        },
+        {
+          "code": "AI046",
+          "name": "人力资源助理",
+          "names": [
+            "人事助理",
+            "人力资源助理"
+          ],
+          "specialties": [
+            "人事",
+            "人力资源综合"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AI06",
+      "function": "人力资源",
+      "series": "企业文化",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AI063",
+          "name": "企业文化经理/企业内刊执行主编",
+          "names": [
+            "企业文化经理",
+            "企业文化经理/企业内刊执行主编"
+          ],
+          "specialties": [
+            "企业文化",
+            "企业文化,企业内刊"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AK00",
+      "function": "信息技术",
+      "series": "IT资产设备管理",
+      "policy": "split_by_metadata_title",
+      "reason": "数据中心与数据管理分别保留原名，不统称IDC资产管理。",
+      "source_title_sets": [
+        {
+          "code": "AK005",
+          "name": "IDC资产设备管理专员",
+          "names": [
+            "数据中心专员",
+            "数据中心管理专员",
+            "数据管理专员"
+          ],
+          "specialties": [
+            "数据中心",
+            "数据中心管理",
+            "数据管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AK01",
+      "function": "信息技术",
+      "series": "业务系统分析",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AK014",
+          "name": "业务系统分析主管",
+          "names": [
+            "业务系统分析主管",
+            "高级业务系统分析工程师"
+          ],
+          "specialties": [
+            "业务系统分析"
+          ]
+        },
+        {
+          "code": "AK015",
+          "name": "业务系统分析专员",
+          "names": [
+            "业务系统分析专员",
+            "业务系统分析工程师"
+          ],
+          "specialties": [
+            "业务系统分析"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AK02",
+      "function": "信息技术",
+      "series": "产品技术测试",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AK024",
+          "name": "高级产品测试工程师",
+          "names": [
+            "高级产品测试工程师",
+            "高级测试工程师"
+          ],
+          "specialties": [
+            "产品测试",
+            "测试"
+          ]
+        },
+        {
+          "code": "AK025",
+          "name": "产品测试工程师",
+          "names": [
+            "产品测试工程师",
+            "测试工程师"
+          ],
+          "specialties": [
+            "产品测试",
+            "测试"
+          ]
+        },
+        {
+          "code": "AK026",
+          "name": "初级产品测试工程师",
+          "names": [
+            "初级产品测试工程师",
+            "初级测试工程师"
+          ],
+          "specialties": [
+            "产品测试",
+            "测试"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AK06",
+      "function": "信息技术",
+      "series": "数字产品开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AK064",
+          "name": "产品开发主管",
+          "names": [
+            "产品开发主管",
+            "高级产品开发工程师"
+          ],
+          "specialties": [
+            "产品开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AK07",
+      "function": "信息技术",
+      "series": "数字产品规划与运营",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AK075",
+          "name": "产品开发专员",
+          "names": [
+            "产品开发专员",
+            "产品开发工程师"
+          ],
+          "specialties": [
+            "产品开发"
+          ]
+        },
+        {
+          "code": "AK076",
+          "name": "产品开发助理",
+          "names": [
+            "产品开发助理",
+            "初级产品开发工程师"
+          ],
+          "specialties": [
+            "产品开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AQ08",
+      "function": "项目事务",
+      "series": "现场施工",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AQ084",
+          "name": "现场施工主管",
+          "names": [
+            "施工主管",
+            "项目施工主管"
+          ],
+          "specialties": [
+            "现场施工",
+            "项目施工"
+          ]
+        },
+        {
+          "code": "AQ085",
+          "name": "现场施工专员",
+          "names": [
+            "施工员",
+            "项目施工专员"
+          ],
+          "specialties": [
+            "现场施工",
+            "项目施工"
+          ]
+        },
+        {
+          "code": "AQ086",
+          "name": "现场施工助理",
+          "names": [
+            "施工助理",
+            "项目施工助理"
+          ],
+          "specialties": [
+            "现场施工",
+            "项目施工"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AS00",
+      "function": "采购",
+      "series": "二手车收购",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AS005",
+          "name": "车辆收购专员",
+          "names": [
+            "车辆收购专员",
+            "车辆置换专员"
+          ],
+          "specialties": [
+            "车辆收购",
+            "车辆置换"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AU06",
+      "function": "生产管理",
+      "series": "生产计划",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "AU066",
+          "name": "初级生产计划专员",
+          "names": [
+            "初级生产计划专员",
+            "生产计划助理"
+          ],
+          "specialties": [
+            "生产计划"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "AX01",
+      "function": "仓储",
+      "series": "仓储管理",
+      "policy": "split_by_metadata_title",
+      "reason": "仓储助理、理货、库管和保管员按名称对象区分，再和全库同职业归一。",
+      "source_title_sets": [
+        {
+          "code": "AX016",
+          "name": "库管（仓库保管，6级）",
+          "names": [
+            "仓储助理",
+            "仓储理货员",
+            "库管"
+          ],
+          "specialties": [
+            "仓储",
+            "仓储理货",
+            "设备管理"
+          ]
+        },
+        {
+          "code": "AX017",
+          "name": "库管（仓库保管，7级）",
+          "names": [
+            "仓储保管员",
+            "库管"
+          ],
+          "specialties": [
+            "仓储",
+            "库管"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BC01",
+      "function": "项目工程",
+      "series": "机电",
+      "policy": "split_by_metadata_title",
+      "reason": "保留机电工程师、助理/初级工程师及机电经理的原称谓与等级，不按末位机械改名。",
+      "source_title_sets": [
+        {
+          "code": "BC013",
+          "name": "高级机电工程师（机电）",
+          "names": [
+            "机电经理",
+            "高级机电工程师"
+          ],
+          "specialties": [
+            "机电"
+          ]
+        },
+        {
+          "code": "BC014",
+          "name": "机电工程师（机电，4级）",
+          "names": [
+            "机电工程师",
+            "高级机电工程师"
+          ],
+          "specialties": [
+            "机电"
+          ]
+        },
+        {
+          "code": "BC015",
+          "name": "机电工程师（机电，5级）",
+          "names": [
+            "初级机电工程师",
+            "机电工程师"
+          ],
+          "specialties": [
+            "机电"
+          ]
+        },
+        {
+          "code": "BC016",
+          "name": "初级机电工程师（机电）",
+          "names": [
+            "初级机电工程师",
+            "助理机电工程师"
+          ],
+          "specialties": [
+            "机电"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BC15",
+      "function": "项目工程",
+      "series": "安全监督",
+      "policy": "split_by_metadata_title",
+      "reason": "自动化工程师与安全监督分开。",
+      "source_title_sets": [
+        {
+          "code": "BC155",
+          "name": "施工安全监督专员",
+          "names": [
+            "初级自动化工程师",
+            "安全监督专员"
+          ],
+          "specialties": [
+            "安全监督",
+            "自动化"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BD10",
+      "function": "战略发展/业务发展",
+      "series": "加盟业务",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BD105",
+          "name": "加盟业务代表",
+          "names": [
+            "加盟业务专员",
+            "加盟业务代表"
+          ],
+          "specialties": [
+            "加盟业务"
+          ]
+        },
+        {
+          "code": "BD106",
+          "name": "初级加盟业务代表",
+          "names": [
+            "初级加盟业务代表",
+            "加盟业务助理"
+          ],
+          "specialties": [
+            "加盟业务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BE35",
+      "function": "生产技术",
+      "series": "板库技术",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BE355",
+          "name": "板库技师",
+          "names": [
+            "板库技师",
+            "板库技术专员"
+          ],
+          "specialties": [
+            "板库技术"
+          ]
+        },
+        {
+          "code": "BE356",
+          "name": "初级板库技师",
+          "names": [
+            "初级板库技师",
+            "板库技术助理"
+          ],
+          "specialties": [
+            "板库技术"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BE61",
+      "function": "生产技术",
+      "series": "生产技术",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BE614",
+          "name": "高级生产技术工程师",
+          "names": [
+            "生产技术主管",
+            "高级生产技术工程师"
+          ],
+          "specialties": [
+            "生产技术"
+          ]
+        },
+        {
+          "code": "BE615",
+          "name": "生产技术工程师",
+          "names": [
+            "生产技术专员",
+            "生产技术工程师"
+          ],
+          "specialties": [
+            "生产技术"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BE86",
+      "function": "生产技术",
+      "series": "配墨技术",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BE865",
+          "name": "配墨技师",
+          "names": [
+            "配墨技师",
+            "配墨技术专员"
+          ],
+          "specialties": [
+            "配墨技术"
+          ]
+        },
+        {
+          "code": "BE866",
+          "name": "初级配墨技师",
+          "names": [
+            "初级配墨技师",
+            "配墨技术助理"
+          ],
+          "specialties": [
+            "配墨技术"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BF00",
+      "function": "会所",
+      "series": "音响",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BF004",
+          "name": "音响主管",
+          "names": [
+            "音响师",
+            "高级音响师"
+          ],
+          "specialties": [
+            "节目音响",
+            "调音"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BS01",
+      "function": "门店",
+      "series": "物流分拣理货",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BS015",
+          "name": "理货班长（物流分拣理货（理货））",
+          "names": [
+            "理货班长",
+            "理货组长"
+          ],
+          "specialties": [
+            "分拣理货",
+            "理货"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BS02",
+      "function": "门店",
+      "series": "收银",
+      "policy": "split_by_metadata_title",
+      "reason": "收银主管、领班、收银员是不同职务，不强并。",
+      "source_title_sets": [
+        {
+          "code": "BS025",
+          "name": "收银领班",
+          "names": [
+            "收银主管",
+            "收银员",
+            "收银领班"
+          ],
+          "specialties": [
+            "收银",
+            "服务台(收银)",
+            "门店财务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BS03",
+      "function": "门店",
+      "series": "导购",
+      "policy": "split_by_metadata_title",
+      "reason": "驻店药师与导购分开。",
+      "source_title_sets": [
+        {
+          "code": "BS035",
+          "name": "导购组长",
+          "names": [
+            "导购组长",
+            "驻店药师"
+          ],
+          "specialties": [
+            "导购"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BS24",
+      "function": "门店",
+      "series": "门店理货",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BS246",
+          "name": "理货班长（门店理货）",
+          "names": [
+            "理货班长",
+            "理货组长"
+          ],
+          "specialties": [
+            "理货"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BS29",
+      "function": "门店",
+      "series": "门店",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BS293",
+          "name": "区域店长",
+          "names": [
+            "区域店长",
+            "门店经理"
+          ],
+          "specialties": [
+            "店面",
+            "门店",
+            "门店销售,品类分管"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BU31",
+      "function": "商务",
+      "series": "商务运营",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "BU314",
+          "name": "商务运营主管",
+          "names": [
+            "商务运营主管",
+            "高级商务运营专员"
+          ],
+          "specialties": [
+            "商务",
+            "商务运营"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "BY05",
+      "function": "客户关系",
+      "series": "客户关系管理",
+      "policy": "split_by_metadata_title",
+      "reason": "营养师与客户关系分开。",
+      "source_title_sets": [
+        {
+          "code": "BY055",
+          "name": "客户关系维护专员",
+          "names": [
+            "初级营养师",
+            "客户关系专员"
+          ],
+          "specialties": [
+            "客户关系",
+            "营养"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CC00",
+      "function": "系统工程",
+      "series": "信息系统解决方案",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CC004",
+          "name": "高级方案解决工程师",
+          "names": [
+            "高级方案解决工程师",
+            "高级解决方案工程师"
+          ],
+          "specialties": [
+            "方案解决",
+            "解决方案"
+          ]
+        },
+        {
+          "code": "CC005",
+          "name": "方案解决工程师",
+          "names": [
+            "方案解决工程师",
+            "解决方案工程师"
+          ],
+          "specialties": [
+            "方案解决",
+            "解决方案"
+          ]
+        },
+        {
+          "code": "CC006",
+          "name": "初级方案解决工程师",
+          "names": [
+            "初级方案解决工程师",
+            "初级解决方案工程师"
+          ],
+          "specialties": [
+            "方案解决",
+            "解决方案"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CE00",
+      "function": "客户工程",
+      "series": "技术客户开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CE004",
+          "name": "技术客户开发高级工程师",
+          "names": [
+            "客户工程主管",
+            "高级客户工程师"
+          ],
+          "specialties": [
+            "客户工程"
+          ]
+        },
+        {
+          "code": "CE005",
+          "name": "技术客户开发工程师",
+          "names": [
+            "客户工程专员",
+            "客户工程师"
+          ],
+          "specialties": [
+            "客户工程"
+          ]
+        },
+        {
+          "code": "CE006",
+          "name": "技术客户开发助理工程师",
+          "names": [
+            "初级客户工程师",
+            "助理客户工程师",
+            "客户工程助理"
+          ],
+          "specialties": [
+            "客户工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CO05",
+      "function": "运营管理",
+      "series": "运营管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CO052",
+          "name": "运营管理总监",
+          "names": [
+            "运营副总监",
+            "运营管理总监"
+          ],
+          "specialties": [
+            "运营",
+            "运营管理"
+          ]
+        },
+        {
+          "code": "CO054",
+          "name": "运营管理主管",
+          "names": [
+            "运营主管",
+            "运营管理主管"
+          ],
+          "specialties": [
+            "运营",
+            "运营管理"
+          ]
+        },
+        {
+          "code": "CO055",
+          "name": "运营管理专员",
+          "names": [
+            "运营专员",
+            "运营管理专员"
+          ],
+          "specialties": [
+            "运营",
+            "运营管理"
+          ]
+        },
+        {
+          "code": "CO056",
+          "name": "运营管理助理",
+          "names": [
+            "运营助理",
+            "运营管理助理"
+          ],
+          "specialties": [
+            "运营",
+            "运营管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CP08",
+      "function": "物业工程",
+      "series": "电梯运行维护",
+      "policy": "split_by_metadata_title",
+      "reason": "电工、电梯管理、设备维修分开。",
+      "source_title_sets": [
+        {
+          "code": "CP084",
+          "name": "电梯管理主管",
+          "names": [
+            "电工主管",
+            "电梯管理主管",
+            "高级设备维修工"
+          ],
+          "specialties": [
+            "电工",
+            "电梯管理",
+            "设备维修"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CP13",
+      "function": "物业工程",
+      "series": "设施综合维修",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CP132",
+          "name": "设施综合维修总监",
+          "names": [
+            "工程维修总监",
+            "物业工程总监"
+          ],
+          "specialties": [
+            "工程维修",
+            "物业工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CR02",
+      "function": "创意",
+      "series": "剪辑",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CR024",
+          "name": "资深视频剪辑师",
+          "names": [
+            "剪辑师",
+            "资深剪辑师"
+          ],
+          "specialties": [
+            "剪辑",
+            "节目剪辑"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CS01",
+      "function": "客户服务",
+      "series": "售后服务管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CS013",
+          "name": "售后服务经理",
+          "names": [
+            "售后服务经理",
+            "现场服务经理"
+          ],
+          "specialties": [
+            "售后服务",
+            "现场服务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CS04",
+      "function": "客户服务",
+      "series": "客户服务",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CS047",
+          "name": "接线员",
+          "names": [
+            "客户关系接待员",
+            "客户服务接待员",
+            "接线员"
+          ],
+          "specialties": [
+            "客户服务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CS07",
+      "function": "客户服务",
+      "series": "在线客户服务",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CS074",
+          "name": "在线客服主管",
+          "names": [
+            "在线客服主管",
+            "在线服务主管"
+          ],
+          "specialties": [
+            "在线客服",
+            "在线服务"
+          ]
+        },
+        {
+          "code": "CS075",
+          "name": "在线客服专员",
+          "names": [
+            "在线客服专员",
+            "在线服务专员"
+          ],
+          "specialties": [
+            "在线客服",
+            "在线服务"
+          ]
+        },
+        {
+          "code": "CS076",
+          "name": "在线客服助理",
+          "names": [
+            "在线客服助理",
+            "在线服务助理"
+          ],
+          "specialties": [
+            "在线客服",
+            "在线服务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CS21",
+      "function": "客户服务",
+      "series": "售后业务管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CS216",
+          "name": "售后业务管理助理",
+          "names": [
+            "售后业务管理助理",
+            "售后服务助理"
+          ],
+          "specialties": [
+            "售后业务",
+            "售后服务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CS41",
+      "function": "客户服务",
+      "series": "客户投诉处理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CS414",
+          "name": "客户投诉主管",
+          "names": [
+            "客户投诉主管",
+            "客诉处理主管"
+          ],
+          "specialties": [
+            "客户投诉",
+            "客诉处理"
+          ]
+        },
+        {
+          "code": "CS415",
+          "name": "客户投诉专员",
+          "names": [
+            "客户投诉专员",
+            "客诉处理专员"
+          ],
+          "specialties": [
+            "客户投诉",
+            "客诉处理"
+          ]
+        },
+        {
+          "code": "CS416",
+          "name": "客户投诉助理",
+          "names": [
+            "客户投诉助理",
+            "客诉处理助理"
+          ],
+          "specialties": [
+            "客户投诉",
+            "客诉处理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "CT20",
+      "function": "后期制作",
+      "series": "三维灯光渲染",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "CT204",
+          "name": "三维灯光渲染主管",
+          "names": [
+            "灯光设计师",
+            "高级灯光师"
+          ],
+          "specialties": [
+            "灯光"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DA00",
+      "function": "数据分析",
+      "series": "临床健康数据统计分析",
+      "policy": "split_by_metadata_title",
+      "reason": "数据挖掘和统计程序工程分开，去掉无名称依据的临床限定。",
+      "source_title_sets": [
+        {
+          "code": "DA005",
+          "name": "临床健康数据统计分析专员",
+          "names": [
+            "数据挖掘专员",
+            "数据挖掘专员/数据挖掘工程师",
+            "数据挖掘管理专员",
+            "统计程序工程师"
+          ],
+          "specialties": [
+            "数据挖掘",
+            "数据挖掘管理",
+            "编程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DA02",
+      "function": "数据分析",
+      "series": "数据挖掘建模",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DA023",
+          "name": "数据挖掘经理",
+          "names": [
+            "数据挖掘管理经理",
+            "数据挖掘经理"
+          ],
+          "specialties": [
+            "数据挖掘",
+            "数据挖掘管理"
+          ]
+        },
+        {
+          "code": "DA024",
+          "name": "高级数据挖掘工程师",
+          "names": [
+            "数据挖掘主管",
+            "数据挖掘主管/高级数据挖掘工程师",
+            "数据挖掘管理主管",
+            "高级数据挖掘工程师"
+          ],
+          "specialties": [
+            "数据挖掘",
+            "数据挖掘管理"
+          ]
+        },
+        {
+          "code": "DA026",
+          "name": "初级数据挖掘工程师",
+          "names": [
+            "初级数据挖掘工程师",
+            "数据挖掘助理/初级数据挖掘工程师"
+          ],
+          "specialties": [
+            "数据挖掘"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DA08",
+      "function": "数据分析",
+      "series": "经营业务数据分析",
+      "policy": "split_by_metadata_title",
+      "reason": "赛事数据分析保留专业对象，不以通用经营分析替代所有原名。",
+      "source_title_sets": [
+        {
+          "code": "DA083",
+          "name": "经营数据分析经理",
+          "names": [
+            "数据分析管理经理",
+            "数据分析经理",
+            "赛事数据分析经理"
+          ],
+          "specialties": [
+            "数据分析",
+            "数据分析管理",
+            "行业分析",
+            "赛事运营分析"
+          ]
+        },
+        {
+          "code": "DA084",
+          "name": "经营数据分析主管",
+          "names": [
+            "数据分析主管",
+            "数据分析管理主管"
+          ],
+          "specialties": [
+            "数据分析",
+            "数据分析管理",
+            "行业分析"
+          ]
+        },
+        {
+          "code": "DA085",
+          "name": "经营数据分析专员",
+          "names": [
+            "数据分析专员",
+            "数据分析管理专员"
+          ],
+          "specialties": [
+            "数据分析",
+            "数据分析管理",
+            "行业分析"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DC03",
+      "function": "工程技术",
+      "series": "施工控制测量",
+      "policy": "split_by_metadata_title",
+      "reason": "工程测量与计量按原称谓分别确定。",
+      "source_title_sets": [
+        {
+          "code": "DC035",
+          "name": "施工测量专员/测量工程师",
+          "names": [
+            "初级计量工程师",
+            "测量工程专员"
+          ],
+          "specialties": [
+            "工程测量",
+            "测量工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DF00",
+      "function": "搜索引擎",
+      "series": "搜索引擎营销",
+      "policy": "split_by_metadata_title",
+      "reason": "SEO、SEM、UED/用户体验分开。",
+      "source_title_sets": [
+        {
+          "code": "DF004",
+          "name": "搜索引擎营销主管",
+          "names": [
+            "用户体验主管",
+            "高级SEM开发工程师",
+            "高级SEO工程师"
+          ],
+          "specialties": [
+            "UED",
+            "搜索引擎优化",
+            "搜索引擎开发"
+          ]
+        },
+        {
+          "code": "DF005",
+          "name": "搜索引擎营销专员",
+          "names": [
+            "SEM开发工程师",
+            "SEO工程师",
+            "用户体验专员"
+          ],
+          "specialties": [
+            "UED",
+            "搜索引擎优化",
+            "搜索引擎开发"
+          ]
+        },
+        {
+          "code": "DF006",
+          "name": "搜索引擎营销助理",
+          "names": [
+            "SEM策划助理",
+            "初级SEM开发工程师",
+            "初级SEO工程师"
+          ],
+          "specialties": [
+            "搜索引擎优化",
+            "搜索引擎开发",
+            "搜索引擎策划"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DH01",
+      "function": "机械工程",
+      "series": "机械设备工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DH014",
+          "name": "机械设备工程高级工程师",
+          "names": [
+            "机械工程师",
+            "高级机械工程师"
+          ],
+          "specialties": [
+            "机械",
+            "机械工程"
+          ]
+        },
+        {
+          "code": "DH015",
+          "name": "机械设备工程工程师",
+          "names": [
+            "初级机械工程师",
+            "机械工程师"
+          ],
+          "specialties": [
+            "机械",
+            "机械工程"
+          ]
+        },
+        {
+          "code": "DH016",
+          "name": "机械设备工程助理工程师",
+          "names": [
+            "初级机械工程师",
+            "助理机械工程师"
+          ],
+          "specialties": [
+            "机械",
+            "机械工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DK02",
+      "function": "电气工程",
+      "series": "电气设备工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DK026",
+          "name": "电气设备工程助理工程师",
+          "names": [
+            "初级电气工程师",
+            "助理电气工程师"
+          ],
+          "specialties": [
+            "电气",
+            "电气工程",
+            "电气工程项目"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DP09",
+      "function": "规划设计",
+      "series": "景观园林设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DP093",
+          "name": "高级景观园林设计师/景观园林设计经理",
+          "names": [
+            "高级景观园林设计师/景观园林设计经理",
+            "高级绿化设计师/绿化设计经理"
+          ],
+          "specialties": [
+            "景观园林设计",
+            "绿化设计"
+          ]
+        },
+        {
+          "code": "DP094",
+          "name": "景观园林设计师/景观园林设计主管",
+          "names": [
+            "景观园林设计师/景观园林设计主管",
+            "绿化设计师/绿化设计主管"
+          ],
+          "specialties": [
+            "景观园林设计",
+            "绿化设计"
+          ]
+        },
+        {
+          "code": "DP095",
+          "name": "初级景观园林设计师/景观园林设计专员",
+          "names": [
+            "初级景观园林设计师/景观园林设计专员",
+            "初级绿化设计师/绿化设计专员"
+          ],
+          "specialties": [
+            "景观园林设计",
+            "绿化设计"
+          ]
+        },
+        {
+          "code": "DP096",
+          "name": "助理景观园林设计师/景观园林设计助理",
+          "names": [
+            "助理景观园林设计师/景观园林设计助理",
+            "助理绿化设计师/绿化设计助理"
+          ],
+          "specialties": [
+            "景观园林设计",
+            "绿化设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DP22",
+      "function": "规划设计",
+      "series": "建筑方案设计管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DP223",
+          "name": "高级建筑方案及策划设计师",
+          "names": [
+            "综合设计经理",
+            "高级建筑方案及策划设计师"
+          ],
+          "specialties": [
+            "建筑方案设计",
+            "综合设计"
+          ]
+        },
+        {
+          "code": "DP224",
+          "name": "建筑方案及策划设计师",
+          "names": [
+            "建筑方案及策划设计师",
+            "综合设计主管"
+          ],
+          "specialties": [
+            "建筑方案设计",
+            "综合设计"
+          ]
+        },
+        {
+          "code": "DP225",
+          "name": "初级建筑方案及策划设计师",
+          "names": [
+            "初级建筑方案及策划设计师",
+            "综合设计专员"
+          ],
+          "specialties": [
+            "建筑方案设计",
+            "综合设计"
+          ]
+        },
+        {
+          "code": "DP226",
+          "name": "助理建筑方案及策划设计师",
+          "names": [
+            "助理建筑方案及策划设计师",
+            "综合设计助理"
+          ],
+          "specialties": [
+            "建筑方案设计",
+            "综合设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DP90",
+      "function": "规划设计",
+      "series": "建筑智能化设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DP903",
+          "name": "高级楼宇智能化设计师",
+          "names": [
+            "高级智能化设计师/智能化设计经理/智能化设计经理",
+            "高级楼宇智能化设计师"
+          ],
+          "specialties": [
+            "智能化设计",
+            "楼宇智能化设计"
+          ]
+        },
+        {
+          "code": "DP904",
+          "name": "楼宇智能化设计师",
+          "names": [
+            "智能化设计师/智能化设计主管",
+            "楼宇智能化设计师"
+          ],
+          "specialties": [
+            "智能化设计",
+            "楼宇智能化设计"
+          ]
+        },
+        {
+          "code": "DP905",
+          "name": "初级楼宇智能化设计师",
+          "names": [
+            "初级智能化设计师/智能化设计专员",
+            "初级楼宇智能化设计师"
+          ],
+          "specialties": [
+            "智能化设计",
+            "楼宇智能化设计"
+          ]
+        },
+        {
+          "code": "DP906",
+          "name": "助理楼宇智能化设计师",
+          "names": [
+            "助理智能化设计师/智能化设计助理",
+            "助理楼宇智能化设计师"
+          ],
+          "specialties": [
+            "智能化设计",
+            "楼宇智能化设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "DW01",
+      "function": "市场调研",
+      "series": "房屋租赁市场定价分析",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "DW015",
+          "name": "房屋租赁定价分析专员",
+          "names": [
+            "数据分析专员",
+            "数据分析管理专员"
+          ],
+          "specialties": [
+            "数据分析",
+            "数据分析管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EA00",
+      "function": "标准化",
+      "series": "企业技术标准管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "EA003",
+          "name": "企业技术标准经理/资深标准化工程师",
+          "names": [
+            "标准化部经理",
+            "资深标准化工程师"
+          ],
+          "specialties": [
+            "标准化",
+            "研究院标准化"
+          ]
+        },
+        {
+          "code": "EA004",
+          "name": "企业技术标准主管/高级标准化工程师",
+          "names": [
+            "标准化部主管",
+            "高级标准化工程师"
+          ],
+          "specialties": [
+            "标准化",
+            "研究院标准化"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EC02",
+      "function": "电子商务",
+      "series": "商品规划",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "EC023",
+          "name": "商品规划经理(电商)",
+          "names": [
+            "商品规划经理（电商)",
+            "商品规划经理（电商）"
+          ],
+          "specialties": [
+            "商品规划",
+            "商品规划(电商）"
+          ]
+        },
+        {
+          "code": "EC024",
+          "name": "商品规划主管(电商)",
+          "names": [
+            "商品规划主管（电商)",
+            "商品规划主管（电商）"
+          ],
+          "specialties": [
+            "商品规划",
+            "商品规划(电商）"
+          ]
+        },
+        {
+          "code": "EC025",
+          "name": "商品规划专员(电商)",
+          "names": [
+            "商品规划专员（电商)",
+            "商品规划专员（电商）"
+          ],
+          "specialties": [
+            "商品规划",
+            "商品规划(电商）"
+          ]
+        },
+        {
+          "code": "EC026",
+          "name": "商品规划助理(电商)",
+          "names": [
+            "商品规划助理（电商)",
+            "商品规划助理（电商）"
+          ],
+          "specialties": [
+            "商品规划"
+          ]
+        },
+        {
+          "code": "EC027",
+          "name": "商品规划员(电商)",
+          "names": [
+            "商品规划员（电商)",
+            "商品规划员（电商）"
+          ],
+          "specialties": [
+            "商品规划"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EC08",
+      "function": "电子商务",
+      "series": "电商平台管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "EC083",
+          "name": "电商平台运营经理",
+          "names": [
+            "电商平台管理经理",
+            "电子商务运营经理",
+            "经销商管理经理"
+          ],
+          "specialties": [
+            "电商平台管理",
+            "电子商务",
+            "电子商务运营"
+          ]
+        },
+        {
+          "code": "EC084",
+          "name": "电商平台运营主管",
+          "names": [
+            "电商平台管理主管",
+            "电子商务运营主管",
+            "经销商管理主管"
+          ],
+          "specialties": [
+            "电商平台管理",
+            "电子商务",
+            "电子商务运营"
+          ]
+        },
+        {
+          "code": "EC085",
+          "name": "电商平台运营专员",
+          "names": [
+            "电商平台管理专员",
+            "电商运营专员",
+            "经销商管理专员"
+          ],
+          "specialties": [
+            "电商平台管理",
+            "电商运营",
+            "电子商务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EC17",
+      "function": "电子商务",
+      "series": "订单管理(电商)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "EC173",
+          "name": "订单管理经理(电商)",
+          "names": [
+            "订单管理经理（电商)",
+            "订单管理经理（电商）"
+          ],
+          "specialties": [
+            "订单管理",
+            "订单管理（电商）"
+          ]
+        },
+        {
+          "code": "EC174",
+          "name": "订单管理主管(电商)",
+          "names": [
+            "订单管理主管（电商)",
+            "订单管理主管（电商）"
+          ],
+          "specialties": [
+            "订单管理",
+            "订单管理（电商）"
+          ]
+        },
+        {
+          "code": "EC175",
+          "name": "订单管理专员(电商)",
+          "names": [
+            "订单管理专员（电商)",
+            "订单管理专员（电商）"
+          ],
+          "specialties": [
+            "订单管理",
+            "订单管理（电商）"
+          ]
+        },
+        {
+          "code": "EC176",
+          "name": "订单管理助理(电商)",
+          "names": [
+            "订单管理助理（电商)",
+            "订单管理助理（电商）"
+          ],
+          "specialties": [
+            "订单管理",
+            "订单管理（电商）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EH01",
+      "function": "网络工程",
+      "series": "网络运行维护",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "EH013",
+          "name": "网络工程经理",
+          "names": [
+            "网络工程经理",
+            "网络运营经理"
+          ],
+          "specialties": [
+            "网络",
+            "网络工程"
+          ]
+        },
+        {
+          "code": "EH014",
+          "name": "网络工程主管",
+          "names": [
+            "网络工程主管",
+            "网络运营主管/高级网络工程师"
+          ],
+          "specialties": [
+            "网络",
+            "网络工程"
+          ]
+        },
+        {
+          "code": "EH015",
+          "name": "网络工程专员",
+          "names": [
+            "网络工程专员",
+            "网络运营专员/网络工程师"
+          ],
+          "specialties": [
+            "网络",
+            "网络工程"
+          ]
+        },
+        {
+          "code": "EH016",
+          "name": "网络工程助理",
+          "names": [
+            "网络工程助理",
+            "网络运营助理/初级网络工程师"
+          ],
+          "specialties": [
+            "网络",
+            "网络工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "EI01",
+      "function": "计量",
+      "series": "计量检定校准",
+      "policy": "split_by_metadata_title",
+      "reason": "物流计量、计量工艺、计量仪表和通用计量按专业对象区分。",
+      "source_title_sets": [
+        {
+          "code": "EI013",
+          "name": "计量检定与校准经理",
+          "names": [
+            "计量工程经理",
+            "计量工艺经理",
+            "计量经理",
+            "高级计量工程师"
+          ],
+          "specialties": [
+            "计量",
+            "计量工程（职责待审）",
+            "计量工艺"
+          ]
+        },
+        {
+          "code": "EI014",
+          "name": "计量检定校准高级工程师",
+          "names": [
+            "计量主管",
+            "计量工程师",
+            "计量工艺主管",
+            "高级计量工程师",
+            "高级计量工艺工程师"
+          ],
+          "specialties": [
+            "家电计量工艺",
+            "工程（计量）",
+            "计量",
+            "计量工程（职责待审）",
+            "计量工艺",
+            "计量检定与校准"
+          ]
+        },
+        {
+          "code": "EI015",
+          "name": "计量检定校准工程师",
+          "names": [
+            "物流计量员",
+            "计量专员",
+            "计量仪表工程师",
+            "计量工程师",
+            "计量工艺工程师",
+            "计量领班"
+          ],
+          "specialties": [
+            "家电计量工艺",
+            "工程（计量）",
+            "物流计量",
+            "计量",
+            "计量仪表",
+            "计量工艺",
+            "计量检定与校准"
+          ]
+        },
+        {
+          "code": "EI016",
+          "name": "计量检定校准助理工程师",
+          "names": [
+            "初级计量工程师",
+            "初级计量工艺工程师",
+            "助理计量工程师",
+            "计量助理",
+            "计量工艺助理"
+          ],
+          "specialties": [
+            "家电计量工艺",
+            "计量工艺",
+            "计量检定与校准"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ET01",
+      "function": "设备保全",
+      "series": "机械设备维护保全",
+      "policy": "split_by_metadata_title",
+      "reason": "机械维修、电工、钳工、动力设备维修、设备管理、通用设备维护等按明确专业对象分开。",
+      "source_title_sets": [
+        {
+          "code": "ET013",
+          "name": "机械设备维护保全经理",
+          "names": [
+            "工程设备维护经理",
+            "海外维修经理",
+            "生产设备保全经理",
+            "设备保全经理",
+            "设备保全维修经理",
+            "设备维修经理",
+            "设备维护经理",
+            "运营维修经理"
+          ],
+          "specialties": [
+            "工程实施",
+            "海外设备维修",
+            "生产设备保全",
+            "设备保全",
+            "设备维修",
+            "设备维护",
+            "运营维修"
+          ]
+        },
+        {
+          "code": "ET014",
+          "name": "机械设备维护保全主管/高级工程师",
+          "names": [
+            "生产设备保全主管",
+            "设备保全主管",
+            "设备维修主管",
+            "设备维护主管",
+            "运营维修主管",
+            "高级动力设备维修工程师",
+            "高级工程设备维护工程师",
+            "高级机械保全工程师",
+            "高级机械设备维修工程师",
+            "高级设备保全维修工程师",
+            "高级设备维修工程师",
+            "高级设备维护工程师"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "动力设备维修",
+            "工程实施",
+            "机械设备",
+            "生产设备保全",
+            "设备保全",
+            "设备机械",
+            "设备维修",
+            "设备维护",
+            "运营维修"
+          ]
+        },
+        {
+          "code": "ET015",
+          "name": "机械设备维护保全工程师",
+          "names": [
+            "动力设备维修工程师",
+            "工程设备维护工程师",
+            "机械保全工程师",
+            "机械维修工",
+            "机械设备维修工程师",
+            "生产设备保全专员",
+            "设备保全专员",
+            "设备保全维修工程师",
+            "设备管理专员",
+            "设备维修工程师",
+            "设备维修班长",
+            "设备维护专员",
+            "设备维护工程师",
+            "运营维修工程师",
+            "高级电工",
+            "高级钳工"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "动力设备维修",
+            "工程实施",
+            "机械维修",
+            "机械设备",
+            "生产设备保全",
+            "电工",
+            "设备保全",
+            "设备机械",
+            "设备管理",
+            "设备维修",
+            "设备维护",
+            "运营维修",
+            "钳工"
+          ]
+        },
+        {
+          "code": "ET016",
+          "name": "机械设备维护保全助理",
+          "names": [
+            "初级工程设备维护工程师",
+            "初级机械保全工程师",
+            "初级设备保全维修工程师",
+            "初级设备维修工",
+            "初级设备维修工程师",
+            "初级设备维护工程师",
+            "助理机械设备维修工程师",
+            "生产设备保全助理",
+            "设备保全助理",
+            "设备维修员",
+            "设备维护员",
+            "运营维修专员"
+          ],
+          "specialties": [
+            "互联网（电子商务/O2O）",
+            "工程实施",
+            "机械设备",
+            "生产设备保全",
+            "设备保全",
+            "设备机械",
+            "设备维修",
+            "设备维护",
+            "运营维修"
+          ]
+        },
+        {
+          "code": "ET017",
+          "name": "机械设备维护保全工",
+          "names": [
+            "维修工",
+            "设备维修工"
+          ],
+          "specialties": [
+            "安装调试",
+            "维修",
+            "设备维修"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA01",
+      "function": "财务",
+      "series": "会计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FA014",
+          "name": "会计主管",
+          "names": [
+            "主管会计",
+            "会计主管"
+          ],
+          "specialties": [
+            "会计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA02",
+      "function": "财务",
+      "series": "内部审计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FA022",
+          "name": "内部审计总监",
+          "names": [
+            "内审总监",
+            "稽核审计总监"
+          ],
+          "specialties": [
+            "内审",
+            "审计",
+            "稽核审计"
+          ]
+        },
+        {
+          "code": "FA023",
+          "name": "内部审计经理",
+          "names": [
+            "内审经理",
+            "稽核审计经理"
+          ],
+          "specialties": [
+            "内审",
+            "审计",
+            "稽核审计"
+          ]
+        },
+        {
+          "code": "FA024",
+          "name": "内部审计主管",
+          "names": [
+            "内审主管",
+            "稽核审计主管"
+          ],
+          "specialties": [
+            "内审",
+            "审计",
+            "稽核审计"
+          ]
+        },
+        {
+          "code": "FA025",
+          "name": "内部审计专员",
+          "names": [
+            "内审专员",
+            "稽核审计专员"
+          ],
+          "specialties": [
+            "内审",
+            "审计",
+            "稽核审计"
+          ]
+        },
+        {
+          "code": "FA026",
+          "name": "内部审计助理",
+          "names": [
+            "内审助理",
+            "稽核审计助理"
+          ],
+          "specialties": [
+            "内审",
+            "审计",
+            "稽核审计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA06",
+      "function": "财务",
+      "series": "财务综合管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FA066",
+          "name": "财务助理/初级财务分析员",
+          "names": [
+            "财务助理",
+            "财务助理/初级财务分析员"
+          ],
+          "specialties": [
+            "财务综合"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA07",
+      "function": "财务",
+      "series": "投资",
+      "policy": "split_by_metadata_title",
+      "reason": "投融资和投资不是同一个名称范围；投资再与投资管理归一。",
+      "source_title_sets": [
+        {
+          "code": "FA072",
+          "name": "投融资总监",
+          "names": [
+            "投融资总监",
+            "投资总监"
+          ],
+          "specialties": [
+            "投资",
+            "投资,融资"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA10",
+      "function": "财务",
+      "series": "应收应付",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FA103",
+          "name": "应收应付经理",
+          "names": [
+            "应收/应付经理",
+            "应收应付经理"
+          ],
+          "specialties": [
+            "应收/应付",
+            "应收应付"
+          ]
+        },
+        {
+          "code": "FA104",
+          "name": "应收应付主管",
+          "names": [
+            "应收/应付主管",
+            "应收应付主管"
+          ],
+          "specialties": [
+            "应收/应付",
+            "应收应付"
+          ]
+        },
+        {
+          "code": "FA105",
+          "name": "应收应付专员",
+          "names": [
+            "应收/应付专员",
+            "应收应付专员"
+          ],
+          "specialties": [
+            "应收/应付",
+            "应收应付"
+          ]
+        },
+        {
+          "code": "FA106",
+          "name": "应收应付助理",
+          "names": [
+            "应收/应付助理",
+            "应收应付助理"
+          ],
+          "specialties": [
+            "应收/应付",
+            "应收应付"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA18",
+      "function": "财务",
+      "series": "资金管理",
+      "policy": "split_by_metadata_title",
+      "reason": "运营管理与资金管理分开。",
+      "source_title_sets": [
+        {
+          "code": "FA182",
+          "name": "资金管理总监",
+          "names": [
+            "资金管理总监",
+            "运营总监"
+          ],
+          "specialties": [
+            "资金管理",
+            "资金运营管理,资金规划管理,资产运营",
+            "运营，工程技术，安全事务"
+          ]
+        },
+        {
+          "code": "FA183",
+          "name": "资金管理经理",
+          "names": [
+            "资金管理经理",
+            "运营经理"
+          ],
+          "specialties": [
+            "资金管理",
+            "运营"
+          ]
+        },
+        {
+          "code": "FA184",
+          "name": "资金管理主管",
+          "names": [
+            "资金管理主管",
+            "运营主管"
+          ],
+          "specialties": [
+            "资金管理",
+            "运营"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FA20",
+      "function": "财务",
+      "series": "项目会计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FA205",
+          "name": "项目会计专员",
+          "names": [
+            "项目会计专员",
+            "项目会计师"
+          ],
+          "specialties": [
+            "项目会计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FE00",
+      "function": "现场工程",
+      "series": "现场工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FE003",
+          "name": "现场工程经理",
+          "names": [
+            "工程技术经理",
+            "现场工程经理"
+          ],
+          "specialties": [
+            "工程技术",
+            "现场",
+            "现场工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FK00",
+      "function": "店面工程",
+      "series": "店面工程管理",
+      "policy": "split_by_metadata_title",
+      "reason": "店面工程和空间设计分开。",
+      "source_title_sets": [
+        {
+          "code": "FK004",
+          "name": "店面工程主管",
+          "names": [
+            "店面工程主管",
+            "空间设计主管",
+            "空间设计主管/高级空间设计师"
+          ],
+          "specialties": [
+            "店面工程",
+            "空间设计"
+          ]
+        },
+        {
+          "code": "FK005",
+          "name": "店面工程专员",
+          "names": [
+            "店面工程专员",
+            "空间设计专员",
+            "空间设计专员/空间设计师"
+          ],
+          "specialties": [
+            "店面工程",
+            "空间设计"
+          ]
+        },
+        {
+          "code": "FK006",
+          "name": "店面工程助理",
+          "names": [
+            "助理店面设计师",
+            "店面工程助理",
+            "空间设计助理"
+          ],
+          "specialties": [
+            "店面工程",
+            "店面设计",
+            "空间设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FL06",
+      "function": "艺术展馆",
+      "series": "讲解",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FL065",
+          "name": "讲解员",
+          "names": [
+            "景点讲解",
+            "讲解员"
+          ],
+          "specialties": [
+            "讲解"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FM28",
+      "function": "生产",
+      "series": "装配",
+      "policy": "split_by_metadata_title",
+      "reason": "装配组长与装配工分开。",
+      "source_title_sets": [
+        {
+          "code": "FM286",
+          "name": "装配组长",
+          "names": [
+            "装配工人",
+            "装配组长"
+          ],
+          "specialties": [
+            "家电装配",
+            "装配"
+          ]
+        },
+        {
+          "code": "FM287",
+          "name": "装配工",
+          "names": [
+            "初级装配工人",
+            "装配工"
+          ],
+          "specialties": [
+            "家电装配",
+            "装配"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FM33",
+      "function": "生产",
+      "series": "车床",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FM336",
+          "name": "车床操作技师",
+          "names": [
+            "中级车床操作技师",
+            "车床操作技师"
+          ],
+          "specialties": [
+            "车床",
+            "车床操作"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FM61",
+      "function": "生产",
+      "series": "锅炉运行作业",
+      "policy": "split_by_metadata_title",
+      "reason": "高级锅炉工、初级锅炉工不改为泛化助理。",
+      "source_title_sets": [
+        {
+          "code": "FM616",
+          "name": "锅炉运行作业助理",
+          "names": [
+            "初级锅炉工",
+            "高级锅炉工"
+          ],
+          "specialties": [
+            "锅炉",
+            "锅炉工"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FM68",
+      "function": "生产",
+      "series": "动力(动力车间)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FM684",
+          "name": "动力车间主任",
+          "names": [
+            "动力车间主任",
+            "设备动力主管"
+          ],
+          "specialties": [
+            "动力"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FN00",
+      "function": "开发筹建",
+      "series": "开发筹建",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FN004",
+          "name": "开发筹建主管",
+          "names": [
+            "开发筹建主管",
+            "高级筹建工程师"
+          ],
+          "specialties": [
+            "开发筹建"
+          ]
+        },
+        {
+          "code": "FN005",
+          "name": "开发筹建专员",
+          "names": [
+            "开发筹建专员",
+            "筹建工程师"
+          ],
+          "specialties": [
+            "开发筹建"
+          ]
+        },
+        {
+          "code": "FN006",
+          "name": "开发筹建助理",
+          "names": [
+            "初级筹建工程",
+            "初级筹建工程师",
+            "开发筹建助理"
+          ],
+          "specialties": [
+            "开发筹建"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FS00",
+      "function": "销售支持",
+      "series": "售前技术支持",
+      "policy": "split_by_metadata_title",
+      "reason": "云安全、系统集成和售前技术支持分开。",
+      "source_title_sets": [
+        {
+          "code": "FS003",
+          "name": "售前技术支持经理",
+          "names": [
+            "售前技术支持经理",
+            "售前经理/资深售前顾问"
+          ],
+          "specialties": [
+            "售前技术支持",
+            "售前支持"
+          ]
+        },
+        {
+          "code": "FS004",
+          "name": "高级售前技术支持工程师",
+          "names": [
+            "售前主管/高级售前顾问",
+            "高级售前技术支持工程师"
+          ],
+          "specialties": [
+            "售前技术支持",
+            "售前支持"
+          ]
+        },
+        {
+          "code": "FS005",
+          "name": "售前技术支持工程师",
+          "names": [
+            "云安全工程师",
+            "售前专员/售前顾问",
+            "售前技术支持工程师",
+            "系统集成工程师"
+          ],
+          "specialties": [
+            "云安全",
+            "售前技术支持",
+            "售前支持",
+            "系统集成"
+          ]
+        },
+        {
+          "code": "FS006",
+          "name": "初级售前技术支持工程师",
+          "names": [
+            "初级售前技术支持工程师",
+            "初级系统集成工程师",
+            "售前助理/初级售前顾问"
+          ],
+          "specialties": [
+            "售前技术支持",
+            "售前支持",
+            "系统集成"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "FS03",
+      "function": "销售支持",
+      "series": "跟单",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "FS034",
+          "name": "跟单主管",
+          "names": [
+            "跟单主管/高级跟单专员",
+            "高级跟单专员"
+          ],
+          "specialties": [
+            "跟单"
+          ]
+        },
+        {
+          "code": "FS036",
+          "name": "跟单助理",
+          "names": [
+            "跟单助理",
+            "跟单助理/初级跟单专员"
+          ],
+          "specialties": [
+            "跟单"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GM00",
+      "function": "综合管理",
+      "series": "综合管理(集团)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GM001",
+          "name": "总经理(集团)",
+          "names": [
+            "总经理",
+            "总经理/行长",
+            "总经理（集团)",
+            "总经理（集团）"
+          ],
+          "specialties": [
+            "综合管理",
+            "综合管理（集团/公司总经理）",
+            "综合管理（集团/公司）",
+            "综合管理（集团总经理）",
+            "综合管理（集团）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GM01",
+      "function": "综合管理",
+      "series": "综合管理(集团副总经理)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GM011",
+          "name": "副总经理(集团)",
+          "names": [
+            "副总经理",
+            "副总经理（集团)",
+            "副总经理（集团）"
+          ],
+          "specialties": [
+            "综合管理（副总）",
+            "综合管理（集团/公司副总经理）",
+            "综合管理（集团/公司）",
+            "综合管理（集团副总经理）",
+            "综合管理（集团副总）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GM10",
+      "function": "综合管理",
+      "series": "综合管理(业务部)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GM103",
+          "name": "业务部总经理助理",
+          "names": [
+            "业务部总经理助理",
+            "业务部总经理助理/副总经理助理"
+          ],
+          "specialties": [
+            "综合管理",
+            "综合管理（业务总经理助理）",
+            "综合管理（业务部总经理助理）",
+            "综合管理（业务部）",
+            "软高科"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GM15",
+      "function": "综合管理",
+      "series": "综合管理(分公司/区域公司)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GM151",
+          "name": "总经理(分公司/区域公司)",
+          "names": [
+            "总经理(分公司/区域公司)",
+            "总经理（分公司/区域公司）"
+          ],
+          "specialties": [
+            "综合管理(分公司/区域公司)",
+            "综合管理（分公司/区域公司）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GM16",
+      "function": "综合管理",
+      "series": "综合管理(分公司/区域公司副总)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GM161",
+          "name": "副总经理(分公司/区域公司)",
+          "names": [
+            "副总经理(分公司/区域公司)",
+            "副总经理（分公司/区域公司）"
+          ],
+          "specialties": [
+            "综合管理(分公司/区域公司副总)",
+            "综合管理（分公司/区域公司副总）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "GO00",
+      "function": "用户体验",
+      "series": "数字产品交互设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "GO003",
+          "name": "数字产品交互设计经理",
+          "names": [
+            "交互设计经理",
+            "用户体验经理",
+            "高级客户体验设计师/客户体验设计经理"
+          ],
+          "specialties": [
+            "交互设计",
+            "产品交互设计",
+            "客户体验设计",
+            "用户体验"
+          ]
+        },
+        {
+          "code": "GO004",
+          "name": "交互设计主管/高级交互设计师",
+          "names": [
+            "交互设计主管",
+            "客户体验设计师/客户体验设计主管",
+            "高级UE工程师",
+            "高级交互设计师",
+            "高级用户体验工程师",
+            "高级用户体验设计师"
+          ],
+          "specialties": [
+            "UE",
+            "交互设计",
+            "产品交互设计",
+            "客户体验设计",
+            "用户体验"
+          ]
+        },
+        {
+          "code": "GO005",
+          "name": "交互设计专员/交互设计师",
+          "names": [
+            "UE工程师",
+            "交互设计专员",
+            "交互设计师",
+            "初级客户体验设计师/客户体验设计专员",
+            "用户体验设计师"
+          ],
+          "specialties": [
+            "UE",
+            "交互设计",
+            "产品交互设计",
+            "客户体验设计",
+            "用户体验"
+          ]
+        },
+        {
+          "code": "GO006",
+          "name": "初级数字产品交互设计师",
+          "names": [
+            "初级UE工程师",
+            "初级用户体验设计师"
+          ],
+          "specialties": [
+            "UE",
+            "用户体验"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "HR96",
+      "function": "会展",
+      "series": "会务管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "HR963",
+          "name": "会务经理",
+          "names": [
+            "会务总监",
+            "会务经理"
+          ],
+          "specialties": [
+            "会务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "IA02",
+      "function": "保险理赔",
+      "series": "保险理赔",
+      "policy": "split_by_metadata_title",
+      "reason": "寿险理赔和财险理赔分开。",
+      "source_title_sets": [
+        {
+          "code": "IA022",
+          "name": "寿险理赔总监",
+          "names": [
+            "寿险理赔总监",
+            "财险理赔总监"
+          ],
+          "specialties": [
+            "寿险理赔",
+            "财险理赔"
+          ]
+        },
+        {
+          "code": "IA023",
+          "name": "寿险理赔经理",
+          "names": [
+            "寿险理赔经理",
+            "财险理赔经理"
+          ],
+          "specialties": [
+            "寿险理赔",
+            "财险理赔"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "ID03",
+      "function": "网站内容",
+      "series": "网站制作",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "ID034",
+          "name": "网站制作主管/高级网站制作员",
+          "names": [
+            "网站制作主管",
+            "网站制作主管/高级网站制作员"
+          ],
+          "specialties": [
+            "网站制作"
+          ]
+        },
+        {
+          "code": "ID035",
+          "name": "网站制作专员",
+          "names": [
+            "网站制作专员",
+            "网站制作员"
+          ],
+          "specialties": [
+            "网站制作"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "IT03",
+      "function": "运维",
+      "series": "数据库运行维护",
+      "policy": "split_by_metadata_title",
+      "reason": "数据库/DBA、数据仓库管理、数据开发管理分开。",
+      "source_title_sets": [
+        {
+          "code": "IT033",
+          "name": "数据库运行维护经理",
+          "names": [
+            "数据仓库管理经理",
+            "数据库管理经理",
+            "数据库运营经理"
+          ],
+          "specialties": [
+            "数据仓库管理",
+            "数据库"
+          ]
+        },
+        {
+          "code": "IT034",
+          "name": "数据库运行维护主管/高级DBA",
+          "names": [
+            "数据仓库管理主管",
+            "数据库管理主管/高级数据库工程师",
+            "数据库运营主管/高级数据库工程师",
+            "数据开发管理主管",
+            "高级DBA工程师"
+          ],
+          "specialties": [
+            "DBA",
+            "DBA开发",
+            "数据仓库管理",
+            "数据库",
+            "数据开发",
+            "数据开发管理"
+          ]
+        },
+        {
+          "code": "IT035",
+          "name": "数据库管理员/DBA",
+          "names": [
+            "数据仓库管理专员",
+            "数据库管理专员/数据库工程师",
+            "数据库运营专员/数据库工程师",
+            "数据库运营员/数据库工程师",
+            "数据开发管理专员"
+          ],
+          "specialties": [
+            "数据仓库管理",
+            "数据库",
+            "数据开发",
+            "数据开发管理"
+          ]
+        },
+        {
+          "code": "IT036",
+          "name": "数据库运行维护助理",
+          "names": [
+            "初级DBA工程师",
+            "数据库管理助理/初级数据库工程师",
+            "数据库运营助理/初级数据库工程师"
+          ],
+          "specialties": [
+            "DBA",
+            "DBA开发",
+            "数据库"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "IT04",
+      "function": "运维",
+      "series": "机房基础设施运维",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "IT043",
+          "name": "机房基础设施运维经理",
+          "names": [
+            "设备管理经理",
+            "设备维护经理"
+          ],
+          "specialties": [
+            "设备管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "IT08",
+      "function": "运维",
+      "series": "IT基础设施与系统运维",
+      "policy": "split_by_metadata_title",
+      "reason": "云运维、游戏运维、数据中心、设备、业务系统开发维护、通用系统运维等按名称对象区分。",
+      "source_title_sets": [
+        {
+          "code": "IT082",
+          "name": "IT基础设施与系统运维总监",
+          "names": [
+            "数据中心总监",
+            "数据中心管理总监",
+            "游戏运维总监",
+            "系统工程总监",
+            "运维总监"
+          ],
+          "specialties": [
+            "数据中心,数据开发,数据分析管理,大数据,数据处理,数据管理,数据挖掘",
+            "数据中心管理,数据开发管理,数据仓库管理,数据挖掘管理,数据分析管理",
+            "游戏运维",
+            "系统工程",
+            "运维,架构,Wap网站开发,虚幻引擎开发,DMP研发"
+          ]
+        },
+        {
+          "code": "IT083",
+          "name": "IT基础设施与系统运维经理/资深工程师",
+          "names": [
+            "IT设备经理",
+            "云产品运维经理/资深云产品运维工程师",
+            "云网智能运维经理",
+            "冷链系统开发维护经理",
+            "数据中心管理经理",
+            "数据中心经理",
+            "数据管理经理",
+            "游戏运维经理/资深游戏运维工程师",
+            "系统工程经理",
+            "系统软件维护经理",
+            "系统运营经理",
+            "系统运营经理/资深系统工程师",
+            "航线管理系统开发维护经理",
+            "资深运维工程师",
+            "运维经理",
+            "运维设计经理",
+            "运行维护经理",
+            "运输系统开发维护经理"
+          ],
+          "specialties": [
+            "IT设备",
+            "云产品运维",
+            "云网智能",
+            "云网智能运维",
+            "冷链系统",
+            "数据中心",
+            "数据中心管理",
+            "数据管理",
+            "游戏运维",
+            "系统",
+            "系统工程",
+            "系统维护",
+            "系统软件维护",
+            "航线系统",
+            "软件系统维护",
+            "运维",
+            "运行维护",
+            "运输系统"
+          ]
+        },
+        {
+          "code": "IT084",
+          "name": "IT基础设施与系统运维主管/高级工程师",
+          "names": [
+            "IT设备主管",
+            "云网智能运维主管",
+            "数据中心主管",
+            "数据中心管理主管",
+            "数据管理主管",
+            "系统运营主管",
+            "系统运营主管/高级系统工程师",
+            "高级IT设备工程师",
+            "高级云产品运维工程师",
+            "高级游戏运维工程师",
+            "高级系统工程师",
+            "高级系统维护",
+            "高级系统软件维护工程师",
+            "高级系统集成工程师",
+            "高级运维工程师",
+            "高级运维设计工程师",
+            "高级运行维护工程师"
+          ],
+          "specialties": [
+            "IT设备",
+            "云产品运维",
+            "云网智能",
+            "云网智能运维",
+            "数据中心",
+            "数据中心管理",
+            "数据管理",
+            "游戏运维",
+            "系统",
+            "系统工程",
+            "系统维护",
+            "系统软件维护",
+            "系统运营",
+            "系统集成",
+            "软件系统维护",
+            "运维",
+            "运行维护"
+          ]
+        },
+        {
+          "code": "IT085",
+          "name": "IT基础设施与系统运维工程师",
+          "names": [
+            "IT设备专员",
+            "云产品运维工程师",
+            "云网智能运维员",
+            "冷链系统开发维护专员",
+            "数据管理专员",
+            "游戏运维工程师",
+            "系统工程师",
+            "系统维护工程师",
+            "系统软件维护工程师",
+            "系统运营专员/系统工程师",
+            "系统运营工程师",
+            "航线管理系统开发维护专员",
+            "运维工程师",
+            "运维设计工程师",
+            "运行维护工程师",
+            "运输系统开发维护专员"
+          ],
+          "specialties": [
+            "IT设备",
+            "云产品运维",
+            "云网智能",
+            "云网智能运维",
+            "冷链系统",
+            "数据管理",
+            "游戏运维",
+            "系统",
+            "系统工程",
+            "系统维护",
+            "系统软件维护",
+            "系统运营",
+            "航线系统",
+            "软件系统维护",
+            "运维",
+            "运行维护",
+            "运输系统"
+          ]
+        },
+        {
+          "code": "IT086",
+          "name": "IT基础设施与系统运维助理/初级工程师",
+          "names": [
+            "初级云产品运维工程师",
+            "初级游戏运维工程师",
+            "初级系统工程师",
+            "初级系统维护工程师",
+            "初级系统软件维护工程师",
+            "初级运维工程师",
+            "初级运行维护工程师",
+            "系统运营助理/初级系统工程师"
+          ],
+          "specialties": [
+            "云产品运维",
+            "游戏运维",
+            "系统",
+            "系统工程",
+            "系统维护",
+            "系统软件维护",
+            "软件系统维护",
+            "运维",
+            "运行维护"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "IT09",
+      "function": "运维",
+      "series": "运营支撑系统运行维护",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "IT094",
+          "name": "运营支撑系统运行维护高级工程师",
+          "names": [
+            "高级架构师",
+            "高级运营支撑架构师"
+          ],
+          "specialties": [
+            "运营支撑"
+          ]
+        },
+        {
+          "code": "IT095",
+          "name": "运营支撑系统运行维护工程师",
+          "names": [
+            "架构师",
+            "运营支撑架构师"
+          ],
+          "specialties": [
+            "运营支撑"
+          ]
+        },
+        {
+          "code": "IT096",
+          "name": "运营支撑系统运行维护助理",
+          "names": [
+            "初级架构师",
+            "初级运营支撑架构师"
+          ],
+          "specialties": [
+            "运营支撑"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "LE00",
+      "function": "法律合规",
+      "series": "法律事务",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "LE004",
+          "name": "法律事务主管/高级法律顾问",
+          "names": [
+            "法律事务主管/高级法律顾问",
+            "高级法律顾问"
+          ],
+          "specialties": [
+            "法律事务"
+          ]
+        },
+        {
+          "code": "LE005",
+          "name": "法律事务专员/法律顾问",
+          "names": [
+            "法律事务专员/法律顾问",
+            "法律顾问"
+          ],
+          "specialties": [
+            "法律事务"
+          ]
+        },
+        {
+          "code": "LE006",
+          "name": "法律事务助理/初级法律顾问",
+          "names": [
+            "法律事务助理",
+            "法律事务助理/初级法律顾问"
+          ],
+          "specialties": [
+            "法律事务"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "LO08",
+      "function": "物流管理",
+      "series": "备件物流管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "LO084",
+          "name": "备件管理主管",
+          "names": [
+            "备件管理主管",
+            "配件主管"
+          ],
+          "specialties": [
+            "备件管理",
+            "配件"
+          ]
+        },
+        {
+          "code": "LO085",
+          "name": "备件管理专员",
+          "names": [
+            "备件管理专员",
+            "配件专员"
+          ],
+          "specialties": [
+            "备件管理",
+            "配件"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "LO09",
+      "function": "物流管理",
+      "series": "报关",
+      "policy": "split_by_metadata_title",
+      "reason": "报关主管原4级与报关组长原5级分开；一岗一码，不能把配货组长并4级的特例扩展到报关。",
+      "source_title_sets": [
+        {
+          "code": "LO094",
+          "name": "报关主管/组长",
+          "names": [
+            "报关主管",
+            "报关组长"
+          ],
+          "specialties": [
+            "报关"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "LO30",
+      "function": "物流管理",
+      "series": "配货",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "LO304",
+          "name": "配货主管",
+          "names": [
+            "配货主管",
+            "配货组长"
+          ],
+          "specialties": [
+            "配货"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MK28",
+      "function": "市场",
+      "series": "模特",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MK285",
+          "name": "模特",
+          "names": [
+            "模特",
+            "模特/广告演员"
+          ],
+          "specialties": [
+            "模特",
+            "模特/广告"
+          ]
+        },
+        {
+          "code": "MK286",
+          "name": "初级模特",
+          "names": [
+            "初级模特",
+            "初级模特/广告演员"
+          ],
+          "specialties": [
+            "模特",
+            "模特/广告"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MK34",
+      "function": "市场",
+      "series": "短视频拍摄",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MK344",
+          "name": "高级短视频拍摄/后期",
+          "names": [
+            "高级短视频后期",
+            "高级短视频拍摄/后期",
+            "高级视频拍摄/后期"
+          ],
+          "specialties": [
+            "短视频拍摄"
+          ]
+        },
+        {
+          "code": "MK345",
+          "name": "短视频拍摄/后期",
+          "names": [
+            "短视频后期",
+            "短视频拍摄/后期",
+            "视频拍摄/后期"
+          ],
+          "specialties": [
+            "短视频拍摄"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MK35",
+      "function": "市场",
+      "series": "网站内容",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MK353",
+          "name": "网站内容经理",
+          "names": [
+            "网站内容经理",
+            "网站制作经理"
+          ],
+          "specialties": [
+            "网站内容",
+            "网站内容,美术编辑,文字编辑,视频编辑,音频编辑,页面设计/制作编辑,网站内容审核,UE"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MS18",
+      "function": "销售",
+      "series": "渠道销售",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MS183",
+          "name": "渠道销售经理/同业销售经理",
+          "names": [
+            "渠道销售经理",
+            "渠道销售经理/同业销售经理"
+          ],
+          "specialties": [
+            "渠道销售"
+          ]
+        },
+        {
+          "code": "MS184",
+          "name": "渠道销售主管/同业销售主管",
+          "names": [
+            "渠道销售主管",
+            "渠道销售主管/同业销售主管"
+          ],
+          "specialties": [
+            "渠道销售"
+          ]
+        },
+        {
+          "code": "MS185",
+          "name": "渠道销售代表/同业销售代表",
+          "names": [
+            "渠道销售代表",
+            "渠道销售代表/同业销售代表"
+          ],
+          "specialties": [
+            "渠道销售"
+          ]
+        },
+        {
+          "code": "MS186",
+          "name": "初级渠道销售代表/初级同业销售代表",
+          "names": [
+            "初级渠道销售代表",
+            "初级渠道销售代表/初级同业销售代表"
+          ],
+          "specialties": [
+            "渠道销售"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MS20",
+      "function": "销售",
+      "series": "海外销售",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MS202",
+          "name": "海外销售总监",
+          "names": [
+            "海外贸易总监",
+            "海外销售总监"
+          ],
+          "specialties": [
+            "海外销售"
+          ]
+        },
+        {
+          "code": "MS206",
+          "name": "海外销售助理",
+          "names": [
+            "海外贸易助理",
+            "海外销售助理"
+          ],
+          "specialties": [
+            "海外销售"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MS39",
+      "function": "销售",
+      "series": "销售综合",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MS395",
+          "name": "销售代表",
+          "names": [
+            "销售代表",
+            "销售代表/课程顾问"
+          ],
+          "specialties": [
+            "销售综合"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT05",
+      "function": "生产工艺",
+      "series": "动力系统工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT056",
+          "name": "动力系统工艺专员",
+          "names": [
+            "初级动力系统工艺工程师",
+            "动力系统工艺专员"
+          ],
+          "specialties": [
+            "动力系统工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT06",
+      "function": "生产工艺",
+      "series": "冲压工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT064",
+          "name": "冲压工艺主管",
+          "names": [
+            "冲压工艺主管",
+            "高级冲压工艺工程师"
+          ],
+          "specialties": [
+            "冲压工艺",
+            "家电冲压工艺"
+          ]
+        },
+        {
+          "code": "MT066",
+          "name": "冲压工艺助理",
+          "names": [
+            "冲压工艺助理",
+            "初级冲压工艺工程师"
+          ],
+          "specialties": [
+            "冲压工艺",
+            "家电冲压工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT07",
+      "function": "生产工艺",
+      "series": "新产品工艺导入",
+      "policy": "split_by_metadata_title",
+      "reason": "标准化与新产品导入分开。",
+      "source_title_sets": [
+        {
+          "code": "MT074",
+          "name": "高级新产品导入工程师",
+          "names": [
+            "高级新产品导入工程师",
+            "高级标准化工程师"
+          ],
+          "specialties": [
+            "产品导入",
+            "标准化"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT09",
+      "function": "生产工艺",
+      "series": "总装工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT094",
+          "name": "总装工艺主管",
+          "names": [
+            "总装工艺主管",
+            "高级总装工艺工程师"
+          ],
+          "specialties": [
+            "家电总装工艺",
+            "总装工艺"
+          ]
+        },
+        {
+          "code": "MT096",
+          "name": "总装工艺助理",
+          "names": [
+            "初级总装工艺工程师",
+            "总装工艺助理"
+          ],
+          "specialties": [
+            "家电总装工艺",
+            "总装工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT10",
+      "function": "生产工艺",
+      "series": "涂装工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT104",
+          "name": "涂装工艺主管",
+          "names": [
+            "涂装工艺主管",
+            "高级涂装工艺工程师"
+          ],
+          "specialties": [
+            "家电涂装工艺",
+            "涂装工艺"
+          ]
+        },
+        {
+          "code": "MT106",
+          "name": "涂装工艺助理",
+          "names": [
+            "初级涂装工艺工程师",
+            "涂装工艺助理"
+          ],
+          "specialties": [
+            "家电涂装工艺",
+            "涂装工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT11",
+      "function": "生产工艺",
+      "series": "工艺检测",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT114",
+          "name": "工艺检测主管",
+          "names": [
+            "工艺检测主管",
+            "高级工艺检测工程师"
+          ],
+          "specialties": [
+            "家电工艺检测",
+            "工艺检测"
+          ]
+        },
+        {
+          "code": "MT116",
+          "name": "工艺检测助理",
+          "names": [
+            "初级工艺检测工程师",
+            "工艺检测助理"
+          ],
+          "specialties": [
+            "家电工艺检测",
+            "工艺检测"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT12",
+      "function": "生产工艺",
+      "series": "工艺试验",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT124",
+          "name": "工艺试验主管",
+          "names": [
+            "工艺试验主管",
+            "高级工艺试验工程师"
+          ],
+          "specialties": [
+            "家电工艺试验",
+            "工艺试验"
+          ]
+        },
+        {
+          "code": "MT126",
+          "name": "工艺试验助理",
+          "names": [
+            "初级工艺试验工程师",
+            "工艺试验助理"
+          ],
+          "specialties": [
+            "家电工艺试验",
+            "工艺试验"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT18",
+      "function": "生产工艺",
+      "series": "焊装工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT184",
+          "name": "焊装工艺主管",
+          "names": [
+            "焊装工艺主管",
+            "高级焊装工艺工程师"
+          ],
+          "specialties": [
+            "家电焊装工艺",
+            "焊装工艺"
+          ]
+        },
+        {
+          "code": "MT186",
+          "name": "焊装工艺助理",
+          "names": [
+            "初级焊装工艺工程师",
+            "焊装工艺助理"
+          ],
+          "specialties": [
+            "家电焊装工艺",
+            "焊装工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT19",
+      "function": "生产工艺",
+      "series": "生产工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT195",
+          "name": "生产工艺工程师",
+          "names": [
+            "生产工艺专员",
+            "生产工艺工程师"
+          ],
+          "specialties": [
+            "生产工艺"
+          ]
+        },
+        {
+          "code": "MT196",
+          "name": "生产工艺助理",
+          "names": [
+            "初级生产工艺工程师",
+            "生产工艺助理"
+          ],
+          "specialties": [
+            "生产工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT22",
+      "function": "生产工艺",
+      "series": "生产工艺管理",
+      "policy": "split_by_metadata_title",
+      "reason": "钣金与通用生产工艺分开。",
+      "source_title_sets": [
+        {
+          "code": "MT224",
+          "name": "高级生产工艺工程师",
+          "names": [
+            "生产工艺主管",
+            "钣金主管",
+            "高级生产工艺工程师"
+          ],
+          "specialties": [
+            "生产工艺",
+            "钣金"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT23",
+      "function": "生产工艺",
+      "series": "水处理工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT236",
+          "name": "初级水处理工艺工程师",
+          "names": [
+            "初级水处理工艺工程师",
+            "水处理工艺工程师助理"
+          ],
+          "specialties": [
+            "水处理工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT24",
+      "function": "生产工艺",
+      "series": "电器工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT244",
+          "name": "电器工艺主管",
+          "names": [
+            "电器工艺主管",
+            "高级电器工艺工程师"
+          ],
+          "specialties": [
+            "家电电器工艺",
+            "电器工艺"
+          ]
+        },
+        {
+          "code": "MT246",
+          "name": "初级电器工艺工程师",
+          "names": [
+            "初级电器工艺工程师",
+            "电器工艺助理"
+          ],
+          "specialties": [
+            "家电电器工艺",
+            "电器工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT25",
+      "function": "生产工艺",
+      "series": "电气生产工艺",
+      "policy": "split_by_metadata_title",
+      "reason": "电气设计与电气工艺分开。",
+      "source_title_sets": [
+        {
+          "code": "MT254",
+          "name": "电气工艺主管",
+          "names": [
+            "电气工艺主管",
+            "电气设计师/电气设计主管",
+            "高级电气工艺工程师"
+          ],
+          "specialties": [
+            "家电电气工艺",
+            "电气工艺",
+            "电气设计"
+          ]
+        },
+        {
+          "code": "MT255",
+          "name": "电气工艺工程师",
+          "names": [
+            "初级电气设计师/电气设计专员",
+            "电气工艺工程师"
+          ],
+          "specialties": [
+            "家电电气工艺",
+            "电气工艺",
+            "电气设计"
+          ]
+        },
+        {
+          "code": "MT256",
+          "name": "初级电气工艺工程师",
+          "names": [
+            "初级电气工艺工程师",
+            "电气工艺助理"
+          ],
+          "specialties": [
+            "家电电气工艺",
+            "电气工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT26",
+      "function": "生产工艺",
+      "series": "精益生产改善",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT263",
+          "name": "精益改善经理/资深精益工程师",
+          "names": [
+            "精益改善专家/精益改善经理",
+            "资深精益工程师"
+          ],
+          "specialties": [
+            "工艺设计",
+            "精益工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "MT41",
+      "function": "生产工艺",
+      "series": "铸造工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "MT414",
+          "name": "铸造工艺主管/高级铸造工艺工程师",
+          "names": [
+            "铸造工艺主管",
+            "铸造工艺主管/高级铸造工艺工程师"
+          ],
+          "specialties": [
+            "铸造工艺"
+          ]
+        },
+        {
+          "code": "MT416",
+          "name": "初级铸造工艺工程师",
+          "names": [
+            "初级铸造工艺工程师",
+            "铸造工艺助理"
+          ],
+          "specialties": [
+            "铸造工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA13",
+      "function": "行政",
+      "series": "安保",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA135",
+          "name": "保安领班",
+          "names": [
+            "保安主管",
+            "保安领班"
+          ],
+          "specialties": [
+            "保安",
+            "安保"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA14",
+      "function": "行政",
+      "series": "安保(保安队长)",
+      "policy": "split_by_metadata_title",
+      "reason": "保安队长与保安领班按原职务区分。",
+      "source_title_sets": [
+        {
+          "code": "OA146",
+          "name": "保安队长（安保（保安队长），6级）",
+          "names": [
+            "保安队长",
+            "保安领班"
+          ],
+          "specialties": [
+            "保安",
+            "安保"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA17",
+      "function": "行政",
+      "series": "档案管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA176",
+          "name": "档案管理助理",
+          "names": [
+            "档案管理助理",
+            "资料管理员"
+          ],
+          "specialties": [
+            "档案管理",
+            "资料档案"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA18",
+      "function": "行政",
+      "series": "消防检查与演练",
+      "policy": "split_by_metadata_title",
+      "reason": "消防值机员与消防组长分开。",
+      "source_title_sets": [
+        {
+          "code": "OA186",
+          "name": "消防检查与演练专员",
+          "names": [
+            "行政消防值机员",
+            "行政消防组长"
+          ],
+          "specialties": [
+            "安全保卫（消防）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA19",
+      "function": "行政",
+      "series": "烹饪执行",
+      "policy": "split_by_metadata_title",
+      "reason": "副厨师长与高级厨师分开。",
+      "source_title_sets": [
+        {
+          "code": "OA195",
+          "name": "厨师（5级）",
+          "names": [
+            "员工餐厅副厨师长",
+            "员工餐厅高级厨师"
+          ],
+          "specialties": [
+            "员工餐厅（厨房）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA21",
+      "function": "行政",
+      "series": "物业工程维修",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA213",
+          "name": "工程维修经理",
+          "names": [
+            "工程维修经理",
+            "物业工程经理"
+          ],
+          "specialties": [
+            "工程维修",
+            "物业工程"
+          ]
+        },
+        {
+          "code": "OA214",
+          "name": "物业设施维修主管",
+          "names": [
+            "工程维修主管",
+            "物业工程主管"
+          ],
+          "specialties": [
+            "工程维修",
+            "物业工程"
+          ]
+        },
+        {
+          "code": "OA215",
+          "name": "工程维修领班",
+          "names": [
+            "工程维修领班",
+            "物业工程领班"
+          ],
+          "specialties": [
+            "工程维修",
+            "物业工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA23",
+      "function": "行政",
+      "series": "工程",
+      "policy": "split_by_metadata_title",
+      "reason": "工程领班与工程专员分开。",
+      "source_title_sets": [
+        {
+          "code": "OA235",
+          "name": "工程专员",
+          "names": [
+            "工程专员",
+            "工程领班"
+          ],
+          "specialties": [
+            "工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA25",
+      "function": "行政",
+      "series": "电气维修作业(电)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA256",
+          "name": "电气维修作业(电)助理",
+          "names": [
+            "中级电工",
+            "电工"
+          ],
+          "specialties": [
+            "电工"
+          ]
+        },
+        {
+          "code": "OA257",
+          "name": "电工（电气维修作业（电））",
+          "names": [
+            "初级电工",
+            "电工"
+          ],
+          "specialties": [
+            "电工",
+            "行政电工"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA29",
+      "function": "行政",
+      "series": "翻译",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA294",
+          "name": "高级翻译员",
+          "names": [
+            "翻译主管",
+            "高级翻译员"
+          ],
+          "specialties": [
+            "翻译"
+          ]
+        },
+        {
+          "code": "OA295",
+          "name": "翻译员",
+          "names": [
+            "翻译专员",
+            "翻译员"
+          ],
+          "specialties": [
+            "翻译"
+          ]
+        },
+        {
+          "code": "OA296",
+          "name": "初级翻译员",
+          "names": [
+            "初级翻译员",
+            "翻译助理"
+          ],
+          "specialties": [
+            "翻译"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA32",
+      "function": "行政",
+      "series": "行政保洁",
+      "policy": "split_by_metadata_title",
+      "reason": "保洁主管、专员、领班、保洁员按职务区分。",
+      "source_title_sets": [
+        {
+          "code": "OA325",
+          "name": "行政保洁专员",
+          "names": [
+            "保洁主管",
+            "行政保洁专员",
+            "行政保洁主管"
+          ],
+          "specialties": [
+            "行政保洁"
+          ]
+        },
+        {
+          "code": "OA326",
+          "name": "行政保洁领班",
+          "names": [
+            "保洁领班",
+            "行政保洁领班"
+          ],
+          "specialties": [
+            "行政保洁"
+          ]
+        },
+        {
+          "code": "OA327",
+          "name": "行政保洁员/清洁工",
+          "names": [
+            "保洁员/清洁工",
+            "行政保洁员/清洁工"
+          ],
+          "specialties": [
+            "行政保洁"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA34",
+      "function": "行政",
+      "series": "安防监控",
+      "policy": "split_by_metadata_title",
+      "reason": "监控组长与监控/中控员分开。",
+      "source_title_sets": [
+        {
+          "code": "OA346",
+          "name": "监控组长",
+          "names": [
+            "中控员",
+            "监控员",
+            "监控组长"
+          ],
+          "specialties": [
+            "安全保卫（监控）"
+          ]
+        },
+        {
+          "code": "OA347",
+          "name": "监控员",
+          "names": [
+            "中控员工",
+            "中控操作工",
+            "监控员"
+          ],
+          "specialties": [
+            "安全保卫（监控）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA35",
+      "function": "行政",
+      "series": "行政秘书",
+      "policy": "split_by_metadata_title",
+      "reason": "院长助理与总经理秘书分开。",
+      "source_title_sets": [
+        {
+          "code": "OA353",
+          "name": "高管行政秘书（3级）",
+          "names": [
+            "总经理秘书",
+            "院长助理"
+          ],
+          "specialties": [
+            "行政秘书",
+            "院务管理（运营）,院务管理（业务）,院务管理（行政、后勤）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA37",
+      "function": "行政",
+      "series": "设备保养支持",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA376",
+          "name": "设备保养助理",
+          "names": [
+            "基建/设备管理助理",
+            "生产设备管理助理"
+          ],
+          "specialties": [
+            "基建设备管理",
+            "生产设备管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OA43",
+      "function": "行政",
+      "series": "餐厅",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OA435",
+          "name": "餐饮服务主管",
+          "names": [
+            "餐饮服务主管",
+            "餐饮服务领班"
+          ],
+          "specialties": [
+            "餐厅"
+          ]
+        },
+        {
+          "code": "OA437",
+          "name": "厨工/餐厅服务员",
+          "names": [
+            "厨工",
+            "厨工/餐厅服务员"
+          ],
+          "specialties": [
+            "厨师",
+            "餐厅"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OS04",
+      "function": "管理信息系统",
+      "series": "企业ERP应用管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OS044",
+          "name": "ERP系统开发维护主管",
+          "names": [
+            "ERP系统开发维护主管",
+            "高级ERP系统开发维护工程师"
+          ],
+          "specialties": [
+            "ERP系统开发维护"
+          ]
+        },
+        {
+          "code": "OS045",
+          "name": "ERP系统开发维护专员",
+          "names": [
+            "ERP系统开发维护专员",
+            "ERP系统开发维护工程师"
+          ],
+          "specialties": [
+            "ERP系统开发维护"
+          ]
+        },
+        {
+          "code": "OS046",
+          "name": "ERP系统开发维护助理",
+          "names": [
+            "ERP系统开发维护助理",
+            "初级ERP系统开发维护工程师"
+          ],
+          "specialties": [
+            "ERP系统开发维护"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "OS10",
+      "function": "管理信息系统",
+      "series": "企业业务应用系统管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "OS103",
+          "name": "管理信息系统经理",
+          "names": [
+            "信息管理经理",
+            "管理信息系统经理"
+          ],
+          "specialties": [
+            "信息管理",
+            "管理信息系统"
+          ]
+        },
+        {
+          "code": "OS104",
+          "name": "管理信息系统主管",
+          "names": [
+            "信息管理主管",
+            "管理信息系统主管"
+          ],
+          "specialties": [
+            "信息管理",
+            "管理信息系统"
+          ]
+        },
+        {
+          "code": "OS105",
+          "name": "管理信息系统专员",
+          "names": [
+            "信息管理专员",
+            "管理信息系统专员"
+          ],
+          "specialties": [
+            "信息管理",
+            "管理信息系统"
+          ]
+        },
+        {
+          "code": "OS106",
+          "name": "管理信息系统助理",
+          "names": [
+            "信息管理助理",
+            "管理信息系统助理"
+          ],
+          "specialties": [
+            "信息管理",
+            "管理信息系统"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PA00",
+      "function": "项目事务（项目前期）",
+      "series": "工程项目选址评估",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PA005",
+          "name": "系统工程选址评估师",
+          "names": [
+            "系统工程选址评估师",
+            "系统工程选址评估师（光伏)"
+          ],
+          "specialties": [
+            "基建"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PA02",
+      "function": "项目事务（项目前期）",
+      "series": "项目开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PA021",
+          "name": "项目开发副总经理/总工程师",
+          "names": [
+            "项目开发副总经理",
+            "项目开发副总经理/总工程师"
+          ],
+          "specialties": [
+            "项目开发",
+            "项目开发,报批报建,市政配套,征地拆迁,土地拓展,土地分析,项目财务分析,城市更新,投资测算"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PA03",
+      "function": "项目事务（项目前期）",
+      "series": "项目资源评估",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PA035",
+          "name": "项目资源评估专员",
+          "names": [
+            "技术资源评估师",
+            "系统工程资源评估师"
+          ],
+          "specialties": [
+            "基建"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PC05",
+      "function": "项目管理",
+      "series": "通用项目统筹管理",
+      "policy": "split_by_metadata_title",
+      "reason": "产品项目、职业教育项目与通用项目按原名称及细分分别归一。",
+      "source_title_sets": [
+        {
+          "code": "PC054",
+          "name": "项目统筹主管",
+          "names": [
+            "项目主管",
+            "项目管理主管",
+            "高级项目统筹管理"
+          ],
+          "specialties": [
+            "职业教育",
+            "项目管理"
+          ]
+        },
+        {
+          "code": "PC055",
+          "name": "项目统筹专员",
+          "names": [
+            "项目专员",
+            "项目统筹管理"
+          ],
+          "specialties": [
+            "职业教育",
+            "项目管理"
+          ]
+        },
+        {
+          "code": "PC056",
+          "name": "通用项目统筹助理",
+          "names": [
+            "产品项目助理",
+            "初级项目统筹管理",
+            "项目助理"
+          ],
+          "specialties": [
+            "产品项目",
+            "产品项目开发",
+            "职业教育",
+            "项目开发",
+            "项目管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD57",
+      "function": "生产",
+      "series": "剪切/切割",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD575",
+          "name": "高级剪切/切割技师",
+          "names": [
+            "高级剪切/切割技师",
+            "高级剪切切割技师"
+          ],
+          "specialties": [
+            "剪切/切割",
+            "剪切切割"
+          ]
+        },
+        {
+          "code": "PD576",
+          "name": "剪切/切割技师",
+          "names": [
+            "中级剪切切割技师",
+            "剪切/切割技师"
+          ],
+          "specialties": [
+            "剪切/切割",
+            "剪切切割"
+          ]
+        },
+        {
+          "code": "PD577",
+          "name": "初级剪切/切割技师",
+          "names": [
+            "初级剪切/切割技师",
+            "初级剪切切割技师"
+          ],
+          "specialties": [
+            "剪切/切割",
+            "剪切切割"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD69",
+      "function": "生产",
+      "series": "涂装",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD696",
+          "name": "涂装技师",
+          "names": [
+            "中级涂装技师",
+            "涂装技师"
+          ],
+          "specialties": [
+            "涂装",
+            "涂装技术"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD80",
+      "function": "生产",
+      "series": "灌装",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD804",
+          "name": "灌装车间主管",
+          "names": [
+            "灌装车间主任",
+            "灌装车间主管"
+          ],
+          "specialties": [
+            "灌装"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD82",
+      "function": "生产",
+      "series": "生产准备",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD823",
+          "name": "生产准备经理",
+          "names": [
+            "生产准备经理",
+            "生产准备经理/生产前期经理"
+          ],
+          "specialties": [
+            "生产准备"
+          ]
+        },
+        {
+          "code": "PD824",
+          "name": "生产准备主管",
+          "names": [
+            "生产准备主管",
+            "高级生产准备技师"
+          ],
+          "specialties": [
+            "生产准备"
+          ]
+        },
+        {
+          "code": "PD825",
+          "name": "生产准备专员",
+          "names": [
+            "生产准备专员",
+            "生产准备技师"
+          ],
+          "specialties": [
+            "生产准备"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD84",
+      "function": "生产",
+      "series": "生产制造",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD843",
+          "name": "生产制造经理/厂长",
+          "names": [
+            "生产制造经理",
+            "生产制造经理/厂长"
+          ],
+          "specialties": [
+            "生产制造",
+            "生产（制造）"
+          ]
+        },
+        {
+          "code": "PD846",
+          "name": "生产制造助理/技术组长",
+          "names": [
+            "生产制造助理",
+            "生产制造助理/技术组长"
+          ],
+          "specialties": [
+            "生产制造"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD88",
+      "function": "生产",
+      "series": "生产制造(线长)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD885",
+          "name": "线长",
+          "names": [
+            "生产制造专员",
+            "生产制造专员/线长",
+            "线长"
+          ],
+          "specialties": [
+            "生产制造",
+            "生产线（技术工）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD90",
+      "function": "生产",
+      "series": "生产制造(车间)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD904",
+          "name": "车间主任（生产制造（车间））",
+          "names": [
+            "生产制造主管",
+            "生产制造主管/车间主任",
+            "车间主任"
+          ],
+          "specialties": [
+            "生产制造"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD91",
+      "function": "生产",
+      "series": "动力",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD915",
+          "name": "动力班/组长",
+          "names": [
+            "动力班/组长",
+            "设备动力专员"
+          ],
+          "specialties": [
+            "动力"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PD98",
+      "function": "生产",
+      "series": "生产统计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PD986",
+          "name": "生产统计助理",
+          "names": [
+            "内部统计助理",
+            "操作统计专员",
+            "生产统计助理"
+          ],
+          "specialties": [
+            "内部统计",
+            "生产统计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM01",
+      "function": "工程管理",
+      "series": "土建工程项目技术",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PM014",
+          "name": "土建工程项目技术高级工程师",
+          "names": [
+            "土建工程师",
+            "高级土建工程师"
+          ],
+          "specialties": [
+            "土建",
+            "土建工程"
+          ]
+        },
+        {
+          "code": "PM015",
+          "name": "土建工程项目技术工程师",
+          "names": [
+            "初级土建工程师",
+            "土建工程师"
+          ],
+          "specialties": [
+            "土建",
+            "土建工程"
+          ]
+        },
+        {
+          "code": "PM016",
+          "name": "土建工程项目技术助理工程师",
+          "names": [
+            "初级土建工程师",
+            "助理土建工程师"
+          ],
+          "specialties": [
+            "土建",
+            "土建工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM03",
+      "function": "工程管理",
+      "series": "动力工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PM033",
+          "name": "动力工程经理",
+          "names": [
+            "动力工程经理",
+            "资深动力工程师"
+          ],
+          "specialties": [
+            "动力",
+            "动力工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM05",
+      "function": "工程管理",
+      "series": "工程建设管理",
+      "policy": "split_by_metadata_title",
+      "reason": "总工程师、工程副总经理和工程总监保留职业/管理称谓，不泛化负责人。",
+      "source_title_sets": [
+        {
+          "code": "PM051",
+          "name": "工程建设管理负责人",
+          "names": [
+            "工程副总经理",
+            "总工程师",
+            "总管理工程师"
+          ],
+          "specialties": [
+            "工程",
+            "工程,设备运转,制冷运转,配电,土建工程,水泵,自控,自动化",
+            "工程管理,工程设计,设备工程,动力工程,土建工程",
+            "综合管理（工程）",
+            "项目工程,土建,园林,装饰工程,锅炉,给排水,市政,暖通工程,施工,工程安全,电气,质量检查,安装,幕墙/内装,现场技术,机电,安全监督,机材部,路桥,计量,隧道,机械,试验,技术工程,设备管理,绿化工程"
+          ]
+        },
+        {
+          "code": "PM052",
+          "name": "工程建设管理总监",
+          "names": [
+            "工程总监",
+            "工程管理总监",
+            "总工程师"
+          ],
+          "specialties": [
+            "工程,设备运转,制冷运转,配电,土建工程,水泵,自控,自动化",
+            "工程管理",
+            "工程管理,工程设计,设备工程,动力工程,土建工程",
+            "工程设计,工程装修,工程定价",
+            "计量，工程，燃气，电气，设备，管网，自动化",
+            "项目工程,土建,园林,装饰工程,锅炉,给排水,市政,暖通工程,施工,工程安全,电气,质量检查,安装,幕墙/内装,现场技术,机电,安全监督,机材部,路桥,计量,隧道,机械,试验,技术工程,设备管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM06",
+      "function": "工程管理",
+      "series": "工程建设项目管理",
+      "policy": "split_by_metadata_title",
+      "reason": "产品项目与通用项目管理分开。",
+      "source_title_sets": [
+        {
+          "code": "PM063",
+          "name": "工程建设项目经理",
+          "names": [
+            "产品项目经理",
+            "项目管理经理"
+          ],
+          "specialties": [
+            "产品项目",
+            "产品项目开发",
+            "项目开发",
+            "项目管理"
+          ]
+        },
+        {
+          "code": "PM064",
+          "name": "工程建设项目管理高级工程师",
+          "names": [
+            "产品项目主管",
+            "项目管理主管"
+          ],
+          "specialties": [
+            "产品项目",
+            "产品项目开发",
+            "项目开发",
+            "项目管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM11",
+      "function": "工程管理",
+      "series": "工程设计",
+      "policy": "split_by_metadata_title",
+      "reason": "工程管理与工程设计分开。",
+      "source_title_sets": [
+        {
+          "code": "PM114",
+          "name": "工程设计高级工程师",
+          "names": [
+            "工程管理主管",
+            "工程设计主管",
+            "高级工程设计工程师"
+          ],
+          "specialties": [
+            "工程管理",
+            "工程设计"
+          ]
+        },
+        {
+          "code": "PM115",
+          "name": "工程设计工程师",
+          "names": [
+            "工程管理专员",
+            "工程设计专员",
+            "工程设计工程师"
+          ],
+          "specialties": [
+            "工程管理",
+            "工程设计"
+          ]
+        },
+        {
+          "code": "PM116",
+          "name": "工程设计助理",
+          "names": [
+            "初级工程设计工程师",
+            "工程设计助理"
+          ],
+          "specialties": [
+            "工程设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM13",
+      "function": "工程管理",
+      "series": "工程项目",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PM132",
+          "name": "工程项目总监",
+          "names": [
+            "工程总监/总设计师",
+            "工程项目总监"
+          ],
+          "specialties": [
+            "工程项目",
+            "工程项目,工程技术资料,安全事务"
+          ]
+        },
+        {
+          "code": "PM133",
+          "name": "工程项目经理",
+          "names": [
+            "工程部经理",
+            "工程项目经理"
+          ],
+          "specialties": [
+            "工程项目"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM15",
+      "function": "工程管理",
+      "series": "暖通工程项目技术",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PM154",
+          "name": "暖通工程项目技术高级工程师",
+          "names": [
+            "暖通工程师",
+            "高级暖通工程师"
+          ],
+          "specialties": [
+            "暖通",
+            "暖通工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PM25",
+      "function": "工程管理",
+      "series": "设备工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "PM253",
+          "name": "设备工程经理",
+          "names": [
+            "设备工程经理",
+            "资深设备工程师"
+          ],
+          "specialties": [
+            "设备",
+            "设备工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "PO04",
+      "function": "产品运营",
+      "series": "平台运营",
+      "policy": "split_by_metadata_title",
+      "reason": "平台管理与项目系统运营分开。",
+      "source_title_sets": [
+        {
+          "code": "PO042",
+          "name": "平台运营总监",
+          "names": [
+            "系统运营总监",
+            "项目系统运营总监"
+          ],
+          "specialties": [
+            "系统运营,设备管理,系统维护",
+            "系统运营管理"
+          ]
+        },
+        {
+          "code": "PO043",
+          "name": "平台运营经理",
+          "names": [
+            "平台管理经理",
+            "平台运营经理"
+          ],
+          "specialties": [
+            "地产开发",
+            "平台管理"
+          ]
+        },
+        {
+          "code": "PO044",
+          "name": "平台运营主管",
+          "names": [
+            "平台管理主管",
+            "平台运营主管",
+            "项目系统运营主管"
+          ],
+          "specialties": [
+            "地产开发",
+            "平台管理",
+            "系统运营管理"
+          ]
+        },
+        {
+          "code": "PO045",
+          "name": "平台运营专员",
+          "names": [
+            "平台管理专员",
+            "平台运营专员",
+            "项目系统运营工程师"
+          ],
+          "specialties": [
+            "地产开发",
+            "平台管理",
+            "系统运营管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "QA00",
+      "function": "质量管理",
+      "series": "IQC检验",
+      "policy": "split_by_metadata_title",
+      "reason": "IQC检验员与初级检验员按原称谓及层级归一。",
+      "source_title_sets": [
+        {
+          "code": "QA006",
+          "name": "IQC检验员",
+          "names": [
+            "IQC检验员",
+            "初级IQC检验员"
+          ],
+          "specialties": [
+            "IQC检验"
+          ]
+        },
+        {
+          "code": "QA007",
+          "name": "初级IQC检验员",
+          "names": [
+            "IQC检验员",
+            "初级IQC检验员"
+          ],
+          "specialties": [
+            "IQC检验"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "QA04",
+      "function": "质量管理",
+      "series": "产品质量检验",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "QA043",
+          "name": "产品质量检验经理",
+          "names": [
+            "质检工程经理",
+            "质量检验经理"
+          ],
+          "specialties": [
+            "质检",
+            "质量检验"
+          ]
+        },
+        {
+          "code": "QA045",
+          "name": "产品质量检验专员",
+          "names": [
+            "质检工程师",
+            "质量检验专员"
+          ],
+          "specialties": [
+            "质检",
+            "质量检验"
+          ]
+        },
+        {
+          "code": "QA046",
+          "name": "产品质量检验助理",
+          "names": [
+            "初级质检工程师",
+            "质量检验助理"
+          ],
+          "specialties": [
+            "质检",
+            "质量检验"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "QA06",
+      "function": "质量管理",
+      "series": "产品质量检验(IQC检验)",
+      "policy": "split_by_metadata_title",
+      "reason": "通用质检工程师与IQC检验员分开。",
+      "source_title_sets": [
+        {
+          "code": "QA065",
+          "name": "来料质量检验专员",
+          "names": [
+            "质检工程师",
+            "高级IQC检验员"
+          ],
+          "specialties": [
+            "IQC检验",
+            "质检工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RB00",
+      "function": "软件开发",
+      "series": "结构工艺",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RB003",
+          "name": "结构工艺经理",
+          "names": [
+            "结构组装工艺经理",
+            "结构组装工艺经理/资深结构组装工艺工程师"
+          ],
+          "specialties": [
+            "组装工艺",
+            "结构工艺"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RB06",
+      "function": "软件开发",
+      "series": "虚幻引擎软件开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RB063",
+          "name": "资深虚幻引擎工程师",
+          "names": [
+            "资深UE工程师",
+            "资深虚幻引擎工程师"
+          ],
+          "specialties": [
+            "虚幻引擎开发",
+            "软高科"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RB10",
+      "function": "软件开发",
+      "series": "软件架构设计",
+      "policy": "split_by_metadata_title",
+      "reason": "应用软件分析开发、软件架构、系统运营分开。",
+      "source_title_sets": [
+        {
+          "code": "RB103",
+          "name": "软件架构经理/资深软件架构工程师",
+          "names": [
+            "应用软件分析/开发经理",
+            "系统运营经理",
+            "软件架构经理/资深软件架构工程师",
+            "项目系统运营经理"
+          ],
+          "specialties": [
+            "应用软件分析/开发",
+            "系统运营",
+            "系统运营管理",
+            "软件架构"
+          ]
+        },
+        {
+          "code": "RB104",
+          "name": "高级软件架构师",
+          "names": [
+            "应用软件分析/开发主管",
+            "高级软件架构师"
+          ],
+          "specialties": [
+            "应用软件分析/开发",
+            "软件架构"
+          ]
+        },
+        {
+          "code": "RB105",
+          "name": "软件架构师",
+          "names": [
+            "应用软件分析/开发专员",
+            "软件架构师"
+          ],
+          "specialties": [
+            "应用软件分析/开发",
+            "软件架构"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RB11",
+      "function": "软件开发",
+      "series": "软件测试",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RB113",
+          "name": "软件测试经理",
+          "names": [
+            "测试经理",
+            "软件测试经理/资深软件测试工程师"
+          ],
+          "specialties": [
+            "测试",
+            "软件测试"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RB13",
+      "function": "软件开发",
+      "series": "通用软件开发",
+      "policy": "split_by_metadata_title",
+      "reason": "结构设计/工艺设计与软件开发分开；通用研发不自动变成软件。",
+      "source_title_sets": [
+        {
+          "code": "RB132",
+          "name": "软件开发专家",
+          "names": [
+            "系统工程总监",
+            "软件开发专家"
+          ],
+          "specialties": [
+            "系统工程",
+            "软件开发"
+          ]
+        },
+        {
+          "code": "RB133",
+          "name": "软件开发经理",
+          "names": [
+            "系统软件分析/开发经理",
+            "结构设计/工艺设计经理/资深结构设计/工艺设计工程师",
+            "软件开发经理",
+            "软件开发经理/资深软件开发工程师",
+            "软件研发经理"
+          ],
+          "specialties": [
+            "系统软件分析/开发",
+            "结构设计/工艺设计",
+            "软件开发",
+            "软件开发（IT）",
+            "软件研发"
+          ]
+        },
+        {
+          "code": "RB134",
+          "name": "高级软件开发工程师",
+          "names": [
+            "系统软件分析/开发主管",
+            "软件开发主管（IT)",
+            "高级结构设计/工艺设计工程师",
+            "高级结构设计工程师",
+            "高级软件开发工程师",
+            "高级软件研发工程师"
+          ],
+          "specialties": [
+            "家电结构设计",
+            "系统软件分析/开发",
+            "结构设计",
+            "结构设计/工艺设计",
+            "软件开发",
+            "软件开发（IT）",
+            "软件研发"
+          ]
+        },
+        {
+          "code": "RB135",
+          "name": "软件开发工程师",
+          "names": [
+            "系统软件分析/开发专员",
+            "结构设计/工艺设计工程师",
+            "结构设计工程师",
+            "软件开发专员（IT）",
+            "软件开发工程师",
+            "软件研发工程师"
+          ],
+          "specialties": [
+            "家电结构设计",
+            "系统软件分析/开发",
+            "结构设计",
+            "结构设计/工艺设计",
+            "软件开发",
+            "软件开发（IT）",
+            "软件研发"
+          ]
+        },
+        {
+          "code": "RB136",
+          "name": "初级软件开发工程师",
+          "names": [
+            "初级研发工程师",
+            "初级结构设计/工艺设计工程师",
+            "初级结构设计工程师",
+            "初级软件开发工程师",
+            "初级软件研发工程师",
+            "系统软件分析/开发助理",
+            "软件开发助理（IT）"
+          ],
+          "specialties": [
+            "系统软件分析/开发",
+            "结构设计",
+            "结构设计/工艺设计",
+            "软件开发",
+            "软件开发（IT）",
+            "软件研发",
+            "通用研发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD00",
+      "function": "研发",
+      "series": "通用研发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD003",
+          "name": "通用研发经理",
+          "names": [
+            "研发经理",
+            "研发经理/资深研发工程师"
+          ],
+          "specialties": [
+            "通用研发"
+          ]
+        },
+        {
+          "code": "RD006",
+          "name": "通用研发助理",
+          "names": [
+            "初级研发工程师",
+            "助理研发工程师"
+          ],
+          "specialties": [
+            "通用研发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD09",
+      "function": "研发",
+      "series": "电子类产品研发",
+      "policy": "split_by_metadata_title",
+      "reason": "IBM小型机工程师助理与电子产品研发助理分开。",
+      "source_title_sets": [
+        {
+          "code": "RD096",
+          "name": "电子类产品研发助理",
+          "names": [
+            "IBM小型机工程师助理",
+            "电子类产品研发助理"
+          ],
+          "specialties": [
+            "电子类产品研发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD16",
+      "function": "研发",
+      "series": "材料研发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD164",
+          "name": "材料研发主管",
+          "names": [
+            "材料研发主管",
+            "高级材料研发工程师"
+          ],
+          "specialties": [
+            "材料研发"
+          ]
+        },
+        {
+          "code": "RD165",
+          "name": "材料研发专员",
+          "names": [
+            "材料研发专员",
+            "材料研发工程师"
+          ],
+          "specialties": [
+            "材料研发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD41",
+      "function": "研发",
+      "series": "SMS开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD413",
+          "name": "SMS开发经理/资深SMS工程师",
+          "names": [
+            "SMS开发经理",
+            "SMS开发经理/资深SMS工程师"
+          ],
+          "specialties": [
+            "SMS开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD44",
+      "function": "研发",
+      "series": "ISP接入开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD443",
+          "name": "ISP接入开发经理/资深ISP接入工程师",
+          "names": [
+            "ISP接入开发经理",
+            "ISP接入开发经理/资深ISP接入工程师"
+          ],
+          "specialties": [
+            "ISP接入开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD48",
+      "function": "研发",
+      "series": "搜索技术开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD483",
+          "name": "搜索技术开发经理/资深搜索技术开发工程师",
+          "names": [
+            "搜索技术开发经理",
+            "搜索技术开发经理/资深搜索技术开发工程师"
+          ],
+          "specialties": [
+            "搜索技术开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD49",
+      "function": "研发",
+      "series": "搜索引擎优化",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD493",
+          "name": "搜索引擎优化经理/资深搜索引擎优化工程师",
+          "names": [
+            "搜索引擎优化经理",
+            "搜索引擎优化经理/资深搜索引擎优化工程师"
+          ],
+          "specialties": [
+            "搜索引擎优化"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD50",
+      "function": "研发",
+      "series": "PACK",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD503",
+          "name": "PACK经理",
+          "names": [
+            "PACK经理",
+            "资深pack工程师"
+          ],
+          "specialties": [
+            "PACK",
+            "pack"
+          ]
+        },
+        {
+          "code": "RD504",
+          "name": "高级PACK工程师",
+          "names": [
+            "高级PACK工程师",
+            "高级pack工程师"
+          ],
+          "specialties": [
+            "PACK",
+            "pack"
+          ]
+        },
+        {
+          "code": "RD505",
+          "name": "PACK工程师",
+          "names": [
+            "PACK工程师",
+            "pack工程师"
+          ],
+          "specialties": [
+            "PACK",
+            "pack"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RD70",
+      "function": "研发",
+      "series": "信号处理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RD705",
+          "name": "信号处理工程师",
+          "names": [
+            "信号处理员",
+            "信号处理工程师"
+          ],
+          "specialties": [
+            "信号处理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RE49",
+      "function": "研发",
+      "series": "网络开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RE493",
+          "name": "网络开发经理/资深网络开发工程师",
+          "names": [
+            "网络开发经理",
+            "网络开发经理/资深网络开发工程师"
+          ],
+          "specialties": [
+            "网络开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RE66",
+      "function": "研发",
+      "series": "VI开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RE663",
+          "name": "VI开发经理/资深VI开发工程师",
+          "names": [
+            "VI开发经理",
+            "VI开发经理/资深VI开发工程师"
+          ],
+          "specialties": [
+            "VI开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RE98",
+      "function": "研发",
+      "series": "硬件开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RE983",
+          "name": "硬件开发经理/资深硬件开发工程师",
+          "names": [
+            "硬件开发经理",
+            "硬件开发经理/资深硬件开发工程师"
+          ],
+          "specialties": [
+            "硬件开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RF02",
+      "function": "药品研发",
+      "series": "医学研究",
+      "policy": "split_by_metadata_title",
+      "reason": "小分子技术研发与医学研究分开。",
+      "source_title_sets": [
+        {
+          "code": "RF022",
+          "name": "医学研究总监",
+          "names": [
+            "医学研究总监",
+            "小分子技术研发总监"
+          ],
+          "specialties": [
+            "医学研究"
+          ]
+        },
+        {
+          "code": "RF023",
+          "name": "医学研究经理",
+          "names": [
+            "医学研究经理",
+            "小分子技术研发经理"
+          ],
+          "specialties": [
+            "医学研究"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI00",
+      "function": "软件开发",
+      "series": "(Linux)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI004",
+          "name": "(Linux)主管",
+          "names": [
+            "高级程序员(Linux)",
+            "高级程序员（Linux）"
+          ],
+          "specialties": [
+            "(Linux)",
+            "开发(Linux)",
+            "（Linux）"
+          ]
+        },
+        {
+          "code": "RI005",
+          "name": "(Linux)专员",
+          "names": [
+            "程序员(Linux)",
+            "程序员（Linux）"
+          ],
+          "specialties": [
+            "(Linux)",
+            "开发(Linux)",
+            "（Linux）"
+          ]
+        },
+        {
+          "code": "RI006",
+          "name": "(Linux)助理",
+          "names": [
+            "初级程序员(Linux)",
+            "初级程序员（Linux）"
+          ],
+          "specialties": [
+            "(Linux)",
+            "开发(Linux)",
+            "（Linux）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI01",
+      "function": "软件开发",
+      "series": ".NET开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI014",
+          "name": ".NET开发高级工程师",
+          "names": [
+            "高级程序员(.net)",
+            "高级程序员（.net）"
+          ],
+          "specialties": [
+            "(.net)",
+            "开发(.net)",
+            "（.net）"
+          ]
+        },
+        {
+          "code": "RI015",
+          "name": ".NET开发工程师",
+          "names": [
+            "程序员(.net)",
+            "程序员（.net）"
+          ],
+          "specialties": [
+            "(.net)",
+            "开发(.net)",
+            "（.net）"
+          ]
+        },
+        {
+          "code": "RI016",
+          "name": ".NET开发助理工程师",
+          "names": [
+            "初级程序员(.net)",
+            "初级程序员（.net）"
+          ],
+          "specialties": [
+            "(.net)",
+            "开发(.net)",
+            "（.net）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI12",
+      "function": "软件开发",
+      "series": "C++开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI123",
+          "name": "C++开发经理",
+          "names": [
+            "C++程序开发经理",
+            "资深程序员(c++)"
+          ],
+          "specialties": [
+            "(C++)",
+            "C++开发"
+          ]
+        },
+        {
+          "code": "RI124",
+          "name": "C++开发高级工程师",
+          "names": [
+            "高级C++程序开发员",
+            "高级程序员(c++)",
+            "高级程序员（c++）"
+          ],
+          "specialties": [
+            "(C++)",
+            "C++开发",
+            "开发(c++)",
+            "（C++）"
+          ]
+        },
+        {
+          "code": "RI125",
+          "name": "C++开发工程师",
+          "names": [
+            "C++程序开发员",
+            "程序员(c++)",
+            "程序员（c++）"
+          ],
+          "specialties": [
+            "(C++)",
+            "C++开发",
+            "开发(c++)",
+            "（C++）"
+          ]
+        },
+        {
+          "code": "RI126",
+          "name": "C++开发助理工程师",
+          "names": [
+            "初级程序员(c++)",
+            "初级程序员（c++）"
+          ],
+          "specialties": [
+            "(C++)",
+            "开发(c++)",
+            "（C++）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI16",
+      "function": "软件开发",
+      "series": "Delphi开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI164",
+          "name": "Delphi开发高级工程师",
+          "names": [
+            "高级程序员(delphi)",
+            "高级程序员（delphi）"
+          ],
+          "specialties": [
+            "(Delphi)",
+            "开发(delphi)",
+            "（Delphi）"
+          ]
+        },
+        {
+          "code": "RI165",
+          "name": "Delphi开发工程师",
+          "names": [
+            "程序员(delphi)",
+            "程序员（delphi）"
+          ],
+          "specialties": [
+            "(Delphi)",
+            "开发(delphi)",
+            "（Delphi）"
+          ]
+        },
+        {
+          "code": "RI166",
+          "name": "Delphi开发助理工程师",
+          "names": [
+            "初级程序员(delphi)",
+            "初级程序员（delphi）"
+          ],
+          "specialties": [
+            "(Delphi)",
+            "开发(delphi)",
+            "（Delphi）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI26",
+      "function": "软件开发",
+      "series": "IVR开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI263",
+          "name": "IVR开发经理",
+          "names": [
+            "IVR开发经理",
+            "IVR开发经理/资深IVR开发工程师"
+          ],
+          "specialties": [
+            "IVR开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI27",
+      "function": "软件开发",
+      "series": "Java开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI273",
+          "name": "Java开发经理",
+          "names": [
+            "Java程序开发经理",
+            "资深程序员(java)"
+          ],
+          "specialties": [
+            "(Java)",
+            "Java开发"
+          ]
+        },
+        {
+          "code": "RI274",
+          "name": "Java开发高级工程师",
+          "names": [
+            "Java高级程序开发员",
+            "高级程序员(java)",
+            "高级程序员（java）"
+          ],
+          "specialties": [
+            "(Java)",
+            "Java开发",
+            "开发(java)",
+            "（Java）"
+          ]
+        },
+        {
+          "code": "RI275",
+          "name": "Java开发工程师",
+          "names": [
+            "Java程序开发员",
+            "程序员(java)",
+            "程序员（java）"
+          ],
+          "specialties": [
+            "(Java)",
+            "Java开发",
+            "开发(java)",
+            "（Java）"
+          ]
+        },
+        {
+          "code": "RI276",
+          "name": "Java开发助理工程师",
+          "names": [
+            "Java初级程序开发员",
+            "初级程序员(java)",
+            "初级程序员（java）"
+          ],
+          "specialties": [
+            "(Java)",
+            "Java开发",
+            "开发(java)",
+            "（Java）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI31",
+      "function": "软件开发",
+      "series": "MMS开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI313",
+          "name": "MMS开发经理",
+          "names": [
+            "MMS开发经理",
+            "MMS开发经理/资深MMS工程师"
+          ],
+          "specialties": [
+            "MMS开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI32",
+      "function": "软件开发",
+      "series": "PHP开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI324",
+          "name": "PHP开发高级工程师",
+          "names": [
+            "高级程序员(php)",
+            "高级程序员（php）"
+          ],
+          "specialties": [
+            "(php)",
+            "（php）"
+          ]
+        },
+        {
+          "code": "RI325",
+          "name": "PHP开发工程师",
+          "names": [
+            "程序员(php)",
+            "程序员（php）"
+          ],
+          "specialties": [
+            "(php)",
+            "（php）"
+          ]
+        },
+        {
+          "code": "RI326",
+          "name": "PHP开发助理工程师",
+          "names": [
+            "初级程序员(php)",
+            "初级程序员（php）"
+          ],
+          "specialties": [
+            "(php)",
+            "（php）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI33",
+      "function": "软件开发",
+      "series": "Python开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI334",
+          "name": "Python开发高级工程师",
+          "names": [
+            "高级程序员(Python)",
+            "高级程序员（Python）"
+          ],
+          "specialties": [
+            "(Python)",
+            "（Python）"
+          ]
+        },
+        {
+          "code": "RI335",
+          "name": "Python开发工程师",
+          "names": [
+            "程序员(Python)",
+            "程序员（Python）"
+          ],
+          "specialties": [
+            "(Python)",
+            "（Python）"
+          ]
+        },
+        {
+          "code": "RI336",
+          "name": "Python开发助理工程师",
+          "names": [
+            "初级程序员(Python)",
+            "初级程序员（Python）"
+          ],
+          "specialties": [
+            "(Python)",
+            "（Python）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI37",
+      "function": "软件开发",
+      "series": "WEB开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI373",
+          "name": "WEB开发经理",
+          "names": [
+            "WEB开发经理",
+            "WEB开发经理/资深WEB开发工程师"
+          ],
+          "specialties": [
+            "WEB开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI39",
+      "function": "软件开发",
+      "series": "android开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI394",
+          "name": "android开发高级工程师",
+          "names": [
+            "高级Android开发工程师",
+            "高级android开发工程师"
+          ],
+          "specialties": [
+            "Android开发",
+            "android开发",
+            "移动平台开发（Android）"
+          ]
+        },
+        {
+          "code": "RI395",
+          "name": "android开发工程师",
+          "names": [
+            "Android开发工程师",
+            "android开发工程师"
+          ],
+          "specialties": [
+            "Android开发",
+            "android开发",
+            "移动平台开发（Android）"
+          ]
+        },
+        {
+          "code": "RI396",
+          "name": "android开发助理工程师",
+          "names": [
+            "初级Android开发工程师",
+            "初级android开发工程师"
+          ],
+          "specialties": [
+            "Android开发",
+            "android开发",
+            "移动平台开发（Android）"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI41",
+      "function": "软件开发",
+      "series": "iOS开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI414",
+          "name": "iOS开发高级工程师",
+          "names": [
+            "高级iOS开发工程师",
+            "高级ios开发工程师"
+          ],
+          "specialties": [
+            "IOS开发",
+            "iOS开发",
+            "应用网络"
+          ]
+        },
+        {
+          "code": "RI415",
+          "name": "iOS开发工程师",
+          "names": [
+            "iOS开发工程师",
+            "ios开发工程师"
+          ],
+          "specialties": [
+            "IOS开发",
+            "iOS开发",
+            "应用网络"
+          ]
+        },
+        {
+          "code": "RI416",
+          "name": "iOS开发助理工程师",
+          "names": [
+            "初级iOS开发工程师",
+            "初级ios开发工程师"
+          ],
+          "specialties": [
+            "IOS开发",
+            "iOS开发",
+            "应用网络"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI55",
+      "function": "软件开发",
+      "series": "前端界面开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI553",
+          "name": "前端界面开发经理",
+          "names": [
+            "UI开发经理",
+            "UI开发经理/资深UI开发工程师"
+          ],
+          "specialties": [
+            "UI开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI79",
+      "function": "软件开发",
+      "series": "数据仓库开发",
+      "policy": "split_by_metadata_title",
+      "reason": "DMP研发和数据仓库按原名称对象分别归一。",
+      "source_title_sets": [
+        {
+          "code": "RI793",
+          "name": "数据仓库经理",
+          "names": [
+            "数据仓库经理",
+            "资深DMP研发工程师"
+          ],
+          "specialties": [
+            "DMP研发",
+            "数据仓库"
+          ]
+        },
+        {
+          "code": "RI794",
+          "name": "数据仓库主管",
+          "names": [
+            "数据仓库主管",
+            "高级DMP研发工程师"
+          ],
+          "specialties": [
+            "DMP研发",
+            "数据仓库"
+          ]
+        },
+        {
+          "code": "RI795",
+          "name": "数据仓库工程师",
+          "names": [
+            "DMP研发工程师",
+            "数据仓库工程师"
+          ],
+          "specialties": [
+            "DMP研发",
+            "数据仓库"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI81",
+      "function": "软件开发",
+      "series": "数据库应用软件开发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI813",
+          "name": "数据库开发经理",
+          "names": [
+            "数据库开发经理",
+            "数据库开发经理/资深数据库开发工程师"
+          ],
+          "specialties": [
+            "数据库开发"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RI98",
+      "function": "软件开发",
+      "series": "算法",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RI983",
+          "name": "算法经理",
+          "names": [
+            "算法经理/资深算法工程师",
+            "资深算法工程师"
+          ],
+          "specialties": [
+            "算法"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RJ01",
+      "function": "产品研发",
+      "series": "产品设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RJ013",
+          "name": "产品设计经理",
+          "names": [
+            "产品设计经理",
+            "产品设计经理/资深产品设计工程师"
+          ],
+          "specialties": [
+            "产品设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RS52",
+      "function": "研发",
+      "series": "电池系统设计(动力电池性能开发)",
+      "policy": "split_by_metadata_title",
+      "reason": "动力电池性能与电池系统开发按原名分别保留。",
+      "source_title_sets": [
+        {
+          "code": "RS524",
+          "name": "电池系统设计(动力电池性能开发)高级工程师",
+          "names": [
+            "高级动力电池性能开发工程师",
+            "高级动力电池系统开发工程师"
+          ],
+          "specialties": [
+            "技术研发（电池片）",
+            "电池系统设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RS83",
+      "function": "研发",
+      "series": "系统分析",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RS833",
+          "name": "系统分析经理/资深系统分析工程师",
+          "names": [
+            "系统分析经理",
+            "系统分析经理/资深系统分析工程师"
+          ],
+          "specialties": [
+            "系统分析"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RU09",
+      "function": "设计研发",
+      "series": "产品结构研发",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RU093",
+          "name": "产品结构研发经理",
+          "names": [
+            "结构设计/工艺设计经理",
+            "结构设计经理"
+          ],
+          "specialties": [
+            "结构设计",
+            "结构设计/工艺设计"
+          ]
+        },
+        {
+          "code": "RU094",
+          "name": "高级产品结构研发工程师",
+          "names": [
+            "高级结构设计/工艺设计工程师",
+            "高级结构设计师"
+          ],
+          "specialties": [
+            "结构设计",
+            "结构设计/工艺设计"
+          ]
+        },
+        {
+          "code": "RU095",
+          "name": "产品结构研发工程师",
+          "names": [
+            "结构设计/工艺设计工程师",
+            "结构设计师"
+          ],
+          "specialties": [
+            "结构设计",
+            "结构设计/工艺设计"
+          ]
+        },
+        {
+          "code": "RU096",
+          "name": "产品结构研发助理",
+          "names": [
+            "初级结构工程师",
+            "初级结构设计/工艺设计工程师"
+          ],
+          "specialties": [
+            "结构设计",
+            "结构设计/工艺设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RU10",
+      "function": "设计研发",
+      "series": "3D设计",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RU105",
+          "name": "3D设计师",
+          "names": [
+            "3D设计师",
+            "中级3D设计师"
+          ],
+          "specialties": [
+            "3D设计"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RU22",
+      "function": "设计研发",
+      "series": "包装工程",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RU224",
+          "name": "高级包装工程师",
+          "names": [
+            "包装工程主管/高级包装工程师",
+            "高级包装工程师"
+          ],
+          "specialties": [
+            "包装工程",
+            "包装工艺"
+          ]
+        },
+        {
+          "code": "RU225",
+          "name": "包装工程师",
+          "names": [
+            "包装工程专员/包装工程师",
+            "包装工程师"
+          ],
+          "specialties": [
+            "包装工程",
+            "包装工艺"
+          ]
+        },
+        {
+          "code": "RU226",
+          "name": "包装工程助理/初级包装工程师",
+          "names": [
+            "初级包装工程师",
+            "包装工程助理/初级包装工程师"
+          ],
+          "specialties": [
+            "包装工程"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "RU34",
+      "function": "设计研发",
+      "series": "工艺研发(生产工艺研发)",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "RU343",
+          "name": "生产工艺研发经理",
+          "names": [
+            "工艺研发经理",
+            "生产工艺研发经理",
+            "生产工艺项目经理"
+          ],
+          "specialties": [
+            "工艺研发",
+            "生产工艺项目"
+          ]
+        },
+        {
+          "code": "RU344",
+          "name": "高级工艺研发工程师",
+          "names": [
+            "高级工艺研发工程师",
+            "高级生产工艺工程师"
+          ],
+          "specialties": [
+            "工艺研发",
+            "生产工艺项目"
+          ]
+        },
+        {
+          "code": "RU345",
+          "name": "工艺研发工程师",
+          "names": [
+            "工艺研发工程师",
+            "生产工艺项目工程师"
+          ],
+          "specialties": [
+            "工艺研发",
+            "生产工艺项目"
+          ]
+        },
+        {
+          "code": "RU346",
+          "name": "生产工艺研发助理",
+          "names": [
+            "初级工艺研发工程师",
+            "助理生产工艺工程师",
+            "生产工艺研发助理"
+          ],
+          "specialties": [
+            "工艺研发",
+            "生产工艺项目"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "SA04",
+      "function": "销售管理",
+      "series": "国际贸易跟单",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "SA043",
+          "name": "国际贸易跟单经理",
+          "names": [
+            "国际贸易跟单经理",
+            "外贸跟单经理"
+          ],
+          "specialties": [
+            "国际贸易跟单",
+            "外贸跟单"
+          ]
+        },
+        {
+          "code": "SA044",
+          "name": "国际贸易跟单主管",
+          "names": [
+            "国际贸易跟单主管",
+            "外贸跟单主管"
+          ],
+          "specialties": [
+            "国际贸易跟单",
+            "外贸跟单"
+          ]
+        },
+        {
+          "code": "SA045",
+          "name": "国际贸易跟单专员",
+          "names": [
+            "国际贸易跟单专员",
+            "外贸跟单专员"
+          ],
+          "specialties": [
+            "国际贸易跟单",
+            "外贸跟单"
+          ]
+        },
+        {
+          "code": "SA046",
+          "name": "国际贸易跟单助理",
+          "names": [
+            "国际贸易跟单助理",
+            "外贸跟单助理"
+          ],
+          "specialties": [
+            "国际贸易跟单",
+            "外贸跟单"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "SE08",
+      "function": "EHS",
+      "series": "员工健康",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "SE084",
+          "name": "健康主管/高级健康顾问",
+          "names": [
+            "健康主管/高级健康顾问",
+            "高级健康顾问"
+          ],
+          "specialties": [
+            "员工健康"
+          ]
+        },
+        {
+          "code": "SE085",
+          "name": "健康专员/健康顾问",
+          "names": [
+            "健康专员",
+            "健康专员/健康顾问",
+            "健康顾问"
+          ],
+          "specialties": [
+            "员工健康"
+          ]
+        },
+        {
+          "code": "SE086",
+          "name": "健康助理/初级健康顾问",
+          "names": [
+            "健康助理",
+            "健康助理/初级健康顾问"
+          ],
+          "specialties": [
+            "员工健康"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "SE09",
+      "function": "EHS",
+      "series": "安全",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "SE092",
+          "name": "安全环境总监",
+          "names": [
+            "安全环保总监",
+            "安全环境总监"
+          ],
+          "specialties": [
+            "安全",
+            "安全,环保",
+            "安全,环保,员工健康,EHS计划&审核",
+            "安全,环保,员工健康,废料回收",
+            "安全,环境",
+            "安全，环保"
+          ]
+        },
+        {
+          "code": "SE094",
+          "name": "安全主管/高级安全工程师",
+          "names": [
+            "安全主管",
+            "安全主管/高级安全工程师"
+          ],
+          "specialties": [
+            "安全"
+          ]
+        },
+        {
+          "code": "SE095",
+          "name": "安全专员/安全工程师",
+          "names": [
+            "安全专员",
+            "安全专员/安全工程师"
+          ],
+          "specialties": [
+            "安全"
+          ]
+        },
+        {
+          "code": "SE096",
+          "name": "安全助理",
+          "names": [
+            "安全助理",
+            "安全助理/初级安全工程师"
+          ],
+          "specialties": [
+            "安全"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "SE10",
+      "function": "EHS",
+      "series": "环保",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "SE104",
+          "name": "环保主管/高级环保工程师",
+          "names": [
+            "环保主管",
+            "环保主管/高级环保工程师",
+            "高级环境顾问"
+          ],
+          "specialties": [
+            "环保"
+          ]
+        },
+        {
+          "code": "SE105",
+          "name": "环境专员/环保工程师",
+          "names": [
+            "环保专员",
+            "环境专员",
+            "环境专员/环保工程师"
+          ],
+          "specialties": [
+            "环保"
+          ]
+        },
+        {
+          "code": "SE106",
+          "name": "环境助理/初级环保工程师",
+          "names": [
+            "环保助理",
+            "环境助理",
+            "环境助理/初级环保工程师"
+          ],
+          "specialties": [
+            "环保"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "TE02",
+      "function": "测试",
+      "series": "软件测试",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "TE024",
+          "name": "软件测试主管",
+          "names": [
+            "高级测试工程师",
+            "高级软件测试工程师"
+          ],
+          "specialties": [
+            "测试",
+            "软件测试"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "TN09",
+      "function": "培训",
+      "series": "销售人员培训",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "TN095",
+          "name": "销售培训讲师",
+          "names": [
+            "中级销售培训讲师",
+            "销售培训讲师"
+          ],
+          "specialties": [
+            "销售培训"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "VM16",
+      "function": "风险管理",
+      "series": "风险管理",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "VM166",
+          "name": "风险管理助理",
+          "names": [
+            "风险控制助理",
+            "风险管理助理"
+          ],
+          "specialties": [
+            "风险管理"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "WS07",
+      "function": "信息安全",
+      "series": "网络安全防护",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "WS073",
+          "name": "网络安全经理",
+          "names": [
+            "网络安全经理",
+            "网络安全经理/资深网络安全工程师"
+          ],
+          "specialties": [
+            "网络安全",
+            "网络安全（IT)"
+          ]
+        },
+        {
+          "code": "WS074",
+          "name": "网络安全主管",
+          "names": [
+            "网络安全主管",
+            "网络安全主管/高级网络安全工程师"
+          ],
+          "specialties": [
+            "网络安全",
+            "网络安全（IT)"
+          ]
+        },
+        {
+          "code": "WS075",
+          "name": "网络安全专员",
+          "names": [
+            "网络安全专员",
+            "网络安全专员/网络安全工程师"
+          ],
+          "specialties": [
+            "网络安全",
+            "网络安全（IT)"
+          ]
+        }
+      ]
+    },
+    {
+      "prefix": "WT03",
+      "function": "质量检验",
+      "series": "酒类感官品评",
+      "policy": "same_object_aliases",
+      "reason": "已核对本系列原名称及细分：同一专业对象、同级同义称谓/管理与专业双称谓归一；保留全部原名，不按行业另建岗位。",
+      "source_title_sets": [
+        {
+          "code": "WT034",
+          "name": "高级品酒师/高级白酒检验师",
+          "names": [
+            "高级品酒师",
+            "高级白酒检验师"
+          ],
+          "specialties": [
+            "品酒",
+            "检验"
+          ]
+        },
+        {
+          "code": "WT035",
+          "name": "品酒师/白酒检验师",
+          "names": [
+            "品酒师",
+            "白酒检验师"
+          ],
+          "specialties": [
+            "品酒",
+            "检验"
+          ]
+        },
+        {
+          "code": "WT036",
+          "name": "初级品酒师/初级白酒检验师",
+          "names": [
+            "初级品酒师",
+            "初级白酒检验师"
+          ],
+          "specialties": [
+            "品酒",
+            "检验"
+          ]
+        }
+      ]
+    }
+  ],
+  "boundary_decisions": [
+    {
+      "group": "会员营销/会员中心",
+      "decision": "保留不同身份",
+      "reason": "原名及原细分分别为会员营销、会员中心服务管理，专业对象不同；恢复各自原称谓。"
+    },
+    {
+      "group": "物业维修工/工程维修经理",
+      "decision": "保留不同身份",
+      "reason": "原名分别是资深设备维修工、工程维修经理/物业工程经理，操作技术与部门管理称谓不同，不能因同级都叫工程师。"
+    },
+    {
+      "group": "财务投资/投资管理",
+      "decision": "按同级投资岗位工作归并",
+      "reason": "原名称投资与投资管理在本轮名码口径按同一专业对象处理，旧财务/投资业务部门标签不另拆岗；归投资业务，跨职能归并保留推定及全部来源。"
+    },
+    {
+      "group": "架构设计",
+      "decision": "泛架构设计同级归一到研发",
+      "reason": "同原名、同原细分构架/架构设计及同原码梯队支持统一；无名称证据不擅加软件限定。明确软件架构另保留软件开发职业。"
+    },
+    {
+      "group": "算法",
+      "decision": "同名算法梯队归研发",
+      "reason": "泛算法原名与细分一致，同级归一；明确图像/硬件/特定产品算法对象仍分别保留。"
+    },
+    {
+      "group": "物流订单/销售订单",
+      "decision": "保留专业分支",
+      "reason": "按原物流管理/销售职能及订单/订单管理细分，保留物流履约和销售订单工作身份；属于本轮范围推定，不写成JD已经证明。"
+    },
+    {
+      "group": "项目专员/项目管理专员",
+      "decision": "通用项目管理同级归一",
+      "reason": "原名项目专员/项目管理专员、原细分项目管理无营销活动限定，去掉JD派生的营销限定；原细分明确职业教育等对象时另保留。"
+    }
+  ],
+  "level_policy": "既有确认和首批明确层级结论保留。合法原级优先；同名来源原级不一时沿用已有工作梯队并记录逐来源原级、目标级与推定。经理/主管/专员异常连续6/7/8及1/2/3按3/4/5工作归一，非法8不得入活动代码。不同职务不只因同级合并。",
+  "original_revision_policy": "按行业、行号定位原版和修改版6；修改版6为当前输入。名称差异43条保留前后值，空白差异66条规范化，不能误当同码跨岗匹配。",
+  "protected_codes": [
+    "GM001",
+    "HR963",
+    "DP203",
+    "DP204",
+    "DP205",
+    "DP206",
+    "AC435",
+    "CT205",
+    "LO304",
+    "LO306"
+  ],
+  "name_display_policy": "相同标准称谓如有已记录的不同工作职级，在名称括注职级；跨专业时同时注明专业。原级、原名和推定保留，不用括注冒充专家已确认，也不以随机序号制造身份。"
+}

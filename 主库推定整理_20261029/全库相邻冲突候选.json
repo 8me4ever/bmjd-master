@@ -1,0 +1,511 @@
+{
+  "scope": "同名同层级及同系列同层级候选扫描；不代表语义检查完成",
+  "groups": [
+    {
+      "type": "同名同层级",
+      "key": [
+        "KOL运营专员",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-B6DD1530D71385",
+          "code": "AE005",
+          "name": "KOL运营专员",
+          "function": "营销策划"
+        },
+        {
+          "job_id": "UJ-ALL-75B5DFAEE46791",
+          "code": "MK425",
+          "name": "KOL运营专员",
+          "function": "市场"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "KOL运营主管",
+        4
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-C3E67073391319",
+          "code": "AE004",
+          "name": "KOL运营主管",
+          "function": "营销策划"
+        },
+        {
+          "job_id": "UJ-ALL-20BA4F8FFC0A3A",
+          "code": "MK424",
+          "name": "KOL运营主管",
+          "function": "市场"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "KOL运营助理",
+        6
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-3513F972699E21",
+          "code": "AE006",
+          "name": "KOL运营助理",
+          "function": "营销策划"
+        },
+        {
+          "job_id": "UJ-ALL-C01FD6C1EEAC19",
+          "code": "MK426",
+          "name": "KOL运营助理",
+          "function": "市场"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "KOL运营经理",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-3DF55145F468A9",
+          "code": "AE003",
+          "name": "KOL运营经理",
+          "function": "营销策划"
+        },
+        {
+          "job_id": "UJ-ALL-CDF4660FA16785",
+          "code": "MK423",
+          "name": "KOL运营经理",
+          "function": "市场"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "仓储管理总监",
+        2
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-649ED110BD81DC",
+          "code": "AX012",
+          "name": "仓储管理总监",
+          "function": "仓储"
+        },
+        {
+          "job_id": "UJ-ALL-59011DB300DC33",
+          "code": "LO022",
+          "name": "仓储管理总监",
+          "function": "物流管理"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "仓储经理",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-ALL-E88B4AF6D5B773",
+          "code": "AX013",
+          "name": "仓储经理",
+          "function": "仓储"
+        },
+        {
+          "job_id": "UJ-E2E794110BAD36",
+          "code": "LO023",
+          "name": "仓储经理",
+          "function": "物流管理"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "会员营销经理",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-8C1886E571C175",
+          "code": "AE123",
+          "name": "会员营销经理",
+          "function": "营销策划"
+        },
+        {
+          "job_id": "UJ-3C4BA4A3E727A6",
+          "code": "BY033",
+          "name": "会员营销经理",
+          "function": "客户关系"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "初级剪切切割技师",
+        7
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-FD5CF69E49FD41",
+          "code": "FM437",
+          "name": "初级剪切切割技师",
+          "function": "生产"
+        },
+        {
+          "job_id": "UJ-9BB00549D155C9",
+          "code": "PD577",
+          "name": "初级剪切/切割技师",
+          "function": "生产"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "应收应付专员",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-9AE2F7A777FA09",
+          "code": "FA105",
+          "name": "应收/应付专员",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-00BB0441EEBBA6",
+          "code": "FA315",
+          "name": "应收应付专员",
+          "function": "财务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "应收应付主管",
+        4
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-973FD4EA3250D4",
+          "code": "FA104",
+          "name": "应收/应付主管",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-CAD8F7B6CC32F1",
+          "code": "FA314",
+          "name": "应收应付主管",
+          "function": "财务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "应收应付助理",
+        6
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-36BF88CBDA183D",
+          "code": "FA106",
+          "name": "应收/应付助理",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-7454DA06A2CC68",
+          "code": "FA316",
+          "name": "应收应付助理",
+          "function": "财务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "应收应付经理",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-2E3F2C5F1F7352",
+          "code": "FA103",
+          "name": "应收/应付经理",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-A00455EBD4D774",
+          "code": "FA313",
+          "name": "应收应付经理",
+          "function": "财务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "投资专员",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-A74FB5C18590A8",
+          "code": "FA075",
+          "name": "投资专员",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-97CE16C21FE02A",
+          "code": "IO075",
+          "name": "投资专员",
+          "function": "投资业务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "投资主管",
+        4
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-DD744CBB1375A0",
+          "code": "FA074",
+          "name": "投资主管",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-B116DC2E971A5E",
+          "code": "IO074",
+          "name": "投资主管",
+          "function": "投资业务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "投资助理",
+        6
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-A731DF44BE8E13",
+          "code": "FA076",
+          "name": "投资助理",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-5951408631F6C9",
+          "code": "IO076",
+          "name": "投资助理",
+          "function": "投资业务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "投资经理",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-42ADE86752A635",
+          "code": "FA073",
+          "name": "投资经理",
+          "function": "财务"
+        },
+        {
+          "job_id": "UJ-3EEEBE130DD78C",
+          "code": "IO073",
+          "name": "投资经理",
+          "function": "投资业务"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "构架设计高级工程师",
+        4
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-ALL-E6AC15B816AC1D",
+          "code": "RI854",
+          "name": "构架设计高级工程师",
+          "function": "软件开发"
+        },
+        {
+          "job_id": "UJ-38090F65D7737E",
+          "code": "RS714",
+          "name": "构架设计高级工程师",
+          "function": "研发"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "物业设施维修工程师3级",
+        3
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-ALL-A878996D55C101",
+          "code": "CP083",
+          "name": "物业设施维修工程师（3级）",
+          "function": "物业工程"
+        },
+        {
+          "job_id": "UJ-634B8E14DD2889",
+          "code": "OA213",
+          "name": "物业设施维修工程师（3级）",
+          "function": "行政"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "算法主管",
+        4
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-4369EE34B596B7",
+          "code": "RD394",
+          "name": "算法主管",
+          "function": "研发"
+        },
+        {
+          "job_id": "UJ-ALL-FF671ED4B38D17",
+          "code": "RI984",
+          "name": "算法主管",
+          "function": "软件开发"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "订单专员",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-C9F09A7DDA498A",
+          "code": "LO235",
+          "name": "订单专员",
+          "function": "物流管理"
+        },
+        {
+          "job_id": "UJ-B8856AF890C3F1",
+          "code": "MS295",
+          "name": "订单专员",
+          "function": "销售"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "订单助理",
+        6
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-AC8679837A739B",
+          "code": "LO236",
+          "name": "订单助理",
+          "function": "物流管理"
+        },
+        {
+          "job_id": "UJ-D1186727782060",
+          "code": "MS296",
+          "name": "订单助理",
+          "function": "销售"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "项目专员",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-666C9C1EFE4683",
+          "code": "PC035",
+          "name": "项目专员",
+          "function": "项目管理"
+        },
+        {
+          "job_id": "UJ-215A7393BC43D7",
+          "code": "PC085",
+          "name": "项目专员",
+          "function": "项目管理"
+        }
+      ]
+    },
+    {
+      "type": "同名同层级",
+      "key": [
+        "高级剪切切割技师",
+        5
+      ],
+      "status": "待语义复核，禁止机械归并",
+      "jobs": [
+        {
+          "job_id": "UJ-1DBEBA6F226A8A",
+          "code": "FM435",
+          "name": "高级剪切切割技师",
+          "function": "生产"
+        },
+        {
+          "job_id": "UJ-865EF3242E0303",
+          "code": "PD575",
+          "name": "高级剪切/切割技师",
+          "function": "生产"
+        }
+      ]
+    }
+  ]
+}

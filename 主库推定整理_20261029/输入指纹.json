@@ -1,0 +1,15 @@
+{
+  "version": "BMJD-WORK-20261029-01",
+  "files": {
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+    "全库统一完成_20261029/岗位JD及条款依据.json": "585ae502a9537d82da4c816e99b0b33e0085c490054734f29a6cd2c4cea4d011",
+    "全库统一完成_20261029/规范职能字典.json": "b9b7747cb7fbdae3823aa826f6dae095aaa527c0f3163c106c7875631ffd548e",
+    "双线协作交接_20261029/JD编写输入.json": "048a70dca2176dfb567a4b750554f068d45b6c6f0667419d8ce832999b88a4ef",
+    "双线协作交接_20261029/JD原文证据.json": "5541f68e1e97f2145dedb78354c348a20f6ada18e4b88f2d438c7d81afdb3279",
+    "双线协作交接_20261029/主库推定整理输入.json": "6f74fbab40ee4ab6e715315249e2de46750a3a23313a02d30e800fbb3b28c400",
+    "双线协作交接_20261029/JD回传格式.schema.json": "821b3662d94bd74fa32777dd88aba4a756565c197d6e622084aefe60d12601b7",
+    "JD编写_20261029/out/JD回传_常规岗.json": "0ca0cfaf866a76a8cbbfd33cbf8663b642ccedefc6b974de8fd15dc7fc62d1c7",
+    "统一收口_20261029/岗位职责原文.json": "48c94f27d707ff33a6dba6f0cd3bbe6be1ebb953ebdfb648e9c9f6c3cc506764"
+  },
+  "review_decisions_sha256": "b23f8d66e8c48d45bb98de70440efd11d9075926b41e3807daf8d31e755b9b52"
+}

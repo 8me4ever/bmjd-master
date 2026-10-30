@@ -1,0 +1,2021 @@
+[
+  {
+    "source_id": "SRC-传媒-0699",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-传媒.xlsx",
+      "sheet": "传媒",
+      "row": 699,
+      "code": "MS405",
+      "name": "广告销售代表",
+      "system": "市场营销体系",
+      "function": "销售",
+      "specialty": "广告销售",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-传媒.xlsx",
+      "sheet": "传媒",
+      "row": 699,
+      "code": "MS405",
+      "name": "广告销售专员",
+      "system": "市场营销体系",
+      "function": "销售",
+      "specialty": "广告销售",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-传媒-0700",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-传媒.xlsx",
+      "sheet": "传媒",
+      "row": 700,
+      "code": "MS406",
+      "name": "初级广告销售代表",
+      "system": "市场营销体系",
+      "function": "销售",
+      "specialty": "广告销售",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-传媒.xlsx",
+      "sheet": "传媒",
+      "row": 700,
+      "code": "MS406",
+      "name": "广告销售助理",
+      "system": "市场营销体系",
+      "function": "销售",
+      "specialty": "广告销售",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-0978",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 978,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 978,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-1327",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1327,
+      "code": "RD393",
+      "name": "算法经理",
+      "system": "设计研发体系",
+      "function": "技术研发",
+      "specialty": "算法",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1327,
+      "code": "RD393",
+      "name": "资深算法工程师",
+      "system": "设计研发体系",
+      "function": "技术研发",
+      "specialty": "算法",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-1518",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1518,
+      "code": "PE124",
+      "name": "高级安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1518,
+      "code": "PE404",
+      "name": "安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-1519",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1519,
+      "code": "PE125",
+      "name": "安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1519,
+      "code": "PE405",
+      "name": "初级安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-1520",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1520,
+      "code": "PE126",
+      "name": "初级安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1520,
+      "code": "PE406",
+      "name": "助理安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-制造-1541",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1541,
+      "code": "PE123",
+      "name": "安装工程经理",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "sheet": "制造",
+      "row": 1541,
+      "code": "PE403",
+      "name": "高级安装工程师",
+      "system": "业务技术体系",
+      "function": "专业技术",
+      "specialty": "安装工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-医药-0499",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-医药.xlsx",
+      "sheet": "医药",
+      "row": 499,
+      "code": "IT883",
+      "name": "前端开发经理",
+      "system": "职能管理体系",
+      "function": "信息技术",
+      "specialty": "前端",
+      "industry_tag": "医疗器械及设备,智慧医疗,健康管理"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-医药.xlsx",
+      "sheet": "医药",
+      "row": 499,
+      "code": "IT883",
+      "name": "资深前端开发工程师",
+      "system": "职能管理体系",
+      "function": "信息技术",
+      "specialty": "前端",
+      "industry_tag": "医疗器械及设备,智慧医疗,健康管理"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-0820",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 820,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 820,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-1437",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1437,
+      "code": "CR023",
+      "name": "主编",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1437,
+      "code": "CR023",
+      "name": "节目主编",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-1438",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1438,
+      "code": "CR024",
+      "name": "责任编辑",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1438,
+      "code": "CR024",
+      "name": "节目责任编辑",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-1439",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1439,
+      "code": "CR025",
+      "name": "编辑",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1439,
+      "code": "CR025",
+      "name": "节目编辑",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编辑",
+      "industry_tag": "文旅地产"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-1444",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1444,
+      "code": "CR044",
+      "name": "执行编导",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编导",
+      "industry_tag": "文旅地产"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1444,
+      "code": "CR044",
+      "name": "副编导",
+      "system": "旅游地产体系",
+      "function": "文艺活动",
+      "specialty": "节目编导",
+      "industry_tag": "文旅地产"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-1737",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1737,
+      "code": "PE133",
+      "name": "工程监理",
+      "system": "项目工程体系",
+      "function": "项目工程",
+      "specialty": "施工",
+      "industry_tag": "地产集团,地产开发,产业园区,养老地产,文旅地产,建筑装饰,建筑工程,PPP"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 1737,
+      "code": "PE133",
+      "name": "工程实施经理",
+      "system": "项目工程体系",
+      "function": "项目工程",
+      "specialty": "施工",
+      "industry_tag": "地产集团,地产开发,产业园区,养老地产,文旅地产,建筑装饰,建筑工程,PPP"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-地产-2155",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 2155,
+      "code": "ID106",
+      "name": "初级网站内容审核专员",
+      "system": "产品研发体系",
+      "function": "网站内容",
+      "specialty": "网站内容审核",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "sheet": "地产",
+      "row": 2155,
+      "code": "ID046",
+      "name": "网站内容审核助理",
+      "system": "产品研发体系",
+      "function": "网站内容",
+      "specialty": "网站内容审核",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-教育-0489",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 489,
+      "code": "HR203",
+      "name": "HRBP经理",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 489,
+      "code": "HR093",
+      "name": "资深HRBP",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-教育-0492",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 492,
+      "code": "HR204",
+      "name": "HRBP主管",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 492,
+      "code": "HR094",
+      "name": "高级HRBP",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-教育-0495",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 495,
+      "code": "HR205",
+      "name": "HRBP专员",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 495,
+      "code": "HR095",
+      "name": "HRBP",
+      "system": "职能管理体系",
+      "function": "人力资源",
+      "specialty": "HRBP",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-教育-0568",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 568,
+      "code": "RD073",
+      "name": "算法经理",
+      "system": "研发体系",
+      "function": "技术研发",
+      "specialty": "算法",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx",
+      "sheet": "教育",
+      "row": 568,
+      "code": "RD393",
+      "name": "资深算法工程师",
+      "system": "研发体系",
+      "function": "技术研发",
+      "specialty": "算法",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-0567",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 567,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 567,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1589",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1589,
+      "code": "BS016",
+      "name": "高级导购员",
+      "system": "店面体系",
+      "function": "店面体系管理",
+      "specialty": "门店",
+      "industry_tag": "食品饮料,酒业,鞋服,日化,奢侈品,纺织,餐饮,连锁商超,零售百货,乳业,调味品,油脂（粮油）,饲料,商贸代理,玩具,家居建材,办公用品,珠宝,茶业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1589,
+      "code": "BS036",
+      "name": "导购领班",
+      "system": "店面体系",
+      "function": "店面体系管理",
+      "specialty": "门店",
+      "industry_tag": "食品饮料,酒业,鞋服,日化,奢侈品,纺织,餐饮,连锁商超,零售百货,乳业,调味品,油脂（粮油）,饲料,商贸代理,玩具,家居建材,办公用品,珠宝,茶业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1679",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1679,
+      "code": "DP004",
+      "name": "高级空间设计师",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1679,
+      "code": "DP004",
+      "name": "空间设计主管",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1680",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1680,
+      "code": "DP005",
+      "name": "空间设计师",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1680,
+      "code": "DP005",
+      "name": "空间设计专员",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1681",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1681,
+      "code": "DP006",
+      "name": "初级空间设计师",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1681,
+      "code": "DP006",
+      "name": "空间设计助理",
+      "system": "店面体系",
+      "function": "空间",
+      "specialty": "空间设计",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1834",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1834,
+      "code": "SD103",
+      "name": "隧道经理",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1834,
+      "code": "PE763",
+      "name": "高级隧道工程师",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1835",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1835,
+      "code": "SD104",
+      "name": "隧道主管",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1835,
+      "code": "PE764",
+      "name": "隧道工程师",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-消费品-1836",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1836,
+      "code": "SD105",
+      "name": "隧道专员",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "sheet": "消费品",
+      "row": 1836,
+      "code": "PE765",
+      "name": "初级隧道工程师",
+      "system": "畜牧养殖体系",
+      "function": "种植体系",
+      "specialty": "隧道",
+      "industry_tag": "农牧业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-物流-0064",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-物流.xlsx",
+      "sheet": "物流",
+      "row": 64,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-物流.xlsx",
+      "sheet": "物流",
+      "row": 64,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-综合服务-0611",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-综合服务.xlsx",
+      "sheet": "综合服务",
+      "row": 611,
+      "code": "ID106",
+      "name": "初级网站内容审核专员",
+      "system": "市场营销体系",
+      "function": "市场",
+      "specialty": "网站内容审核",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-综合服务.xlsx",
+      "sheet": "综合服务",
+      "row": 611,
+      "code": "ID046",
+      "name": "网站内容审核助理",
+      "system": "市场营销体系",
+      "function": "市场",
+      "specialty": "网站内容审核",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-能源化工-1005",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1005,
+      "code": "QA106",
+      "name": "实验室管理员助理",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "实验室管理",
+      "industry_tag": "电力"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1005,
+      "code": "QA106",
+      "name": "实验室管理助理",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "实验室管理",
+      "industry_tag": "电力"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-能源化工-1175",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1175,
+      "code": "RD046",
+      "name": "助理工艺工程师",
+      "system": "研发体系",
+      "function": "研发",
+      "specialty": "工艺研发",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1175,
+      "code": "RD046",
+      "name": "生产工艺研发助理",
+      "system": "研发体系",
+      "function": "研发",
+      "specialty": "工艺研发",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-能源化工-1299",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1299,
+      "code": "PD176",
+      "name": "中级焊工",
+      "system": "生产体系",
+      "function": "生产",
+      "specialty": "焊工",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1299,
+      "code": "PD526",
+      "name": "焊工",
+      "system": "生产体系",
+      "function": "生产",
+      "specialty": "焊工",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-能源化工-1942",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1942,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1942,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务运营",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-能源化工-1991",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1991,
+      "code": "ET036",
+      "name": "助理设备维修工程师",
+      "system": "工程技术体系",
+      "function": "生产技术",
+      "specialty": "动力设备维修",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "sheet": "能源化工",
+      "row": 1991,
+      "code": "ET036",
+      "name": "初级动力设备维修工程师",
+      "system": "工程技术体系",
+      "function": "生产技术",
+      "specialty": "动力设备维修",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-金融-0152",
+    "type": "空白规范化",
+    "raw": [
+      "VF003",
+      "查证经理\n"
+    ],
+    "ledger": [
+      "VF003",
+      "查证经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0153",
+    "type": "空白规范化",
+    "raw": [
+      "VF004",
+      "查证主管\n"
+    ],
+    "ledger": [
+      "VF004",
+      "查证主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0154",
+    "type": "空白规范化",
+    "raw": [
+      "VF005",
+      "查证专员\n"
+    ],
+    "ledger": [
+      "VF005",
+      "查证专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0155",
+    "type": "空白规范化",
+    "raw": [
+      "VF006",
+      "查证助理\n"
+    ],
+    "ledger": [
+      "VF006",
+      "查证助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0806",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-金融.xlsx",
+      "sheet": "金融",
+      "row": 806,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-金融.xlsx",
+      "sheet": "金融",
+      "row": 806,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-金融-0859",
+    "type": "空白规范化",
+    "raw": [
+      "AM063",
+      "差错处理经理\n"
+    ],
+    "ledger": [
+      "AM063",
+      "差错处理经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0860",
+    "type": "空白规范化",
+    "raw": [
+      "AM064",
+      "差错处理主管\n"
+    ],
+    "ledger": [
+      "AM064",
+      "差错处理主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0861",
+    "type": "空白规范化",
+    "raw": [
+      "AM065",
+      "差错处理专员\n"
+    ],
+    "ledger": [
+      "AM065",
+      "差错处理专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0862",
+    "type": "空白规范化",
+    "raw": [
+      "AM066",
+      "差错处理助理\n"
+    ],
+    "ledger": [
+      "AM066",
+      "差错处理助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0886",
+    "type": "空白规范化",
+    "raw": [
+      "BH004",
+      "开户管理主管\n"
+    ],
+    "ledger": [
+      "BH004",
+      "开户管理主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-0887",
+    "type": "空白规范化",
+    "raw": [
+      "BH005",
+      "开户管理员\n"
+    ],
+    "ledger": [
+      "BH005",
+      "开户管理员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1132",
+    "type": "空白规范化",
+    "raw": [
+      "FC002",
+      "信托业务总监\n"
+    ],
+    "ledger": [
+      "FC002",
+      "信托业务总监"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1133",
+    "type": "空白规范化",
+    "raw": [
+      "FC003",
+      "信托业务经理\n"
+    ],
+    "ledger": [
+      "FC003",
+      "信托业务经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1134",
+    "type": "空白规范化",
+    "raw": [
+      "FC004",
+      "信托业务主管\n"
+    ],
+    "ledger": [
+      "FC004",
+      "信托业务主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1135",
+    "type": "空白规范化",
+    "raw": [
+      "FC005",
+      "信托业务专员\n"
+    ],
+    "ledger": [
+      "FC005",
+      "信托业务专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1136",
+    "type": "空白规范化",
+    "raw": [
+      "FC006",
+      "信托业务助理\n"
+    ],
+    "ledger": [
+      "FC006",
+      "信托业务助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1137",
+    "type": "空白规范化",
+    "raw": [
+      "FC023",
+      "信托业务管理经理\n"
+    ],
+    "ledger": [
+      "FC023",
+      "信托业务管理经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1138",
+    "type": "空白规范化",
+    "raw": [
+      "FC024",
+      "信托业务管理主管\n"
+    ],
+    "ledger": [
+      "FC024",
+      "信托业务管理主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1139",
+    "type": "空白规范化",
+    "raw": [
+      "FC025",
+      "信托业务管理专员\n"
+    ],
+    "ledger": [
+      "FC025",
+      "信托业务管理专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1140",
+    "type": "空白规范化",
+    "raw": [
+      "FC026",
+      "信托业务管理助理\n"
+    ],
+    "ledger": [
+      "FC026",
+      "信托业务管理助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1291",
+    "type": "空白规范化",
+    "raw": [
+      "RA203",
+      "农产品研究经理\n"
+    ],
+    "ledger": [
+      "RA203",
+      "农产品研究经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1292",
+    "type": "空白规范化",
+    "raw": [
+      "RA204",
+      "高级农产品研究员\n"
+    ],
+    "ledger": [
+      "RA204",
+      "高级农产品研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1293",
+    "type": "空白规范化",
+    "raw": [
+      "RA205",
+      "农产品研究员\n"
+    ],
+    "ledger": [
+      "RA205",
+      "农产品研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1294",
+    "type": "空白规范化",
+    "raw": [
+      "RA206",
+      "初级农产品研究员\n"
+    ],
+    "ledger": [
+      "RA206",
+      "初级农产品研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1295",
+    "type": "空白规范化",
+    "raw": [
+      "RA303",
+      "金属研究经理\n"
+    ],
+    "ledger": [
+      "RA303",
+      "金属研究经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1296",
+    "type": "空白规范化",
+    "raw": [
+      "RA304",
+      "高级金属研究员\n"
+    ],
+    "ledger": [
+      "RA304",
+      "高级金属研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1297",
+    "type": "空白规范化",
+    "raw": [
+      "RA305",
+      "金属研究员\n"
+    ],
+    "ledger": [
+      "RA305",
+      "金属研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1298",
+    "type": "空白规范化",
+    "raw": [
+      "RA306",
+      "初级金属研究员\n"
+    ],
+    "ledger": [
+      "RA306",
+      "初级金属研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1299",
+    "type": "空白规范化",
+    "raw": [
+      "RA403",
+      "能化研究经理\n"
+    ],
+    "ledger": [
+      "RA403",
+      "能化研究经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1300",
+    "type": "空白规范化",
+    "raw": [
+      "RA404",
+      "高级能化研究员\n"
+    ],
+    "ledger": [
+      "RA404",
+      "高级能化研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1301",
+    "type": "空白规范化",
+    "raw": [
+      "RA405",
+      "能化研究员\n"
+    ],
+    "ledger": [
+      "RA405",
+      "能化研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1302",
+    "type": "空白规范化",
+    "raw": [
+      "RA406",
+      "初级能化研究员\n"
+    ],
+    "ledger": [
+      "RA406",
+      "初级能化研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1303",
+    "type": "空白规范化",
+    "raw": [
+      "PC003",
+      "回款经理\n"
+    ],
+    "ledger": [
+      "PC003",
+      "回款经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1304",
+    "type": "空白规范化",
+    "raw": [
+      "PC004",
+      "回款主管\n"
+    ],
+    "ledger": [
+      "PC004",
+      "回款主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1305",
+    "type": "空白规范化",
+    "raw": [
+      "PC005",
+      "回款专员\n"
+    ],
+    "ledger": [
+      "PC005",
+      "回款专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1306",
+    "type": "空白规范化",
+    "raw": [
+      "PC006",
+      "回款助理\n"
+    ],
+    "ledger": [
+      "PC006",
+      "回款助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1307",
+    "type": "空白规范化",
+    "raw": [
+      "ST013",
+      "分期业务经理\n"
+    ],
+    "ledger": [
+      "ST013",
+      "分期业务经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1308",
+    "type": "空白规范化",
+    "raw": [
+      "ST014",
+      "分期业务主管\n"
+    ],
+    "ledger": [
+      "ST014",
+      "分期业务主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1309",
+    "type": "空白规范化",
+    "raw": [
+      "ST015",
+      "分期业务专员\n"
+    ],
+    "ledger": [
+      "ST015",
+      "分期业务专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1310",
+    "type": "空白规范化",
+    "raw": [
+      "ST016",
+      "分期业务助理\n"
+    ],
+    "ledger": [
+      "ST016",
+      "分期业务助理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1334",
+    "type": "空白规范化",
+    "raw": [
+      "IT512",
+      "IT 数字化总监"
+    ],
+    "ledger": [
+      "IT512",
+      "IT数字化总监"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1335",
+    "type": "空白规范化",
+    "raw": [
+      "IT513",
+      "IT 数字化经理"
+    ],
+    "ledger": [
+      "IT513",
+      "IT数字化经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1336",
+    "type": "空白规范化",
+    "raw": [
+      "IT514",
+      "IT 数字化主管"
+    ],
+    "ledger": [
+      "IT514",
+      "IT数字化主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-金融-1337",
+    "type": "空白规范化",
+    "raw": [
+      "IT515",
+      "IT 数字化专员"
+    ],
+    "ledger": [
+      "IT515",
+      "IT数字化专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-0645",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 645,
+      "code": "BU004",
+      "name": "高级商务专员",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 645,
+      "code": "BU314",
+      "name": "商务运营主管",
+      "system": "市场营销体系",
+      "function": "商务",
+      "specialty": "商务",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-1452",
+    "type": "空白规范化",
+    "raw": [
+      "RS723",
+      "资深Android framework ⼯程师"
+    ],
+    "ledger": [
+      "RS723",
+      "资深Androidframework⼯程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1453",
+    "type": "空白规范化",
+    "raw": [
+      "RS724",
+      "高级Android framework ⼯程师"
+    ],
+    "ledger": [
+      "RS724",
+      "高级Androidframework⼯程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1454",
+    "type": "空白规范化",
+    "raw": [
+      "RS725",
+      "Android framework ⼯程师"
+    ],
+    "ledger": [
+      "RS725",
+      "Androidframework⼯程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1455",
+    "type": "空白规范化",
+    "raw": [
+      "RS726",
+      "初级Android framework ⼯程师"
+    ],
+    "ledger": [
+      "RS726",
+      "初级Androidframework⼯程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1488",
+    "type": "空白规范化",
+    "raw": [
+      "RS813",
+      "资深TensorFlow 工程师"
+    ],
+    "ledger": [
+      "RS813",
+      "资深TensorFlow工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1489",
+    "type": "空白规范化",
+    "raw": [
+      "RS814",
+      "高级TensorFlow 工程师"
+    ],
+    "ledger": [
+      "RS814",
+      "高级TensorFlow工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1490",
+    "type": "空白规范化",
+    "raw": [
+      "RS815",
+      "TensorFlow 工程师"
+    ],
+    "ledger": [
+      "RS815",
+      "TensorFlow工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1491",
+    "type": "空白规范化",
+    "raw": [
+      "RS816",
+      "初级TensorFlow 工程师"
+    ],
+    "ledger": [
+      "RS816",
+      "初级TensorFlow工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-1669",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1669,
+      "code": "QE004",
+      "name": "高级质量工程专员",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1669,
+      "code": "QE004",
+      "name": "高级质量工程师",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-1670",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1670,
+      "code": "QE005",
+      "name": "质量工程专员",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1670,
+      "code": "QE005",
+      "name": "质量工程师",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-1671",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1671,
+      "code": "QE006",
+      "name": "初级质量工程专员",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1671,
+      "code": "QE006",
+      "name": "初级质量工程师",
+      "system": "质量管理体系",
+      "function": "质量管理",
+      "specialty": "质量工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-1900",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1900,
+      "code": "MT154",
+      "name": "IE高级工程师",
+      "system": "生产制造体系",
+      "function": "生产工艺",
+      "specialty": "IE工程",
+      "industry_tag": "全行业"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 1900,
+      "code": "MT154",
+      "name": "高级IE工程师",
+      "system": "生产制造体系",
+      "function": "生产工艺",
+      "specialty": "IE工程",
+      "industry_tag": "全行业"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-2193",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 2193,
+      "code": "ID105",
+      "name": "网站内容审核员",
+      "system": "网站内容体系",
+      "function": "网站内容",
+      "specialty": "内容审核",
+      "industry_tag": "软件及系统集成,电子商务/O2O,游戏,通信通讯,信息安全,分销行业,云计算&大数据,IDC数据,互联网,物联网"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 2193,
+      "code": "ID045",
+      "name": "网站内容审核专员",
+      "system": "网站内容体系",
+      "function": "网站内容",
+      "specialty": "内容审核",
+      "industry_tag": "软件及系统集成,电子商务/O2O,游戏,通信通讯,信息安全,分销行业,云计算&大数据,IDC数据,互联网,物联网"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-2194",
+    "type": "原版到修改版名称修订",
+    "before": {
+      "file": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 2194,
+      "code": "ID106",
+      "name": "初级网站内容审核员",
+      "system": "网站内容体系",
+      "function": "网站内容",
+      "specialty": "内容审核",
+      "industry_tag": "软件及系统集成,电子商务/O2O,游戏,通信通讯,信息安全,分销行业,云计算&大数据,IDC数据,互联网,物联网"
+    },
+    "after": {
+      "file": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "sheet": "高科技",
+      "row": 2194,
+      "code": "ID046",
+      "name": "网站内容审核助理",
+      "system": "网站内容体系",
+      "function": "网站内容",
+      "specialty": "内容审核",
+      "industry_tag": "软件及系统集成,电子商务/O2O,游戏,通信通讯,信息安全,分销行业,云计算&大数据,IDC数据,互联网,物联网"
+    },
+    "decision": "采用修改版6当前名称；原名原码保留，非定位错误"
+  },
+  {
+    "source_id": "SRC-高科技-2239",
+    "type": "空白规范化",
+    "raw": [
+      "RI014",
+      "高级工程师 "
+    ],
+    "ledger": [
+      "RI014",
+      "高级工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2240",
+    "type": "空白规范化",
+    "raw": [
+      "RI015",
+      "工程师 "
+    ],
+    "ledger": [
+      "RI015",
+      "工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2241",
+    "type": "空白规范化",
+    "raw": [
+      "RI016",
+      "初级工程师 "
+    ],
+    "ledger": [
+      "RI016",
+      "初级工程师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2244",
+    "type": "空白规范化",
+    "raw": [
+      "RI024",
+      "高级研究项目咨询师 "
+    ],
+    "ledger": [
+      "RI024",
+      "高级研究项目咨询师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2245",
+    "type": "空白规范化",
+    "raw": [
+      "RI025",
+      "研究项目咨询师 "
+    ],
+    "ledger": [
+      "RI025",
+      "研究项目咨询师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2246",
+    "type": "空白规范化",
+    "raw": [
+      "RI026",
+      "初级研究项目咨询师 "
+    ],
+    "ledger": [
+      "RI026",
+      "初级研究项目咨询师"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2247",
+    "type": "空白规范化",
+    "raw": [
+      "RI032",
+      "首席科学家 "
+    ],
+    "ledger": [
+      "RI032",
+      "首席科学家"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2248",
+    "type": "空白规范化",
+    "raw": [
+      "RI033",
+      "资深研究员 "
+    ],
+    "ledger": [
+      "RI033",
+      "资深研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2249",
+    "type": "空白规范化",
+    "raw": [
+      "RI034",
+      "高级研究员 "
+    ],
+    "ledger": [
+      "RI034",
+      "高级研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2250",
+    "type": "空白规范化",
+    "raw": [
+      "RI035",
+      "研究员 "
+    ],
+    "ledger": [
+      "RI035",
+      "研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2251",
+    "type": "空白规范化",
+    "raw": [
+      "RI036",
+      "初级研究员 "
+    ],
+    "ledger": [
+      "RI036",
+      "初级研究员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2465",
+    "type": "空白规范化",
+    "raw": [
+      "IT512",
+      "IT 数字化总监"
+    ],
+    "ledger": [
+      "IT512",
+      "IT数字化总监"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2466",
+    "type": "空白规范化",
+    "raw": [
+      "IT513",
+      "IT 数字化经理"
+    ],
+    "ledger": [
+      "IT513",
+      "IT数字化经理"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2467",
+    "type": "空白规范化",
+    "raw": [
+      "IT514",
+      "IT 数字化主管"
+    ],
+    "ledger": [
+      "IT514",
+      "IT数字化主管"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  },
+  {
+    "source_id": "SRC-高科技-2468",
+    "type": "空白规范化",
+    "raw": [
+      "IT515",
+      "IT 数字化专员"
+    ],
+    "ledger": [
+      "IT515",
+      "IT数字化专员"
+    ],
+    "decision": "保留原值，名称规范化后承接"
+  }
+]

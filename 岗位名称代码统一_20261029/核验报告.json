@@ -1,0 +1,33 @@
+{
+  "version": "BMJD-NAME-CODE-20261029-01",
+  "all_passed": true,
+  "phase": "先统一岗位名称代码，JD下一阶段",
+  "baseline_jobs": 8932,
+  "current_jobs": 8925,
+  "unique_codes": 8925,
+  "merge_operations": 14,
+  "added_identity_groups": 7,
+  "baseline_jobs_with_changes": 73,
+  "source_reassignments": 12,
+  "reviewed_baseline_jobs": 118,
+  "reviewed_inferred_baseline_jobs": 85,
+  "inferred_baseline_pending": 3007,
+  "metadata_evidence_sources": 398,
+  "source_records": 19249,
+  "paused_sources": 23,
+  "remaining_same_name_candidates": 0,
+  "all_name_code_review_complete": false,
+  "checks": [
+    "一岗一码且ID唯一",
+    "代码合法与层级一致",
+    "职能系列归属一致",
+    "8932个基线ID全部有去向",
+    "19249条来源守恒",
+    "普通来源唯一归岗",
+    "23条暂缓保持",
+    "两条授权来源分配保持",
+    "原版与修改版表格元数据核验",
+    "既有确认岗位与配货4/6保持",
+    "不包含JD正文及JD状态"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": "BMJD-INDUSTRY-20261029-01",
+  "industry_order": [
+    "传媒",
+    "制造",
+    "医药",
+    "地产",
+    "教育",
+    "消费品",
+    "物流",
+    "综合服务",
+    "能源化工",
+    "金融",
+    "高科技"
+  ],
+  "policy": [
+    "一级按原BMJD的11个行业划分，不创建新的行业口径。",
+    "以原活动来源定位所属行业，逐岗与现有industry标签交叉核对。",
+    "同岗可属于多个行业，但当前ID、岗位名称、代码、JD及其全部原字段不变。",
+    "子库内一岗一码；跨行业相同代码表示共享同一主库岗位，不是重码。",
+    "原行业未出现的岗位不自行扩配，23条暂缓来源只留总账，不恢复活动岗位。"
+  ],
+  "references": [
+    {
+      "industry": "传媒",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-传媒.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-传媒.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "制造",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-制造.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-制造.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "医药",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-医药.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-医药.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "地产",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-地产.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-地产.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "教育",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-教育.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-教育.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "消费品",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-消费品.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-消费品.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "物流",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-物流.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-物流.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "综合服务",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-综合服务.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-综合服务.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "能源化工",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-能源化工.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-能源化工.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "金融",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-金融.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-金融.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    },
+    {
+      "industry": "高科技",
+      "original_workbook": "原始资料/原版BMJD/2025BMJD-高科技.xlsx",
+      "latest_workbook": "原始资料/最新输入_修改版6/2025BMJD-高科技.xlsx",
+      "source_membership": "全量名称代码统一_20261029/来源去向映射.json"
+    }
+  ]
+}

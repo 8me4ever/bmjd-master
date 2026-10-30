@@ -1,0 +1,1653 @@
+[
+  {
+    "original_display_name": "医务主任",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "SE043",
+        "name": "医务主任（3级）",
+        "level": 3,
+        "function": "EHS",
+        "source_ids": [
+          "SRC-制造-0907"
+        ]
+      },
+      {
+        "code": "SE044",
+        "name": "医务主任（4级）",
+        "level": 4,
+        "function": "EHS",
+        "source_ids": [
+          "SRC-医药-0533",
+          "SRC-地产-0569",
+          "SRC-物流-0907",
+          "SRC-综合服务-0372",
+          "SRC-能源化工-0395",
+          "SRC-金融-0743",
+          "SRC-高科技-0390"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级营养师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DR883",
+        "name": "高级营养师（3级）",
+        "level": 3,
+        "function": "临床科室",
+        "source_ids": [
+          "SRC-医药-1643"
+        ]
+      },
+      {
+        "code": "EN174",
+        "name": "高级营养师（4级）",
+        "level": 4,
+        "function": "临床科室",
+        "source_ids": [
+          "SRC-消费品-0954"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级营养师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "EN175",
+        "name": "初级营养师（5级）",
+        "level": 5,
+        "function": "临床科室",
+        "source_ids": [
+          "SRC-医药-1645"
+        ]
+      },
+      {
+        "code": "DR886",
+        "name": "初级营养师（6级）",
+        "level": 6,
+        "function": "临床科室",
+        "source_ids": [
+          "SRC-消费品-0956"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "直播运营主管",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PO023",
+        "name": "直播运营主管（产品运营，3级）",
+        "level": 3,
+        "function": "产品运营",
+        "source_ids": [
+          "SRC-教育-1257"
+        ]
+      },
+      {
+        "code": "EC144",
+        "name": "直播运营主管（电子商务，4级）",
+        "level": 4,
+        "function": "电子商务",
+        "source_ids": [
+          "SRC-制造-0972",
+          "SRC-消费品-0700"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "直播运营专员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PO024",
+        "name": "直播运营专员（产品运营，4级）",
+        "level": 4,
+        "function": "产品运营",
+        "source_ids": [
+          "SRC-教育-1258"
+        ]
+      },
+      {
+        "code": "EC145",
+        "name": "直播运营专员（电子商务，5级）",
+        "level": 5,
+        "function": "电子商务",
+        "source_ids": [
+          "SRC-制造-0973",
+          "SRC-消费品-0701"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "直播运营助理",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PO025",
+        "name": "直播运营助理（产品运营，5级）",
+        "level": 5,
+        "function": "产品运营",
+        "source_ids": [
+          "SRC-教育-1259"
+        ]
+      },
+      {
+        "code": "EC146",
+        "name": "直播运营助理（电子商务，6级）",
+        "level": 6,
+        "function": "电子商务",
+        "source_ids": [
+          "SRC-制造-2041"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "库管",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AX136",
+        "name": "库管（6级）",
+        "level": 6,
+        "function": "仓储",
+        "source_ids": [
+          "SRC-地产-1977"
+        ]
+      },
+      {
+        "code": "AX137",
+        "name": "库管（7级）",
+        "level": 7,
+        "function": "仓储",
+        "source_ids": [
+          "SRC-能源化工-1918"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "音响师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BF004",
+        "name": "音响师（4级）",
+        "level": 4,
+        "function": "会所",
+        "source_ids": [
+          "SRC-地产-1464",
+          "SRC-综合服务-0984"
+        ]
+      },
+      {
+        "code": "BF005",
+        "name": "音响师（5级）",
+        "level": 5,
+        "function": "会所",
+        "source_ids": [
+          "SRC-传媒-1053",
+          "SRC-综合服务-0985"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "纪委委员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PU064",
+        "name": "纪委委员（4级）",
+        "level": 4,
+        "function": "党群工会",
+        "source_ids": [
+          "SRC-制造-0019",
+          "SRC-地产-0030",
+          "SRC-教育-1280",
+          "SRC-消费品-0019",
+          "SRC-物流-0999",
+          "SRC-综合服务-0019",
+          "SRC-能源化工-0016",
+          "SRC-金融-0021",
+          "SRC-高科技-0025"
+        ]
+      },
+      {
+        "code": "PU065",
+        "name": "纪委委员（5级）",
+        "level": 5,
+        "function": "党群工会",
+        "source_ids": [
+          "SRC-传媒-0025"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "制片人",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "CR402",
+        "name": "制片人（创意，2级）",
+        "level": 2,
+        "function": "创意",
+        "source_ids": [
+          "SRC-传媒-1028"
+        ]
+      },
+      {
+        "code": "AC283",
+        "name": "制片人（文艺活动，3级）",
+        "level": 3,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1446"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "剪辑师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "CR024",
+        "name": "剪辑师（4级）",
+        "level": 4,
+        "function": "创意",
+        "source_ids": [
+          "SRC-传媒-1062",
+          "SRC-地产-1473"
+        ]
+      },
+      {
+        "code": "CR025",
+        "name": "剪辑师（5级）",
+        "level": 5,
+        "function": "创意",
+        "source_ids": [
+          "SRC-传媒-1063"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "总导演",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "CR052",
+        "name": "总导演（2级）",
+        "level": 2,
+        "function": "创意",
+        "source_ids": [
+          "SRC-传媒-1037"
+        ]
+      },
+      {
+        "code": "CR053",
+        "name": "总导演（3级）",
+        "level": 3,
+        "function": "创意",
+        "source_ids": [
+          "SRC-地产-1449"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "护士",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DT115",
+        "name": "护士（5级）",
+        "level": 5,
+        "function": "医疗养护中心",
+        "source_ids": [
+          "SRC-地产-2125"
+        ]
+      },
+      {
+        "code": "DT086",
+        "name": "护士（6级）",
+        "level": 6,
+        "function": "医疗养护中心",
+        "source_ids": [
+          "SRC-教育-0343"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "厨师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "FB085",
+        "name": "厨师（5级）",
+        "level": 5,
+        "function": "厨房",
+        "source_ids": [
+          "SRC-综合服务-0976"
+        ]
+      },
+      {
+        "code": "FB096",
+        "name": "厨师（6级）",
+        "level": 6,
+        "function": "厨房",
+        "source_ids": [
+          "SRC-消费品-1627"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级经纪人",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BU133",
+        "name": "高级经纪人（商务，3级）",
+        "level": 3,
+        "function": "商务",
+        "source_ids": [
+          "SRC-传媒-0761"
+        ]
+      },
+      {
+        "code": "BG094",
+        "name": "高级经纪人（营业部，4级）",
+        "level": 4,
+        "function": "营业部",
+        "source_ids": [
+          "SRC-金融-0873"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "起重工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "ZX156",
+        "name": "起重工（工程作业，6级）",
+        "level": 6,
+        "function": "工程作业",
+        "source_ids": [
+          "SRC-能源化工-2070"
+        ]
+      },
+      {
+        "code": "FM327",
+        "name": "起重工（生产，7级）",
+        "level": 7,
+        "function": "生产",
+        "source_ids": [
+          "SRC-制造-1651"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级计量工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DC055",
+        "name": "初级计量工程师（工程技术，5级）",
+        "level": 5,
+        "function": "工程技术",
+        "source_ids": [
+          "SRC-地产-1778"
+        ]
+      },
+      {
+        "code": "EI076",
+        "name": "初级计量工程师（计量，6级）",
+        "level": 6,
+        "function": "计量",
+        "source_ids": [
+          "SRC-能源化工-1762"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级土建工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PM013",
+        "name": "高级土建工程师（3级）",
+        "level": 3,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-地产-1715"
+        ]
+      },
+      {
+        "code": "PM014",
+        "name": "高级土建工程师（4级）",
+        "level": 4,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-医药-1258",
+          "SRC-地产-1716",
+          "SRC-消费品-1424",
+          "SRC-能源化工-1729"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "总工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PM341",
+        "name": "总工程师（1级）",
+        "level": 1,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-地产-1713"
+        ]
+      },
+      {
+        "code": "PM342",
+        "name": "总工程师（2级）",
+        "level": 2,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-能源化工-1752"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级暖通工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PM153",
+        "name": "高级暖通工程师（3级）",
+        "level": 3,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-地产-1734"
+        ]
+      },
+      {
+        "code": "PM154",
+        "name": "高级暖通工程师（4级）",
+        "level": 4,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-制造-1659",
+          "SRC-地产-1735",
+          "SRC-能源化工-1870"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "电气工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PM194",
+        "name": "电气工程师（工程管理，4级）",
+        "level": 4,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-地产-1745"
+        ]
+      },
+      {
+        "code": "DK025",
+        "name": "电气工程师（电气工程，5级）",
+        "level": 5,
+        "function": "电气工程",
+        "source_ids": [
+          "SRC-制造-1489",
+          "SRC-医药-1191",
+          "SRC-消费品-1450",
+          "SRC-能源化工-1526"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级电气工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PM195",
+        "name": "初级电气工程师（工程管理，5级）",
+        "level": 5,
+        "function": "工程管理",
+        "source_ids": [
+          "SRC-地产-1746"
+        ]
+      },
+      {
+        "code": "DK026",
+        "name": "初级电气工程师（电气工程，6级）",
+        "level": 6,
+        "function": "电气工程",
+        "source_ids": [
+          "SRC-制造-1490",
+          "SRC-医药-1192",
+          "SRC-消费品-1451",
+          "SRC-能源化工-1527",
+          "SRC-能源化工-1725"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "木工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AN016",
+        "name": "木工（工程部，6级）",
+        "level": 6,
+        "function": "工程部",
+        "source_ids": [
+          "SRC-地产-1812",
+          "SRC-消费品-1210"
+        ]
+      },
+      {
+        "code": "FM505",
+        "name": "木工（生产，5级）",
+        "level": 5,
+        "function": "生产",
+        "source_ids": [
+          "SRC-制造-1653"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "总监制",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BZ042",
+        "name": "总监制（影视，2级）",
+        "level": 2,
+        "function": "影视",
+        "source_ids": [
+          "SRC-传媒-1149"
+        ]
+      },
+      {
+        "code": "AC293",
+        "name": "总监制（文艺活动，3级）",
+        "level": 3,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1440"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "监制",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BZ045",
+        "name": "监制（影视，5级）",
+        "level": 5,
+        "function": "影视",
+        "source_ids": [
+          "SRC-传媒-1152"
+        ]
+      },
+      {
+        "code": "AC294",
+        "name": "监制（文艺活动，4级）",
+        "level": 4,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1441"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "主持人",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AC625",
+        "name": "主持人（文艺活动，5级）",
+        "level": 5,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1508"
+        ]
+      },
+      {
+        "code": "BM004",
+        "name": "主持人（节目，4级）",
+        "level": 4,
+        "function": "节目",
+        "source_ids": [
+          "SRC-传媒-1129"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "剪辑师助理",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AC355",
+        "name": "剪辑师助理（5级）",
+        "level": 5,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1474"
+        ]
+      },
+      {
+        "code": "AC356",
+        "name": "剪辑师助理（6级）",
+        "level": 6,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-传媒-1064"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "播控师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AC024",
+        "name": "播控师（4级）",
+        "level": 4,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1475"
+        ]
+      },
+      {
+        "code": "AC025",
+        "name": "播控师（5级）",
+        "level": 5,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-传媒-1065"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "播控师助理",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AC415",
+        "name": "播控师助理（5级）",
+        "level": 5,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1476"
+        ]
+      },
+      {
+        "code": "AC416",
+        "name": "播控师助理（6级）",
+        "level": 6,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-传媒-1066"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "音响师助理",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AC335",
+        "name": "音响师助理（5级）",
+        "level": 5,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-地产-1465"
+        ]
+      },
+      {
+        "code": "AC336",
+        "name": "音响师助理（6级）",
+        "level": 6,
+        "function": "文艺活动",
+        "source_ids": [
+          "SRC-传媒-1054",
+          "SRC-综合服务-0986"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级机械工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DH013",
+        "name": "高级机械工程师（3级）",
+        "level": 3,
+        "function": "机械工程",
+        "source_ids": [
+          "SRC-地产-1784"
+        ]
+      },
+      {
+        "code": "DH014",
+        "name": "高级机械工程师（4级）",
+        "level": 4,
+        "function": "机械工程",
+        "source_ids": [
+          "SRC-制造-1494",
+          "SRC-医药-1193",
+          "SRC-地产-1785",
+          "SRC-消费品-1455",
+          "SRC-能源化工-1700",
+          "SRC-高科技-1923"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "设备维修工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "CP135",
+        "name": "设备维修工（物业工程，5级）",
+        "level": 5,
+        "function": "物业工程",
+        "source_ids": [
+          "SRC-地产-1955",
+          "SRC-综合服务-0999"
+        ]
+      },
+      {
+        "code": "ET067",
+        "name": "设备维修工（设备保全，7级）",
+        "level": 7,
+        "function": "设备保全",
+        "source_ids": [
+          "SRC-医药-1184"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "制单员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "LO045",
+        "name": "制单员（5级）",
+        "level": 5,
+        "function": "物流管理",
+        "source_ids": [
+          "SRC-制造-1089"
+        ]
+      },
+      {
+        "code": "LO046",
+        "name": "制单员（6级）",
+        "level": 6,
+        "function": "物流管理",
+        "source_ids": [
+          "SRC-物流-0187"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级木工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "FM506",
+        "name": "初级木工（生产，6级）",
+        "level": 6,
+        "function": "生产",
+        "source_ids": [
+          "SRC-制造-1654"
+        ]
+      },
+      {
+        "code": "BE337",
+        "name": "初级木工（生产技术，7级）",
+        "level": 7,
+        "function": "生产技术",
+        "source_ids": [
+          "SRC-消费品-1211"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "水泵工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "PD656",
+        "name": "水泵工（生产，6级）",
+        "level": 6,
+        "function": "生产",
+        "source_ids": [
+          "SRC-能源化工-1247"
+        ]
+      },
+      {
+        "code": "AF707",
+        "name": "水泵工（设备工程，7级）",
+        "level": 7,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-医药-1254"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "电工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "FM036",
+        "name": "电工（生产，6级）",
+        "level": 6,
+        "function": "生产",
+        "source_ids": [
+          "SRC-高科技-1780"
+        ]
+      },
+      {
+        "code": "OA257",
+        "name": "电工（行政，7级）",
+        "level": 7,
+        "function": "行政",
+        "source_ids": [
+          "SRC-传媒-0309",
+          "SRC-制造-1568",
+          "SRC-医药-0311",
+          "SRC-地产-0417",
+          "SRC-教育-0361",
+          "SRC-消费品-0337",
+          "SRC-消费品-1184",
+          "SRC-物流-0962",
+          "SRC-综合服务-0318",
+          "SRC-能源化工-0364",
+          "SRC-能源化工-1303",
+          "SRC-金融-0393",
+          "SRC-高科技-1781"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级锅炉工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "FM614",
+        "name": "高级锅炉工（4级）",
+        "level": 4,
+        "function": "生产",
+        "source_ids": [
+          "SRC-能源化工-1375"
+        ]
+      },
+      {
+        "code": "FM866",
+        "name": "高级锅炉工（6级）",
+        "level": 6,
+        "function": "生产",
+        "source_ids": [
+          "SRC-制造-0374"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "保安队长",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DL045",
+        "name": "保安队长（5级）",
+        "level": 5,
+        "function": "秩序保护",
+        "source_ids": [
+          "SRC-高科技-0307"
+        ]
+      },
+      {
+        "code": "DL046",
+        "name": "保安队长（6级）",
+        "level": 6,
+        "function": "秩序保护",
+        "source_ids": [
+          "SRC-传媒-0284",
+          "SRC-制造-0343",
+          "SRC-医药-0278",
+          "SRC-地产-0385",
+          "SRC-教育-0321",
+          "SRC-消费品-0305",
+          "SRC-物流-0934",
+          "SRC-综合服务-0286",
+          "SRC-能源化工-0375",
+          "SRC-金融-0361"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "保安领班",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "DL055",
+        "name": "保安领班（5级）",
+        "level": 5,
+        "function": "秩序保护",
+        "source_ids": [
+          "SRC-传媒-0283",
+          "SRC-制造-0342",
+          "SRC-医药-0277",
+          "SRC-地产-0384",
+          "SRC-教育-0319",
+          "SRC-消费品-0304",
+          "SRC-物流-0933",
+          "SRC-综合服务-0285",
+          "SRC-能源化工-0374",
+          "SRC-金融-0360"
+        ]
+      },
+      {
+        "code": "DL056",
+        "name": "保安领班（6级）",
+        "level": 6,
+        "function": "秩序保护",
+        "source_ids": [
+          "SRC-高科技-0308"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "董事会秘书",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "GM132",
+        "name": "董事会秘书（2级）",
+        "level": 2,
+        "function": "综合管理",
+        "source_ids": [
+          "SRC-传媒-0010",
+          "SRC-制造-0008",
+          "SRC-医药-0012",
+          "SRC-地产-0012",
+          "SRC-消费品-0009",
+          "SRC-物流-0377",
+          "SRC-综合服务-0008",
+          "SRC-能源化工-0012",
+          "SRC-金融-0008",
+          "SRC-高科技-0007"
+        ]
+      },
+      {
+        "code": "GM333",
+        "name": "董事会秘书（3级）",
+        "level": 3,
+        "function": "综合管理",
+        "source_ids": [
+          "SRC-教育-0435"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "吧台服务员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "OA066",
+        "name": "吧台服务员（6级）",
+        "level": 6,
+        "function": "行政",
+        "source_ids": [
+          "SRC-地产-1368"
+        ]
+      },
+      {
+        "code": "OA067",
+        "name": "吧台服务员（7级）",
+        "level": 7,
+        "function": "行政",
+        "source_ids": [
+          "SRC-综合服务-0994"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "宿舍管理员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "OA226",
+        "name": "宿舍管理员（6级）",
+        "level": 6,
+        "function": "行政",
+        "source_ids": [
+          "SRC-传媒-0329",
+          "SRC-制造-0394",
+          "SRC-地产-0436",
+          "SRC-消费品-0271",
+          "SRC-物流-0541",
+          "SRC-综合服务-0342",
+          "SRC-能源化工-0342",
+          "SRC-金融-0413",
+          "SRC-高科技-0360"
+        ]
+      },
+      {
+        "code": "OA227",
+        "name": "宿舍管理员（7级）",
+        "level": 7,
+        "function": "行政",
+        "source_ids": [
+          "SRC-医药-0309",
+          "SRC-教育-0359"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "监控员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "OA346",
+        "name": "监控员（6级）",
+        "level": 6,
+        "function": "行政",
+        "source_ids": [
+          "SRC-医药-0320"
+        ]
+      },
+      {
+        "code": "OA347",
+        "name": "监控员（7级）",
+        "level": 7,
+        "function": "行政",
+        "source_ids": [
+          "SRC-传媒-0319",
+          "SRC-地产-0427",
+          "SRC-综合服务-0328"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "行政保洁主管",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "OA324",
+        "name": "行政保洁主管（4级）",
+        "level": 4,
+        "function": "行政",
+        "source_ids": [
+          "SRC-传媒-0277",
+          "SRC-制造-0336",
+          "SRC-地产-0378",
+          "SRC-消费品-0298",
+          "SRC-物流-0927",
+          "SRC-综合服务-0279",
+          "SRC-能源化工-0328",
+          "SRC-金融-0354",
+          "SRC-高科技-0301"
+        ]
+      },
+      {
+        "code": "OA565",
+        "name": "行政保洁主管（5级）",
+        "level": 5,
+        "function": "行政",
+        "source_ids": [
+          "SRC-教育-0313"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级计量工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "EI173",
+        "name": "高级计量工程师（3级）",
+        "level": 3,
+        "function": "计量",
+        "source_ids": [
+          "SRC-地产-1776"
+        ]
+      },
+      {
+        "code": "EI174",
+        "name": "高级计量工程师（4级）",
+        "level": 4,
+        "function": "计量",
+        "source_ids": [
+          "SRC-能源化工-1760"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "计量工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "EI134",
+        "name": "计量工程师（4级）",
+        "level": 4,
+        "function": "计量",
+        "source_ids": [
+          "SRC-地产-1777"
+        ]
+      },
+      {
+        "code": "EI135",
+        "name": "计量工程师（5级）",
+        "level": 5,
+        "function": "计量",
+        "source_ids": [
+          "SRC-能源化工-1761"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "机械维修工",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "ET165",
+        "name": "机械维修工（设备保全，5级）",
+        "level": 5,
+        "function": "设备保全",
+        "source_ids": [
+          "SRC-能源化工-2085"
+        ]
+      },
+      {
+        "code": "AF016",
+        "name": "机械维修工（设备工程，6级）",
+        "level": 6,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-地产-1582"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级自动化工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AF173",
+        "name": "高级自动化工程师（3级）",
+        "level": 3,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-能源化工-1753"
+        ]
+      },
+      {
+        "code": "AF084",
+        "name": "高级自动化工程师（4级）",
+        "level": 4,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-医药-1261",
+          "SRC-高科技-2532"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "自动化工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AF044",
+        "name": "自动化工程师（4级）",
+        "level": 4,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-能源化工-1754"
+        ]
+      },
+      {
+        "code": "AF045",
+        "name": "自动化工程师（5级）",
+        "level": 5,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-医药-1262",
+          "SRC-高科技-2533"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级自动化工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "AF046",
+        "name": "初级自动化工程师（设备工程，6级）",
+        "level": 6,
+        "function": "设备工程",
+        "source_ids": [
+          "SRC-医药-1263",
+          "SRC-高科技-2534"
+        ]
+      },
+      {
+        "code": "BC035",
+        "name": "初级自动化工程师（项目工程，5级）",
+        "level": 5,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-能源化工-1755"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "检验员/化验员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "WT006",
+        "name": "检验员/化验员（质量检验，6级）",
+        "level": 6,
+        "function": "质量检验",
+        "source_ids": [
+          "SRC-能源化工-1107"
+        ]
+      },
+      {
+        "code": "QA377",
+        "name": "检验员/化验员（质量管理，7级）",
+        "level": 7,
+        "function": "质量管理",
+        "source_ids": [
+          "SRC-高科技-1649"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "IQC检验员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "QA406",
+        "name": "IQC检验员（6级）",
+        "level": 6,
+        "function": "质量管理",
+        "source_ids": [
+          "SRC-制造-0803",
+          "SRC-地产-1010",
+          "SRC-消费品-1398",
+          "SRC-物流-1040",
+          "SRC-高科技-1712"
+        ]
+      },
+      {
+        "code": "QA407",
+        "name": "IQC检验员（7级）",
+        "level": 7,
+        "function": "质量管理",
+        "source_ids": [
+          "SRC-能源化工-1035"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级IQC检验员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "QA416",
+        "name": "初级IQC检验员（6级）",
+        "level": 6,
+        "function": "质量管理",
+        "source_ids": [
+          "SRC-能源化工-1034"
+        ]
+      },
+      {
+        "code": "QA417",
+        "name": "初级IQC检验员（7级）",
+        "level": 7,
+        "function": "质量管理",
+        "source_ids": [
+          "SRC-制造-0804",
+          "SRC-地产-1011",
+          "SRC-消费品-1399",
+          "SRC-物流-1041",
+          "SRC-高科技-1713"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "值班员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS366",
+        "name": "值班员（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-地产-2018"
+        ]
+      },
+      {
+        "code": "BS197",
+        "name": "值班员（7级）",
+        "level": 7,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0861"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "收银主管",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS024",
+        "name": "收银主管（4级）",
+        "level": 4,
+        "function": "门店",
+        "source_ids": [
+          "SRC-地产-2025"
+        ]
+      },
+      {
+        "code": "BS025",
+        "name": "收银主管（5级）",
+        "level": 5,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0864"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "收银员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS156",
+        "name": "收银员（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-综合服务-1001"
+        ]
+      },
+      {
+        "code": "BS027",
+        "name": "收银员（7级）",
+        "level": 7,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0866",
+          "SRC-医药-1392",
+          "SRC-地产-1550",
+          "SRC-消费品-1591"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "收银领班",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS165",
+        "name": "收银领班（5级）",
+        "level": 5,
+        "function": "门店",
+        "source_ids": [
+          "SRC-地产-2026"
+        ]
+      },
+      {
+        "code": "BS166",
+        "name": "收银领班（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0865"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "服务台班长",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS275",
+        "name": "服务台班长（5级）",
+        "level": 5,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0869"
+        ]
+      },
+      {
+        "code": "BS186",
+        "name": "服务台班长（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-地产-2027",
+          "SRC-综合服务-1002"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "理货员",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS206",
+        "name": "理货员（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-物流-0197"
+        ]
+      },
+      {
+        "code": "BS017",
+        "name": "理货员（7级）",
+        "level": 7,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0868",
+          "SRC-消费品-1594"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "理货班长",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS015",
+        "name": "理货班长（5级）",
+        "level": 5,
+        "function": "门店",
+        "source_ids": [
+          "SRC-消费品-1592",
+          "SRC-物流-0196"
+        ]
+      },
+      {
+        "code": "BS246",
+        "name": "理货班长（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-制造-0867",
+          "SRC-消费品-1593"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "美容顾问",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BS065",
+        "name": "美容顾问（5级）",
+        "level": 5,
+        "function": "门店",
+        "source_ids": [
+          "SRC-医药-1395"
+        ]
+      },
+      {
+        "code": "BS286",
+        "name": "美容顾问（6级）",
+        "level": 6,
+        "function": "门店",
+        "source_ids": [
+          "SRC-消费品-1601"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "高级机电工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BC073",
+        "name": "高级机电工程师（3级）",
+        "level": 3,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-地产-1760"
+        ]
+      },
+      {
+        "code": "BC074",
+        "name": "高级机电工程师（4级）",
+        "level": 4,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-能源化工-1874"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "机电工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BC054",
+        "name": "机电工程师（4级）",
+        "level": 4,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-地产-1761"
+        ]
+      },
+      {
+        "code": "BC055",
+        "name": "机电工程师（5级）",
+        "level": 5,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-能源化工-1875"
+        ]
+      }
+    ]
+  },
+  {
+    "original_display_name": "初级机电工程师",
+    "decision": "保留已有不同工作职级，在名称注明职级；不凭同名强制升降级，不视为专家已确认级差",
+    "jobs": [
+      {
+        "code": "BC015",
+        "name": "初级机电工程师（5级）",
+        "level": 5,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-地产-1762"
+        ]
+      },
+      {
+        "code": "BC016",
+        "name": "初级机电工程师（6级）",
+        "level": 6,
+        "function": "项目工程",
+        "source_ids": [
+          "SRC-能源化工-1876"
+        ]
+      }
+    ]
+  }
+]

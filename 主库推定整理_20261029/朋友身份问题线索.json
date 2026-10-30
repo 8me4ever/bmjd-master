@@ -1,0 +1,5418 @@
+[
+  {
+    "job_id": "UJ-F9C0DEBF29366A",
+    "code": "AC025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1065"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3C9FE1A321AC0B",
+    "code": "AC205",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "岗位名称为“影音领班”，但本岗现有JD整体与名称不符（岗位名“影音领班”，但本岗JD通篇为“汽车零部件”领域内容）。已按名称重写JD，原JD职责不再作为本岗主职责。建议Codex核对分类、层级与是否混岗。",
+      "source_ids": [
+        "SRC-地产-1431"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8CAF4DF3B77D48",
+    "code": "AD025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0891",
+        "SRC-高科技-1560"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2E6A2AB3466445",
+    "code": "AD144",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1571"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6DBE632845760F",
+    "code": "AD146",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1573"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C45C91E3994FA0",
+    "code": "AE023",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-0859"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E2B2441F73ADAA",
+    "code": "AE304",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0409"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F00FEDBF07BF14",
+    "code": "AE305",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0411"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A3F34538E7DD2D",
+    "code": "AE324",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.12，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0086"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AC4DE51E4E19AC",
+    "code": "AH014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0703"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5420EC0C72BB73",
+    "code": "AI014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0257",
+        "SRC-制造-0317",
+        "SRC-医药-2051",
+        "SRC-地产-0358",
+        "SRC-教育-0483",
+        "SRC-消费品-0252",
+        "SRC-物流-0432",
+        "SRC-综合服务-0259",
+        "SRC-能源化工-0284",
+        "SRC-金融-0283",
+        "SRC-高科技-2373"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7A9704F125DFF3",
+    "code": "AJ004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0220"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7C91C45D12BF99",
+    "code": "AK085",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0505"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-555788A4508FE5",
+    "code": "AK095",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0508"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AC3F93F90DA2E8",
+    "code": "AL004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0190"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6D2EB3A496502C",
+    "code": "AL005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0191"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-971C47027CB835",
+    "code": "AL074",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0175"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F6CDE8586BC818",
+    "code": "AL084",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0172"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B564B0AC0DC134",
+    "code": "AL085",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0173"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E72EBD2D053EB9",
+    "code": "AL115",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0193"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-44DE23CFFBF1EA",
+    "code": "AL116",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0194"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-396BD774685D9E",
+    "code": "AM055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0857"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A87478575666A2",
+    "code": "AM226",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-0790"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A2C9E73F606022",
+    "code": "AN005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1860"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B560C0CE9961B2",
+    "code": "AS115",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1335"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-14ECE6685A8E67",
+    "code": "AS116",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1336"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C78807868F4F67",
+    "code": "AT033",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-2030"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-85224A03D9AEBC",
+    "code": "AU035",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1081"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-37ACFF34CDA865",
+    "code": "AU073",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1067"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-73C30DFD441053",
+    "code": "AV064",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1418"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CAF74C3F941E67",
+    "code": "AV065",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1419"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7F405FDF892951",
+    "code": "AX015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0723"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-642100700492FB",
+    "code": "AZ004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1317"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B00A6001B7CD72",
+    "code": "AZ005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1318"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-52D138BC5B0CB7",
+    "code": "AZ063",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1310"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-22D1771B143824",
+    "code": "BB025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0209"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3108DE2D728BE1",
+    "code": "BB054",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0214"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3371D34FECD3C5",
+    "code": "BB055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0215"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7A6D1C1E046553",
+    "code": "BB056",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0216"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CA081DFCD5DA11",
+    "code": "BC134",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1843"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A04694CF3613D8",
+    "code": "BC163",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1752"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4012E76AAD48AF",
+    "code": "BC233",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1737"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B375DB5BB1596C",
+    "code": "BC236",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1740"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AF5B419279BA60",
+    "code": "BC244",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1769"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-80E2C0767964A6",
+    "code": "BC245",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1770"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-63E91756B4CBE3",
+    "code": "BC403",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1846"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AED00300C644C2",
+    "code": "BC405",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1848"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-077C4C95259670",
+    "code": "BE005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1276"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E05877760B473E",
+    "code": "BE015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1278"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1E1888A06F5996",
+    "code": "BE045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1260",
+        "SRC-能源化工-1452"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F7DF642DE7B2A9",
+    "code": "BE046",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1261",
+        "SRC-能源化工-1453"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0F426A24BC77F2",
+    "code": "BE075",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1272"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-87214CEAD14845",
+    "code": "BE086",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1273",
+        "SRC-能源化工-1444"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3FE8C3AD6AC569",
+    "code": "BE283",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1141"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5EF4A6FA14DE98",
+    "code": "BE285",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1143"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DE9E5C970A2FFE",
+    "code": "BE316",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1295"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C63CAFE9A2BC42",
+    "code": "BE347",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1310"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9C59FCCE6B7F81",
+    "code": "BE373",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1150"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E9B2799C6363A0",
+    "code": "BE375",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1152"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F12D00F59F0252",
+    "code": "BE376",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1153"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1D207A8665FA7E",
+    "code": "BE455",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1292"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-709D469F963B32",
+    "code": "BE456",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1293"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E27AB6613F06AB",
+    "code": "BE474",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1135"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F65C014CCB9A4B",
+    "code": "BE494",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1178"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EC825CF5C3C906",
+    "code": "BE545",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1300"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CB65B5446D0A8D",
+    "code": "BE546",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1301"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-24CFDAE283FD86",
+    "code": "BE547",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1302"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0E930E181BD2AE",
+    "code": "BE565",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1311"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BC46054EEE122B",
+    "code": "BE566",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1312"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-04359747F4B49F",
+    "code": "BE706",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1287"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3071E9F5FDA9D6",
+    "code": "BE786",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1298"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0952255701259E",
+    "code": "BE803",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1115"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C9BF148B17097B",
+    "code": "BE824",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1992"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F624B730973DF3",
+    "code": "BE844",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1112"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-15374F46188A83",
+    "code": "BE845",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1113"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1F4306F22B768D",
+    "code": "BE846",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1114"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FA39210119BDCB",
+    "code": "BF113",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-0979"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3128F784BEB24F",
+    "code": "BF125",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-0988"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1488FF43E6B41C",
+    "code": "BF173",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-0991"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5C73802815F14C",
+    "code": "BH004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1658"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-11959A95418E8B",
+    "code": "BJ004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.17，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1855"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7AF7CAD8AAA0D1",
+    "code": "BN033",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2010"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0226E43A5C9FE8",
+    "code": "BR013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1624"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-80D65E73C802BC",
+    "code": "BR095",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1619",
+        "SRC-综合服务-0995"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0A4D0A16E0A126",
+    "code": "BR114",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1629"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-86F85E802A764C",
+    "code": "BR134",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1635"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6C58528873A7E1",
+    "code": "BR137",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1638"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-565A844A3CDBCE",
+    "code": "BR154",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1331"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D1586AC3C483D7",
+    "code": "BR215",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1640"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6CD0D12F7F907D",
+    "code": "BR245",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1642"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0FBF65C19B3D05",
+    "code": "BS036",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0857",
+        "SRC-消费品-1589",
+        "SRC-高科技-0743"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BC2CF79A54CB93",
+    "code": "BS057",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1599"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AF6959B1072C97",
+    "code": "BS125",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1588"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3F817F99940FDA",
+    "code": "BS174",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1389",
+        "SRC-消费品-1587"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5ACC60230EF989",
+    "code": "BS195",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0859"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-40DDA7726D8C92",
+    "code": "BS332",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.20，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0849"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-66D840E212104B",
+    "code": "BS366",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-2018"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CF5DD54680BC31",
+    "code": "BT102",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1259"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1EFEA96F6C2003",
+    "code": "BU015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0809",
+        "SRC-制造-0999",
+        "SRC-地产-0848",
+        "SRC-消费品-0588",
+        "SRC-物流-0761",
+        "SRC-综合服务-0768",
+        "SRC-能源化工-1965",
+        "SRC-金融-0830",
+        "SRC-高科技-0668"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C9187A6FDDC1AF",
+    "code": "BU023",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0818"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-91D31A72CF1788",
+    "code": "BU065",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0792",
+        "SRC-制造-0984",
+        "SRC-医药-0698",
+        "SRC-地产-0827",
+        "SRC-消费品-0573",
+        "SRC-物流-0070",
+        "SRC-综合服务-0751",
+        "SRC-能源化工-1948",
+        "SRC-金融-0812",
+        "SRC-高科技-0651"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D7DCDB4E8728B3",
+    "code": "BW025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1318"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-93C64DA65F73C9",
+    "code": "BZ004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1146"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-22048B1D60144A",
+    "code": "CA003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0973"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-715663542EE525",
+    "code": "CB005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1968"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-559C73C0208939",
+    "code": "CH005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0628"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-85C5EA62FCC71F",
+    "code": "CH007",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0630"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F81D4BE09C6013",
+    "code": "CH034",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-物流-0718"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0478A7DCF5BD23",
+    "code": "CK033",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1714"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D60066828241AB",
+    "code": "CK034",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1715"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7E93911DD43DB8",
+    "code": "CK035",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1716"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BB83E17F8730D1",
+    "code": "CL004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1027"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FF324A1E8D08D1",
+    "code": "CL005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1028"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6B167CEF1A605E",
+    "code": "CL022",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1021"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3AE9E431A625DF",
+    "code": "CL024",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1023"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0F5292F80FF4AB",
+    "code": "CL025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1024"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1986B7F00DFBFE",
+    "code": "CL026",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1025"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-02D0E1A7A24617",
+    "code": "CL034",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1033"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9DB34D11DA8C61",
+    "code": "CM005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1293"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1753526467B41C",
+    "code": "CM056",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1316"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C01C53D269A05C",
+    "code": "CP004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1950"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B8F433E8322458",
+    "code": "CP014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1871"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9A499586B06E8D",
+    "code": "CP026",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1881"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EBEDAD1E89927B",
+    "code": "CP045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1888",
+        "SRC-教育-0379"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4DE1613CAC08C5",
+    "code": "CP053",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1874"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E0AFD7E629289F",
+    "code": "CP063",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1891"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AA02A86ABF9954",
+    "code": "CP064",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1892"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CD32C8FE8B63D4",
+    "code": "CP096",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1894"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-01B71E9F736DA1",
+    "code": "CP116",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1873"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DDA36C977C2018",
+    "code": "CP303",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1898"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A32EB3EFB2A573",
+    "code": "CQ084",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1139"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-27B56BD641AFB8",
+    "code": "CR044",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1039"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F92A9DF3F322B2",
+    "code": "CR083",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1034"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E77769AE8C36D9",
+    "code": "CR084",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1453"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6EAB10FF3C9541",
+    "code": "CR134",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1052"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B98E3B91BC99F2",
+    "code": "CS116",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0708"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AF7CB9BB92C782",
+    "code": "CW005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1925"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-ED7BF6F4A63267",
+    "code": "CY003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1200"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9B9F942C597170",
+    "code": "CY593",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.20，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1261"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-13D80EECCD2074",
+    "code": "DC047",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1914"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1DD558F849FFEA",
+    "code": "DL013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-2090"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E162F627391916",
+    "code": "DP004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1210"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D51BBAB30CDDEA",
+    "code": "DQ013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2215"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3F5E92573F1D47",
+    "code": "DQ014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2216"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EFF03E494223A4",
+    "code": "DR766",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1492"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AA1C14513E89BA",
+    "code": "DR936",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1617"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EFAE14D0FA2BBB",
+    "code": "EC122",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0638",
+        "SRC-制造-0939",
+        "SRC-地产-0786",
+        "SRC-消费品-0650",
+        "SRC-物流-0232",
+        "SRC-综合服务-0709",
+        "SRC-能源化工-0785",
+        "SRC-金融-0770",
+        "SRC-高科技-2281"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-021B6E25BE7558",
+    "code": "EC576",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0968",
+        "SRC-医药-0679"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-ABDA84CEDF529E",
+    "code": "ED086",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1154"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DBABC9B573B309",
+    "code": "EF004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0123",
+        "SRC-能源化工-0132",
+        "SRC-高科技-2034"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5FEFA0C261DB0C",
+    "code": "EF005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0124",
+        "SRC-能源化工-0133",
+        "SRC-高科技-2035"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-472BEE561CBBF5",
+    "code": "EN273",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1771"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8713A8BFBF710F",
+    "code": "EN292",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1766"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DDD675B34E897F",
+    "code": "EO035",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1019"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9ED50161776A0E",
+    "code": "EO064",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1046"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F54EC0448D9E80",
+    "code": "EO065",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1047"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6445A532EE09F3",
+    "code": "EO085",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1014"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6BBD1D44D210D0",
+    "code": "FB047",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1351"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0027A42D43CF5D",
+    "code": "FC003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1133"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-450B5A8A59D63A",
+    "code": "FC005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1135"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CC25BA4E0BD728",
+    "code": "FK002",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1820"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0D1E7235CB7540",
+    "code": "FL024",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-1029"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B9258830BA1CA9",
+    "code": "FL025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-1030"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-5D4AE3622AA6B0",
+    "code": "FO004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-0224"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-952F63E6A482C0",
+    "code": "FO005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-0225"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-07C8445C420B16",
+    "code": "FS003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0741",
+        "SRC-制造-0651",
+        "SRC-地产-0951",
+        "SRC-消费品-0764",
+        "SRC-物流-0115",
+        "SRC-综合服务-0835",
+        "SRC-能源化工-0935",
+        "SRC-金融-0664",
+        "SRC-高科技-0731"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9A0247CE323986",
+    "code": "FS133",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0730"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2E4E27219547DD",
+    "code": "GF006",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1482",
+        "SRC-高科技-2000"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1C6A039A112CDA",
+    "code": "GG003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1520"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0505460B94B4C4",
+    "code": "GM191",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0010"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7C2E34A1B9A358",
+    "code": "GM193",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0014"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EA07A42E593DAA",
+    "code": "GM242",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0017"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0A41AF1B176C65",
+    "code": "GM401",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0016"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-062884DAE32BA9",
+    "code": "GS005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1116"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4D658D6EF0DF61",
+    "code": "GS015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1108"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A7F1B277704E05",
+    "code": "HR004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0966"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-819037D0813688",
+    "code": "HR964",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1293",
+        "SRC-制造-2037",
+        "SRC-物流-0439",
+        "SRC-能源化工-2238",
+        "SRC-高科技-2511"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-55169A6BBC54C0",
+    "code": "HS003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0521"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-35BD4EF36BF20D",
+    "code": "IA013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0912"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1DE8C340B2E95A",
+    "code": "IE054",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0896"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D1452EC3960FEB",
+    "code": "IE084",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0914"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A74AC201CBF94C",
+    "code": "IE096",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0909"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7DFF49D2305BC5",
+    "code": "IM025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1052",
+        "SRC-高科技-1994"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9B28C3047822EA",
+    "code": "IM051",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1043"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1832038739177A",
+    "code": "IM054",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1046"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-14DA74F90E6FA5",
+    "code": "IM055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1047"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6F189791F1B25D",
+    "code": "IO063",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1061"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-96F534314A4D77",
+    "code": "IO064",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1062"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-51D95EE75F33EC",
+    "code": "IO065",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1063"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B116DC2E971A5E",
+    "code": "IO074",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-0111",
+        "SRC-金融-1040"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1E203695B1D75B",
+    "code": "IO104",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-2024"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A0123ABAEEE3C2",
+    "code": "IO123",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1069"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E69412E038FCA3",
+    "code": "IS004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0733"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-04C4314000E27C",
+    "code": "IS005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0735"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F986022554EBC6",
+    "code": "IS045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0631"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AF0852CF15F859",
+    "code": "IS144",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0705"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8195FECB0D3455",
+    "code": "IS145",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0707"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1E9B2528BC2315",
+    "code": "IS146",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0709"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-316C5188224122",
+    "code": "IS154",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0711"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-069DFC5EAACD16",
+    "code": "IS155",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0713"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-114EB80BE2E2F9",
+    "code": "IS156",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0715"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-ACABAB0A27722C",
+    "code": "IS164",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0717"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3975D9B2F39444",
+    "code": "IS165",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0719"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DA8DFBC82345F8",
+    "code": "IS166",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.11，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0721"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DA651642286B5E",
+    "code": "IS174",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0723"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-74EE997467A039",
+    "code": "IS175",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0725"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4EED14BC2676EC",
+    "code": "IS176",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0727"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1BDC8AB4580DC6",
+    "code": "IS184",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.20，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0729"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BA04FD9DC2B855",
+    "code": "IS185",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.20，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0731"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B82026C3924938",
+    "code": "IT043",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0474",
+        "SRC-消费品-0431",
+        "SRC-物流-1094",
+        "SRC-综合服务-0448",
+        "SRC-能源化工-0485",
+        "SRC-金融-0497",
+        "SRC-高科技-2140"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AC14E1687F8977",
+    "code": "IT044",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0475",
+        "SRC-消费品-0432",
+        "SRC-物流-1095",
+        "SRC-综合服务-0449",
+        "SRC-能源化工-0486",
+        "SRC-金融-0498"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BD084BA3B61C55",
+    "code": "IT045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0476",
+        "SRC-消费品-0433",
+        "SRC-物流-1096",
+        "SRC-综合服务-0450",
+        "SRC-能源化工-0487",
+        "SRC-金融-0499"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FCF7D1A353AB29",
+    "code": "IT046",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0477",
+        "SRC-消费品-0434",
+        "SRC-物流-1097",
+        "SRC-综合服务-0451",
+        "SRC-能源化工-0488",
+        "SRC-金融-0500"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-518E63B3792702",
+    "code": "JO015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0840"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7BAE79A77E2E50",
+    "code": "JS013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0948"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6707EB3069F46B",
+    "code": "JZ586",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1454"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-18BE8C1B680206",
+    "code": "LA003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1128"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EFA2F59955881D",
+    "code": "LA005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1130"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-93F37C1D0ECDAE",
+    "code": "LO045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1089"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-45586D09F78328",
+    "code": "LO263",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0864",
+        "SRC-制造-1027",
+        "SRC-医药-1300",
+        "SRC-地产-1033",
+        "SRC-消费品-0813",
+        "SRC-物流-0602",
+        "SRC-综合服务-0788",
+        "SRC-能源化工-0861",
+        "SRC-高科技-0883"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6BD6031A390512",
+    "code": "LO343",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1036",
+        "SRC-地产-1042",
+        "SRC-消费品-0839",
+        "SRC-物流-0652",
+        "SRC-综合服务-0797",
+        "SRC-能源化工-0833",
+        "SRC-高科技-0892"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CE31BBDB9D1BA9",
+    "code": "LO345",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1038",
+        "SRC-地产-1044",
+        "SRC-消费品-0841",
+        "SRC-物流-0654",
+        "SRC-综合服务-0799",
+        "SRC-能源化工-0835",
+        "SRC-高科技-0894"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2856390D087150",
+    "code": "LS036",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1201"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4B84F96D0811BC",
+    "code": "ME053",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0951"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-63B43905F3C82E",
+    "code": "ME075",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0962"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9A8A7E598733F3",
+    "code": "MK066",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0579",
+        "SRC-医药-0626"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F42802EFA00878",
+    "code": "MK163",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0469"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7341B22F0CD077",
+    "code": "MK164",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0470"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-09BBF136595E9F",
+    "code": "MK196",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-0589"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2159749C7FF846",
+    "code": "MK335",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0507",
+        "SRC-制造-0525",
+        "SRC-地产-0621",
+        "SRC-消费品-0493",
+        "SRC-物流-0799",
+        "SRC-综合服务-0530",
+        "SRC-能源化工-0568",
+        "SRC-金融-0552",
+        "SRC-高科技-0537"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6D85613931A2BF",
+    "code": "MK404",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0584",
+        "SRC-制造-0611",
+        "SRC-地产-0692",
+        "SRC-消费品-0456",
+        "SRC-物流-0444",
+        "SRC-综合服务-0615",
+        "SRC-能源化工-0628",
+        "SRC-金融-0619",
+        "SRC-高科技-0608"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BB81BEF1D0792F",
+    "code": "MO034",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1235"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2813E5E03658BD",
+    "code": "MP005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1113"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9F8B1418C4A216",
+    "code": "MT153",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1083",
+        "SRC-高科技-1899"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F4C963C0070C98",
+    "code": "MT154",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1900"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-89F8F8323EA8F0",
+    "code": "MT163",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1903"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7FF85F22FE9E5D",
+    "code": "MT165",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1905"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BA33167BDD8FFD",
+    "code": "MT487",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1571"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-721D5BDEE8FF83",
+    "code": "MT497",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1575"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0689A8F5CD3393",
+    "code": "MT524",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1559"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BE93F89016932C",
+    "code": "OA033",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0513"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8A8C79A720D771",
+    "code": "OA035",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0441",
+        "SRC-制造-0479",
+        "SRC-医药-0515",
+        "SRC-地产-0521",
+        "SRC-教育-0162",
+        "SRC-消费品-0365",
+        "SRC-物流-0142",
+        "SRC-综合服务-0453",
+        "SRC-能源化工-0471",
+        "SRC-金融-0506",
+        "SRC-高科技-0487"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-89CF521B1BF3BB",
+    "code": "OA067",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-综合服务-0994"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9408FEC9392C8B",
+    "code": "OA126",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0721"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-770D569EF1EA13",
+    "code": "OA133",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0281",
+        "SRC-制造-0340",
+        "SRC-地产-0382",
+        "SRC-消费品-0302",
+        "SRC-物流-0931",
+        "SRC-综合服务-0283",
+        "SRC-能源化工-0372",
+        "SRC-金融-0358",
+        "SRC-高科技-0305"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A942C3B94131E6",
+    "code": "OA214",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0322",
+        "SRC-制造-0383",
+        "SRC-地产-1866",
+        "SRC-消费品-0260",
+        "SRC-物流-0106",
+        "SRC-综合服务-0331",
+        "SRC-能源化工-0300",
+        "SRC-金融-0402",
+        "SRC-高科技-0349"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FA8DA1A6E7E0A9",
+    "code": "OA346",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0318",
+        "SRC-医药-0320",
+        "SRC-地产-0426",
+        "SRC-教育-0381",
+        "SRC-综合服务-0327"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BDF59EB7488253",
+    "code": "PD945",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1851",
+        "SRC-高科技-1806"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-76455966C2E4F0",
+    "code": "PD946",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1852",
+        "SRC-高科技-1807"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EFA6C55166545B",
+    "code": "PE054",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1932"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-164B886FA5C082",
+    "code": "PE066",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1505"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F2F68416FBB8B6",
+    "code": "PE124",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1917"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CFEA9E4230FD4B",
+    "code": "PE125",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1918"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-1EBD9BC23FB2DE",
+    "code": "PE126",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1919"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-271C77A80107F0",
+    "code": "PE136",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.17，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1938"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4C0602821876DB",
+    "code": "PE425",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1516",
+        "SRC-消费品-1469",
+        "SRC-能源化工-2164"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-09FEB882743FA2",
+    "code": "PF036",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-0875"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3940A1B3D65E39",
+    "code": "PO125",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1267"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E0FB1FE40B1119",
+    "code": "QA023",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-0795",
+        "SRC-地产-1002",
+        "SRC-消费品-1390",
+        "SRC-物流-1032",
+        "SRC-能源化工-1022",
+        "SRC-高科技-1704"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A1C1084730BE08",
+    "code": "QA053",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1359"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A1AA44C1DE4BD7",
+    "code": "QA505",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1011"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6B3A33F40DCEFF",
+    "code": "QA506",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1012"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E1628345595D41",
+    "code": "RB084",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1299"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-7E8CD3C288CADF",
+    "code": "RB145",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1136"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CE0254FBA40A1B",
+    "code": "RB164",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1406"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C3103FBA274055",
+    "code": "RD096",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1187",
+        "SRC-能源化工-2207"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-09F9F8BA1C70DD",
+    "code": "RD133",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-1176"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-ACC93DD370D7AF",
+    "code": "RF005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1041"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CCA1BF507CC7B5",
+    "code": "RF015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1045"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FE02CCE67DC6FA",
+    "code": "RF016",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1046"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-02EDE2ED53A590",
+    "code": "RG004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.17，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2098"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6E742E168675B5",
+    "code": "RH013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1005"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-34DE3DF0FE3D70",
+    "code": "RH045",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1010"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-3F1D894BA70384",
+    "code": "RI006",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1345",
+        "SRC-地产-2188",
+        "SRC-教育-0612",
+        "SRC-综合服务-0943",
+        "SRC-高科技-0989"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0BAE06C415984B",
+    "code": "RI065",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-1322",
+        "SRC-制造-2070",
+        "SRC-金融-1389",
+        "SRC-高科技-2501"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A4D0A89E62DAE1",
+    "code": "RI075",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1334"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-ALL-4A30A0FD3BF351",
+    "code": "RI216",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1143"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-80E67D75CFD982",
+    "code": "RI234",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1469"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8327CA67311006",
+    "code": "RI235",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1470"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-2511014F1CB32C",
+    "code": "RI236",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1471"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DC1A566AF2F6A4",
+    "code": "RI383",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1362"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-09EE3C1E69E56D",
+    "code": "RI384",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1363"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-22F0A6F4210EF5",
+    "code": "RI474",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2044"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4B02D6411798D1",
+    "code": "RI524",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1323"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-07F2832C1DED1C",
+    "code": "RI525",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1324"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EED95838194557",
+    "code": "RI644",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.14，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1643"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A00C12CC7BE6DF",
+    "code": "RI694",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1380",
+        "SRC-高科技-1427"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-523B869B52628E",
+    "code": "RI964",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0399",
+        "SRC-制造-0433",
+        "SRC-医药-0415",
+        "SRC-地产-0479",
+        "SRC-教育-0925",
+        "SRC-消费品-0394",
+        "SRC-物流-0479",
+        "SRC-综合服务-0407",
+        "SRC-能源化工-0513",
+        "SRC-金融-0456",
+        "SRC-高科技-0451"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A0ECD17F3642AC",
+    "code": "RI966",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.25，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0401",
+        "SRC-制造-0435",
+        "SRC-医药-0417",
+        "SRC-地产-0481",
+        "SRC-教育-0927",
+        "SRC-消费品-0396",
+        "SRC-物流-0481",
+        "SRC-综合服务-0409",
+        "SRC-能源化工-0515",
+        "SRC-金融-0458",
+        "SRC-高科技-0453"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-AACAABCD84FEE0",
+    "code": "RI993",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1504"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E20B9749C7150D",
+    "code": "RI994",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1505"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A6BCC4CFBFBEC5",
+    "code": "RI995",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-1506"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0E9CC8DEFA9045",
+    "code": "RK033",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1716"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-45E3815BEB99BF",
+    "code": "RU104",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1234",
+        "SRC-教育-0415"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-78FBB206944BF0",
+    "code": "RU585",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-制造-1174"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8DCD3BFE4196BF",
+    "code": "RU704",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-0975"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D23E5B5938C4D1",
+    "code": "RU705",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-0976"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-09E00C06C4AD1E",
+    "code": "RU714",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-0958"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E5C294F8A80732",
+    "code": "RU715",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-0959"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-4B64068C90F4AF",
+    "code": "SA094",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0713"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C1ABB351E2849A",
+    "code": "SA095",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0714"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B13075132BD094",
+    "code": "SE002",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0356",
+        "SRC-制造-0910",
+        "SRC-医药-0341",
+        "SRC-地产-0572",
+        "SRC-消费品-0359",
+        "SRC-物流-1085",
+        "SRC-综合服务-0375",
+        "SRC-能源化工-0390",
+        "SRC-金融-0746",
+        "SRC-高科技-0393"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9ECB4070CB982E",
+    "code": "SE003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-传媒-0357",
+        "SRC-制造-0911",
+        "SRC-医药-0342",
+        "SRC-地产-0573",
+        "SRC-消费品-0360",
+        "SRC-物流-1086",
+        "SRC-综合服务-0376",
+        "SRC-能源化工-0405",
+        "SRC-金融-0747",
+        "SRC-高科技-0394"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E1F0677DF8E770",
+    "code": "SE013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0346",
+        "SRC-地产-0562",
+        "SRC-教育-0430",
+        "SRC-能源化工-0402",
+        "SRC-高科技-0373"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-62CE52EF06398B",
+    "code": "SE014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0347",
+        "SRC-地产-0563",
+        "SRC-教育-0432",
+        "SRC-能源化工-0403",
+        "SRC-高科技-0374"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A8112CEC2FAF46",
+    "code": "SE015",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.14，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-0348",
+        "SRC-地产-0564",
+        "SRC-教育-0434",
+        "SRC-能源化工-0404",
+        "SRC-高科技-0375"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-358087EC364933",
+    "code": "TB013",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1532"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-721D5EA97A1914",
+    "code": "TB067",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1542"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9DADC489917201",
+    "code": "TS083",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0222"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8A4473DE3F3323",
+    "code": "TS105",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-0218"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-EDA9F007A83636",
+    "code": "UE004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1202"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-BD079F4A9F674E",
+    "code": "UE012",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1200"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-273CE7D8EDCC9E",
+    "code": "UE105",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1301"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9102B76A149194",
+    "code": "VC005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-1984"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-384E0FE05DAE05",
+    "code": "VE014",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1112"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-0C4F87FFC5A2A7",
+    "code": "VE016",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1114"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-B6D986D4F0A5B8",
+    "code": "VE044",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1100"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6E5A9DF66F4A26",
+    "code": "VE054",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1058"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D76A91A7FBF054",
+    "code": "VE055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1059"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8BA47BC7944764",
+    "code": "VE105",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1086"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8B824BEE22922F",
+    "code": "VE106",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.33，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1087"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-15DAB0049D17E6",
+    "code": "VE114",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1088"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C7665D6ADA109A",
+    "code": "VE116",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1090"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-95F61B6D01D731",
+    "code": "VE125",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1068"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8D2AD7A8F1F011",
+    "code": "VE224",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1109"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-E83BFC6835D65C",
+    "code": "VE225",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1110"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-74BD1321A7F017",
+    "code": "VE235",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1080"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-01F8EE7663DD98",
+    "code": "VE245",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-教育-1065"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-DE57C05B2A1BB3",
+    "code": "VM055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0154"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8912BA32C1E616",
+    "code": "VM056",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0155"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CA86B0E8382042",
+    "code": "VM135",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0147"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-F50CBD0865D79D",
+    "code": "VM136",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-0148"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-39C79629A9B7A8",
+    "code": "VM306",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-地产-0171",
+        "SRC-综合服务-0485",
+        "SRC-能源化工-0536",
+        "SRC-金融-0121",
+        "SRC-高科技-1976"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-FE39E62D852E73",
+    "code": "VT055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-消费品-1043"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-8B13B912FD4E95",
+    "code": "WS056",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-高科技-2362"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-91DCE4FD7C00E3",
+    "code": "XF004",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-金融-1236"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-A7BDD48098861A",
+    "code": "YX002",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1685"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-11064B7E5411A1",
+    "code": "YX003",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1686"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-6E601E936921A5",
+    "code": "YX055",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1671"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-CB0A7F27E1BD72",
+    "code": "YX072",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1664"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-177845117C7CC4",
+    "code": "YX155",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1658"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-D7C229E6758E93",
+    "code": "YX183",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1700"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-64B52394CC4F94",
+    "code": "YX205",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-医药-1679"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-C59AA648B82EFE",
+    "code": "ZX005",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-2088"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-92D8402DDFA8A7",
+    "code": "ZX024",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-2071"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  },
+  {
+    "job_id": "UJ-9EFC8600DAD844",
+    "code": "ZX025",
+    "status": "待主库语义复核",
+    "is_confirmed_identity_error": false,
+    "issue": {
+      "description": "名称与本岗JD的对应关系存疑，但与职责不构成实质冲突，按现有JD保留，请Codex复核。（名称命中率0.00，JD未出现跨领域错位，按现有JD保留）",
+      "source_ids": [
+        "SRC-能源化工-2072"
+      ],
+      "suggested_name": null,
+      "suggested_function": null,
+      "suggested_level": null
+    }
+  }
+]

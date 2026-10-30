@@ -1,0 +1,156 @@
+{
+  "version": "BMJD-NAME-CODE-20261029-ALL",
+  "reviewer": "Codex自审",
+  "external_reviewer_required": false,
+  "scope": "当前有效主库；历史版本和历史别名不作为当前编码主键",
+  "all_passed": true,
+  "jobs": 9111,
+  "unique_codes": 9111,
+  "unique_ids": 9111,
+  "unique_standard_names": 9111,
+  "duplicate_code_groups": 0,
+  "invalid_codes": 0,
+  "level_conflicts": 0,
+  "shared_alias_groups_reviewed": 4,
+  "checks": {
+    "岗位代码全局唯一": true,
+    "岗位ID唯一": true,
+    "代码无大小写全半角及隐形字符冲突": true,
+    "有效代码格式正确": true,
+    "代码末位与层级一致": true,
+    "标准名称唯一": true,
+    "名称中明示职级与字段一致": true,
+    "主键及名称非空": true,
+    "职责系列ID及码段唯一": true,
+    "岗位与职责系列及职能一致": true,
+    "职能ID对应唯一名称": true,
+    "TSV岗位数与ID唯一性一致": true,
+    "TSV与JSON逐字段一致": true,
+    "Excel岗位数与ID唯一性一致": true,
+    "Excel与JSON逐字段一致": true,
+    "来源总账及ID集合完整": true,
+    "岗位来源无重复及无未知来源": true,
+    "来源去向ID与当前代码一致": true,
+    "单条来源目标ID及代码无重复": true,
+    "来源与岗位反向引用一致": true,
+    "普通来源唯一归岗": true,
+    "授权来源角色不串岗": true,
+    "23条暂缓未恢复": true,
+    "冻结基线全部ID映射完整": true,
+    "冻结基线映射按来源精确定位": true,
+    "前版全部ID映射完整": true,
+    "前版映射按来源精确定位": true,
+    "共享历史别名均有自审结论": true
+  },
+  "passed": 28,
+  "total": 28,
+  "errors": {
+    "duplicate_codes": [],
+    "duplicate_ids": [],
+    "normalized_code_collisions": [],
+    "duplicate_names": [],
+    "invalid_codes": [],
+    "level_conflicts": [],
+    "name_grade_conflicts": []
+  },
+  "shared_alias_review": [
+    {
+      "function": "测试",
+      "level": 3,
+      "alias": "测试经理",
+      "codes": [
+        "TE003",
+        "TE023"
+      ],
+      "reviewed": true,
+      "decision": {
+        "function": "测试",
+        "level": 3,
+        "alias": "测试经理",
+        "codes": [
+          "TE003",
+          "TE023"
+        ],
+        "decision": "保留通用测试管理与软件测试管理范围",
+        "reason": "TE003原名/细分为测试管理；TE023有明确软件测试经理及软件测试细分。本次按已有对象范围保留两个工作身份，泛别名不用于主键或回填定位。"
+      }
+    },
+    {
+      "function": "测试",
+      "level": 4,
+      "alias": "高级测试工程师",
+      "codes": [
+        "RT014",
+        "TE024"
+      ],
+      "reviewed": true,
+      "decision": {
+        "function": "测试",
+        "level": 4,
+        "alias": "高级测试工程师",
+        "codes": [
+          "RT014",
+          "TE024"
+        ],
+        "decision": "保留不同专业对象",
+        "reason": "RT014为产品测试，12条来源中明确产品测试占多数；TE024为软件测试，存在明确软件测试原名/细分。保留各自来源与标准名称，历史泛称仅用于检索。"
+      }
+    },
+    {
+      "function": "测试",
+      "level": 5,
+      "alias": "测试工程师",
+      "codes": [
+        "RT015",
+        "TE025"
+      ],
+      "reviewed": true,
+      "decision": {
+        "function": "测试",
+        "level": 5,
+        "alias": "测试工程师",
+        "codes": [
+          "RT015",
+          "TE025"
+        ],
+        "decision": "保留不同专业对象",
+        "reason": "产品测试工程师与软件测试工程师分别有明确原名及细分支持；相同泛称不代替专业对象，不据此并码。"
+      }
+    },
+    {
+      "function": "测试",
+      "level": 6,
+      "alias": "初级测试工程师",
+      "codes": [
+        "RT016",
+        "RT026"
+      ],
+      "reviewed": true,
+      "decision": {
+        "function": "测试",
+        "level": 6,
+        "alias": "初级测试工程师",
+        "codes": [
+          "RT016",
+          "RT026"
+        ],
+        "decision": "保留产品测试与通用测试范围",
+        "reason": "RT016含明确初级产品测试来源；RT026三条原细分仅为测试，没有产品或软件限定。本次确定沿用通用测试工作身份，保留原假设和来源，不擅自限定或迁入产品测试。"
+      }
+    }
+  ],
+  "input_sha256": {
+    "全量名称代码统一_20261029/名称代码主库.json": "af2ba9276c52366a26610b949eb621ca2b8e31215261979712e85dbfe4b25d01",
+    "全量名称代码统一_20261029/全部岗位名称代码表.tsv": "1c79273872a5b4dcd97d20af6ace913f3a658d8a309ee1b078ec789e02cd50da",
+    "全量名称代码统一_20261029/来源去向映射.json": "e5d8eec7470e149656789278dc5092466c1dfd135fd0246daedd081dc81cee3f",
+    "全量名称代码统一_20261029/基线ID名称代码映射.json": "cca4cc6fd8696b2266f820836430045b905020d58d803292afae623bcdbae9b3",
+    "全量名称代码统一_20261029/前版ID名称代码映射.json": "7381a25fa9a33cd8b18ac79455796a029a2cdb8b48cd8904ee333f83935f89e9",
+    "全量名称代码统一_20261029/编码自审规则.json": "773059b2e500541ec8842ab3dc1a20240d98ae4dbd81bd94c1750b9c67e5f86f",
+    "全量名称代码统一_20261029/全部岗位名称代码表.xlsx": "638fe90a8666a82dd91a78d161cee4427bbd0ada21fd348b706856cc08859e14",
+    "全库统一完成_20261029/统一主库.json": "ab972f6c2d6fe0772562f27e95389d2b4c1d9c752be25222305f5208b2cf1ec3",
+    "岗位名称代码统一_20261029/名称代码主库.json": "8bb0cdd933eb3195f84bf1726a669a7158faedf9d306e83bf28b8de172e5ca99",
+    "tools/audit_job_codes.py": "c6e3f95522c9ac23f8f4a7b4640c5e51c4ba6195265d0314bb01a15aa5102b98"
+  },
+  "conclusion": "当前主库一岗一码，代码唯一性与跨格式一致性自审通过",
+  "assumption_policy": "原推定标签保留为内部判断依据；后续核定由Codex继续负责，不等待外部专家"
+}
